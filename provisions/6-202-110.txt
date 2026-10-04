@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-202.110 - Outdoor Refuse Areas, Curbed and Graded to Drain.
+[source PDF page 153; extracted with pypdf 6.19.0]
+
+6-202.110 Outdoor Refuse Areas, Curbed and Graded to Drain.
+Outdoor REFUSE areas shall be constructed in accordance with LAW and shall be
+curbed and graded to drain to collect and dispose of liquid waste that results from
+the REFUSE and from cleaning the area and waste receptacles.

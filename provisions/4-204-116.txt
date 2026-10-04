@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.116 - Manual Warewashing Equipment, Heaters and Baskets.
+[source PDF page 116; extracted with pypdf 6.19.0]
+
+4-204.116 Manual Warewashing Equipment, Heaters and Baskets.
+If hot water is used for SANITIZATION in manual WAREWASHING operations, the
+SANITIZING compartment of the sink shall be:
+(A) Designed with an integral heating device that is capable of maintaining
+water at a temperature not less than 77oC (171oF); Pf and
+(B) Provided with a rack or basket to allow complete immersion of
+equipment and utensils into the hot water. Pf

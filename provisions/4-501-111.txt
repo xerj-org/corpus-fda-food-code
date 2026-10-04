@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-501.111 - Manual Warewashing Equipment, Hot Water Sanitization
+[source PDF page 124; extracted with pypdf 6.19.0]
+
+4-501.111 Manual Warewashing Equipment, Hot Water Sanitization
+Temperatures.
+If immersion in hot water is used for SANITIZING in a manual operation, the
+temperature of the water shall be maintained at 77oC (171oF) or above. P

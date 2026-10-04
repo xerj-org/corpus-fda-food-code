@@ -43,8 +43,9 @@ provision for retrieval / corpus use.
   annex by that footer. Annex 4 uses a different footer form (its running
   header occupies that line) and is classified by header instead.
 - **Provision split:** provisions number as `N-NNN.NN Title` (e.g.
-  `2-201.11 Responsibility`), which is regular; 358 provision files were
-  emitted, one per provision, in document order. Headings were accepted only
+  `2-201.11 Responsibility`), which is regular; 396 provision files were
+  emitted (section numbers have 2 or 3 digits: both `N-NNN.NN` and `N-NNN.NNN`
+  forms occur, e.g. `4-501.19` then `4-501.110`..`4-501.116`), one per provision, in document order. Headings were accepted only
   in monotonic per-chapter order to reject wrapped cross-references; one
   provision number that wraps mid-number in the text layer (`7-301.` /
   `11 Separation.`) is re-joined before matching.
@@ -58,7 +59,7 @@ provision for retrieval / corpus use.
 ## Layout
 
 ```
-provisions/<ch>-<part>-<sec>.txt   358 files (e.g. 3-401-11.txt = provision 3-401.11)
+provisions/<ch>-<part>-<sec>.txt   396 files (e.g. 3-401-11.txt = provision 3-401.11)
 annexes/annex-<n>.txt              7 files (Annex 1 .. Annex 7)
 front-matter/front-matter.txt      cover, preface, chapter/annex TOCs
 downloads/fda-food-code-2022.pdf   the source PDF, as fetched

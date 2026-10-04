@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.116 - Cleaning Receptacles.
+[source PDF page 148; extracted with pypdf 6.19.0]
+
+5-501.116 Cleaning Receptacles.
+(A) Receptacles and waste handling units for REFUSE, recyclables, and
+returnables shall be thoroughly cleaned in a way that does not contaminate
+FOOD, EQUIPMENT, UTENSILS, LINENS, or SINGLE-SERVICE and SINGLE-USE ARTICLES,
+and waste water shall be disposed of as specified under § 5-402.13.
+(B) Soiled receptacles and waste handling units for REFUSE, recyclables, and
+returnables shall be cleaned at a frequency necessary to prevent them from
+developing a buildup of soil or becoming attractants for insects and rodents.
+5-502 Removal

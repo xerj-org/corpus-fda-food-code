@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.114 - Using Drain Plugs.
+[source PDF page 148; extracted with pypdf 6.19.0]
+
+5-501.114 Using Drain Plugs.
+Drains in receptacles and waste handling units for REFUSE, recyclables, and
+returnables shall have drain plugs in place.

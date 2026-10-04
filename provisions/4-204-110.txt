@@ -1,0 +1,23 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.110 - Molluscan Shellfish Tanks.
+[source PDF page 114; extracted with pypdf 6.19.0]
+
+4-204.110 Molluscan Shellfish Tanks.
+(A) Except as specified under ¶ (B) of this section, MOLLUSCAN SHELLFISH life
+support system display tanks may not be used to store or display shellfish that
+are offered for human consumption and shall be conspicuously marked so that it
+is obvious to the CONSUMER that the shellfish are for display only.P
+(B) MOLLUSCAN SHELLFISH life-support system display tanks that are used to store
+or display shellfish that are offered for human consumption shall be operated and
+maintained in accordance with a VARIANCE granted by the REGULATORY AUTHORITY
+as specified in § 8-103.10 and a HACCP PLAN that: Pf
+(1) Is submitted by the PERMIT HOLDER and APPROVED as specified under §
+8-103.11; Pf and
+(2) Ensures that:
+(a) Water used with fish other than molluscan shellfish does not flow
+into the molluscan tank, Pf
+(b) The safety and quality of the shellfish as they were received are
+not compromised by the use of the tank, Pf and
+(c) The identity of the source of the shellstock is retained as
+specified under § 3-203.12. Pf

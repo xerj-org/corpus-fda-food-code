@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.110 - Storing Refuse, Recyclables, and Returnables.
+[source PDF page 147; extracted with pypdf 6.19.0]
+
+5-501.110 Storing Refuse, Recyclables, and Returnables.
+REFUSE, recyclables, and returnables shall be stored in receptacles or waste
+handling units so that they are inaccessible to insects and rodents.

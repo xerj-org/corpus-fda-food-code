@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.122 - Case Lot Handling Apparatuses, Moveability.
+[source PDF page 117; extracted with pypdf 6.19.0]
+
+4-204.122 Case Lot Handling Apparatuses, Moveability.
+Apparatuses, such as dollies, pallets, racks, and skids used to store and
+transport large quantities of PACKAGED FOODS received from a supplier in a cased
+or overwrapped lot, shall be designed to be moved by hand or by conveniently
+available apparatuses such as hand trucks and forklifts.

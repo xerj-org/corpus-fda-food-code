@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.114 - Warewashing Machines, Internal Baffles.
+[source PDF page 116; extracted with pypdf 6.19.0]
+
+4-204.114 Warewashing Machines, Internal Baffles.
+WAREWASHING machine wash and rinse tanks shall be equipped with baffles,
+curtains, or other means to minimize internal cross contamination of the solutions
+in wash and rinse tanks.

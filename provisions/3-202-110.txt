@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-202.110 - Juice Treated.
+[source PDF page 71; extracted with pypdf 6.19.0]
+
+3-202.110 Juice Treated.
+Pre-packaged juice shall:
+(A) Be obtained from a processor with a HACCP system as specified in 21
+CFR Part 120 Hazard Analysis and Critical Control (HACCP) Systems; Pf
+and
+(B) Be obtained pasteurized or otherwise treated to attain a 5-log
+reduction of the most resistant microorganism of public health significance
+as specified in 21 CFR Part 120.24 Process Controls. P
+3-203 Original Containers and Records

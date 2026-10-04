@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.110 - Using Dressing Rooms and Lockers.
+[source PDF page 157; extracted with pypdf 6.19.0]
+
+6-501.110 Using Dressing Rooms and Lockers.
+(A) Dressing rooms shall be used by EMPLOYEES if the EMPLOYEES regularly
+change their clothes in the establishment.
+(B) Lockers or other suitable facilities shall be used for the orderly storage of
+EMPLOYEE clothing and other possessions.

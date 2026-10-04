@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.112 - Removing Dead or Trapped Birds, Insects, Rodents, and Other
+[source PDF page 158; extracted with pypdf 6.19.0]
+
+6-501.112 Removing Dead or Trapped Birds, Insects, Rodents, and Other
+Pests.
+Dead or trapped birds, insects, rodents, and other pests shall be removed from
+control devices and the PREMISES at a frequency that prevents their accumulation,
+decomposition, or the attraction of pests.

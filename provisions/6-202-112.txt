@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-202.112 - Living or Sleeping Quarters, Separation.
+[source PDF page 153; extracted with pypdf 6.19.0]
+
+6-202.112 Living or Sleeping Quarters, Separation.
+Living or sleeping quarters located on the PREMISES of a FOOD ESTABLISHMENT
+such as those provided for lodging registration clerks or resident managers shall
+be separated from rooms and areas used for FOOD ESTABLISHMENT operations by
+complete partitioning and solid self-closing doors.
+6-3 Numbers and Capacities
+6-301 Handwashing Sinks

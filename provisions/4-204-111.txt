@@ -1,0 +1,22 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.111 - Vending Machines, Automatic Shutoff.
+[source PDF page 114; extracted with pypdf 6.19.0]
+
+4-204.111 Vending Machines, Automatic Shutoff.
+(A) A machine vending TIME/TEMPERATURE CONTROL FOR SAFETY FOOD shall have
+an automatic control that prevents the machine from vending FOOD:
+(1) If there is a power failure, mechanical failure, or other condition that
+results in an internal machine temperature that cannot maintain FOOD
+temperatures as specified under Chapter 3; P and
+(2) If a condition specified under Subparagraph (A)(1) of this section
+occurs, until the machine is serviced and restocked with FOOD that has
+been maintained at temperatures specified under Chapter 3. P
+(B) When the automatic shutoff within a machine vending TIME/TEMPERATURE
+CONTROL FOR SAFETY FOOD is activated:
+(1) In a refrigerated vending machine, the ambient air temperature may
+not exceed 5oC (41oF) for more than 30 minutes immediately after the
+machine is filled, serviced, or restocked; P or
+(2) In a hot holding vending machine, the ambient air temperature may not
+be less than 57 oC (135 oF) for more than 120 minutes immediately after
+the machine is filled, serviced, or restocked. P

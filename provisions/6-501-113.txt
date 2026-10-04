@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.113 - Storing Maintenance Tools.
+[source PDF page 158; extracted with pypdf 6.19.0]
+
+6-501.113 Storing Maintenance Tools.
+Maintenance tools such as brooms, mops, vacuum cleaners, and similar items
+shall be:
+(A) Stored so they do not contaminate FOOD, EQUIPMENT, UTENSILS, LINENS, and
+SINGLE-SERVICE and SINGLE-USE ARTICLES; and
+(B) Stored in an orderly manner that facilitates cleaning the area used for storing
+the maintenance tools.

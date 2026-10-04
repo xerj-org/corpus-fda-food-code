@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.115 - Warewashing Machines, Temperature Measuring Devices.
+[source PDF page 116; extracted with pypdf 6.19.0]
+
+4-204.115 Warewashing Machines, Temperature Measuring Devices.
+A WAREWASHING machine shall be equipped with a TEMPERATURE MEASURING
+DEVICE that indicates the temperature of the water:
+(A) In each wash and rinse tank; Pf and
+(B) As the water enters the hot water SANITIZING final rinse manifold or in
+the chemical SANITIZING solution tank. Pf
