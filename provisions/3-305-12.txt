@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-305.12 - Food Storage, Prohibited Areas.
+[source PDF page 81; extracted with pypdf 6.19.0]
+
+3-305.12 Food Storage, Prohibited Areas.
+FOOD may not be stored:
+(A) In locker rooms;
+(B) In toilet rooms; Pf
+(C) In dressing rooms;
+(D) In garbage rooms;
+(E) In mechanical rooms;
+(F) Under sewer lines that are not shielded to intercept potential drips;
+(G) Under leaking water lines, including leaking automatic fire sprinkler
+heads, or under lines on which water has condensed;
+(H) Under open stairwells; or
+(I) Under other sources of contamination.

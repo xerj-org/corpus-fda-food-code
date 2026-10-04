@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-301.15 - Where to Wash.
+[source PDF page 62; extracted with pypdf 6.19.0]
+
+2-301.15 Where to Wash.
+FOOD EMPLOYEES shall clean their hands in a HANDWASHING SINK or APPROVED
+automatic handwashing facility and may not clean their hands in a sink used for
+FOOD preparation or WAREWASHING, or in a service sink or a curbed cleaning
+facility used for the disposal of mop water and similar liquid waste. Pf

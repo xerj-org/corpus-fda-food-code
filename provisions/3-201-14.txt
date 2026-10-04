@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-201.14 - Fish.
+[source PDF page 67; extracted with pypdf 6.19.0]
+
+3-201.14 Fish.
+(A) FISH that are received for sale or service shall be:
+(1) Commercially and legally caught or harvested; P or
+(2) APPROVED for sale or service. P
+(B) MOLLUSCAN SHELLFISH that are recreationally caught may not be received for
+sale or service. P

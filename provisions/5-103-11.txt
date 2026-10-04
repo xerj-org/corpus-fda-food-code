@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-103.11 - Capacity.
+[source PDF page 137; extracted with pypdf 6.19.0]
+
+5-103.11 Capacity.
+(A) The water source and system shall be of sufficient capacity to meet the peak
+water demands of the FOOD ESTABLISHMENT. Pf
+(B) Hot water generation and distribution systems shall be sufficient to meet the
+peak hot water demands throughout the FOOD ESTABLISHMENT. Pf

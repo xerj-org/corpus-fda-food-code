@@ -1,0 +1,814 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Front matter: cover, preface, list of chapters/parts/subparts, annex table of contents
+[source PDF pages 1-21, 182-185; extracted with pypdf 6.19.0]
+
+i
+Food Code
+2022 Recommendations of the
+United States Public Health Service
+Food and Drug Administration
+The Food Code is a model for safeguarding public health and ensuring food is unadulterated
+and honestly presented when offered to the consumer. It represents FDA's best advice for a
+uniform system of provisions that address the safety and protection of food offered at retail
+and in food service.
+T
+his model is offered for adoption by local, state, and federal governmental jurisdictions for
+administration by the various departments, agencies, bureaus, divisions, and other units
+within each jurisdiction that have been delegated compliance responsibilities for food
+service, retail food stores, or food vending operations. Alternatives that offer an equivalent
+level of public health protection to ensure that food at retail and foodservice is safe are
+recognized in this model.
+January 18, 2023 Version
+ii
+Previous Editions of Codes
+Recommended by The
+United States Public Health Service
+for
+Regulating Operations Providing Food Directly to the Consumer
+1934 - Restaurant Sanitation Regulations,
+Proposed by the U.S. Public Health Service in cooperation with the Conference of State and
+Territorial Health Officers and the National Restaurant Code Authority
+1935 - An Ordinance Regulating Food and Drink Establishments
+(Recommended by U.S. Public Health Service), December 1935, Mimeographed
+1938 - Ordinance and Code Regulating Eating and Drinking Establishments, Recommended
+by the U.S. Public Health Service, March 1938, Mimeographed
+1940 - Ordinance and Code Regulating Eating and Drinking Establishments, Recommended
+by the U.S. Public Health Service, June 1940, Mimeographed
+1943 - Ordinance and Code Regulating Eating and Drinking Establishments, Recommended
+by the United States Public Health Service, 1943, FSA, Public Health Bulletin No. 280
+(Republished in 1955, DHEW, PHS Publication No. 37)
+1957 - The Vending of Foods and Beverages - A Sanitation Ordinance and Code, 1957
+Recommendations of the Public Health Service, DHEW, PHS Publication No. 546
+1962 - Food Service Sanitation Manual Including A Model Food Service Sanitation Ordinance
+and Code, 1962 Recommendations of the Public Health Service, DHEW, PHS
+Publication No. 934
+1965 - The Vending of Food and Beverages - A Sanitation Ordinance and Code, 1965
+Recommendations of the Public Health Service, DHEW, PHS Publication No. 546
+1976 - Food Service Sanitation Manual Including A Model Food Service Sanitation Ordinance,
+1976 Recommendations of the Food and Drug Administration, DHEW/PHS/FDA, DHEW
+Publication No. (FDA) 78-2091
+1978 - The Vending of Food and Beverages Including A Model Sanitation Ordinance, 1978
+Recommendations of the Food and Drug Administration, DHEW/PHS/FDA, DHEW
+Publication No. (FDA) 78-2091
+1982 - Retail Food Store Sanitation Code, 1982 Recommendations of the Association of Food
+and Drug Officials and U.S. Department of Health and Human Services, Public Health
+Service, Food and Drug Administration, AFDO/HHS Publication
+1993 - Food Code, 1993 Recommendations of the United States Public Health Service, Food and
+Drug Administration, National Technical Information Service Publication PB94-113941
+1995 - Food Code, 1995 Recommendations of the United States Public Health Service, Food and
+iii
+Drug Administration, National Technical Information Service Publication PB95-265492
+1997 - Food Code, 1997 Recommendations of the United States Public Health Service,
+Food and Drug Administration, National Technical Information Service Publication
+PB97-133656
+1999 - Food Code, 1999 Recommendations of the United States Public Health Service,
+Food and Drug Administration, National Technical Information Service Publication
+PB99-115925
+2001 - Food Code, 2001Recommendations of the United States Public Health Service,
+Food and Drug Administration, National Technical Information Service Publication
+PB2002-100819
+2003 - Supplement to the 2001 Food Code, National Technical Information Service
+Publication PB2003-106843
+2005 - Food Code, 2005 Recommendations of the United States Public Health Service,
+Food and Drug Administration, National Technical Information Service Publication
+PB2005-102200
+2007 - Supplement to the 2005 Food Code, National Technical Information Service
+Publication PB2007-112622
+2009 - Food Code, 2009 Recommendations of the United States Public Health Service,
+Food and Drug Administration, National Technical Information Service Publication
+PB2009-112613
+2011 - Supplement to the 2009 Food Code, National Technical Information Service
+Publication PB2011-114303
+2013 - Food Code, 2013 Recommendations of the United States Public Health Service,
+Food and Drug Administration, National Technical Information Service Publication
+PB2013-110462
+2015 - Supplement to the 2013 Food Code, National Technical Information Service
+Publication PB2015-104921
+2017 - Food Code, 2017 Recommendations of the United States Public Health Service,
+Food and Drug Administration, HHS Program Support Center, Publication number
+IFS17
+2019 - S upplement to the 2017 Food Code, This document is available via the internet in
+PDF at the following link: www.fda.gov/foodcode
+FDA Food Code 2022 Preface
+Preface
+1. Foodborne Illness Estimates, Risk Factors, and Interventions
+Foodborne illness in the United States is a major cause of personal distress,
+preventable illness and death, and avoidable economic burden. Scallan et al. (2011a,b)
+estimated that foodborne diseases cause approximately 48 million illnesses, 128,000
+hospitalizations, and 3,000 deaths in the United States each year. The occurrence of
+approximately 1,000 reported disease outbreaks (local, regional, and national) each
+year highlights the challenges of preventing these infections.
+Most foodborne illnesses occur in persons who are not part of recognized outbreaks.
+For many victims, foodborne illness results only in discomfort or lost time from the job.
+For some, especially preschool age children, older adults in health care facilities, and
+those with impaired immune systems, foodborne illness is more serious and may be life
+threatening.
+The annual cost of foodborne illness in terms of pain and suffering, reduced
+productivity, and medical costs are estimated to be $10 - $83 billion. As stated by
+Meade et. al., the nature of food and foodborne illness has changed dramatically in the
+United States over the last century. While technological advances such as
+pasteurization and proper canning have all but eliminated some disease, new causes of
+foodborne illness have been identified. Surveillance of foodborne illness is complicated
+by several factors. The first is underreporting. Although foodborne illnesses can be
+severe or even fatal, milder cases are often not detected through routine surveillance.
+Second, many pathogens transmitted through food are also spread through water or
+from person to person, thus obscuring the role of foodborne transmission. Finally,
+pathogens or agents that have not yet been identified and thus cannot be diagnosed
+cause some proportion of foodborne illness.
+Epidemiological outbreak data repeatedly identify five major risk factors related to
+employee behaviors and preparation practices in retail and food service establishments
+as contributing to foodborne illness:
+• Improper holding temperatures,
+• Inadequate cooking, such as undercooking raw shell eggs,
+• Contaminated equipment,
+• Food from unsafe sources, and
+• Poor personal hygiene
+The Food Code addresses controls for risk factors and further establishes 5 key public
+health interventions to protect consumer health. Specifically, these interventions are:
+demonstration of knowledge, employee health controls, controlling hands as a vehicle of
+contamination, time and temperature parameters for controlling pathogens, and the
+consumer advisory. The first two interventions are found in Chapter 2 and the last three
+FDA Food Code 2022 Preface
+in Chapter 3.
+The Food and Drug Administration (FDA) endeavors to assist the approximately 75
+state and territorial agencies and more than 3,000 local departments that assume
+primary responsibility for preventing foodborne illness and for licensing and inspecting
+establishments within the retail segment of the food industry. This industry segment
+consists of more than one million establishments and employs a work force of over 16
+million.
+2. PHS Model Codes History, Purpose, and Authority
+(A) History and Purpose
+U.S. Public Health Service (PHS) activities in the area of food protection began at the
+turn of the 20th century with studies on the role of milk in the spread of disease. These
+studies led to the conclusion that effective disease prevention requires the application of
+comprehensive food sanitation measures from production to consumption. Additional
+studies identified and evaluated measures which would most effectively control disease,
+including work which led to improved processes for pasteurization.
+Next, model codes were developed to assist state and local governments in initiating
+and maintaining effective programs for prevention of foodborne illness. The first of
+these, which is now titled Grade A Pasteurized Milk Ordinance – Recommendations of
+the PHS/FDA, was initially published in 1924. Subsequently, the PHS published
+recommended model food codes that address the various components of the retail
+segment of the food industry. These code editions are listed chronologically on pp. iii
+and iv. Through the years all states, hundreds of local jurisdictions, and many federal
+agencies have adopted some edition of model food codes recommended by the PHS.
+Today, FDA's purpose in maintaining an updated model food code is to assist food
+control jurisdictions at all levels of government by providing them with a scientifically
+sound technical and legal basis for regulating the retail segment of the food industry.
+The retail segment includes those establishments or locations in the food distribution
+chain where the consumer takes possession of the food.
+The model Food Code is neither federal law nor federal regulation and is not
+preemptive. Rather, it represents FDA's best advice for a uniform system of regulation
+to ensure that food at retail is safe and properly protected and presented. Although not
+federal requirements (until adopted by federal bodies for use within federal
+jurisdictions), the model Food Code provisions are designed to be consistent with
+federal food laws and regulations, and are written for ease of legal adoption at all levels
+of government. A list of jurisdictions that have reported to FDA their status in adopting
+the Food Code is available on the FDA CFSAN Web Page at:
+http://www.fda.gov/RetailFoodProtection. The list is self-reported and FDA has not yet
+evaluated whether all the adopted codes are equivalent to the model Food Code.
+Providing model food codes and model code interpretations and opinions is the
+mechanism through which FDA, as a lead federal food control agency, promotes
+FDA Food Code 2022 Preface
+uniform implementation of national food regulatory policy among the several thousand
+federal, state, and local agencies and tribes that have primary responsibility for the
+regulation or oversight of retail level food operations.
+(B) Authority
+PHS authority for providing assistance to state and local governments is derived from
+the Public Health Service Act [42 USC 243]. Section 311(a) states in part:
+"... The Secretary shall ... assist states and their political subdivisions in the
+prevention and suppression of communicable diseases, and with respect to other
+public health matters, shall cooperate with and aid state and local authorities in
+the enforcement of their ... health regulations and shall advise the several states
+on matters relating to the preservation and improvement of the public health."
+Responsibility for carrying out the provisions of the Act relative to food protection was
+delegated within the PHS to the Commissioner of Food and Drugs in 1968 [21 CFR
+5.10(a)(2) and (3)].
+Under authority of the Economy Act, June 30, 1932 as amended [31 USC 1535], FDA
+provides assistance to federal agencies.
+Assistance provided to local, state, and federal governmental bodies is also based on
+FDA's authorities and responsibilities under the Federal Food, Drug, and Cosmetic Act
+[21 USC 301].
+3. Public Health and Consumer Expectations
+It is a shared responsibility of the food industry and the government to ensure that food
+provided to the consumer is safe and does not become a vehicle in a disease outbreak
+or in the transmission of communicable disease. This shared responsibility extends to
+ensuring that consumer expectations are met and that food is unadulterated, prepared
+in a clean environment, and honestly presented.
+Under FDA’s 2018 Mission Statement the agency is responsible for:
+Protecting the public health by assuring the safety of our nation’s food supply…and for
+advancing the public health by helping the public get accurate, science-based
+information they need about foods to maintain and improve their health.
+Accordingly, the provisions of the Food Code provide a system of prevention and
+overlapping safeguards designed to minimize foodborne illness; ensure employee
+health, industry manager knowledge, safe food, nontoxic and cleanable equipment, and
+acceptable levels of sanitation on food establishment premises; and promote fair
+dealings with the consumer.
+4. Advantage of Uniform Standards
+The advantages of well-written, scientifically sound, and up-to-date model codes have
+FDA Food Code 2022 Preface
+long been recognized by industry and government officials.
+Industry conformance with acceptable procedures and practices is far more likely where
+regulatory officials "speak with one voice" about what is required to protect the public
+health, why it is important, and which alternatives for compliance may be accepted.
+Model codes provide a guide for use in establishing what is required. They are useful to
+business in that they provide accepted standards that can be applied in training and
+quality assurance programs. They are helpful to local, state, and federal governmental
+bodies that are developing or updating their own codes.
+The model Food Code provides guidance on food safety, sanitation, and fair dealing
+that can be uniformly adopted for the retail segment of the food industry. The document
+is the cumulative result of the efforts and recommendations of many contributing
+individuals, agencies, and organizations with years of experience using earlier model
+code editions. It embraces the concept that our quality of life, state of health, and the
+public welfare are directly affected by how we collectively provide and protect our food.
+The model Food Code provisions are consistent with, and where appropriate
+incorporate, federal performance standards for the same products and processes.
+Federal performance standards in effect define public food safety expectations for the
+product, usually in terms of lethality to a pathogenic microorganism of particular
+concern. Use of performance standards as the measure of regulatory compliance
+means establishments are free to use innovative approaches in producing safe
+products, in lieu of adherence to traditional processing approaches, such as specified
+cooking times and temperatures, that achieve the same end. Federally inspected
+establishments demonstrate compliance with performance standards by showing that
+their process adheres to an appropriately designed, validated HACCP plan.
+Retail processors may be given the same opportunity as federally-regulated
+establishments to use innovative techniques in the production of safe foods. Retail
+establishments may apply to the regulatory authority for a variance to use a specific
+federal food safety performance standard for a product or a process in lieu of
+compliance with otherwise applicable specifications in the Food Code. However, to
+show compliance with the federal performance standard, the retail processor must, like
+a federally inspected establishment, show that processing controls are in place to
+ensure that the standard is being met. Thus, a request for a variance based on a
+federal performance standard must be supported by a validated HACCP plan with
+record keeping and documented verification being made available to the regulatory
+authority.
+5. Modifications and Improvements In This Edition
+The revisions contained in this edition reflect changes, additions, deletions, and format
+modifications listed in the Supplement to the 2017 FDA Food Code and
+recommendations developed during the 2020 Biennial meeting of the Conference for
+Food Protection (held in August 2021). The revisions also reflect input provided by
+FDA Food Code 2022 Preface
+those who have been intimately involved with studying, teaching, and using the earlier
+editions. Most of these enhancements involve added clarification or new information.
+Some reflect evolving regulatory policy contained in new or revised federal regulations.
+Several of the Tables, Charts, and images were checked throughout the Code to ensure
+meeting web accessibility requirements under Section 508 of the Rehabilitation Act of
+1973 (29 U.S.C. 794d). Section 508 mandates that all federal agencies eliminate the
+barriers in accessing electronic and information technology. The law helps to ensure
+that members of the public with disabilities have the ability to access government
+information and services.
+The needed clarifications and missing Code provisions were identified by FDA and
+others during standardization and certification activities, State Training Team courses,
+regional food protection seminars, the deliberations of food equipment standards
+organizations, and the verbal and written requests for clarification received by FDA field
+and headquarters components.
+Changes in provisions related to federal laws and regulations administered by other
+federal agencies such as the United States Department of Agriculture were jointly
+developed with those agencies.
+A Summary of Changes is provided at the end of the Food Code. General
+enhancements include:
+1) Added and improved definitions that are more precise and more consistent with
+terminology and definitions found in related laws and regulations;
+2) Modified provisions to make them more consistent with national requirements
+and standards administered by other federal agencies and international bodies;
+more flexible without compromising public health; and more internally consistent
+with other Food Code provisions;
+3) Clarified other provisions regarding their intent, thereby reducing confusion and
+the potential for inconsistent application;
+4) Improved user aids contained in the Annexes such as added references and
+updated public health reasons, model forms, guides, and lists; and
+5) Expanded the Index with additional terms to assist a broader base of users in
+finding topics of interest.
+Some of the significant changes to the 2022 Food Code include:
+1) Adding sesame as the ninth (9th) major food allergen;
+2) Requiring written notification to consumers of major food allergens as ingredients
+in unpackaged food and labeling of major food allergens in bulk food that is
+available for consumer self-dispensing;
+FDA Food Code 2022 Preface
+3) Establishing new criteria for the donation of food to aid in public health protection;
+4) Revising the definition of intact meat including enhancements to clarify
+time/temperature cooking requirements; and
+5) Creating new requirements for the allowance of pet dogs in outdoor dining
+spaces.
+6. Discussion of the Code as a HACCP Model and the Intention to Incorporate
+Other Models
+It is important to note that preapproval of HACCP plans for food establishments
+operating pursuant to a variance is provided for under the Food Code, but such a plan
+preapproval is not a part of another HACCP regulatory model, the Fish and Fishery
+Products regulation 21 CFR 123, effective December 18, 1997. FDA published the Fish
+and Fisheries Hazards and Controls Guidance Fourth Edition April 2011, with the most
+recent edition issued in June 2022. Additionally, there are differences between the two
+models in the required content of the HACCP plan. For example, the HACCP plans
+requested by the Food Code must include flow diagrams, product formulations, training
+plans, and a corrective action plan. Flow diagrams and product formulations are
+suggested but not mandated components of the Fish and Fishery Products regulation.
+These differences are necessitated by differences in the nature of the regulations and
+the regulatory structure set up to enforce them. HACCP plans developed under the
+Food Code variance process are provided to the regulatory authority to enable the
+regulatory authority to assess whether the establishment has designed a system of
+controls sufficient to ensure the safety of the product. The plans will be reviewed
+outside the food establishment and, in most cases, in the absence of any historical
+performance information for the product at that establishment. Therefore, the plan must
+contain sufficient detail to allow the regulator to fully understand the operations and the
+intended controls. Products requiring a variance are those which are deemed to be
+time/temperature control for safety food and for which retail production would otherwise
+be prohibited.
+To assist food establishments in applying HACCP principles at retail, FDA has issued a
+document entitled: Managing Food Safety: A HACCP Principles Guide for Operators of
+Food Service, Retail Food Stores, and Other Food Establishments at the Retail Level.
+This document is available from FDA and can be found on the FDA Web Page at:
+http://www.fda.gov/RetailFoodProtection.
+Under the Fish and Fishery Products regulation, every seafood processor is required to
+perform a hazard analysis, and must have and implement a written HACCP Plan
+whenever a hazard analysis reveals a food safety hazard that is reasonably likely to
+occur. HACCP plans developed pursuant to the Fish and Fishery Products regulation
+are for all products in the class and are not for products for which production is
+presently prohibited. Plans will be reviewed on site, with records available to judge,
+among other things, the adequacy of past corrective actions.
+FDA Food Code 2022 Preface
+It is intended that the Food Code will be amended to incorporate federal HACCP
+regulations and guidelines by inclusion in the text of the Food Code, by reference, or
+through the issuance of interpretations. This will provide alternatives to the preapproval
+of HACCP plans, such as simplified HACCP plans in line with the Fish and Fishery
+Products model, if the product is produced under a HACCP plan developed in
+conformance with such regulation or guideline. In so doing, the need for preapproved
+plans under the more intensive regimen of the Food Code will be significantly reduced.
+HACCP plans are key to the use of performance standards as measures of regulatory
+compliance. Performance standards issued by the Food Safety and Inspection Service
+are applicable to a broad range of meat, poultry, and egg products. Federal
+performance standards are acceptable, equivalent alternatives to the command-and-
+control provisions that now provide specific times and temperatures for processing
+various products. Federal performance standards may be used to determine the safety
+of a product or process under the Food Code if authorized under a variance granted in
+accord with the Code’s variance provisions, and demonstrated by adherence to a
+validated HACCP plan, consistent with the Code’s HACCP provisions.
+7. Code Adoption/Certified Copies
+The model Food Code is provided for use by food regulatory jurisdictions at all levels of
+government. At the state and local levels the model may be:
+(A) Enacted into statute as an act of the state legislative body;
+(B) Promulgated as a regulation, if the state legislative body has delegated rule-
+making authority to a governmental administrative agency; or
+(C) Adopted as an ordinance, if the local legislative body has been delegated rule-
+making authority or regulatory powers.
+Typically, code adoption bodies publish a notice of their intent to adopt a code, make
+copies available for public inspection, and provide an opportunity for public input prior to
+adoption. This is usually done in one of two ways.
+The recommended method is the "short form" or "adoption by reference" approach
+where a simple statement is published stating that certified copies of the proposed code
+are on file for public review. This approach may be used by governmental bodies
+located in states that have enabling laws authorizing the adoption of codes by
+reference. An advantage to this approach is a substantial reduction in the cost of
+publishing and printing.
+Certified copies of the Food Code for use in adopting the model by reference are
+available through the FDA Retail Food Protection Staff, HFS-320, 5001 Campus Drive,
+College Park, MD 20740-3835. Refer to item 2. (A) of this Preface to access a listing of
+jurisdictions’ adoptions.
+FDA Food Code 2022 Preface
+The alternative method is the "long form" or "section-by-section" approach where the
+proposed code is published in its entirety. Both methods of adoption allow for the
+modification of specific provisions to accommodate existing law, administrative
+procedure, or regulatory policy. Annex 7 contains model adoption forms for use by
+governmental bodies who wish to use either of these methods.
+8. Information to Assist the User
+Many of the improvements contained in the model Food Code, as listed under item 5 of
+this Preface, are provided to make the document easier to use. Other characteristics of
+the new edition, if they are understood by the user, make it easier to follow and apply.
+These include structure, nomenclature, and methodology.
+Food Code provisions address essentially four areas: personnel (Chapter 2), food
+(Chapter 3), equipment/facilities/supplies (Chapters 4, 5, 6, 7), and compliance and
+enforcement (Chapter 8). A new user will find it helpful to review the Table of Contents
+together with the Code Reference Sheet (Annex 7, Guide 3-B) in order to quickly gain
+an understanding of the scope and sequence of subjects included within these four
+areas.
+The structural nomenclature of the document is as follows:
+Chapter 9
+Part 9-1
+Subpart 9- 101
+Section (§) 9- 101.11
+Paragraph (¶) 9- 101.11(A)
+Subparagraph 9- 101.11(A)(1)
+Code provisions are either appropriate for citing and debiting on an inspection report or
+they are not. Those not intended for citing/debiting are identified by the digits following
+the decimal point in the numbering system. These “nondebitable” provisions fall into
+two categories, those that end with two digits after the decimal point and the last digit is
+a zero, e.g., § 1-201.10; and those that end with three digits after the decimal point and
+the last 2 digits are zeros, e.g., § 8-805.100.
+Two types of internal cross referencing are widely used throughout the Code to
+eliminate the need for restating provisions.
+A. The first type of cross reference uses phrases that contain the word “under”, e.g.,
+“as specified under … (followed by the relevant portion of the Code).” The
+purpose of this type of cross reference is to:
+1) Alert the reader to relevant information, and
+2) Provide a system by which each violation is recorded under the one most
+appropriate provision. This type of cross reference signals to the reader
+the provision of the Code under which a certain violation is properly
+FDA Food Code 2022 Preface
+cited/debited.
+B. The s econd type of cross reference uses phrases that contain the word “in,” e.g.,
+“as specified in... (followed by the relevant portion of the Code).” The purpose of
+this type of cross reference is to:
+1) Indicate the specific provisions of a separate document such as a federal
+r
+egulation that are being incorporated by reference in the requirement of
+the Code, e.g., ¶ 3-201.11(C); or
+2) Refer the reader to a nondebitable provision of the Code which provides
+f
+urther information for consideration, such as provision for an exception or
+for an allowance to comply via an alternative method.
+For example, ¶ 3-201.16 (A) begins with “Except as specified in ¶ (B)…”
+and ¶ (B) states the relevant exceptions to ¶ (A). Paragraph 3-201. 11(E)
+states in part, “… as specified in ¶ 3-401.11(C)” and ¶ 3-401.11(C)
+provides for an allowance to serve or sell raw or undercooked, whole-
+meat, intact beef steaks in a ready-to-eat form.
+If you review the exception in ¶ 3-201.16(B) and the allowance in ¶ 3-
+401.11(C), you will see that exceptions and allowances often contain
+conditions of compliance, i.e., conditions that must be met in order for the
+exception or allowance to convey.
+Based on the violation being cited, the substance of the text being referred to, and the
+context in which the reference is made, users of the Code must infer the intent of the
+cross reference. That is, the user must determine if the cross reference simply alerts
+the user to additional information about the requirement or if the cross reference:
+• Sends (via the word “under”) the citing/debiting to another Code provision;
+or
+• Incorporates (via the word “in”) the referenced requirements into the Code
+provision
+The Food Code presents requirements by principle rather than by subject. For
+example, equipment requirements are presented under headings such as Materials,
+Design and Construction, Numbers and Capacities, Location and Installation, and
+Maintenance and Operation rather than by refrigerators, sinks, and thermometers. In
+this way provisions need be stated only once rather than repeated for each piece or
+category of equipment. Where there are special requirements for certain equipment,
+the requirement is delineated under the appropriate principle (e.g., Design and
+Construction) and listed separately in the index.
+Portions of some sections are written in italics. These provisions are not requirements
+FDA Food Code 2022 Preface
+but are provided to convey relevant information about specific exceptions and
+alternative means for compliance. Italics are pursuant to a preceding provision that
+states a requirement, to which the italics offer an exception or another possibility.
+Italicized sections usually involve the words “except for,” “may”, “need not” or “does not
+apply.” See ¶ 3-202.18(D).
+The former use of “critical” or “non-critical” has been changed in recognition of the need
+to better identify risk-based controls within the Code’s provisions. Requirements
+contained in the Food Code are presented as being in one of three categories of
+importance: PRIORITY ITEM (i.e. a provision in this Code whose application contributes
+directly to the elimination, prevention or reduction to an acceptable level, hazards
+associated with foodborne illness or injury and there is no other provision that more
+directly controls the hazard); PRIORITY FOUNDATION ITEM (i.e., a provision in this
+Code whose application supports, facilitates or enables one or more PRIORITY
+ITEMS); and, CORE ITEM (i.e., a provision in this Code that is not designated as a
+PRIORITY ITEM or a PRIORITY FOUNDATION ITEM and that usually relates to
+general sanitation, operational controls, sanitation standard operating procedures
+(SSOPs), facilities or structures, equipment design, or general maintenance.
+A “P” or “Pf” designation after a paragraph or subparagraph indicates that the provision
+within that section is a PRIORITY ITEM or PRIORITY FOUNDATION ITEM. Any unmarked
+provisions within a section are CORE ITEMS.
+The following conventions are used in the Food Code. “Shall” means the act is
+imperative, i.e., “shall” constitutes a command. “May not” means absolute prohibition.
+“May” is permissive and means the act is allowed. The term “means” is followed by a
+declared fact.
+Defined words and terms are in “small caps” in the text of the Food Code chapters to
+alert the reader to the fact that there is a specific meaning assigned to those words and
+terms and that the meaning of a provision is to be interpreted in the defined context. A
+concerted effort was also made to place in “small caps” all forms and combinations of
+those defined words and terms that were intended to carry the weight of the definition.
+The annexes located at the back of the document can provide tremendous assistance
+to those charged with applying Food Code provisions. No reference is made in the text
+of a provision to the annexes which support its requirements. This is necessary in order
+to keep future laws or other requirements based on the model Food Code "clean."
+However, the annexes are provided specifically to assist the regulatory authority apply
+the provisions uniformly and effectively.
+It is, therefore, important for users to preview the subject and essence of each of the
+annexes before using the document. Some of the annexes (e.g., References, Public
+Health Reasons) are structured to present the information by the specific Food Code
+item number to which they apply. Other annexes provide information and materials
+intended to be helpful to the user such as model forms that can be used, a delineation
+of the principles of HACCP, guidelines for establishment inspection, and criteria for
+FDA Food Code 2022 Preface
+certain food processes for use in evaluating proposed HACCP plans.
+9. The Code Revision Process
+(A) Food Code Revision and Publication Cycles
+FDA is issuing a new edition of the Food Code every 4 years. During the 4-year span of
+time between editions, FDA may issue supplements to an existing edition. Each new
+edition will incorporate the changes made in the supplement as well as any new
+revisions.
+A change in the Code’s release cycle occurred ahead of the planned 2021 Food Code
+release. The FDA values the input of all retail food stakeholder groups through the
+Conference for Food Protection (CFP) and with the occurrence of the COVID-19
+pandemic, the CFP changed to an odd-year meeting cycle. With this change, and to
+allow for stakeholder input into the Code, FDA adjusted the Food Code release cycle to
+be on an even-year cycle going forward. This 2022 full edition reflects that change.
+(B) Submission of Food Code Change Suggestions
+FDA will continue to receive concerns and recommendations for modification of the
+Food Code from any individual or organization.
+Given the purpose of the document as discussed in item 2 of this Preface, the Agency
+will be especially interested in addressing problems identified by those in government
+and industry who are responsible for implementing the Food Code. FDA will also be
+especially responsive to those needed policy and technical changes raised by an
+organization that uses a democratic process for addressing problems and concerns.
+Included are organizations that provide a process that encourages representative
+participation in deliberations by government, industry, and academic and consumer
+interests, followed by public health ratification such as a state-by-state vote by officially
+designated delegates. The Conference for Food Protection (retail food issues), the
+National Conference on Interstate Milk Shipments (milk and dairy products issues), and
+the Interstate Shellfish Sanitation Conference (molluscan shellfish issues) are examples
+of such organizations. These organizations receive problems submitted by any
+interested individual, but specify the forms on which the issues must be detailed and
+provide specific time frames during which they may be submitted.
+FDA encourages interested individuals to consider raising issues and suggesting
+solutions involving the federal-state cooperative programs based on FDA's model codes
+through these organizations.
+10. Acknowledgments
+Many individuals devoted considerable time and effort in addressing concerns and
+developing recommendations that are now reflected in the Food Code. These
+individuals represent a wide diversity of regulators, educators, industry leaders, and
+FDA Food Code 2022 Preface
+consumer representatives acting through their agencies, companies, professional
+groups, or trade organizations. It is only through the dedicated efforts and contributions
+of experienced professionals that a scientifically sound, well focused, and up-to-date
+model code is possible. FDA acknowledges with gratitude the substantial assistance of
+those who contributed to public health and food safety in the development of the Food
+Code.
+FDA Food Code List of Chapters, Parts and Subparts
+List of Chapters, Parts, and Subparts - 1
+Chapters, Parts, and
+Subparts
+CHAPTER 1 PURPOSE AND DEFINITIONS ................................................................ 1
+1-1 TITLE, INTENT, SCOPE ............................................................................................. 1
+1-101 Title ............................................................................................................... 1
+1-102 Intent ............................................................................................................. 1
+1-103 Scope ............................................................................................................ 1
+1-2 DEFINITIONS ........................................................................................................... 1
+1-201 Applicability and Terms Defined .................................................................... 1
+CHAPTER 2 MANAGEMENT AND PERSONNEL ........................................................ 1
+2-1 SUPERVISION .......................................................................................................... 1
+2-101 Responsibility ................................................................................................ 1
+2-102 Knowledge .................................................................................................... 1
+2-103 Duties ............................................................................................................ 4
+2-2 EMPLOYEE HEALTH ................................................................................................. 6
+2-201 Responsibilities of Permit Holder, Person in Charge, Food Employees, and
+Conditional Employees ........................................................................................... 6
+2-3 PERSONAL CLEANLINESS ....................................................................................... 18
+2-301 Hands and Arms ......................................................................................... 18
+2-302 Fingernails .................................................................................................. 20
+2-303 Jewelry ........................................................................................................ 20
+2-304 Outer Clothing ............................................................................................. 21
+2-4 HYGIENIC PRACTICES ............................................................................................ 21
+2-401 Food Contamination Prevention .................................................................. 21
+2-402 Hair Restraints ............................................................................................ 21
+2-403 Animals ....................................................................................................... 22
+2-5 RESPONDING TO CONTAMINATION EVENTS ............................................................. 22
+CHAPTER 3 FOOD ........................................................................................................ 1
+3-1 CHARACTERISTICS .................................................................................................. 1
+3-101 Condition ....................................................................................................... 1
+3-2 SOURCES, SPECIFICATIONS, AND ORIGINAL CONTAINERS AND RECORDS .................... 1
+3-201 Sources ......................................................................................................... 1
+3-202 Specifications for Receiving .......................................................................... 4
+3-203 Original Containers and Records .................................................................. 6
+3-204 Food Donation .............................................................................................. 8
+3-3 PROTECTION FROM CONTAMINATION AFTER RECEIVING ............................................ 8
+FDA Food Code List of Chapters, Parts and Subparts
+List of Chapters, Parts, and Subparts - 2
+3-301 Preventing Contamination by Employees ..................................................... 8
+3-302 Preventing food and ingredient contamination ............................................ 10
+3-303 Preventing Contamination from Ice Used As a Coolant .............................. 12
+3-304 Preventing Contamination from Equipment, Utensils, and Linens .............. 13
+3-305 Preventing contamination from the premises .............................................. 16
+3-306 Preventing contamination by consumers .................................................... 17
+3-307 Preventing Contamination from Other Sources ........................................... 18
+3-4 DESTRUCTION OF ORGANISMS OF PUBLIC HEALTH CONCERN .................................. 18
+3-401 Cooking ....................................................................................................... 18
+3-402 Freezing ...................................................................................................... 23
+3-403 Reheating .................................................................................................... 24
+3-404 Other Methods ............................................................................................ 25
+3-5 LIMITATION OF GROWTH OF ORGANISMS OF PUBLIC HEALTH CONCERN .................... 25
+3-501 Temperature and Time Control ................................................................... 25
+3-502 Specialized Processing Methods ................................................................ 32
+3-6 FOOD IDENTITY, PRESENTATION, AND ON-PREMISES LABELING ............................... 36
+3-601 Accurate Representation ............................................................................ 36
+3-602 Labeling ...................................................................................................... 37
+3-603 Consumer Advisory ..................................................................................... 38
+3-7 CONTAMINATED FOOD .......................................................................................... 39
+3-307 Disposition .................................................................................................. 39
+3-8 SPECIAL REQUIREMENTS FOR HIGHLY SUSCEPTIBLE POPULATIONS ......................... 39
+3-801 Additional Safeguards ................................................................................. 39
+CHAPTER 4 EQUIPMENT, UTENSILS, AND LINENS ................................................. 1
+4-1 MATERIALS FOR CONSTRUCTION AND REPAIR ........................................................... 1
+4-101 Multiuse ......................................................................................................... 1
+4-2 DESIGN AND CONSTRUCTION ................................................................................... 4
+4-201 Durability and Strength ................................................................................. 4
+4-202 Cleanability ................................................................................................... 4
+4-203 Accuracy ....................................................................................................... 5
+4-204 Functionality .................................................................................................. 6
+4-205 Acceptability ................................................................................................ 12
+4-3 NUMBERS AND CAPACITIES ................................................................................... 12
+4-301 Equipment ................................................................................................... 12
+4-302 Utensils, Temperature Measuring Devices, and Testing Devices ............... 13
+4-303 Cleaning Agents and Sanitizers .................................................................. 14
+4-4 LOCATION AND INSTALLATION ................................................................................ 14
+4-401 Location ...................................................................................................... 14
+4-402 Installation ................................................................................................... 15
+4-5 MAINTENANCE AND OPERATION ............................................................................. 16
+4-501 Equipment ................................................................................................... 16
+4-502 Utensils and Temperature and Pressure Measuring Devices ..................... 20
+4-6 CLEANING OF EQUIPMENT AND UTENSILS ............................................................... 20
+4-601 Objective ..................................................................................................... 20
+FDA Food Code List of Chapters, Parts and Subparts
+List of Chapters, Parts, and Subparts - 3
+4-602 Frequency ................................................................................................... 21
+4-603 Methods ...................................................................................................... 23
+4-7 SANITIZATION OF EQUIPMENT AND UTENSILS .......................................................... 25
+4-701 Objective ..................................................................................................... 25
+4-702 Frequency ................................................................................................... 25
+4-703 Methods ...................................................................................................... 25
+4-8 LAUNDERING ........................................................................................................ 26
+4-801 Objective ..................................................................................................... 26
+4-802 Frequency ................................................................................................... 26
+4-803 Methods ...................................................................................................... 26
+4-9 PROTECTION OF CLEAN ITEMS ............................................................................... 27
+4-901 Drying ......................................................................................................... 27
+4-902 Lubricating and Reassembling .................................................................... 27
+4-903 Storing......................................................................................................... 28
+4-904 Preventing Contamination ........................................................................... 29
+CHAPTER 5 WATER, PLUMBING, AND WASTE ........................................................ 1
+5-1 WATER .................................................................................................................. 1
+5-101 Source .......................................................................................................... 1
+5-102 Quality ........................................................................................................... 1
+5-103 Quantity and Availability ................................................................................ 2
+5-104 Distribution, Delivery, and Retention ............................................................. 2
+5-2 PLUMBING SYSTEM ................................................................................................. 3
+5-201 Materials ....................................................................................................... 3
+5-202 Design, Construction, and Installation ........................................................... 3
+5-203 Numbers and Capacities ............................................................................... 4
+5-204 Location and Placement ............................................................................... 5
+5-205 Operation and Maintenance .......................................................................... 5
+5-3 MOBILE WATER TANK AND MOBILE FOOD ESTABLISHMENT WATER TANK ................... 6
+5-301 Materials ....................................................................................................... 6
+5-302 Design and Construction ............................................................................... 6
+5-303 Numbers and Capacities ............................................................................... 7
+5-304 Operation and Maintenance .......................................................................... 8
+5-4 SEWAGE, OTHER LIQUID WASTE, AND RAINWATER ................................................... 9
+5-401 Mobile Holding Tank ..................................................................................... 9
+5-402 Retention, Drainage, and Delivery ................................................................ 9
+5-403 Disposal Facility .......................................................................................... 10
+5-5 REFUSE, RECYCLABLES, AND RETURNABLES .......................................................... 10
+5-501 Facilities on the Premises ........................................................................... 10
+5-502 Removal ...................................................................................................... 13
+5-503 Facilities for Disposal and Recycling ........................................................... 13
+CHAPTER 6 PHYSICAL FACILITIES ........................................................................... 1
+6-1 MATERIALS FOR CONSTRUCTION AND REPAIR ........................................................... 1
+6-101 Indoor Areas ................................................................................................. 1
+FDA Food Code List of Chapters, Parts and Subparts
+List of Chapters, Parts, and Subparts - 4
+6-102 Outdoor Areas ............................................................................................... 1
+6-2 DESIGN, CONSTRUCTION, AND INSTALLATION ............................................................ 2
+6-201 Cleanability ................................................................................................... 2
+6-202 Functionality .................................................................................................. 3
+6-3 NUMBERS AND CAPACITIES ...................................................................................... 5
+6-301 Handwashing Sinks ...................................................................................... 5
+6-302 Toilets and Urinals ........................................................................................ 6
+6-303 Lighting ......................................................................................................... 6
+6-304 Ventilation ..................................................................................................... 7
+6-305 Dressing Areas and Lockers ......................................................................... 7
+6-306 Service Sinks ................................................................................................ 7
+6-4 LOCATION AND PLACEMENT ..................................................................................... 7
+6-401 Handwashing Sinks ...................................................................................... 7
+6-402 Toilet Rooms ................................................................................................. 7
+6-403 Employee Accommodations .......................................................................... 8
+6-404 Distressed Merchandise ............................................................................... 8
+6-405 Refuse, Recyclables, and Returnables ......................................................... 8
+6-5 MAINTENANCE AND OPERATION ................................................................................ 8
+6-501 Premises, Structures, Attachments, and Fixtures - Methods ........................ 8
+CHAPTER 7 POISONOUS OR TOXIC MATERIALS .................................................... 1
+7-1 LABELING AND IDENTIFICATION ................................................................................ 1
+7-101 Original Containers ....................................................................................... 1
+7-102 Working Containers ...................................................................................... 1
+7-2 OPERATIONAL SUPPLIES AND APPLICATIONS ............................................................ 1
+7-201 Storage ......................................................................................................... 1
+7-202 Presence and Use ........................................................................................ 2
+7-203 Container Prohibitions ................................................................................... 3
+7-204 Chemicals ..................................................................................................... 3
+7-205 Lubricants ..................................................................................................... 4
+7-206 Pesticides ...................................................................................................... 4
+7-207 Medicines ...................................................................................................... 5
+7-208 First Aid Supplies .......................................................................................... 5
+7-209 Other Personal Care Items ........................................................................... 5
+7-3 STOCK AND RETAIL SALE ........................................................................................ 5
+CHAPTER 8 COMPLIANCE AND ENFORCEMENT ..................................................... 1
+8-1 CODE APPLICABILITY .............................................................................................. 1
+8-101 Use for Intended Purpose ............................................................................. 1
+8-102 Additional Requirements ............................................................................... 1
+8-103 Variances ...................................................................................................... 2
+8-2 PLAN SUBMISSION AND APPROVAL ........................................................................... 3
+8-201 Facility and Operating Plans ......................................................................... 3
+8-202 Confidentiality ............................................................................................... 5
+8-203 Construction Inspection and Approval .......................................................... 5
+FDA Food Code List of Chapters, Parts and Subparts
+List of Chapters, Parts, and Subparts - 5
+8-3 PERMIT TO OPERATE .............................................................................................. 5
+8-301 Requirement ................................................................................................. 5
+8-302 Application Procedure ................................................................................... 5
+8-303 Issuance........................................................................................................ 7
+8-304 Conditions of Retention ................................................................................. 8
+8-4 INSPECTION AND CORRECTION OF VIOLATIONS ....................................................... 10
+8-401 Frequency ................................................................................................... 10
+8-402 Competency and Access ............................................................................ 11
+402.11 Allowed at Reasonable Times after Due Notice. ...................................... 11
+8-403 Report of Findings ....................................................................................... 12
+8-404 Imminent Health Hazard ............................................................................. 13
+8-405 Violation of Priority Item or Priority Foundatio Item ..................................... 14
+8-406 Core Item Violation ..................................................................................... 14
+8-5 PREVENTION OF FOODBORNE DISEASE TRANSMISSION BY EMPLOYEES .................... 15
+8-501 Investigation and Control ............................................................................ 15
+Annexes
+FDA Food Code 2022 Table of Contents for Annexes
+ANNEX 1 COMPLIANCE AND ENFORCEMENT ......................................................... 1
+1. PURPOSE ............................................................................................................... 1
+2. EXPLANATION ........................................................................................................ 1
+3. PRINCIPLE .............................................................................................................. 2
+4. RECOMMENDATION .............................................................................................. 2
+5. PARTS ..................................................................................................................... 2
+8-6 Constitutional Protection .................................................................................... 2
+8-7 Authority ............................................................................................................. 3
+8-8 Notices ............................................................................................................... 3
+8-9 Remedies ........................................................................................................... 4
+ANNEX 2 REFERENCES ............................................................................................... 1
+1. UNITED STATES CODE AND CODE OF FEDERAL REGULATIONS ....................................... 1
+2. BIBLIOGRAPHY ........................................................................................................... 7
+Preface ..................................................................................................................... 7
+3. SUPPORTING DOCUMENTS ........................................................................................ 62
+Summary of Supporting Documents ...................................................................... 64
+4. FOOD DEFENSE GUIDANCE FROM FARM TO TABLE ...................................................... 78
+ANNEX 3 PUBLIC HEALTH REASONS/ADMINISTRATIVE GUIDELINES .................. 1
+CHAPTER 1. PURPOSE AND DEFINITIONS .......................................................................... 1
+CHAPTER 2. MANAGEMENT AND PERSONNEL .................................................................. 13
+CHAPTER 3. FOOD ....................................................................................................... 72
+CHAPTER 4. EQUIPMENT, UTENSILS, AND LINENS ......................................................... 155
+CHAPTER 5. WATER, PLUMBING, AND WASTE ............................................................... 183
+CHAPTER 6. PHYSICAL FACILITIES ............................................................................... 195
+CHAPTER 7. POISONOUS OR TOXIC MATERIALS ............................................................ 206
+CHAPTER 8. COMPLIANCE AND ENFORCEMENT ............................................................. 211
+ANNEX 4 MANAGEMENT OF FOOD SAFETY PRACTICES – ACHIEVING ACTIVE
+MANAGERIAL CONTROL OF FOODBORNE ILLNESS RISK FACTORS ................... 1
+1. ACTIVE MANAGERIAL CONTROL ................................................................................... 1
+2. INTRODUCTION TO HACCP ......................................................................................... 4
+3. THE HACCP PRINCIPLES ........................................................................................... 6
+4. THE PROCESS APPROACH – A PRACTICAL APPLICATION OF HACCP AT RETAIL TO
+ACHIEVE ACTIVE MANAGERIAL CONTROL ................................................................ 25
+5. FDA RETAIL HACCP MANUALS ................................................................................ 33
+6. ADVANTAGES OF USING THE PRINCIPLES OF HACCP ................................................. 34
+7. SUMMARY ................................................................................................................ 35
+FDA Food Code 2022 Table of Contents for Annexes
+8. ACKNOWLEDGMENTS ................................................................................................ 35
+9. RESOURCES AND REFERENCES ................................................................................. 35
+ANNEX 5 CONDUCTING RISK-BASED INSPECTIONS ............................................... 1
+1. PURPOSE AND SCOPE ................................................................................................ 1
+2. RISK-BASED ROUTINE INSPECTIONS ........................................................................... 2
+3. WHAT IS NEEDED TO PROPERLY CONDUCT A RISK-BASED INSPECTION? ........................ 4
+4. RISK-BASED INSPECTION METHODOLOGY ..................................................................... 9
+5. ACHIEVING ON-SITE AND LONG-TERM COMPLIANCE ................................................... 28
+6. INSPECTION FORM AND SCORING .............................................................................. 33
+7. CLOSING CONFERENCE ............................................................................................ 34
+8. SUMMARY ................................................................................................................ 35
+ANNEX 6 FOOD PROCESSING CRITERIA ................................................................... 1
+1. INTRODUCTION ........................................................................................................... 1
+2. REDUCED OXYGEN PACKAGING ................................................................................... 2
+3. SMOKING AND CURING .............................................................................................. 12
+ANNEX 7 MODEL FORMS, GUIDES, AND OTHER AIDS ............................................ 1
+FORM 1-A CONDITIONAL EMPLOYEE AND FOOD EMPLOYEE INTERVIEW ............................ 3
+FORM 1-B CONDITIONAL EMPLOYEE OR FOOD EMPLOYEE REPORTING AGREEMENT ......... 5
+FORM 1-C CONDITIONAL EMPLOYEE OR FOOD EMPLOYEE MEDICAL REFERRAL ................ 6
+FORM 1-D APPLICATION FOR BARE HAND CONTACT PROCEDURE (AS SPECIFIED IN FOOD
+CODE ¶ 3-301.11(E)) ........................................................................................... 10
+FORM 2-A ADOPTION BY REFERENCE ......................................................................... 12
+FORM 2-B ADOPTION BY SECTION-BY-SECTION REFERENCE ........................................ 15
+FORM 3-A FOOD ESTABLISHMENT INSPECTION REPORT ............................................... 18
+GUIDE 3-B INSTRUCTIONS FOR MARKING THE FOOD ESTABLISHMENT INSPECTION REPORT,
+INCLUDING FOOD CODE REFERENCES FOR RISK FACTORS/INTERVENTIONS AND GOOD
+RETAIL PRACTICES ............................................................................................... 22
+CHART 4-A SUMMARY CHART FOR MINIMUM COOKING FOOD TEMPERATURES AND HOLDING
+TIMES REQUIRED BY CHAPTER 3 ............................................................................ 58
+CHART 4-B SUMMARY CHART FOR MINIMUM FOOD TEMPERATURES AND HOLDING
+TIMESREQUIRED BY CHAPTER 3 FOR REHEATING FOODS FOR HOT HOLDING ............. 59
+CHART 4-C SUMMARY CHART FOR READY-TO-EAT, TIME/TEMPERATURE CONTROL FOR
+SAFETY FOOD) DATE MARKING § 3-501.17(A) – (E) AND DISPOSITION § 3-501.18 ... 60
+CHART 4-D FDA FOOD CODE MOBILE FOOD ESTABLISHMENT MATRIX ............................ 61
+SUMMARY OF CHANGES IN THE 2022 FDA FOOD CODE ....................................... 63
+GENERAL .................................................................................................................... 63
+PREFACE ..................................................................................................................... 63
+CHAPTER 1. PURPOSE AND DEFINITIONS ........................................................................ 63
+CHAPTER 2. MANAGEMENT AND PERSONNEL .................................................................. 64
+CHAPTER 3. FOOD ....................................................................................................... 65
+CHAPTER 4. EQUIPMENT, UTENSILS, AND LINENS ........................................................... 68
+CHAPTER 5. WATER, PLUMBING, AND WASTE ................................................................. 69
+FDA Food Code 2022 Table of Contents for Annexes
+CHAPTER 6. PHYSICAL FACILITIES ................................................................................. 69
+CHAPTER 7. POISONOUS OR TOXIC MATERIALS .............................................................. 69
+CHAPTER 8. COMPLIANCE AND ENFORCEMENT ............................................................... 70
+ANNEX 1. COMPLIANCE AND ENFORCEMENT ................................................................... 71
+ANNEX 2. REFERENCES ................................................................................................ 71
+ANNEX 3. PUBLIC HEALTH REASONS/ADMINISTRATIVE GUIDELINES .................................. 73
+ANNEX 4. MANAGEMENT OF FOOD PRACTICES-ACHIEVING ACTIVE MANAGERIAL CONTROL
+OF FOODBORNE ILLNESS RISK FACTORS ................................................................. 77
+ANNEX 5. CONDUCTING RISK-BASED INSPECTION ........................................................... 77
+ANNEX 6. FOOD PROCESSING CRITERIA ........................................................................ 77
+ANNEX 7. MODELS FORMS, GUIDES, AND OTHER AIDS .................................................... 78

@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-403.12 - Other Liquid Wastes and Rainwater.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-403.12 Other Liquid Wastes and Rainwater.
+Condensate drainage and other nonSEWAGE liquids and rainwater shall be
+drained from point of discharge to disposal according to LAW.
+5-5 Refuse, Recyclables, and Returnables
+5-501 Facilities on the Premises
+Materials, design, construction, and installation

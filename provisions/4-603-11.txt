@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-603.11 - Dry Cleaning.
+[source PDF page 129; extracted with pypdf 6.19.0]
+
+4-603.11 Dry Cleaning.
+(A) If used, dry cleaning methods such as brushing, scraping, and vacuuming
+shall contact only SURFACES that are soiled with dry FOOD residues that are not
+TIME/TEMPERATURE CONTROL FOR SAFETY FOOD.
+(B) Cleaning EQUIPMENT used in dry cleaning FOOD-CONTACT SURFACES may not
+be used for any other purpose.

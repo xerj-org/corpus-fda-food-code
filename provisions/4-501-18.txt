@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-501.18 - Warewashing Equipment, Clean Solutions.
+[source PDF page 123; extracted with pypdf 6.19.0]
+
+4-501.18 Warewashing Equipment, Clean Solutions.
+The wash, rinse, and SANITIZE solutions shall be maintained clean.

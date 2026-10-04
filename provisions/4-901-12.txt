@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-901.12 - Wiping Cloths, Air-Drying Locations.
+[source PDF page 133; extracted with pypdf 6.19.0]
+
+4-901.12 Wiping Cloths, Air-Drying Locations.
+Wiping cloths laundered in a FOOD ESTABLISHMENT that does not have a
+mechanical clothes dryer as specified in ¶ 4-301.15(B) shall be air-dried in a
+location and in a manner that prevents contamination of FOOD, EQUIPMENT,
+UTENSILS, LINENS, and SINGLE-SERVICE and SINGLE-USE ARTICLES and the wiping
+cloths. This section does not apply if wiping cloths are stored after laundering in
+a SANITIZING solution as specified under § 4-501.114.
+4-902 Lubricating and Reassembling

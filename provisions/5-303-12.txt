@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-303.12 - Protective Cover or Device.
+[source PDF page 143; extracted with pypdf 6.19.0]
+
+5-303.12 Protective Cover or Device.
+A cap and keeper chain, closed cabinet, closed storage tube, or other APPROVED
+protective cover or device shall be provided for a water inlet, outlet, and hose.

@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-402.14 - Removing Mobile Food Establishment Wastes.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-402.14 Removing Mobile Food Establishment Wastes.
+SEWAGE and other liquid wastes shall be removed from a mobile FOOD
+ESTABLISHMENT at an APPROVED waste SERVICING AREA or by a SEWAGE transport
+vehicle in such a way that a public health HAZARD or nuisance is not created. Pf

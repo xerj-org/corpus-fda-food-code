@@ -1,0 +1,19 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-501.10 - Obtaining Information: Personal History of Illness, Medical
+[source PDF page 180; extracted with pypdf 6.19.0]
+
+8-501.10 Obtaining Information: Personal History of Illness, Medical
+Examination, and Specimen Analysis.
+The REGULATORY AUTHORITY shall act when it has reasonable cause to believe
+that a FOOD EMPLOYEE or CONDITIONAL EMPLOYEE has possibly transmitted
+disease; may be infected with a disease in a communicable form that is
+transmissible through FOOD; may be a carrier of infectious agents that cause a
+disease that is transmissible through FOOD; or is affected with a boil, an infected
+wound, or acute respiratory infection, by:
+(A) Securing a confidential medical history of the FOOD EMPLOYEE or
+CONDITIONAL EMPLOYEE suspected of transmitting disease or making other
+investigations as deemed appropriate; and
+(B) Requiring appropriate medical examinations, including collection of
+specimens for laboratory analysis, of a suspected FOOD EMPLOYEE or
+CONDITIONAL EMPLOYEE.

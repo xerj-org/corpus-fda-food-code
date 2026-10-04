@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-302.12 - Inspection and Cleaning Port, Protected and Secured.
+[source PDF page 142; extracted with pypdf 6.19.0]
+
+5-302.12 Inspection and Cleaning Port, Protected and Secured.
+If a water tank is designed with an access port for inspection and cleaning, the
+opening shall be in the top of the tank and:
+(A) Flanged upward at least 13 mm (one-half inch); and
+(B) Equipped with a port cover assembly that is:
+(1) Provided with a gasket and a device for securing the cover in
+place, and
+(2) Flanged to overlap the opening and sloped to drain.

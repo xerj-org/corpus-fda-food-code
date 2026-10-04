@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-302.11 - Toilet Tissue, Availability.
+[source PDF page 154; extracted with pypdf 6.19.0]
+
+6-302.11 Toilet Tissue, Availability.
+A supply of toilet tissue shall be available at each toilet. Pf
+6-303 Lighting

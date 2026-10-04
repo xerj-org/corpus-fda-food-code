@@ -1,0 +1,2731 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Annex 2. References
+[source PDF pages 205-284; extracted with pypdf 6.19.0]
+
+Annex 2 References
+Parts:
+1. United States Code and Code of Federal Regulations
+2. Bibliography
+3. Supporting Documents
+4. Food Defense Guidance from Farm to Table
+1. United States Code and Code of Federal Regulations
+The Food Code makes frequent reference to federal statutes contained in the United
+States Code (USC) and the Code of Federal Regulations (CFR). Copies of the USC and
+CFR can be viewed and copied at government depository libraries or may be purchased
+as follows.
+(A) Viewing and Copying the USC or CFR
+(1) Federal Depository Library
+The USC and CFR are widely available for reference and viewing in
+some 1300 "depository libraries" located throughout the United States.
+A Directory of U.S. Government Depository Libraries is published by
+the Joint Committee on Printing of the United States Congress and is
+available through the Superintendent of Documents, U.S. Government
+Printing Office. This publication lists all depository libraries by state,
+city, and congressional district.
+Persons may also obtain information about the location of the
+depository library nearest to them by contacting:
+GPO Customer Contact Center, Mail Stop: IDCC
+U.S. Government Printing Office
+732 North Capitol Street, NW
+Washington, DC 20401-0001
+(866) 512-1800, Fax (202) 512-2104
+Email: ContactCenter@gpo.gov
+(2) Internet World Wide Web Information System
+The CFRs are available on-line in downloadable form through the
+Internet World Wide Web information system. The source is:
+The National Archives and Records Administration
+Copies of Federal Regulations - Retrieve CFR by Citation
+Provided through the Government Printing Office Web Site - GPO
+Inet Services
+http://www.access.gpo.gov/nara/cfr/cfr-table-search.html#page1
+(B) Purchasing Portions of the USC or CFR
+Persons wishing to purchase relevant portions of the USC or CFR may do
+so by writing:
+Superintendent of Documents (New Orders)
+U.S. Government Printing Office
+P.O. Box 371954
+Pittsburgh, PA 15250-7954;
+Or by calling:
+(202) 512-1800 from 8:00 a.m. to 5:30 p.m. eastern time
+Monday-Friday (except Federal holidays)
+Orders may be charged to Discover, MasterCard, or Visa;
+Or by emailing:
+gpo@custhelp.com or
+http://www.gpo.gov/customers/print.htm .
+(C) USC as it Relates to the Code Definition of "Adulterated"
+This language has been retyped as accurately as possible and inserted in the Food
+Code Annex for informational purposes. For legal purposes, use only language taken
+directly from the United States Code (USC).
+21 USC Sec. 342
+Title 21 - Food and Drugs
+Chapter 9 - Federal Food, Drug and Cosmetic Act
+Subchapter IV – Food
+ADULTERATED FOOD
+Sec. 402 [342]
+A food shall be deemed to be adulterated -
+(a) Poisonous, insanitary, etc., ingredients
+(1) If it bears or contains any poisonous or deleterious substance which
+may render it injurious to health; but in case the substance is not an added
+substance such food shall not be considered adulterated under this clause
+if the quantity of such substance in such food does not ordinarily render it
+injurious to health.[1]1
+(2)
+(A) if it bears or contains any added poisonous or added deleterious
+substance (other than a substance that is a pesticide chemical residue in
+or on a raw agricultural commodity or processed food, a food additive, a
+color additive, or a new animal drug) that is unsafe within the meaning of
+section 346 of this title; or
+(B) if it bears or contains a pesticide chemical residue that is unsafe within
+the meaning of section 346a (a) of this title; or
+(C) if it is or if it bears or contains
+(i) any food additive that is unsafe within the meaning of section 348
+of this title; or
+(ii) a new animal drug (or conversion product thereof) that is unsafe
+within the meaning of section 360b of this title; or
+(3) if it consists in whole or in part of any filthy, putrid, or decomposed
+substance, or if it is otherwise unfit for food; or
+(4) if it has been prepared, packed, or held under insanitary conditions
+whereby it may have become contaminated with filth, or whereby it may have
+been rendered injurious to health; or
+(5) if it is, in whole or in part, the product of a diseased animal or of an animal
+which has died otherwise than by slaughter; or
+(6) if its container is composed, in whole or in part, of any poisonous or
+deleterious substance which may render the contents injurious to health; or
+(7) if it has been intentionally subjected to radiation, unless the use of the
+radiation was in conformity with a regulation or exemption in effect pursuant
+to section 348 of this title.
+[1] So in or”. original. The period probably should be “;
+(b) Absence, substitution, or addition of constituents
+(1) If any valuable constituent has been in whole or in part omitted or
+abstracted therefrom; or
+(2) if any substance has been substituted wholly or in part therefor; or
+(3) if damage or inferiority has been concealed in any manner; or
+(4) if any substance has been added thereto or mixed or packed therewith so
+as to increase its bulk or weight, or reduce its quality or strength, or make it
+appear better or of greater value than it is.
+(c) Color additives
+If it is, or it bears or contains, a color additive which is unsafe within the meaning
+of section 379e (a) of this title.
+(d) Confectionery containing alcohol or nonnutritive substance
+If it is confectionery, and—
+(1) has partially or completely imbedded therein any nonnutritive object,
+except that this subparagraph shall not apply in the case of any nonnutritive
+object if, in the judgment of the Secretary as provided by regulations, such
+object is of practical functional value to the confectionery product and would
+not render the product injurious or hazardous to health;
+(2) bears or contains any alcohol other than alcohol not in excess of one-half
+of 1 per centum by volume derived solely from the use of flavoring extracts,
+except that this clause shall not apply to confectionery which is introduced or
+delivered for introduction into, or received or held for sale in, interstate
+commerce if the sale of such confectionery is permitted under the laws of the
+State in which such confectionery is intended to be offered for sale;
+(3) bears or contains any nonnutritive substance, except that this
+subparagraph shall not apply to a safe nonnutritive substance which is in or
+on confectionery by reason of its use for some practical functional purpose in
+the manufacture, packaging, or storage of such confectionery if the use of the
+substance does not promote deception of the consumer or otherwise result in
+adulteration or misbranding in violation of any provision of this chapter, except
+that the Secretary may, for the purpose of avoiding or resolving uncertainty as
+to the application of this subparagraph, issue regulations allowing or
+prohibiting the use of particular nonnutritive substances.
+(e) Oleomargarine containing filthy, putrid, etc., matter
+If it is oleomargarine or margarine or butter and any of the raw material used
+therein consisted in whole or in part of any filthy, putrid, or decomposed
+substance, or such oleomargarine or margarine or butter is otherwise unfit for
+food.
+(f) Dietary supplement or ingredient: safety
+(1) If it is a dietary supplement or contains a dietary ingredient that—
+(A) Presents a significant or unreasonable risk of illness or injury under—
+(i) Conditions of use recommended or suggested in labeling, or
+(ii) If no conditions of use are suggested or recommended in the
+labeling, under ordinary conditions of use;
+(B) Is a new dietary ingredient for which there is inadequate information to
+provide reasonable assurance that such ingredient does not present a
+significant or unreasonable risk of illness or injury;
+(C) The Secretary declares to pose an imminent hazard to public health or
+safety, except that the authority to make such declaration shall not be
+delegated and the Secretary shall promptly after such a declaration initiate
+a proceeding in accordance with sections 554 and 556 of title 5 to affirm or
+withdraw the declaration; or
+(D) Is or contains a dietary ingredient that renders it adulterated under
+paragraph (a)(1) under the conditions of use recommended or suggested
+in the labeling of such dietary supplement.
+In any proceeding under this subparagraph, the United States shall bear the
+burden of proof on each element to show that a dietary supplement is
+adulterated. The court shall decide any issue under this paragraph on a de
+novo basis.
+(2) Before the Secretary may report to a United States attorney a violation of
+paragraph [2] (1)(A) for a civil proceeding, the person against whom such
+proceeding would be initiated shall be given appropriate notice and the
+opportunity to present views, orally and in writing, at least 10 days before such
+notice, with regard to such proceeding.
+(g) Dietary supplement: manufacturing practices
+(1) If it is a dietary supplement and it has been prepared, packed, or held
+under conditions that do not meet current good manufacturing practice
+regulations, including regulations requiring, when necessary, expiration date
+labeling, issued by the Secretary under subparagraph (2).
+[2] So in original. Probably should be “subparagraph”.
+(2) The Secretary may by regulation prescribe good manufacturing practices
+for dietary supplements. Such regulations shall be modeled after current good
+manufacturing practice regulations for food and may not impose standards for
+which there is no current and generally available analytical methodology. No
+standard of current good manufacturing practice may be imposed unless such
+standard is included in a regulation promulgated after notice and opportunity
+for comment in accordance with chapter 5 of title 5.
+(h) Reoffer of food previously denied admission
+If it is an article of food imported or offered for import into the United States and
+the article of food has previously been refused admission under section 381 (a)
+of this title, unless the person reoffering the article affirmatively establishes, at
+the expense of the owner or consignee of the article, that the article complies
+with the applicable requirements of this chapter, as determined by the Secretary.
+(As amended by Congress, 2002 – Subsec. (h). Pub. L. 107-188 added subsec. (h).)
+2. Bibliography
+The following bibliography is a compilation of documents that were taken into
+consideration in developing the related sections of the Food Code.
+Preface
+1. Archer, D.L. and J.E. Kvenberg, 1985. Incidence and cost of foodborne diarrheal
+disease in the United States. J. Food Prot. 48:887-894.
+2. Center for Disease Control and Prevention (CDC), 2011. Vital Signs: Incidence
+and Trends of Infection with Pathogens Transmitted Commonly Through Food ---
+Foodborne Diseases Active Surveillance Network, 10 U.S. Sites, 1996—2010.
+Morb. Mortal. Wkly. Rep. 60:1-7.
+3. Committee on Salmonella, 1969. An Evaluation of the Salmonella Problem. NRC
+Pub. 1683, National Academy of Sciences, Washington, DC. 207 pp.
+4. Council for Agricultural Science and Technology, 1994. Foodborne Pathogens:
+Risks and Consequences. Task Force Report No. 122, CAST, Ames, IA., 87 pp.
+5. Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 374. Inspection.
+6. Food and Drug Administration, January 24, 1994. Preliminary Regulatory Impact
+Analysis of the Proposed Regulations to Establish Procedures for the Safe
+Processing and Importing of Fish and Fishery Products.
+7. Food and Drug Administration. Directory of State and Local Officials. FDA/ORA
+Division of Federal-State Relations, Rockville, MD. http://www.afdo.org
+8. Garthright, W.E., D.L. Archer and J.E. Kvenberg, 1988. Estimates of incidence
+and costs of intestinal infectious disease in the United States. Public Health Rep.
+103:107-115.
+9. Hirsch, D., 1989. Drafting Federal Law, 2nd Ed., Office of the Legislative
+Counsel, U. S. House of Representatives, Washington, DC. 122 pp.
+10. Kvenberg, J.E. and D.L. Archer, 1987. Economic impact of colonization control
+on foodborne disease. Food Technol. 41:77-98.
+11. Martineau, R.J., 1991. Drafting Legislation and Rules in Plain English, University
+of Cincinnati, Cincinnati, OH. 155 pp.
+12. Maryland Office of the Secretary of State, 1991. Style Manual for Maryland
+Regulations, Div. of State Documents, Annapolis, MD. 58 pp.
+13. McCracken, J.B. and G.P Carver, 1992. Recommended Agency Procedures for
+Implementing Federal Metric Policy. NISTIR 4855, U.S. Department of
+Commerce, National Institute of Standards and Technology, Technology
+Administration, Metric Program, Technology Services, Gaithersburg MD. 17 pp.
+14. Mead, P.S., Slutsker, L., Dietz, V., McCraig, L.F., Bresee, J.S., Shapiro, C.,
+Griffin, P.M., Tauxe, R.V., 1999. Food-related Illness and Death in the United
+States. Emerg. Infect. Dis. Vol. 5, No. 5, in:
+http://www.cdc.gov/ncidod/EID/vol5no5/mead.htm.
+15. Metric Conversion Act of 1975, P.L. 94-168 Amended, 89 Stat. 1007; 15 U.S.C.
+§ 205a et seq.
+16. Metric Systems of Measurement; Interpretation of the International System of
+Units for the United States. Notice published July 28, 1998, 63 FR 40334-40340.
+This Federal Register notice supersedes the previous interpretation published on
+December 20, 1990, 55 FR 52242-52245.
+17. Omnibus Trade and Competitiveness Act of 1988, P.L. 100-418.
+18. Research Triangle Institute, 1988. Estimating the Value of Consumer's Loss from
+Foods Violating the FD&C Act, FDA Contract No. 233-86-2098.
+19. Scallan E, Griffin PM, Angulo FJ, Tauxe RV, Hoekstra RM., 2011. Foodborne
+Illness Acquired in the United States—Unspecified Agents. Emerg. Infect. Dis.
+Vol. 17, No.1, in: http://wwwnc.cdc.gov/eid/article/17/1/p2-1101_article.htm
+20. Scallan E, Hoekstra RM, Angulo FJ, Tauxe RV, Widdowson M-A, Roy SL, et al.,
+2011 Foodborne illness acquired in the United States—major pathogens. Emerg.
+Infect. Dis. Vol. 17, No. 1, in: http://wwwnc.cdc.gov/eid/article/17/1/p2-
+1101_article.htm
+21. The Public Health Service Act, 42 U.S.C. Section 243. General Grant of Authority
+for Cooperation.
+Chapter 1. Purpose and Definitions
+1-201.10 Statement of Application and Listing of Terms
+1. Americans with Disabilities Act of 1990, as Amended. 42 U.S.C. 12111 et seq.
+2. Abdul-Raouf, U.M., Beuchat , L.R. and Ammar, M.S. 1993. Survival and growth
+of Escherichia coli O157:H7 on salad vegetables, Appl. Environ. Microbiol. Vol
+59, pp. 1999-2006.
+3. Aruscavage, D., Lee, K., Miller, S., and LeJeune, J.T. 2006. Interactions Affecting
+the Proliferation and Control of Human Pathogens on Edible Plants. J. Food Sci.
+71(8), R89 – R99.
+4. Code of Federal Regulations, Title 9, Section 362.1 Voluntary Poultry Inspection
+Regulations, Definitions.
+5. Code of Federal Regulations, Title 9, Section 354.1 Voluntary Inspection of
+Rabbits and Edible Products Thereof, Definitions.
+6. Code of Federal Regulations, Title 9, Part 301.2 Terminology; Adulteration and
+Misbranding Standards Definitions, Livestock.
+7. Code of Federal Regulations, Title 9, Section 590.5 Inspection of Eggs and Egg
+Products (Egg Products Inspection Act, Terms Defined.
+8. Code of Federal Regulations, Title 50, Part 17 Endangered and Threatened
+Wildlife and Plants.
+9. Code of Federal Regulations, Title 9, Part 381 Poultry Products Inspection
+Regulations.
+10. Code of Federal Regulations, Title 40, Part 141 National Primary Drinking Water
+Regulations.
+11. Code of Federal Regulations, Title 40, Part 152.175 Pesticides classified for
+restricted use.
+12. Corby, R., Lanni, V. , Kistler, V. , Dato, V. , Yozviak, C., Waller, K., Nalluswami,
+K., Moll, M., Center for Food Safety and Applied Nutrition, Office of Crisis
+Management, Food and Drug Admin., J. Lockett, S. Montgomery, M. Lynch, C.
+Braden, S.K. Gupta and A. DuBois. 2005. Outbreaks of Salmonella Infections
+Associated with Eating Roma Tomatoes --- United States and Canada, 2004
+MMWR, April 8, 2005, 54(13): 325-328.
+13. Delaquis, P., Steward, S., Cazaux, S., and Toivonen, P. 2002. Survival and
+Growth of Listeria monocytogenes and Escherichia coli O157:H7 in Ready-to-Eat
+Iceberg Lettuce Washed in Warm Chlorinated Water, J. Food Protect. 65(3): 459-
+464.
+14. Doerry, W.T., 1996. Shelf-Stable Pumpkin Pies. A research report, American
+Institute of Baking, Manhattan, KS.
+15. Federal Food, Drug and Cosmetic Act, 21 U.S.C. 321 Definitions (s) Food
+Additive, and Code of Federal Regulations, and Title 21 Part 170 Food Additives.
+16. Federal Food, Drug and Cosmetic Act, 21 U.S.C. 321 Definitions (t) Color
+Additive, and Code of Federal Regulations, and Title 21 Part 70 Color Additives.
+17. Federal Food, Drug and Cosmetic Act, 21 U.S.C. 342 Adulterated Food.
+18. Federal Food, Drug and Cosmetic Act, 21 U.S.C. 379e (a) Unsafe Color
+Additives.
+19. Federal Register: May 7, 2001 (Volume 66, Number 88), Rules and Regulations,
+Pages 22899-22907, DEPARTMENT OF AGRICULTURE, Food Safety and
+Inspection Service, 9 CFR Parts 362 and 381, Docket No. 01-045IF, RIN 0583-
+AC84, Mandatory Inspection Ratites and Squabs.
+https://www.federalregister.gov/documents/2001/05/07/R1-10679/mandatory-
+inspection-of-ratites-and-squabs
+20. Food Allergen Labeling and Consumer Protection Act of 2004. Public Law
+108-282 https://www.fda.gov/food/food-allergensgluten-free-guidance-
+documents-regulatory-information/food-allergen-labeling-and-consumer-
+protection-act-2004-falcpa
+21. Food Allergy Safety, Treatment, Education, and Research (FASTER) Act of
+2021. Public Law 117-11. https://www.congress.gov/117/plaws/publ11/PLAW-
+117publ11.pdf
+22. Food and Drug Administration/U. S. Public Health Service, 2020. National
+Shellfish Sanitation Program.
+http://www.fda.gov/Food/GuidanceRegulation/FederalStateFoodPrograms/ucm2
+006754.htm
+23. Food and Drug Administration/U. S. Public Health Service, 2019 revision. Grade
+"A" Pasteurized Milk Ordinance. https://www.fda.gov/media/140394/download
+24. Guo, X., Chen, J., Brackett, R.E., and Beuchat, L.R. 2001. Survival of
+Salmonellae on and in Tomato Plants from the Time of Inoculation at Flowering
+and Early Stages of Fruit Development through Fruit Ripening. Appl. and
+Environ. Microbiol. 67(10): 4760-4764.
+25. Institute of Food Technologists (IFT) Report, Evaluation and Definition of
+Potentially Hazardous Foods, Food and Drug Administration Contract No. 223-
+98-2333, Task Order No. 4, December 31, 2001.
+https://www.fda.gov/files/food/published/Evaluation-and-Definition-of-Potentially-
+Hazardous-Foods.pdf
+26. Koseki, S. and Isobe, S. 2005. Prediction of pathogen growth on iceberg lettuce
+under real temperature history during distribution from farm to table. Int. J. of
+Food Microbiol. (104) 239-248.
+27. Laine, E.S., J.M. Scheftel, D.J. Boxrud, K.J. Vought, R.N. Danila, K.M. Elfering
+and K.E. Smith. 2005. Outbreak of Escherichia coliO157:H7 Infections
+Associated with Nonintact Blade-Tenderized Frozen Steaks Sold by Door-to-
+Door Vendors. J. Food Protect. 68(6): 1198-1202.
+28. Li, Y., Brackett, R.E., Chen, J., and Beuchat, L.R. 2001. Survival and Growth of
+Escherichia coli O157:H7 Inoculated onto Cut Lettuce Before or After Heating in
+Chlorinated Water, Followed by Storage at 5 or 15ºC, J. Food Protect. 64(3):
+304-309.
+29. Marsden, J.L., R.K. Phebus, H. Thippareddi, C.L. Kastner and J.B. Bosch. 2001.
+Salmonella spp. and Listeria monocytogenes Risk Assessment for Production
+and Cooking of Blade Tenderized Beef Steaks. Kansas State University.
+30. National Advisory Committee on Microbiological Criteria for Foods, 1998. Hazard
+Analysis and Critical Control Point System. J. Food Prot. 61(9);1246-1259.
+31. Program Information Manual entitled, “Retail Food Protection: Storage and
+Handling of Tomatoes”, 2007. See
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandR
+egulatoryAssistanceandTrainingResources/ucm113843.htm
+32. Wachtel, M.R. and A.O. Charkowski. 2002. Cross-Contamination of Lettuce with
+Escherichia coli O157:H7, J. Food Protect. 65(3): 465-470.
+33. Yaguang Luo*, Qiang He, James L. McEvoy, and William S. Conway. 2009. Fate
+of Escherichia coli O157:H7 in the Presence of Indigenous Microorganisms on
+Commercially Packaged Baby Spinach as Impacted by Storage Temperature
+and Time. Journal of Food Protection 72 (10): 2038-2045.
+34. Zhuang, R.Y., L.R. Beuchat and F.J. Angulo. 1995. Fate of Salmonella
+Montevideo on and in Raw Tomatoes as Affected by Temperature and Treatment
+with Chlorine. Appl. and Environ. Microbiol. 61(6):2127-2131.
+Chapter 2. Management and Personnel
+2-102.11 Demonstration.
+1. Bean, N.H. and P.M. Griffin, 1990. Foodborne disease outbreaks in the United
+States, 1973-1987: pathogens, vehicles, and trends. J. Food Prot. 53:804-817.
+2. Bryan, F.L., 1979. Prevention of foodborne diseases in food service
+establishments. J. Environ. Health 41:198-206.
+3. Bryan, F.L., 1988a. Risks associated with vehicles of foodborne pathogens and
+toxins. J. Food Prot. 51(6):498-508.
+4. Bryan, F.L., 1988b. Risks of practices, procedures and processes that lead to
+outbreaks of foodborne diseases. J. Food Prot. 51(8): 663-673.
+5. Doyle, M.P., 1991. Escherichia coli O157:H7 and its significance in foods. Int. J.
+Food Microbiol. 12:289-302.
+6. Liston, J., 1990. Microbial hazards of seafood consumption. Food Technol.
+44(12):56, 58-62.
+7. World Health Organization, 1989. Health Surveillance and Management
+Procedures for Food-handling Personnel, Technical Report Series 785, WHO,
+Geneva, Switzerland. 50 pp.
+2-102.12 Certified Food Protection Manager.
+Amend References to add new §2-102.12, Certified Food Protection Manager, to
+add references to read as follows:
+1. Hedberg, C.W., S.J. Smith, E. Kirkland, V. Radke, T.F. Jones, C.A. Selman and
+the EHS-Net Working Group. 2006. Systematic Environmental Evaluations to
+Identify Food Safety Differences between Outbreak and Nonoutbreak
+Restaurants. J. Food Protect. 69(11): 2697-2702.
+2. U.S. Food and Drug Administration. 2004. FDA Report on the Occurrence of
+Foodborne Illness Risk Factors in Selected Institutional Food Service,
+Restaurant, and Retail Food Store Facility Types (2004). Available at
+https://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/FoodborneIl
+lnessRiskFactorReduction/default.htm
+3. U.S. Food and Drug Administration. 2009. FDA Report on the Occurrence of
+Foodborne Illness Risk Factors in Selected Institutional Foodservice, Restaurant,
+and Retail Food Store Facility Types (2009). Available at
+https://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/FoodborneIl
+lnessRiskFactorReduction/default.htm
+2-201.11 Responsibility of the Person in Charge, Food Employees, and
+Conditional Employees.
+2-201.12 Exclusions and Restrictions.
+1. Americans with Disabilities Act of 1990, as Amended. 42 U.S.C. 12111 et seq.
+2. Anderson, A., V. Garrett, et al., 2001. Multistate Outbreak of Norwalk-Like Virus
+Gastroenteritis Associated with a Common Caterer. American Journal of
+Epidemiology. 154: 1013-1019.
+3. Ando, et al., 2000. Genetic classification of “Norwalk-like viruses”. J. Infect. Dis.
+181 2 (2000), pp. S336-S348.
+4. Atmar, R.L., M.K. Estes, 2001. Diagnosis of Noncultivatable Gastroenteritis
+Viruses, the Human Caliciviruses. Clinical Microbiology Reviews. Vol. 14, No. 1,
+p. 15-37.
+5. Barton Behravesh, C, TF Jones, DJ Vugia, C Long, R Marcus, K Smith, S
+Thomas, S Zansky, KE Fullerton, OL Henao, E Scallan, FoodNet Working Group.
+2011. Deaths associated with bacterial pathogens transmitted commonly through
+food: foodborne disease active surveillance network (FoodNet), 1996-2005. J.
+Inf. Dis. 204:263-267.
+6. Black, R.E., G.F. Graun and P.A. Blake, 1978. Epidemiology of common-source
+outbreaks of shigellosis in the United States, 1961-1975. Am. J. Epidemiol.
+108:47-52.
+7. Brown, et al., 2003. Norovirus activity---United States, 2002. Annals of
+Emergency Medicine. Vol. 42, Issue 3, pp. 417-420.
+8. C aul, E.O., 1994. Small round structured viruses: airborne transmission and
+hospital control. The Lancet. Vol. 343 (8908) pp. 1240-1242.
+9. Caul, E.O., 1996a. Viral gastroenteritis: small round structured viruses,
+caliciviruses and astroviruses. Part 1. The clinical and diagnostic perspective. J.
+Clin. Pathol. 49: 874-880.
+10. Caul, E.O., 1996b. Viral gastroenteritis: small round structured viruses,
+caliciviruses and astroviruses. Part II. The epidemiological perspective. J. Clin.
+Pathol. 49: 959- 964.
+11. Centers for Disease Control and Prevention, March 1, 2017, update of annual list
+of Pathogens Transmitted by Food Contaminated by Infected Persons Who
+Handle Food, and Modes of Transmission of Such Pathogens, found at
+https://www.cdc.gov/foodsafety/pdfs/ada2017_transmittedbyfood_final.pdf
+12. Centers for Disease Control and Prevention. CDC Health Information for
+International Travel 2012 (The “Yellow Book”). New York: Oxford University
+Press; 2012. CDC Division of Global Migration and Quarantine, Travelers’ Health
+Branch (proposed), Atlanta, GA. http://wwwnc.cdc.gov/travel/page/yellowbook-
+2012-home.htm
+13. Centers for Disease Control and Prevention. Surveillance for Foodborne Disease
+Outbreaks – United States, 2007. Morbidity and Mortality Weekly Report, Vol. 59,
+No. 31, August 13, 2010, pp. 973-978.
+14. Centers for Disease Control and Prevention. 2011. Vital Signs: Incidence and
+Trends of Infection with Pathogens Transmitted Commonly Through Food -
+Foodborne Diseases Active Surveillance Network, 10 U.S. Sites, 1996-2010.
+Morbidity and Mortality Weekly Report. 60(22):749-755.
+15. Centers for Disease Control and Prevention, January 25, 2013, Surveillance for
+Foodborne Disease Outbreaks – United States, 2009-2010, found at
+http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6203a1.htm?s_cid=mm6203a1
+_w
+16. Centers for Disease Control and Prevention, CDC Current Outbreak List found at
+http://www.cdc.gov/outbreaks/
+17. Chadwick, P.R. and R. McCann, 1994. Transmission of a small round structured
+virus by vomiting during a hospital outbreak of gastroenteritis. Journal of Hospital
+Infection. 26: 251-259.
+18. Code of Federal Regulations, Title 29, Part 1630 Regulations to Implement the
+Equal Employment Provisions of the Americans with Disabilities Act.
+19. Colorado Department of Health, 1993. Public Health Handbook For Management
+Of Acute Hepatitis A. Division of Disease Control and Environmental
+Epidemiology, 4300 Cherry Creek Drive South, Denver, CO 80222-1530, 27 pp.
+20. de Wit, MAS, et al., 2003. Risk Factors for Norovirus, Sapporo-like Virus, and
+Group A Rotavirus Gastroenteritis. Emerging Infectious Diseases. Vol.9, No.12.
+pp.1563-1570.
+21. Doyle, M.P. (Ed.), 1989. Foodborne Bacterial Pathogens, Marcel Dekker, Inc.,
+New York. 796 pp.
+22. Doyle, M.P., T. Zhao, J. Meng, S. Zhao, 1997. Escherichia coli O157:H7. In Food
+Microbiology Fundamentals and Frontiers, M.P. Doyle, L.R. Beuchat, and T.J.
+Montville, eds. pp. 183-186. ASM Press, Wash., D.C.
+23. Equal Employment Opportunity Commission, 2004. How to Comply with the
+Americans with Disabilities Act: A Guide for Restaurants and Other Food Service
+Employers, found at http://www.eeoc.gov/facts/restaurant_guide.html or
+http://www.eeoc.gov/facts/restaurant_guide_summary.html.
+24. Ethelberg, S., M. Lisby, M. Torpdahl, G. Sorensen, J. Neimann, P. Rasmussen,
+S. Bang, U. Stamer, H. B. Hansson, K. Nygard, D. L. Baggesen, E. M. Nielsen,
+K. Molbak, and M. Helms. 2004. Prolonged restaurant-associated outbreak of
+multidrug-resistant Salmonella Typhimurium among patients from several
+European countries. Clin. Microbiol. Infect. 10:904-910.
+25. Fankhauser, R.L., J.S. Noel, S.S. Monroe, T. Ando and R.I. Glass, 1998.
+Molecular epidemiology of “Norwalk-like viruses” in outbreaks of gastroenteritis in
+the United States. J. Infect. Dis. 178:1571-15788.
+26. Food & Drug Administration, Bad Bug Book, Foodborne Pathogenic
+Microorganisms and Natural Toxins. Second Edition. 2012 found at:
+http://www.fda.gov/downloads/Food/FoodborneIllnessContaminants/UCM297627.p
+df
+27. Grahm, D.Y., X. Jiang, et al., 1994. Norwalk virus infection of volunteers: new
+insights based on improved assays. J. of Infect. Diseases, Vol.170, Issue 1, p.
+34.
+28. Greig, JD, ECD Todd, CA Bartelson, and BS Michaels. 2007. Outbreaks Where
+Food Workers Have Been Implicated in the Spread of Foodborne Disease. Part
+1. Description of the Problem, Methods, and Agents Involved. J Food Prot.
+70:1,752-1,761.
+29. Green, L., C. Selman, A. Banerjee, R. Marcus, C. Medus, F. J. Angulo, V. Radke,
+S. Buchanan, and EHS-Net Working Group. 2005. Food service workers' self-
+reported food preparation practices: an EHS-Net study. Int. J. Hyg. Environ.
+Health 208:27-35.
+30. Green, L. R., C. A. Selman, V. Radke, D. Ripley, J. C. Mack, D. W. Reimann, T.
+Stigger, M. Motsinger, and L. Bushnell. 2006. Food worker hand washing
+practices: an observation study. J. Food Prot. 69:2417-2423.
+31. Greenberg, H.B., R.G. Wyatt and A.Z. Kapikian, 1979. Norwalk virus in vomitus.
+Lancet. i: 55.
+32. Griffin, P.M. and R.V. Tauxe, 1991. The epidemiology of infections caused by
+Escherichia coli O157:H7, other enterohemorrhagic E. coli, and the associated
+hemolytic uremic syndrome. Epidemiol. Rev. 13:60-98.
+33. Hedberg, C. W., K. E. White, J. A. Johnson, L. M. Edmonson, J. T. Soler, J. A.
+Korlath, L. S. Theurer, K. L. MacDonald, and M. T. Osterholm. 1991. An outbreak
+of Salmonella enteritidis infection at a fast-food restaurant: implications for
+foodhandler-associated transmission. J. Infect. Dis. 164:1135-1140.
+34. Hedican, E., C. Hooker, T. Jenkins, C. Medus, S. Jawahir, F. Leano, and K.
+Smith. 2009. Restaurant Salmonella Enteritidis outbreak associated with an
+asymptomatic infected food worker. J. Food Prot. 72:2332-2336.
+35. Heymann, David L. MD, (Ed.), 2008. Control of Communicable Diseases Manual,
+19th Ed., American Public Health Association, Washington D.C.
+36. Hundy, R. L., and S. Cameron. 2002. An outbreak of infections with a new
+Salmonella phage type linked to a symptomatic food handler. Commun. Dis.
+Intell. 26:562-567.
+37. Khuri-Bulos, N. A., M. Abu Khalaf, A. Shehabi, and K. Shami. 1994.
+Foodhandler-associated Salmonella outbreak in a university hospital despite
+routine surveillance cultures of kitchen employees. Infect.
+38. Control Hosp. Epidemiol. 15:311-314.
+39. Lopman, B., et al., 2003. Viral Gastroenteritis Outbreaks in Europe, 1995-2000.
+Emerging Infectious Diseases. Vol. 9, No.1.
+40. Lopman, B.A., et. al., 2002. Human caliciviruses in Europe. Journal of Clinical
+Virology. Vol. 24, Issue 3, pp. 137-160.
+41. Lynch, M., J. Painter, R. Woodruff, and C. Braden. 2006. Centers for Disease
+Control and Prevention. Surveillance for foodborne-disease outbreaks-United
+States, 1998-2002. MMWR Surveill. Summ. 55(SS10):1-42.
+42. Maguire, H., P. Pharoah, B. Walsh, C. Davison, D. Barrie, E. J. Threlfall, and S.
+Chambers. 2000. Hospital outbreak of Salmonella Virchow possibly associated
+with a food handler. J. Hosp. Infect. 44: 261-266.
+43. Matsui, S.M., and H.B. Greenberg, 2000. Immunity to calicivirus infection. The
+Journal of Infectious Diseases. 181(Suppl 2): S331.
+44. Mead, P.S., P.M. Griffin, 1998. Escherichia coli O157:H7. Lancet 1998; 352:
+1207-12.
+45. Mead, P.S., L. Slutsker, V. Dietz, L.F. McCraig, J.S. Bresee, C. Shapiro, P.M.
+Griffin, R.V. Tauxe, 1999. Food-Related Illness and Death in the United States.
+Emerg. Infect. Dis. Vol. 5, No. 5, found at
+http://www.cdc.gov/ncidod/EID/vol5no5/mead.htm.
+46. Medus, C., K. E. Smith, J. B. Bender, J. M. Besser, and C. W. Hedberg. 2006.
+Salmonella outbreaks in restaurants in Minnesota, 1995 through 2003: evaluation
+of the role of infected foodworkers. J. Food Prot. 69:1870-1878.
+47. Medus, C., K. E. Smith, J. B. Bender, F. Leano, and C. W. Hedberg. 2010.
+Salmonella infections in food workers identified through Routine Public Health
+Surveillance in Minnesota: Impact on Outbreak Recognition. J. Food Prot.
+73:2053-2058.
+48. Monroe, S.S., T. Ando, and R.I. Glass, 2000. Introduction: human enteric
+caliciviruses—an emerging pathogen whose time has come. The Journal of
+Infectious Diseases. 181 (Suppl 2): S249.
+49. Reid, J.A., 1988. Role of infected food handler in hotel outbreak of Norwalk-like
+viral gastroenteritis: implications for control. Lancet. Aug 6., 2(8606): 321-3.
+50. Ryder, R.W. and P.A. Blake, 1979. Typhoid fever in the United States, 1975 and
+1976. J. Infect. Dis. 139(1):124-126.
+51. Scallan, E., RM Hoekstra, FJ Angulo, RV Tauxe, MA Widdowson, SL Roy, JL
+Jones, and PM Griffin. 2011. Foodborne Illness Acquired in the United States-
+Major Pathogens. Emerg. Inf. Dis. 17:7-15.
+52. Shah et al 1996 CID 23:835-6
+53. Shapiro, C.N., F.E. Shaw, E.J. Mandel, et al., 1991. Epidemiology of hepatitis A
+in the United States. In: Viral Hepatitis and Liver Disease, Hollinger, F.B., S.M.
+Lemon and H. Margolis (Eds.), Williams & Wilkins, Baltimore MD, pp. 71-76.
+54. Soper, G.A., 1939. The curious career of Typhoid Mary. Bull. N.Y. Acad Med.
+15:698-712.
+55. Tauxe, R.V., K.E. Johnson, J.C. Boase, S.D. Helgerson and P.A. Blake, 1986.
+Control of day care shigellosis: A trial of convalescent day care in isolation. Am.
+J. Public Health 76(6):627-630.
+56. Tauxe, R.V., N.D. Puhr, J.G. Wells, N. Hargrett-Bean and P.A. Blake, 1990.
+Antimicrobial resistance of Shigella isolates in the USA: The importance of
+international travelers. J. Infect. Dis. 162:1107-1111.
+57. Todd, ECD, JD Greig, CA Bartelson, and BS Michaels. 2007a. Outbreaks Where
+Food Workers Have Been Implicated in the Spread of Foodborne Disease. Part
+2. Description of Outbreaks by Size, Severity, and Settings. J Food Prot.
+70:1,975-1,993.
+58. Todd, ECD, JD Greig, CA Bartelson, AND BS Michaels. 2007b. Outbreaks
+Where Food Workers Have Been Implicated in the Spread of Foodborne
+Disease. Part 3. Factors Contributing to Outbreaks and Description of Outbreak
+Categories. J Food Prot. 70:2,199-2,217.
+59. U.S. Department of Health and Human Services. Healthy People 2010:
+Understanding and Improving Health. Volumes 1 and 2, 2nd ed. Washington,
+DC: U.S. Government Printing Office, November 2000, found at
+http://www.healthypeople.gov/2010/document/pdf/uih/2010uih.pdf
+60. Widdowson, Marc-Alain, et al. Jan. 2005. Norovirus and Foodborne Disease,
+United States, 1991-2000. Emerging Infectious Diseases. Vol. 11, No. 1. pp.
+95-102, found at http://www.cdc.gov/ncidod/EID/vol11no01/04-0426.htm
+2-201.13 Removal, Adjustment, or Retention of Exclusions and Restrictions.
+1. Code of Federal Regulations, Title 21, Section 110.10 Personnel. (a) Disease
+Control. " Any person who, by medical examination or supervisory observation is
+shown to have, or appears to have, an illness, ... shall be excluded from any
+operations which may be expected to result in contamination, ... Personnel shall
+be instructed to report such health conditions to their supervisors."
+2. Equal Employment Opportunity Commission, 2004. How to Comply with the
+Americans with Disabilities Act: A Guide for Restaurants and Other Food Service
+Employers, found at http://www.eeoc.gov/facts/restaurant_guide.html or
+http://www.eeoc.gov/facts/restaurant_guide_summary.html .
+3. Heymann, David L. MD, (Ed.), 2008. Control of Communicable Diseases Manual,
+19th Ed., American Public Health Association, Washington D.C.
+4. Lee, L.A., C.N. Shapiro, N. Hargrett-Bean and R.V. Tauxe, 1991. Hyperendemic
+Shigellosis in the United States: A review of surveillance data for 1967-1988. J.
+Infect. Dis. 164:894-900.
+5. Ryder, R.W. and P.A. Blake, 1979. Typhoid fever in the United States, 1975 and
+1976. J. Infect. Dis. 139:124-126.
+2-301.12 Cleaning Procedure. (Handwashing)
+1. Ansari, S. A., Springthorpe, V. S., Sattar, S. A., Tostowaryk, W., and Wells, G.
+A., 1991. Comparison of cloth, paper, and warm air drying in eliminating viruses
+and bacteria from washed hands. Am. J. Infect. Cont., Vol.19. No. 5. pp. 243-
+249.
+2. Ansari, S. A, Sattar, S. A., S., V. S., Wells, G. A. and Tostowaryk, W., 1989. In
+Vivo Protocol for Testing Efficacy of Hand-Washing Agents against Viruses and
+Bacteria: Experiments with Rotavirus and Escherichia coli. Appl. Environ.
+Microbiol., Vol. 55, No. 12. pp. 3113-3118.
+3. Ansari, S. A., Sattar, S. A., Springthorpe, V. S., Wells, G. A., and Tostowaryk,
+W., 1988. Rotavirus Survival on Human Hands and Transfer of Infectious Virus to
+Animate and Nonpourous Inanimate Surfaces, J. Clin. Microbiol., Vol. 26, No. 8.
+pp.1513-1518.
+4. Ayliffe, G.A.J., Babb, J.R., Davies, J.G., and Lilly, H.A., 1988. Hand disinfection:
+a comparison of various agents in laboratory and ward studies. J. Hosp. Infect.,
+Vol. 11, pp. 226-243.
+5. Ayliffe, G.A.J., Babb, J.R., and Quoraishi, A.H., 1978. A test for ‘hygienic’ hand
+disinfection. J. Clin. Path., Vol. 31, pp. 923-928.
+6. Bellamy, K., Alcock, R., Babb, J.R., Davies, J.G., and Ayliffe, G.A.J. 1993. A test
+for the assessment of ‘hygienic’ hand disinfection using rotavirus. J. Hosp.
+Infect., Vol. 24, pp. 201-210.
+7. Casewell, M., Phillips, I., 1977. Hands as route of transmission for Klebsiella
+species. Brit. Med. J. Vol. 2, No.19. pp.1315-1317.
+8. Cliver, D. O., and Kostenbader, K. D., 1984. Disinfection of virus on hands for
+prevention of food-borne disease. Intern. J. Food Microbiol., Vol. 1, pp. 75-87.
+9. De Witt, J.C. 1985. The importance of hand hygiene in contamination of foods.
+Netherlands Society for Microbiology, section for food microbiology meeting at
+Ede on 24 May, 1984. Antonie von Leeuwenhoek, Vol. 51, pp. 523-527.
+10. Eckert, D.G., Ehrenkranz, N.J., Alfonso, B.C. 1989. Indications for alcohol or
+bland soap in removal of aerobic gram-negative skin bacteria: assessment by a
+novel method. Infect. Control Hosp. Epidemiol., Vol. 10, pp. 306-311.
+11. The National Restaurant Association Educational Foundation (NRAEF), 2004.
+The Safe Foodhandler, in ServSafe Essentials, 3rd Ed., NRAEF, Chicago, IL
+pages 4-1 – 4-25.
+12. Eggers, H. J. 1990. Experiments on Antiviral Activity of Hand Disinfectants.
+Some Theoretical and Practical Considerations. Zbl. Bakt. Vol.273, pp.36-51.
+13. Ehrenkranz, N.J., 1992. Bland soap handwash or hand antisepsis? The pressing
+need for clarity. Infect. Control Hosp. Epidemiol., Vol. 13, No. 5, pp. 299-301.
+14. Ehrenkranz, N.J., Alfonso, B., 1991. Failure of bland soap handwash to prevent
+hand transfer of patient bacteria to urethral catheters. Infect. Control Hosp.
+Epidemiol. Vol. 12, No. 11, pp. 654-662.
+15. Garner, J.S. and M.S. Favero, 1985. Guidelines for Handwashing and Hospital
+Environmental Control. Hospital Infections Program, Center for Infectious
+Diseases, CDC, Atlanta, GA. pp. 7-9.
+16. Kjolen H., and Andersen, B. M., 1992. Handwashing and disinfection of heavily
+contaminated hands – effective or ineffective? J. Hosp. Infect., Vol. 21, pp. 61-
+71.
+17. Lane, C.G., and Blank, I.H., 1942. Cutaneous Detergents. J.A.M.A. 118 (10):
+804-816.
+18. Larson, E.L., 1995. APIC Guideline for handwashing and hand antisepsis in
+health care settings, American J. Infect. Control, Vol. 23, No. 4, pp. 251-269.
+19. Lilly, H.A, Lowbury, E.J.L. 1978. Transient skin flora. Their removal by cleansing
+or disinfection in relation to their mode of deposition. J. Clin. Path. Vol. 31, pp.
+919-922.
+20. Mbithi, J.N., Springthorpe, S., and Sattar, S., 1993. Comparative in vivo
+efficiencies of hand-washing agents against Hepatitis A virus (HM-175) and
+Poliovirus Type 1 (Sabin). Applied Environ Microbiol. Vol.59, No.10, pp. 3463-
+3469.
+21. McGinley, K.J., Larson, E.L., and Leyden, J.J. 1988. Composition and Density of
+Microflora in the Subungual Space of the Hand. J. of Clin. Micro. 26(5): 950-953.
+22. Minnesota Department of Health, 1990. Guidelines for the Prevention of the
+Transmission of Viral Hepatitis, Type A in the Food Service Area. Minnesota
+Department of Health, Div. Environ. Health, Minneapolis, MN. 2 pp.
+23. Paulson, D.S., 1992. Evaluation of three handwashing modalities commonly
+employed in the food processing industry. Dairy Food Environ. Sanit. 12(10):615-
+618.
+24. Pether, J.V.S., and Gilbert, R.J., 1971. The survival of salmonellas on finger-tips
+and transfer of the organism to foods. J. Hyg. Vol. 69, pp. 673-681.
+25. Price, P.B., 1938. The Bacteriology of Normal Skin; A New Quantitative Test
+Applied to a Study of the Bacterial Flora and the Disinfectant Action of
+Mechanical Cleansing, J. Infect. Dis. 63: 301-318.
+26. Restaino, L. and Wind, C.E., 1990. Antimicrobial effectiveness of hand washing
+for food establishments. Dairy, Food and Environ. San. Vol.10, No. 3, pp.136-
+141.
+27. Reybrouck, G., 1986. Handwashing and hand disinfection. J. Hosp. Infect. 8: 5-
+23.
+28. Rotter, M.L., G.A.J. Ayliffe, 1991. Practical Guide on Rationale and Testing
+Procedures for Disinfection of Hands. World Health Organization. 57 pp.
+29. Rotter, M.L., Koller, W., 1991. An European test for the evaluation of the efficacy
+of procedures for the antiseptic handwash? Hyg. Med., Vol. 16, pp.4-12.
+30. Rose, J.B., and Slifko, T.R., 1999. Giardia, Cryptosporidium, and Cyclospora and
+their impact on foods: a review. J. Food Protect. Vol. 62., No. 9, pp. 1059-1070.
+31. Sattar, S.A., and Springthorpe, V.S. 1996. Environmental spread and germicide
+control of viruses in hospitals. Infect Control & Steril.Tech, Vol. 2, no.7, pp. 30-
+36.
+32. Schurmann, W., and Eggers, H.J. 1985. An experimental study on the
+epidemiology of enteroviruses: water and soap washing of poliovirus 1 –
+contaminated hands, its effectiveness and kinetics. Med. Microbiol. Immunol. Vol.
+174, pp. 221-236.
+33. Smith, G.A., Jr, 1991. Handwashing et cetera, Lexington Board of Health,
+Personal Hygiene Sanitation Programs, Lexington, KY. 2 pp.
+34. Stiles, M.E., and Sheena, A.Z. 1987. Efficacy of Germicidal Hand Wash Agents
+in Use in a Meat Processing Plant. J. Food Protect. 50 (4):289-295.
+35. Sprunt, Katherine, Redman, Winifred, and Leidy, Grace, 1973. Antibacterial
+Effectiveness of Routine Hand Washing. Pediatrics, Vol. 52, No. 2, pp. 264-271.
+36. Williams, R.E.O., 1963. Healthy carriage of Staphylococcus aureus: Its
+prevalence and importance. Bacteriol. Rev. 27:56-71.
+2-301.13 Special Handwashing Procedures.
+Reserved.
+2-301.14 When to Wash.
+1. Ojajarvi, J., 1980. Effectiveness of handwashing and disinfection methods in
+removing transient bacteria after patient nursing. J. Hyg. Camb. 85:193-203.
+2-301.16 Hand Antiseptics.
+2. Code of Federal Regulations, Title 21, Part 178.1010 Sanitizing Solutions
+3. Code of Federal Regulations, Title 21, Part 170.39 Threshold of Regulation for
+Substances Used in Food-Contact Articles.
+4. Code of Federal Regulations, Title 21, Part 182 Substances Generally
+Recognized as Safe.
+5. Code of Federal Regulations, Title 21, Part 184 Direct Food Substances Affirmed
+as Generally Recognized as Safe.
+6. Code of Federal Regulations, Title 21, Part 186 Indirect Food Substances
+Affirmed as Generally Recognized as Safe for Use in Contact with Food.
+7. Federal Register (59) No. 116, June 17, 1994, Tentative Final Monograph (TFM)
+for Health Care Antiseptic Drug Products; Proposed Rule. Page 31440.
+http://www.gpo.gov/fdsys/pkg/FR-1994-06-17/html/94-14503.htm
+8. Food and Drug Administration, Center for Drug Evaluation and Research, Office
+of Pharmaceutical Science, Office of Generic Drugs, 2009. Approved Drug
+Products with Therapeutic Equivalence Evaluations (the Orange Book).
+http://www.fda.gov/cder/ob/default.htm.
+9. Food and Drug Administration. 2009. Inventory of Effective Food Contact
+Substance (FCS) Notifications. CFSAN/Office of Food Additive Safety. Found at
+http://www.accessdata.fda.gov/scripts/fcn/fcnNavigation.cfm?rpt=fcsListing
+10. Food and Drug Administration. FDA’s Inventory of GRAS Notices. Found at
+http://www.fda.gov/Food/IngredientsPackagingLabeling/GRAS/NoticeInventory/d
+efault.htm
+11. Food and Drug Administration, January, 2005. Investigations Operations Manual,
+Chapter 5, Establishment Inspection, Subchapter 530, Food Section 534,
+Equipment and Utensils.
+12. Stiles, M.E. and A.Z. Sheena, 1987. Efficacy of germicidal hand wash agents in
+use in a meat processing plant. J. Food Prot. 50(4): 289-294.
+2-302.11 Maintenance. (Fingernails)
+1. Pether, J.V.S. and R.J. Gilbert, 1971. The survival of salmonellas on finger-tips
+and transfer of the organisms to foods. J. Hyg. Camb. 69:673-681.
+2. Pottinger, J., S. Burns, and C. Manake, 1989. Bacterial carriage by artificial
+versus natural nails. Am. J. Infect. Control, 17(6):340-344.
+2-303.11 Prohibition. (Jewelry)
+2-304.11 Clean Condition. (Outer Clothing)
+2-401.11 Eating, Drinking, or Using Tobacco Products.
+2-402.11 Effectiveness. (Hair Restraints)
+1. Code of Federal Regulations, Title 21, Sections 110.10 Personnel. (b) (1)
+"Wearing outer garments suitable to the operation ...." (4) "Removing all
+unsecured jewelry ...." (6) "Wearing, where appropriate, in an effective manner,
+hair nets, head bands, caps, beard covers, or other effective hair restraints." (8)
+"Confining...eating food, chewing gum, drinking beverages or using tobacco...."
+and (9) "Taking other necessary precautions ...."
+2-403.11 Handling Prohibition. (Animals)
+1. Bond, R., L.E.M. Saijonmaa-Koulumies, and D.H. Lloyd, 1995. Population sizes
+and frequency of Malassezia pachydermatis at skin and mucosal sites on
+healthy dogs. J. Small Animal Pract. 36: 147-150.
+2. Code of Federal Regulations, Title 21, Section 110.35(c).
+3. Food and Drug Administration, 1985. Premises - Acceptability of pets in common
+dining areas of group residences (5/17/85). Retail Food Protection Program
+Information Manual.
+4. Hirooka, Elisa Y., Ernest E. Muller, Julio C. Freitas, Eduardo Vicente, Yuko
+Yoshimoto, and Merlin S. Bergdoll. 1988. Enterotoxigenicity of Staphylococcus
+intermedius of canine origin. Int. J. Food Micro. 7: 185-191.
+5. Khambaty, F.M., R.W. Bennett, and D.B. Shah. 1994. Application of pulsed-field
+gel electrophoresis to the epidemiological characterization of Staphylococcus
+intermedius implicated in a food-related outbreak. Epidemiol. Infect. 133: 75-81.
+2-501.11 Clean-up of Vomiting and Diarrheal Events.
+Amend References to add new §2-501.11, Clean-up of Vomiting and Diarrheal
+Events, to add references to read as follows:
+1. Barker, J., Vipond, I.B., Bloomfield, S.F. 2004. Effects of cleaning and
+disinfection in reducing the spread of Norovirus contamination via environmental
+surfaces. J. of Hospital Infection (2004) 58, 42-49.
+2. Barker, J., Jones. M.V. 2005. The potential spread of infection caused by aerosol
+contamination of surfaces after flushing a domestic toilet. J. of Applied
+Microbiology 99: 339-347.
+3. Center for Disease Control and Prevention (CDC). 2011. Updated Norovirus
+Outbreak Management and Disease Prevention Guidelines. 2011. MMWR
+60(RR03);1-15.
+4. Center for Disease Control and Prevention (CDC). 2009. Surveillance for
+Foodborne Disease Outbreaks – United States, 2006. MMWR 58(22); 609-615.
+5. Center for Disease Control and Prevention (CDC). 2007. Norovirus Activity –
+United States, 2006-2007. MMWR 58(33); 842-846.
+6. Center for Disease Control and Prevention (CDC). 2006. Norovirus Technical
+Fact Sheet. http://www.cdc.gov/norovirus/hcp/index.html
+7. Center for Disease Control and Prevention (CDC) 2006. Norovirus in Health care
+Facilities Fact Sheet. http://www.cdc.gov/hai/pdfs/norovirus/229110-
+ANoroCaseFactSheet508.pdf
+8. Center for Disease Control and Prevention (CDC). 2009. Recurring Norovirus
+Outbreaks in a Long-Term Residential Treatment Facility –Oregon, 2007. MMWR
+58(25); 694-698.
+9. Caul, E.O. 1994. Small round structured viruses: airborne transmission and
+hospital control. Lancet 343: 1240-1242.
+10. Cheesebrough, J.S., J. Green, C.I. Gallomore, P.A. Wright, and D.W.G. Brown.
+2000. Widespread environmental contamination with Norwalk-like viruses (NLV)
+detected in a prolonged hotel outbreak of gastroenteritis. Epidemiol. Infect.
+125:93-98.
+11. Duret, S., Pouillot, R., Fanaselle, W., Papafragkou, E., Liggans, G., Williams, L.,
+and J.M. Van Doren. 2017. Quantitative risk assessment of Norovirus
+transmission in food establishments: Evaluating the impact of intervention
+strategies and food employee behavior on the risk associated with Norovirus in
+foods. Risk Analysis. 37: 2080-2106.
+12. Fanaselle, W., Pouillot, R., Papafragkou, E., Liggans, G., Williams, L., and J.M.
+Van Doren. 2022. Evaluation of the impact of compliance with mitigation
+strategies and frequency of food establishment surface cleaning/sanitizing to
+control the transmission of Norovirus from ill food employees in restaurants using
+an existing quantitative risk assessment model. https://doi.org/10.4315/ JFP-21-
+423.
+Chapter 3. Food
+3-201.11 Compliance with Food Law.
+1. Centers for Disease Control, 1987. International outbreak associated with
+ungutted, salted whitefish. Morb. Mortal. Wkly. Rep. 36:812-813.
+2. Code of Federal Regulations, Title 21, Part 16, Regulatory Hearing Before the
+Food and Drug Administration.
+3. Code of Federal Regulations, Title 21, Part 101, Food Labeling.
+4. Code of Federal Regulations, Title 21, Part 115, Shell Eggs.
+5. Federal Register: (Volume 65, Number 234), Pages 76091-76114.
+6. Goverd, K.A., F.W. Beech, R.P. Hobbs and R. Shannon, 1979. The occurrence
+and survival of coliforms and salmonellas in apple juice and cider. J. Appl.
+Bacteriol. 46:521-530.
+7. Zhao, T., M.P. Doyle and R.E. Besser, 1993. Fate of enterohemorrhagic
+Escherichia coli O157:H7 in apple cider with and without preservatives. Appl.
+Environ. Microbiol. 59(8): 2526-2530.
+3-201.12 Food in a Hermetically Sealed Container.
+1. Code of Federal Regulations, Title 21, Parts 108 - Emergency Permit Control,
+113 - Thermally Processed Low-acid Foods Packaged in Hermetically Sealed
+Containers, and 114 - Acidified Foods.
+3-201.13 Fluid Milk and Milk Products.
+1. Black, R.E., R.J. Jackson, T. Tsai, M. Medvesky, M. Shaygani, J.C. Feely, K.I.E.
+MacLeod and A.M. Wakelee, 1978. Epidemic Yersinia enterocolitica infection
+due to contaminated chocolate milk. N. Engl. J. Med. 298:76-79.
+2. Food and Drug Administration/U.S. Public Health Service Publication No. 229,
+2007 revision. Grade “A” Pasteurized Milk Ordinance. 2007.
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/Milk/ucm2007968.htm
+3. Potter, M.E., A.F. Kauffmann, P.A. Blake and R.A. Feldman, 1984.
+Unpasteurized milk: The hazards of a health fetish. J. Am. Med. Assoc.
+252:2048-2052.
+3-201.14 Fish.
+1. Code of Federal Regulations, Title 21, Part 123 Fish and Fishery Products.
+2. Code of Federal Regulations, Title 21, Part 101.17(h) Food labeling warning
+notice, and safe handling statement.
+3. Code of Federal Regulations, Title 9, Part 317.2(l) Labels: definition; required
+features.
+4. Code of Federal Regulations, Title 9, Part 381.125(b) Special handling label
+requirements.
+5. Engleberg, N.C., J.G. Morris, Jr., J. Lewis, J.P. McMillan, R.A. Pollard and P.A.
+Blake. 1983. Ciguatera fish poisoning: a major common source outbreak in the
+U.S. Virgin Islands. Ann. Intern. Med. 98:336-337.
+6. EPA Annual National Listing of Fish Advisories and Press Release, March 2004,
+EPA-823-R-04-005, August 24, 2004, EPA Releases 12th Annual National Listing
+of Advisories at http://www.epa.gov/waterscience/fish/advisories/index.html
+7. EPA Press Release, March 2004, EPA-823-R-04-005, What You Need to Know
+About Mercury in Fish and Shellfish, 2004 EPA and FDA Advice For: Women
+Who Might Become Pregnant, Women Who are Pregnant, Nursing Mothers,
+Young Children at
+http://www.epa.gov/waterscience/fish/MethylmercuryBrochure.pdf or
+http://www.epa.gov/waterscience/fishadvice/advice.html
+8. EPA Technical Fact Sheet, EPA-823-F-04-016, August 2004. National Listing of
+Fish Advisories. http://www.epa.gov/waterscience/fish/advisories/factsheet.pdf
+9. Liston, J. 1990. Microbial hazards of seafood consumption. Food Technol.
+44(12):56, 58-62.
+10. Morris, J.G., Jr. 1988. Vibrio vulnificus: A new monster of the deep? Ann. Intern.
+Med. 109:261-263.
+11. Taylor, S.L. 1986. Histamine food poisoning: Toxicology and clinical aspects.
+C.R.C. Crit. Rev. Toxicol. 17:91-128.
+3-201.15 Molluscan Shellfish.
+1. Food and Drug Administration, Center for Food Safety and Applied Nutrition,
+2019. National Shellfish Sanitation Program Guide for the Control of Molluscan
+Shellfish found at https://www.fda.gov/food/federalstate-food-programs/national-
+shellfish-sanitation-program-
+nssp#:~:text=The%20National%20Shellfish%20Sanitation%20Program,and%20s
+old%20for%20human%20consumption
+2. Guzewich, J.J. and D.L. Morse, 1986. Sources of shellfish in outbreaks of
+probable viral gastroenteritis: Implications for control. J. Food Prot. 49:389-394.
+3. Sobsey, M.D., C.R. Hackney, R.J. Carrick, B. Ray and M.C. Speck, 1980.
+Occurrence of enteric bacteria and viruses in oysters. J. Food Prot. 43:111-128.
+3-201.16 Wild Mushrooms.
+1. Ammirati, J.F. et al., 1985. Poisonous Mushrooms of the Northern United States
+and Canada, University of Minnesota Press, Minneapolis, MN.
+2. Associated Press, 1997 Cable News Network, Inc. CNN report: poisonous
+mushrooms kill Sebastiani wine family member, January 16, 1997.
+3. Baltimore Sun Newspaper via Associated Press, February 9, 1996 report on girl
+who picked deadly mushrooms with family gets liver transplant.
+4. Chang, S.T. and W.A. Hayes, 1978. The Biology and Cultivation of Edible
+Mushrooms. Academic Press, New York. 819 pp.
+5. Food and Drug Administration, 1987. Food Supplies - Wild mushrooms (6/11/87).
+Retail Food Protection Program Information Manual.
+6. Gecan, J.S., and S.M. Cichowicz. 1993. Toxic mushroom contamination of wild
+mushrooms in commercial distribution. J. Food Prot. 56(8):730-734.
+7. Hoard, R. and K. Hoard, 1980. Poisonous Hallucinogenic Mushrooms, 2nd Ed.,
+Homestead Books, Brookfield, NY. 164 pp.
+8. Lincoff, G. and D. Mitchel, 1977. Toxic and Hallucinogenic Mushroom Poisoning,
+Van Nostrand Reinhold Company, New York, 267 pp.
+3-201.17 Game Animals.
+1. Code of Federal Regulations, Title 50, Part 17 Endangered and Threatened
+Wildlife and Plants.
+2. Code of Federal Regulations, Title 9, Part 352 Exotic animals; voluntary
+inspection of rabbits.
+3. Code of Federal Regulations, Title 9, Part 354 Voluntary inspection of rabbits and
+edible products thereof.
+4. Codex Alimentarius Commission, 1993. Draft Revised Code of Hygienic Practice
+for Game (April 1993). Alinorm 93/16A, Appendix IV, pp. 119-149.
+5. Federal Food, Drug, and Cosmetic Act, as Amended. 21 U.S.C. 201 et seq.
+6. Federal Meat Inspection Act. 21 U.S.C. 601 et seq.
+7. Hogue, A.T., D.W. Dreesen, S.S. Greene, A.D. Ragland, W.O. James, E.A.
+Bereron, L.V. Cook, M.D. Pratt, and D.R. Martin, 1993. Bacteria on beef briskets
+and ground beef: correlation with slaughter volume and antemortem
+condemnation. J. Food Prot. 56(2): 110-113, 119.
+8. Poultry Products Inspection Act. 21 U.S.C. 451 et seq.
+3-202.11 Temperature.
+1. Code of Federal Regulations, Title 9, Part 590 Egg Products Inspection Act,
+Temperature and labeling requirements.
+2. Humphrey, T.J., 1994. Contamination of egg shell and contents with Salmonella
+enteriditis: a review. International Journal of Food Microbiology, 21(1994) 31-40.
+3. Mishu, B., J. Koehler, L. Lee, D. Rodrigue, F. Hickman Brenner, P. Blake, and R.
+Tauxe, 1994. Outbreaks of Salmonella enteritidis infections in the United
+States, 1985-1991. J. Infect. Dis. 169:547-552.
+4. Rosenow, E.M. and E.H. Marth, 1987. Growth of Listeria monocytogenes in
+skim, whole and chocolate milk, and in whipping cream during incubation at
+4,8,13,21 and 35o C. J. Food Prot. 50:452-259.
+5. St. Louis, M.E., D.L. Morse, M.E. Potter, et al., 1988. The emergence of Grade A
+eggs as a major source of Salmonella enteritidis infections: New implications
+for the control of salmonellosis. J. Am. Med. Assoc. 259:2103-2107.
+3-202.12 Additives.
+1. Barlett, P.A., J.G. Morrie, Jr., and J. Spengler, 1982. Foodborne illness
+associated with niacin: Report of an outbreak linked to excessive niacin in
+enriched cornmeal. Public Health Rep. 97:258-260.
+2. Code of Federal Regulations, Title 9, Subpart C, Section 424.21(b) Food
+ingredients and sources of radiation.
+3. Code of Federal Regulations, Title 21, Parts 170-180 relating to food additives
+and irradiation.
+4. Code of Federal Regulations, Title 21, Parts 181-186 relating to prior-sanctioned
+ingredients and direct and indirect substances generally recognized as safe.
+5. Code of Federal Regulations, Title 40, Part 180 Tolerances for pesticides
+chemicals in food, and exceptions.
+6. Food and Drug Administration, 1987. Food Supplies - Sulfiting agents on food in
+retail food establishments (9/10/87). Retail Food Protection Program Information
+Manual.
+7. Food and Drug Administration, 2003. Color Additives: FDA’s Regulatory Process
+and Historical Perspectives. Reprinted from Food Safety Magazine
+October/November 2003 issue, CFSAN/Office of Cosmetics and Colors.
+http://www.fda.gov/ForIndustry/ColorAdditives/RegulatoryProcessHistoricalPersp
+ectives/default.htm
+8. Food and Drug Administration, 2007. Summary of Color Additives Listed for Use
+in the United States in Foods, Drugs, Cosmetics, and Medical Devices.
+CFSAN/Office of Food Additive Safety.
+http://www.fda.gov/ForIndustry/ColorAdditives/ColorAdditiveInventories/ucm1156
+41.htm
+9. Food and Drug Administration, 2009. Inventory of Effective Food Contact
+Substance (FCS) Notifications. CFSAN/Office of Food Additive Safety. Found at
+http://www.accessdata.fda.gov/scripts/fcn/fcnNavigation.cfm?rpt=fcsListing
+3-202.13 Eggs.
+1. Bradshaw, J.G., D.B. Shah, E. Forney, and J.M. Madden, 1990. Growth of
+Salmonella enteritidis in yolk of shell eggs from normal and seropositive hens.
+J. Food Prot. 53 (12):1033-1036.
+2. Centers for Disease Control, 1988. Update: Salmonella enteritidis infections
+and Grade A shell eggs - United States. Morb. Mortal. Wkly. Rep. 37:490-496.
+3. Gast, R.K. and C.W. Beard, 1990. Production of Salmonella enteritidis -
+contaminated eggs by experimentally infected hens. Avian Dis. 34:438-446.
+4. Kim, C.J., D.A. Emery, H. Rinkle, K.V. Nagaraja, and D.A. Halvorson. 1989.
+Effect of time and temperature on growth of Salmonella enteritidis in
+experimentally inoculated eggs. Avian Dis. 33:735-742.
+5. St. Louis, M.E., D.L. Morse, E. Potter, T.M. DeMelfi, J.J. Guzewich, R.V. Tauxe,
+and P.A. Blake. 1988. The emergence of Grade A eggs as a major source of
+Salmonella enteritidis infections. J. Am. Med. Assoc. 259:2103-2107.
+6. United States Standards, Grades, and Weight Classes for Shell Eggs, AMS
+56.200 et seq., administered by the Agricultural Marketing Services of USDA.
+3-202.14 Eggs and Milk Products, Pasteurized.
+1. Baker, R.C., S. Hogarty, W. Poon et al., 1983. Survival of Salmonella
+typhimurium and Staphylococcus aureus in eggs cooked by different
+methods. Poultry Sci. 62:1211-1216.
+2. Code of Federal Regulations, Title 21, Part 133, Cheeses and related cheese
+products.
+3. Code of Federal Regulations, Title 21, Part 135, Frozen desserts.
+4. Code of Federal Regulations, Title 9, Part 590, Inspection of Eggs and Egg
+Products (Egg Products Inspection Act).
+5. Cunningham, F.E., 1977. Egg pasteurization, in Egg Science and Technology,
+2nd Ed., J. Stadelman, and O.J. Cotterill (Eds.), AVI Publishing Company, Inc.,
+Westport, CT. pp. 161-186.
+6. Doyle, M.P., L.M. Meske and E.H. Marth, 1985. Survival of Listeria
+monocytogenes during the manufacture and storage of nonfat dry milk. J. Food
+Prot. 48(9):740.
+7. Food and Drug Administration/U.S. Public Health Service Publication No. 229,
+2007 revision. Grade “A” Pasteurized Milk Ordinance.
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/Milk/ucm2007968.htm
+8. Tacket, C.O., L.B. Dominguez, H.J. Fisher and M.L. Cohen, 1985. An outbreak of
+multiple-drug-resistant Salmonella Enteritis from raw milk. J. Am. Med. Assoc.
+253:2058-2060.
+3-202.16 Ice.
+1. Cliver, D.O., 1988. Virus transmission via foods; A scientific status summary by
+the Institute of Food Technologists' Expert Panel on Food Safety and Nutrition.
+Food Technol. 42(10):241-248.
+2. Jackson, G.L., 1990. Parasitic protozoa and worms relevant to the U.S. Food
+Technol. 44(5):106-112.
+3-202.17 Shucked Shellfish, Packaging and Identification.
+1. Code of Federal Regulations, Title 21, Subpart D – Specific Administrative
+Decisions Regarding Interstate Shipments, Section 1124.60(d) Molluscan
+shellfish.
+2. Food and Drug Administration/U.S. Public Health Service, 2007. National
+Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, found
+at
+http://www.fda.gov/Food/GuidanceRegulation/FederalStateFoodPrograms/ucm2
+006754.htm
+3-202.18 Shellstock Identification.
+3-202.19 Shellstock, Condition.
+1. Code of Federal Regulations, Title 21, Part 1240, Control of Communicable
+Disease, Molluscan Shellfish.
+2. Food and Drug Administration/U.S. Public Health Service, 2007. National
+Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, found
+at
+http://www.fda.gov/Food/GuidanceRegulation/FederalStateFoodPrograms/ucm2
+006754.htm
+3. Freudenthal, A.R. and J.L. Jijina. 1988. Potential hazards of Dinophysis to
+consumers and shellfisheries. J. Shellfish Res. 7:695-701.
+4. Klontz, K.C., S. Lieb, M. Schreider, H.T. Janowski, L.M. Baldy and R.A. Gunn.
+1988. Syndromes of Vibrio vulnificus infections: clinical and epidemiological
+features in Florida cases 1981-1987. Ann. Intern. Med. 109:318-323.
+5. Morse, D.L., J.J. Guzewich, J.P. Hanrahan, R. Stricot, M. Shayegani, R. Deible,
+J.C. Grabau, N.A. Nowak, J.E. Herrman, G. Cukor and N.R. Blacklow. 1986.
+Widespread outbreaks of clam and oyster associated gastroenteritis: Role of
+Norwalk virus. N. Engl. J. Med. 314:678-681.
+6. Nishitani, L. and K. Chew. 1988. PSP toxins in Pacific Coast states: monitoring
+programs and effects on bivalve industries. J. Shellfish Res. 1:653-669.
+7. Rippey, S.R., 1994. Seafood Borne Disease Outbreaks. U.S. Department of
+Health & Human Services, Public Health Service, Food and Drug Administration,
+Office of Seafood, 82 pp.
+3-202.110 Juice Treated.
+1. Code of Federal Regulations, Title 21, Part 120 Hazard Analysis and Critical
+Control (HACCP) Systems.
+2. Code of Federal Regulations, Title 21, Part 101.17(g) Juices that have not been
+specifically processed to prevent, reduce, or eliminate the presence of
+pathogens.
+3. Code of Federal Regulations, Title 21, Part 120.4 Process Controls.
+3-203.11 Molluscan Shellfish, Original Container.
+1. Food and Drug Administration, 1983. Food Supplies - Special requirements for
+retaining shell-stock "tags". (3/29/83), Retail Food Protection Program
+Information Manual.
+2. Food and Drug Administration, Center for Food Safety and Applied Nutrition,
+2019. National Shellfish Sanitation Program Guide for the Control of Molluscan
+Shellfish, found at https://www.fda.gov/media/143238/download
+3-203.12 Molluscan Shellfish, Maintaining Identification.
+1. Colburn, K.G., C.A. Kaysner, M.M. Wekell, J.R. Matches, C. Abeyta, Jr. and R.F.
+Stott, 1989. Microbiological quality of oysters (Crassostrea gigas) and water of
+live holding tanks in Seattle, WA markets. J. Food Prot. 52(2):100-104.
+2. Food and Drug Administration/U.S. Public Health Service, 2019. National
+Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, found
+at https://www.fda.gov/media/143238/download
+3-204.10 Food Donation
+1. Bill Emerson Good Samaritan Food Donation Action of 1996.
+https://www.govinfo.gov/content/pkg/PLAW-104publ210/pdf/PLAW-
+104publ210.pdf
+2. Conference for Food Protection. Comprehensive Guidance for Food Recovery
+Programs. http://www.foodprotect.org/guides-documents/comprehensive-
+guidance-for-food-recovery-programs/
+3. United States Department of Agriculture FSIS Guideline to Assist with the
+Donation of Eligible Meat & Poultry Products to Non-Profit Organizations
+December 2020. https://www.fsis.usda.gov/sites/default/files/media_file/2021-
+01/FSIS-Guideline-Food-Donation.pdf
+3-301.11 Preventing Contamination from Hands.
+1. Baert L, Uyttendaele M, Van Coillie E, Debevere J., 2008. The reduction of
+murine norovirus 1, B. fragilis HSP40 infecting phage B40-8 and E. coli after a
+mild thermal pasteurization process of raspberry puree. Food Microbiol. 25:871--
+4.
+2. Bidawid, S., Farber, J.M., and Sattar, S.A. 2000. Contamination of Foods by
+Food Handlers: Experiments on Hepatitis A Virus Transfer to Food and Its
+Interruption. Applied Env. Micro. 66(7): 2759-2763.
+3. Black, R.E., A.C. Dykes, K.E. Anderson et al., 1981. Hand washing to prevent
+diarrhea in day care centers. Am. J. Epidemiol. 113:445-451.
+4. Butot S, Putallaz T, Amoroso R, Sanchez G., 2009. Inactivation of enteric viruses
+in minimally processed berries and herbs. Appl. Environ. Microbiol. 75:4155--61.
+5. Cannon, J.L., Papafragkou, E., Park, G.W., Osborne, J., Jaykus, L.A., Vinje, J.,
+2006. Surrogates for the study of norovirus stability and inactivation in the
+environment: A comparison of murine norovirus and feline calicivirus. J. Food
+Prot. Nov;69(11):2761-5.
+6. Centers for Disease Control and Prevention (CDC), 2011. Updated Norovirus
+Outbreak Management and Disease Prevention Guidelines. Morb. Mortal. Wkly.
+Rep. Recommendations and Reports. 60 (3); 1-15.
+7. Cliver, D. O., and Kostenbader, K. D., 1984. Disinfection of virus on hands for
+prevention of food-borne disease. Intern. J. Food Microbiol., Vol. 1, pp.75-87.
+8. Crisley, F.D. and M.J. Foter. 1965. The use of antimicrobial soaps and
+detergents for hand washing in food service establishments. J. Milk Food
+Technol. 28:278-284.
+9. Croci, L., De Medici, D., Di Pasquale, S. and Toti, L., 2005. Resistance of
+hepatitis A virus in mussels subjected to different domestic cookings, Int. J. Food
+Microbiol. 105 (2), pp. 139–144.
+10. Food and Drug Administration, Center for Food Safety and Applied Nutrition,
+2009. Hepatitis A virus, in Bad Bug Book, Foodborne Pathogenic
+Microorganisms and Natural Toxins Handbook, found at
+http://www.fda.gov/Food/FoodborneIllnessContaminants/CausesOfIllnessBadBu
+gBook/default.htm
+11. Goldmann, D.A., 1991. The role of barrier precautions in infection control. J.
+Hosp. Infect., Vol. 18, (Supplement A), pp. 515-523.
+12. Goldmann, D.A., and Larson, E. 1992. Handwashing and nosocomial infections.
+New Eng. J. Med., Vol. 327, No.2. pp. 120-122.
+13. Hewitt J, Rivera-Aban M, Greening GE. Evaluation of murine norovirus as a
+surrogate for human norovirus and hepatitis A virus in heat inactivation studies.
+2009., J. Appl. Microbiol.; 107:65--71.
+14. Horwood, M.P. and V.A. Minch, 1951. The numbers and types of bacteria found
+on the hands of food handlers. Food Res. 16:133-136.
+15. Humphrey, T.J., K.W. Martin, and A. Whitehead. 1994. Contamination of hands
+and work surfaces with Salmonella enteritidis PT4 during the preparation of
+egg dishes. Epidemiol. Infect. 113: 403-409.
+16. Kaferstein, F.K., Motarjemi, Y., and Bettcher, D.W. 1997. Foodborne disease
+control: A transnational challenge, Emerg. Infect. Dis., Vol. 3, No. 4, pp. 503-511.
+17. Kennedy, J., Blair, I., McDowell, D. and Bolton, D., 2005. An investigation of the
+thermal inactivation of Staphylococcus aureus and the potential for increased
+thermotolerance as a result of chilled storage. J. Appl. Microbiol., 99: 1229–1235.
+18. Laird DT, Sun Y, Reineke KF, Carol Shieh Y., 2011. Effective hepatitis A virus
+inactivation during low-heat dehydration of contaminated green onions. Food
+Microbiol. Aug;28(5): 998-1002.
+19. Lingaas, E. and Fagernes, M., 2009. Development of a method to measure
+bacterial transfer from hands. J. Hosp. Infect. May;72(1):43-49.
+20. Lowbury, E.J.L., H.A. Lilly and J.P. Bull, 1964. Disinfection of hands: Removal of
+transient organisms. Brit. Med. J. 2:230-233.
+21. Mead, P.S., Slutsker, L., Dietz, V., McCraig, L.F., Bresee, J.S., Shapiro, C.,
+Griffin, P.M., Tauxe, R.V., 1999. Food-related illness and death in the United
+States. Emerg. Infect. Dis. Vol. 5, No.5, pp.38, found at
+http://www.cdc.gov/ncidod/EID/vol5no5/mead.htm.
+22. Mokhtari, A. and Jaykus, L.A., 2009. Quantitative exposure model for the
+transmission of norovirus in retail food preparation. Int. J. Food Microbiol. Jul 31;
+133(1-2): 38-47.
+23. Mormann, S., M. Dabish and B. Becker. 2010. Effects of technological processes
+on the tenacity and inactivation of norovirus genogroup II in experimentally
+contaminated foods. Appl. Env. Microbiol. 76: 536-545.
+24. Murphy, P., Nowak, T., Lemon, S. M. and Hilfenhaus, J. 1993. Inactivation of
+hepatitis a virus by heat treatment in aqueous solution. J. Med. Virol., 41: 61–64.
+25. Nuanualsuwan, S. and Cliver, D.O., 2003. Capsid Functions of Inactivated
+Human Picornaviruses and Feline Calicivirus. Appl. Env. Microbiol. 69: 350-357.
+26. Parry, J. V. and Mortimer, P. P.,1984. The heat sensitivity of hepatitis A virus
+determined by a simple tissue culture method. J. Med. Virol., 14: 277–283.
+27. Paulson, D.S., 1992. Evaluation of three handwashing modalities commonly
+employed in the food processing industry. Dairy Food Environ. Sanit. 12(10):615-
+618.
+28. Pether, J.V.S. and R.J. Gilbert, 1971. The survival of salmonellas on finger-tips
+and transfer of the organisms to foods. J. Hyg. Camb. 69:673-681.
+29. Rose, J.B., and Slifko, T.R., 1999. Giardia, Cryptosporidium, and Cyclospora and
+their impact on foods: a review. J. Food Protect. Vol. 62., No. 9, pp. 1059-1070.
+30. Ross, M., and Guzewich, J., September 1999. Evaluation of risks related to
+microbiological contamination of ready-to-eat food by food preparation workers
+and the effectiveness of interventions to minimize those risks. FDA White Paper,
+FDA, CFSAN.
+31. Smith, J.L., 1993. Cryptosporidium and Giardia as agents of foodborne disease.
+J. Food Protection. Vol. 56: 451-461.
+32. Spinks, A.T., Dunstan, R.H., Harrison, T., Coombes, P, Kuczera, G., 2006.
+Thermal inactivation of water-borne pathogenic and indicator bacteria at sub-
+boiling temperatures. Water Research 40:1326–1332.
+33. Strohbehn, C., Sneed, J., Paez, P., Meyer, J., 2008. Hand washing frequencies
+and procedures used in retail food services. J. Food Prot. Aug;71(8):1641-1650.
+34. Teunis, P. F., Moe, C. L., Liu, P., E. Miller, S., Lindesmith, L., Baric, R. S., Le
+Pendu, J. and Calderon, R. L., 2008. Norwalk Virus: How Infectious is It?. J.
+Med. Virol., 80: 1468–1476.
+35. Topping JR, Schnerr H, Haines J, et al., 2009. Temperature inactivation of Feline
+calicivirus vaccine strain FCV F-9 in comparison with human noroviruses using
+an RNA exposure assay and reverse transcribed quantitative real-time
+polymerase chain reaction-A novel method for predicting virus infectivity. J. Virol.
+Methods;156:89--95.
+36. Williams, R.E.O., 1963. Healthy carriage of Staphylococcus aureus: Its
+prevalence and importance. Bacteriol. Rev. 27:56-71.
+3-302.11 Packaged and Unpackaged Food - Separation, Packaging, and
+Segregation.
+1. Code of Federal Regulations, Title 21, Part 109, Unavoidable Contaminants in
+Food for Human Consumption and Food-Packaging Material.
+2. Dickson, J.S., 1990. Survival and growth of Listeria monocytogenes on beef
+tissue surfaces as affected by simulated processing conditions. J. Food Safety
+10:165-174.
+3. Doyle, M.P. and J.L. Schoeni, 1987. Isolation of Escherichia coli O157:H7 from
+retail fresh meats and poultry. Appl. Environ. Microbiol. 53:2394-2396.
+4. Stern, N.J., M.P. Hernandez, L. Blankenship, K.E. Deibel, S. Doors, M.P. Doyle,
+H. Ng, M.D. Pierson, J.N. Sofos, H. Sveum and D.C. Westhoff, 1985. Prevalence
+and distribution of Campylobacter jejuni and Campylobacter coli in retail
+meats. J. Food Prot. 48(7):595-599.
+3-302.12 Food Storage Containers, Identified with Common Name of Food.
+3-302.13 Pasteurized Eggs, Substitute for Raw Shell Eggs for Certain Recipes.
+1. Cunningham, F.E., 1977. Egg pasteurization, in Egg Science and Technology,
+2nd Ed., J. Stadelman, and O.J. Cotterill (Eds.), AVI Publishing Company, Inc.,
+Westport, CT. pp 161-186.
+2. USDA/ARS. 1969. Egg Pasteurization Manual (ARS 74-48), USDA/ARS Albany,
+CA 94710. 47 pp.
+3-302.15 Washing Fruits and Vegetables.
+1. Beuchat, L. 1998. Food Safety Issues. Surface Decontamination of Fruits and
+Vegetables Eaten Raw: A Review. World Health Organization. 42 pp.
+2. Chia-Min, Lin, Cheng-I Wei*, 1997. Transfer of Salmonella montevideo onto the
+Interior Surfaces of Tomatoes by Cutting. J. Food Prot. 60(7): 858-863.
+3. Geldreich, E.E. and R.H. Bordner, 1971. Fecal contamination of fruits and
+vegetables during cultivation and processing for market. J. Milk Food Technol.
+34:184-195.
+4. Heisick, J.E., D.E. Wagner, M.L. Nierman and J.T. Peeler, 1989. Listeria spp.
+found in fresh market produce. Appl. Environ. Microbiol. 55(8):1925-1927.
+5. Madden, J.M., 1992. Microbial pathogens in fresh produce - the regulatory
+perspective. J. Food Prot. 55(10):821-823.
+6. Satchell, F.B., P. Stevenson, W.H. Andrews, L. Estela and G. Allen, 1990. The
+survival of Shigella sonnei in shredded cabbage. J. Food Prot. 53:558-562.
+7. Steinbrugge, E.S., R.B. Maxcy and M.B. Liewen, 1988. Fate of Listeria
+monocytogenes on ready-to-serve lettuce. J. Food Prot. 51:596-599.
+3-303.11 Ice Used as Exterior Coolant, Prohibited as Ingredient.
+3-303.12 Storage or Display of Food in Contact with Water or Ice.
+1. Andrews, W.H., C.R. Wilson, P.L. Poelma and A. Romero, 1977. Bacteriological
+survey of channel catfish Ictalurus punctatus at the retail level. J. Food Sci.
+42:359-364.
+3-304.11 Food Contact with Equipment and Utensils.
+1. Chia-Min, Lin, Cheng-I Wei*, 1997. Transfer of Salmonella montevideo onto the
+Interior Surfaces of Tomatoes by Cutting, J. Food Prot. 60(7): 858-863.
+2. Escartin, E.F., A.C. Ayala and J.S. Lozano, 1989. Survival and growth of
+Salmonella and Shigella on sliced fresh fruit. J. Food Prot. 52(7):471-472.
+3. Golden, G.A., E.J. Rhodehamel and D.A. Kautter, 1993. Growth of Salmonella
+spp. in cantaloupe, watermelon, and honeydew melons. J. Food Prot. 56(3):194-
+196.
+4. Humphrey, T.J., K.W. Martin, and A. Whitehead. 1994. Contamination of hands
+and work surfaces with Salmonella enteritidis PT4 during the preparation of
+egg dishes. Epidemiol. Infect. 113: 403-409.
+5. Kim, H.U. and J.M. Goepfert, 1971. Occurrence of Bacillus cereus in selected
+dry food products. J. Milk Food Technol. 34:12-15.
+6. Lopes, J.A., 1986. Evaluation of dairy and food plant sanitizers against
+Salmonella typhimurium and Listeria monocytogenes. J. Dairy Sci. 69:2791-
+2796.
+7. Reida, P., M. Wolff, H.W. Pohls, W. Kuhlmann, A. Legnacher, S. Aleksic, H.
+Karch, J. Bockemuh. 1994. An Outbreak Due to Enterohemorrhagic Escherichia
+coli O157/H7 in a Children Day-Care-Center Characterized by Person-to-Person
+Transmission and Environmental Contamination. Zentralblatt Fur Bakteriologie-
+International, Int. J. Med. Micro. Vir. Para. Infect. Dis. 28(4): 534-543.
+8. Scott, Elizabeth and Sally F. Bloomfield. 1990. The Survival and Transfer of
+Microbial Contamination via Cloths, Hands, and Utensils. J. Appl. Bacteriol. 68:
+271-278.
+3-304.12 In-Use Utensils, Between-Use Storage.
+1. Food and Drug Administration, 1984. Food Preparation - Between-use storage of
+food preparation utensils (5/14/84). Retail Food Protection Program Information
+Manual.
+3-304.14 Wiping Cloths, Limitation.
+1. Scott, Elizabeth and Sally F. Bloomfield. 1990. Investigations of the effectiveness
+of detergent washing, drying and chemical disinfection on contamination of
+cleaning cloths. J. Appl. Bacteriol. 68: 279-283.
+2. Scott, Elizabeth and Sally F. Bloomfield. 1990. The Survival and Transfer of
+Microbial Contamination via Cloths, Hands and Utensils. J. Appl. Bacteriol. 68:
+271-278.
+3-304.15 Gloves, Use Limitation.
+1. Beezhold, Donald H., David A. Kostyal, and Jeffrey Wiseman. March 1994. The
+Transfer of Protein Allergens From Latex Gloves. AORN J. 59(3): 605-613.
+2. Reddy, Sumana, M.D. January 1, 1998. Latex Allergy. Am. Fam. Phys. 57(1): 93-
+100.
+3. Schwartz, Howard J., 1995, Latex: A potential hidden “food” allergen in fast food
+restaurants, J. Allergy Clin. Immunol. 95: 139-140.
+4. Tomazic, Vesna J., Eric L. Shampaine, Anthony Lamanna, Thomas J. Withrow,
+Franklin N. Adkinson, Jr., and Robert G. Hamilton. April, 1994. Cornstarch
+Powder on Latex Products is an Allergen Carrier, J. Allergy Clin. Immunol. 93(4):
+751-758.
+3-304.17 Refilling Returnables.
+1. Food and Drug Administration, 1985. Food Protection - Refilling of take-home
+beverage containers (8/29/85). Retail Food Protection Program Information
+Manual.
+3-306.13 Consumer Self-Service Operations.
+1. Food and Drug Administration, 1984. Food Protection - Customer self-service of
+bulk food (4/16/84). Retail Food Protection Program Information Manual.
+3-401.11 Raw Animal Foods.
+1. Baker, R.C., 1990. Survival of Salmonella enteritidis on and in shelled eggs,
+liquid eggs, and cooked egg products. Dairy Food Environ. Sanit. 10(5):273-275.
+2. Blankenship, L.E. and S.E. Craven, 1982. Campylobacter jejuni survival in
+chicken meat as a function of temperature. Appl. Environ. Microbiol. 44(1):88-92.
+3. Bryan, F.L. and T.W. McKinley, 1979. Hazard analysis and control of roast beef
+preparation in foodservice establishments. J. Fod Prot. 42(1):4-18.
+4. Buzby, Jean C. “Children and Microbial Foodborne Illness,” Food Review Volume
+24, Issue 2, pages 32-37. May-August, 2001
+5. Castellani, A.G., R.R. Clark, M.I. Gibson and D. F. Meisner, 1952. Roasting time
+and temperature required to kill food poisoning microorganisms introduced
+experimentally into stuffing in turkeys, Food Res. 18:131-138.
+6. Centers for Disease Control, 1993. Update: Multistate outbreak of Escherichia
+coli O157:H7 infections from hamburgers - western United States, 1992, 1993.
+Morb. Mortal. Wkly. Rep. 42 (14):258-263.
+7. Code of Federal Regulations, Title 9, Part 318.10, Prescribed Treatment of Pork
+and Products Containing Pork to Destroy Trichinae.
+8. Doyle, M.P. and J.L. Schoeni, 1984. Survival and growth characteristics of
+Escherichia coli associated with hemorrhagic colitis. Appl. Environ. Microbiol.
+48 (4):855-856.
+9. “Draft Risk Assessment of the Public Health Impact of Escherichia coli O157:H7
+in Ground Beef, Executive Summary,” Office of Public Health and Science/Food
+Safety and Inspection Service/USDA, October, 2001.
+https://www.fsis.usda.gov/node/2003
+10. Dubey, J.P., A.W. Kotula, A. Sharar, C.D. Andrews, and D.S. Lindsay, 1990.
+Effect of high temperature on infectivity of Toxoplasma gondii tissue cysts in
+pork. J. Parasitol., 76 (2):201-204.
+11. Dubey, J.P., 1998. Toxoplasma gondii Oocyst Survival under Defined
+Temperatures. J. Parasitol. 84(4):862-865.
+12. FoodNet Foodborne Diseases Active Surveillance Network, 1998 Final Report.
+March 2000. Found at http://www.cdc.gov/foodnet/data/reports.html
+13. Goodfellow, S.J. and W.L. Brown, 1978. Fate of Salmonella inoculated into beef
+for cooking. J. Food Prot. 41(8):598-605.
+14. Hague, M.A., K.E. Warren, M.C. Hunt, D.H. Kropf, C.L. Kastner, S.L. Stroda, and
+D.E. Johnson, 1994. Endpoint Temperature, Internal Cooked Color, and
+Expressible Juice Color Relationships in Ground Beef Patties, J. Food Sci.
+59(3):465-470.
+15. Jay, Michele T., Garrett, V., et. al, “A Multi-state Outbreak of Escherichia coli
+O157:H7 Infection Linked to Consumption of Beef Tacos at a Fast-Food
+Restaurant Chain”, Clinical Infectious Diseases. 2004:39(1):1-7.
+16. Kotula, A.W., K.D. Murell, L. Acosta-Stein and L. Lamb, 1983. Trichinella
+spiralis: Effect of high temperature on infectivity in pork. Exp. Parasitol. 56:15-
+19.
+17. Line, J.E., A.R. Fain, Jr., A.B. Moran, L.M. Martin, R.V. Lechowich, J.M.
+Carosella and W.L. Brown, 1991. Lethality of heat to Escherichia coli O157:H7:
+D-value and Z-value determinations in ground beef. J. Food Prot. 54 (10):62-766.
+18. Shah, D.B., J.G. Bradshaw and J.T. Peeler. 1991. Thermal resistance of egg-
+associated epidemic strains of Salmonella enteritidis. J. Food Sci. 56:391-393.
+19. Smith, J.L., 1994. Taenia solium neurocysticercosis. J. Food Prot. 57(9): 831-
+844.
+20. Smith, J.L., 1992. Toxoplasma gondii in meats - a matter of concern? Dairy
+Food Environ. Sanit. 12(6):341-345.
+21. Ward, D.R. and C.R. Hackney, 1991. Microbiology of Marine Food Products. Van
+Nostrand Reinhold, New York. 212 pp.
+22. Webster, R.C. and W.B. Esselen, 1956. Thermal resistance of food poisoning
+microorganisms in poultry stuffing. J. Milk Food Technol. 19:209-212.
+3-401.12 Microwave Cooking.
+1. Aleixa, J.A.G., B. Swaminathan, K.S. Jamesen and D.E. Pratt, 1985. Destruction
+of pathogenic bacteria in turkeys roasted in microwave ovens. J. Food Sci.
+50:873-875, 880.
+2. Czechowicz, S.M. 1996. Destruction of Escherichia coli O157:H7 in food and
+Non-Food Systems by Microwaves. Ph.D. Thesis. University of Minnesota. 241
+pages.
+3. Craven, S.E. and H.S. Lillard, 1974. Effect of microwave heating of precooked
+chicken on Clostridium perfringens. J. Food Sci. 39:211-212.
+4. Dahl, C.A., M.E. Matthews and E.H. Marth, 1980. Fate of Staphylococcus
+aureus in beef loaf, potatoes and frozen and canned green beans after
+microwave heating in a simulated cook/chill hospital food service system. J. Food
+Prot. 43:916-923.
+5. Heddleson, R.A. and S. Doores, 1993. Factors Affecting Microwave Heating of
+Foods and Microwave Induced Destruction of Food Pathogens - A Review. J.
+Food Prot. 57(11)1025-1037.
+6. Heddleson, R.A., S. Doores, R.C. Anantheswaran, and G.D. Kuhn, 1993.
+Viability Loss of Salmonella Species, Staphylococcus aureus, and Listeria
+monocytogenes in Complex Foods Heated by Microwave Energy. J. Food Prot.
+59(8)813-818.
+7. Sawyer, C.A., S.A. Biglari, and S.S. Thompson, 1984. Internal end temperature
+and survival of bacteria on meats with and without a polyvinylidene chloride wrap
+during microwave cooking. J. Food Sci. 49(3):972-973.
+8. Sawyer, C.A., 1985. Post-processing temperature rise in foods: Hot air and
+microwave ovens. J. Food Prot. 48(5):429-434.
+3-401.14 Non-Continuous Cooking of Raw Animal Foods.
+1. Appendix B, Compliance Guidelines for Cooling Heat-Treated Meat and Poultry
+Products (Stabilization) found at https://www.fsis.usda.gov/guidelines/2021-0013
+2. Code of Federal Regulations, Title 9, § 318.23 Heat-processing and stabilization
+requirements for uncured meat patties found at
+http://edocket.access.gpo.gov/cfr_2011/janqtr/pdf/9cfr318.23.pdf
+3. Code of Federal Regulations, Title 9, § 381.150 Requirements for the production
+of fully cooked poultry products and partially cooked poultry breakfast strips
+found at http://edocket.access.gpo.gov/cfr_2011/janqtr/pdf/9cfr381.150.pdf
+3-402.11 Parasite Destruction.
+1. Bier, J.W. 1976. Experimental Anisakiasis: Cultivation and Temperature
+Tolerance Determinations. J. Milk Food Technol. 39:132-137.
+2. Deardorff, T.L., R.B. Raybourne, R.S. Desowitz, 1986. Behavior and viability of
+third stage larvae of Terranova (HA) and Anisakis simplex (Type 1) under
+coolant conditions. J. Food Prot. 47:49-52.
+3. Deardorff, T.L. and R. Throm, 1988. Commercial blast-freezing kills third stage
+larvae of Anisakis simplex encapsulated in salmon and rockfish. J. Parasitol.
+74:233-250.
+4. Food and Drug Administration, 1987. Food Preparation - Raw, marinated or
+partially cooked fishery products. Retail Food Protection Program Information
+Manual (8/21/87).
+5. Food and Drug Administration, 1998. Fish and Fishery Products Hazards and
+Controls Guide, Office of Seafood. 276 pp.
+6. Food and Drug Administration, 2011. Fish and Fishery Products Hazards and
+Controls Guidance, 4th Edition, April 2011.
+7. Gustafson, P.V. 1953. The effect of freezing on encysted Anisakis larvae. J.
+Parasitol. 39:585-588.
+8. Haigashi, G.I., 1985. Foodborne parasites transmitted to man from fish and other
+aquatic foods. Food Technol. 39(3):69-74.
+9. Jackson, G.L., 1990. Parasitic protozoa and worms relevant to the U.S. Food
+Technol. 44(5):106-112.
+10. Kaneko, J., and P. Bartram, 1994. A position paper dated May 25, 1994
+submitted to Dockets Management Branch, U.S. Food and Drug Administration
+in response to the proposed FDA HACCP program for seafood. See Part 4:
+Critical Review of FDA Position on Parasite Hazards in Tuna.
+11. Ronald, K., 1960. The effects of physical stimuli on larval stages of Terranova
+decipiens. Can. J. Zool. 38:623-642.
+12. Ruitenberg, E.J., 1970. Anisakiasis: Pathogenesis, Serodiagnosis and Control.
+University of Utrecht, Netherlands. 138 pp.
+3-402.12 Records, Creation, and Retention.
+3-403.11 Reheating for Hot Holding.
+1. Bennett, R.W. and M.R. Berry, 1987. Serological activity and in vitro toxicity of
+Staphylococcus aureus enterotoxins A and D in selected canned foods. J.
+Food Sci. 52:416-418.
+2. Bradshaw, J.G., J.T. Peeler and R.M. Twedt, 1979. Thermal inactivation of
+Clostridium botulinum toxins types A and B in buffer, and beef and mushroom
+patties. J. Food Sci. 44(6):1653-1657.
+3. Craven, S.E., 1980. Growth and sporulation of Clostridium perfringens in
+foods. Food Technol. 34(4):80-87.
+4. Food Refrigeration & Process Engineering Research Centre, reporting period 1
+March 95 to 1 August 96. Determination of unsatisfactory temperature
+distributions within foods heated in microwave ovens. Measurement and Testing
+Programme (MTP), Framework 3, Part 2, contract number MATI-CT 940014,
+University of Bristol, UK.
+5. Heddleson, R.A., S. Doores, R.C. Anantheswaran, and G.D. Kuhn, 1993.
+Viability Loss of Salmonella Species, Staphylococcus aureus, and Listeria
+monocytogenes in Complex Foods Heated by Microwave Energy. J. Food Prot.
+59(8)813-818.
+6. Johnson, K.M., C.L. Nelson and F.F. Busta, 1983. Influence of temperature on
+germination and growth of spores of emetic and diarrheal strains of Bacillus
+cereus in growth medium and in rice. J. Food Sci. 48:286-287.
+7. Licciardello, J.J., C.A. Ribich, J.T.R. Nickerson and S.A. Goldblith, 1967. Kinetics
+of the thermal inactivation of type E Clostridium botulinum toxin. Appl.
+Microbiol. 15(2):344-349.
+8. Roy, R.J., F.F. Busta and D.R. Thompson, 1981. Thermal inactivation of
+Clostridium perfringens after growth at several constant and linearly rising
+temperatures. J. Food Sci. 46:1586-1591.
+9. Woodburn, M.J., E. Somers, J. Rodriguez and E.J. Schantz, 1979. Heat
+inactivation rates of botulism toxin A, B, E, and F in some foods and buffers. J.
+Food Sci. 44:1658-1661.
+3-501.11 Frozen Food.
+3-501.12 Time/Temperature Control for Safety Food, Slacking.
+3-501.13 Thawing.
+1. Bryan, F.L. and T.W. McKinley, 1974. Prevention of foodborne illness by time-
+temperature control of thawing, cooking, chilling and reheating of turkeys in
+school lunch kitchens. J. Milk Food Technol. 37:420-429.
+3-501.14 Cooling.
+1. Blankenship, L.C., S.E. Craven, R.G. Leffler and C. Custer, 1988. Growth of
+Clostridium perfringens in cooked chili during cooling. Appl. Environ. Microbiol.
+54(5):1104-1108.
+2. Bryan, F.L., 1974. Identifying Foodborne Disease Hazards in Food Service
+Establishments. J. Environ. Health 36(6):537-540.
+3. Bryan, F.L., 1979. Prevention of Foodborne Diseases in Food Service
+Establishments. J. Environ. Health 41(4):198-206.
+4. Dickerson, R.W., Jr. and R.B. Read, Jr., 1973. Cooling rates of foods. J. Milk
+Food Technol. 36(3):167-171.
+5. Juneja, V.K., O.P. Snyder, Jr., and M. Cygnarowicz-Provost. 1994. Influence of
+cooling rate on outgrowth of Clostridium perfringens spores in cooked ground
+beef. J. Food Prot. 57:(12):1063-1067.
+6. Lewis, M.N., H.H. Weisner and A.R. Winter, 1953. Bacterial growth in chicken
+salad. J. Am. Diet. Assoc. 29:1094-1099.
+7. Longrée, K. and J.C. White, 1955. Cooling rates and bacterial growth in food
+prepared and stored in quantity. I. Broth and white sauce. J. Am. Diet. Assoc.
+31:124-132.
+8. USDA/FSIS. 1999. Final Rule-Performance Standards for the Production of
+Certain Meat and Poultry Products. Federal Register, 64:(3):732-749.*
+3-501.15 Cooling Methods.
+1. Bryan, F.L., 1990. Application of HACCP to ready-to-eat chilled foods. Food
+Technol. 45(7):7077.
+2. Rollin, J.L. and M.E. Matthews, 1977. Cook-chill foodservice systems:
+Temperature histories of a cooked beef product during the chilling process. J.
+Food Prot. 40:782-784.
+3-501.16 Time/Temperature Control for Safety Food, Hot and Cold Holding.
+1. Abdul-Raouf, U.M., L.R. Beauchat and M.S. Ammar, 1993. Survival and growth
+of Escherichia coli:O157:H7 in ground roasted beef as affected by pH,
+acidulants, and temperature. Appl. Environ. Microbiol. 59(8):2364-2368.
+2. Ahmed, A. A., M.K. Moustafa and E.H. Marth. 1983. Incidence of Bacillus
+cereus in milk and some milk products. J. Food Prot. 46:126-128.
+3. Angelotti, R., M.J. Foter and K.L. Lewis, 1961. Time-temperature effects on
+Salmonellae and Staphylococci in foods. II. Behavior in warm holding
+temperatures. Am. J. Public Health 51:76-88.
+4. Baxter R. and W.H. Holzapfel. 1982. A microbial investigation of selected spices,
+herbs, and additives in South Africa. J. Food Sci. 47: 570-578.
+5. Blankenship, L.C. Craven, S.C., Leffler, R. G. and C. Custer. 1988. Growth of
+Clostridium perfringens in cooked chili during cooling. Appl. Environ. Microbiol.
+54: 1104-1108.
+6. Brown, D.F. and R.M. Twedt, 1972. Assessment of the sanitary effectiveness of
+holding temperatures on beef cooked at low temperature. Appl. Microbiol. 24:
+599-603.
+7. Bryan, F.L., C.A. Bartleson, and N. Christopherson. 1981. Hazard analyses, in
+reference to Bacillus cereus, of boiled and fried rice in Cantonese-style
+restaurants. J. Food Prot. 44:500-512.
+8. Collee, J.G., Knolden, J.A. and B.C. Hobbs. 1961. Studies on the growth,
+sporulation and carriage of Clostridium welchii with special reference to food
+poisoning strains. J. Appl. Bacteriol. 24:326-329.
+9. Craven, S.E. Blankenship, L.C. and J.L. McDonel. 1981. Relationship of
+sporulation, enterotoxin formation and spoilage during growth of Clostridium
+perfringens type A in cooked chicken. Appl. Environ. Microbiol. 41: 1184-1191.
+10. Doyle, M.P., N.J. Bains, J.L. Schoeni and E.M. Foster, 1982. Fate of Salmonella
+typhimurium and Staphylococcus aureus in meat salads prepared with
+mayonnaise. J. Food Prot. 45:152-156.
+11. El-Sherbeeny, M.R., M.F. Saddik, H.E-L. Aly, and F.L. Bryan. 1985.
+Microbiological profile and storage temperatures of Egyptian rice dishes. J. Food
+Prot. 48: 39-43.
+12. Fermanian, C., Fremy, M. and M. Claisse. 1994. Effect of temperature on the
+vegetative growth of type and field strains of Bacillus cereus. Let. Appl. Microbiol.
+19: 414-418.
+13. Hall, H.E. and R. Angelotti. 1965. Clostridium perfringens in meat and meat
+product. Applied Microbiology. 13: 352-354.
+14. Johnson, K. M., Nelson, C. L. and F. F. Busta. 1983. Influence of temperature on
+germination and growth of spores of emetic and diarrheal strains of Bacillus
+cereus in a broth model and in rice. J. Food Sci. 48: 286-287.
+15. Kim, H.U. and J.M. Goepfert. 1971. Occurrence of Bacillus cereus in selected
+dry food products. J. Milk Food Technol. 34:12-15.
+16. Ladiges, W.C., J.F. Foster and W.M. Ganz. 1974. Incidence and viability of
+Clostridium perfringens in ground beef. J. Milk Food Technol. 37(12) 622-623.
+17. Lillard, H.S. 1971. Occurrence of Clostridium perfringens in boiler processing
+and further processing operations. J. Food Science. 36: 1008-1010.
+18. Makukutu, C.A. and R.K. Guthrie, 1986. Survival of Escherichia coli in food at
+hot-holding temperatures. J. Food Prot. 49(7):496-499.
+19. Mead, G.C. 1969. Growth and sporulation of Clostridium welchii in breast and
+leg muscle of poultry. J. Appl Bacteriol. 32:86-95.
+20. Mead, P., L. Slutsker, V. Dietz, L. F. McCaig, J. S. Bresee, C. Shapiro, P. M.
+Griffin, and R. V. Tauxe. 1999. Food related illness and death in the United
+States. Emerging Infect Dis 5:607-625.
+21. Mikolajcik, E. M., Kearney, J.W. and T. Kristofferson. 1973. Fate of Bacillus
+cereus in cultured and direct acidified skim milk and cheddar cheese. J Milk
+Food Technol. 36: 317-320.
+22. Morita, T.N. and M.J. Woodburn. 1977. Stimulation of Bacillus cereus growth by
+protein in cooked rice combinations. J. Food Sci. 42 (5) 1232-1235.
+23. Nakamura, M. and K.D. Kelly. 1968. Clostridium perfringens in dehydrated
+soups and sauces. J. Food Science 33:424-426.
+24. Park, Y. and E.M. Mikolaicik. 1979. Effect of temperature on growth and alpha
+toxin production by Clostridium perfringens. J Food Protect. 42:848-851.
+25. Rusul, G. and N. H. Yaacob. 1995. Prevalence of Bacillus cereus in selected
+foods and detection of enterotoxin using TECRA-VIA and BCET-RPLA. Int. J.
+Food Microbiol. 25: 131-139.
+26. Seals, J.E., J.D. Snyder, T.A. Edell et al., 1981. Restaurant associated botulism:
+transmission by potato salad. Am. J. Epidemiol. 113:436-444.
+27. Shoemaker, S. P., and M. D. Pierson. 1976. “Phoenix phenomenon” in the
+growth of Clostridium perfringens. Appl. Environ. Micro. 32(6): 803-807.
+28. Smart, J.L., T.A. Roberts, M.F. Stringer, and N. Shah. 1979. The incidence and
+serotypres of Clostridium perfringens on beef, pork and lamb carcasses. J.
+Applied Bacteriology. 46:377-383.
+29. Solomon, H.M. and D.A. Kautter, 1988. Outgrowth and toxin production by
+Clostridium botulinum in bottles of chopped garlic. J. Food Prot. 51(11):862-
+865.
+30. Strong, D., J.C. Canada and B. Griffiths. 1962. Incidence of Clostridium
+perfringens in American foods. Appl. Microbiol. 11:42-44.
+31. Strong, D.H. and N.M. Ripp, 1967. Effect of cooking and holding on hams and
+turkey rolls contaminated with Clostridium perfringens. Appl. Microbiol.
+15:1172-1177.
+32. Willardsen, R.R., F.F. Busta, C.E. Allen and L.B. Smith, 1978. Growth and
+survival of Clostridium perfringens during constantly rising temperatures. J.
+Food Sci. 43:470-475.
+33. Willardsen, R.R., Busta, F.F., Allen, C.E. 1979. Growth of Clostridium
+perfringens in three different beef media and fluid thioglycollate medium at static
+and constantly rising temperatures. J. Food Protect. 42: 144-148.
+3-501.17 Ready-to-Eat, Time/Temperature Control for Safety Food, Date Marking.
+3-501.18 Ready-to-Eat, Time/Temperature Control for Safety Food, Disposition.
+1. Chen, Y., W.H. Ross, V.N. Scott, V.N. and D.E. Gombas, 2003. Listeria
+monocytogenes: Low Levels Equal Low Risk. J. Food Prot. 66(4):570-577.
+2. Code of Federal Regulations, Title 21, Part 114 Acidified foods.
+3. Code of Federal Regulations, Title 21, Part 133 Cheeses and related cheese
+products.
+4. Code of Federal Regulations, Title 9, Part 430. 2003. Control of Listeria
+monocytogenes in Ready-to-Eat Meat and Poultry Products.
+5. Code of Federal Regulations, Title 21, Part 117 Current good manufacturing
+practice in manufacturing, packing, or holding human food.
+6. Code of Federal Regulations, Title 9, Part 317 Labeling, marking devices, and
+containers.
+7. Code of Federal Regulations, Title 21, Part 131 Milk and cream.
+8. Food and Drug Administration/CDC, 2003. Reducing the Risk of Listeria
+monocytogenes, FDA/CDC 2003 Update of the Listeria Action Plan, found at
+http://www.fda.gov/Food/FoodborneIllnessContaminants/FoodborneIllnessesNee
+dToKnow/ucm332272.htm
+9. Food and Drug Administration/USDA/CDC, 2003. Quantitative Assessment of the
+Relative Risk to Public Health from Foodborne Listeria monocytogenes Among
+Selected Categories of Ready-to-Eat Foods.
+10. Food and Drug Administration Docket No. 99N-1168 and FSIS Docket No.
+00-048N, 2001. Draft Assessment of the Relative Risk to Public Health from
+Foodborne Listeria monocytogenes Among Selected Categories of Ready-to-
+Eat Foods.
+11. Food and Drug Administration,1999. Date Marking of Cheese. Retail Food
+Protection Team Program Information Manual (12/15/99), found at
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandR
+egulatoryAssistanceandTrainingResources/ucm113942.htm
+12. Genigeorgis, C., M. Carniciu, D. Dutulescu and T.B. Farver, 1991. Growth and
+Survival of Listeria monocytogenes in Market Cheeses Stored at 4 to 30ºC. J.
+Food Prot. 54(9):662-668.
+13. Gombas, D.E., Y. Chen, R. Clavero, R. and V.N. Scott, V.N, 2003. Survey of
+Listeria monocytogenes in Ready-to-Eat Foods. J. Food Prot. 66(4):559-569.
+14. Palumbo, S.A., 1986. Is refrigeration enough to restrain foodborne pathogens? J.
+Food Prot. 49(12):1003-1009.
+15. Rosso, L., S. Bajard, J.P. Flandrois, C. Lahellec, J. Fournaud and P. Veit, 1996.
+Differential Growth of Listeria monocytogenes at 4 and 8oC: Consequences for
+the Shelf Life of Chilled Products, J. Food Prot. 59:944-949.
+16. Ryser, E.T., E.H. Marth, 1987. Behavior of Listeria monocytogenes during the
+Manufacture and Ripening of Cheddar Cheese. J. Food Prot. 50(1):7-13.
+17. Steinbruegge, E.D., R.B. Maxcy and M.B. Liewen, 1988. Fate of Listeria
+monocytogenes on ready to serve lettuce. J. Food Prot. 51:596-599.
+18. USDA Agricultural Research Service. Pathogen Modeling Program Version 7.0.
+Microbial Food Safety Research Unit, Wyndmoor, PA., found at
+http://ars.usda.gov/Main/docs.htm?docid=11566 .
+19. Wallace, F.M., J.E. Call, A.C.S. Porto, G.J. Cocoma, ERRC Special Project
+Team, and J.B. Luchansky, 2003. Recovery Rate of Listeria monocytogenes
+from Commercially Prepared Frankfurters during Extended Refrigerated Storage.
+J. Food Prot. 66(4):584-591.
+20. Yousef, A.E. and E.H. Marth, 1988. Behavior of Listeria monocytogenes during
+the Manufacture and Storage of Colby Cheese. J. Food Prot. 51(1):12-15.
+3-501.19 Using Time as a Public Health Control.
+1. Bryan, F. L. and E. G. Kilpatrick, 1971. Clostridium perfringens related to roast
+beef cooking, storage and contamination in a fast food service restaurant. Am.
+J. of Public Health. 61 (9): 1869-1885.
+2. Conference for Food Protection, Council III Committee Report, 2004. Time as a
+Public Health Control, Conference for Food Protection.
+3. Danyluk, M. D., Friedrich, L. M., & Schaffner, D. W. (2014). Modeling the growth
+of Listeria monocytogenes on cut cantaloupe, honeydew and watermelon. Food
+microbiology, 38, 52-55.
+4. de Modelos, D. (2007). Growth of Salmonella Enteriditidis and Listeria
+Monocytogenes in melon pulp: predictive modelling and evaluation of model
+performance. Braz. J. Food Technol, 10(3), 176-182.
+5. Doan, C. H. and P. M. Davidson, 1999. Growth of Bacillus cereus on Oil-
+Blanched Potato Strips for “Home-Style” French Fries. J. Food Sci. 64:909-912.
+6. Doan, C. H. and P. M. Davidson, 1999. Growth and Production of Enterotoxin A
+by Staphylococcus aureus on “Home-Style” French Fries. J. Food Sci. 64:913-
+917.
+7. Ferguson, R. D. and L.A. Shelef, 1990. Growth of Listeria monocytogenes in
+soy milk. Food Micro. 7: 49-52.
+8. ICMSF, 1996. Microorganisms in Foods 5. Characteristics of Microbial
+Pathogens. Chapter 2 Bacillus Cereus. P20-35. Blackie Academic &
+Professional, London.
+9. ICMSF, 1996. Microorganisms in Foods 5. Characteristics of Microbial
+Pathogens. Chapter 6 Clostridium perfringens. P112-125. Blackie Academic &
+Professional, London.
+10. Johnson, K.M., C.L. Nelson and F.F. Busta, 1983. Influence of temperature on
+germination and growth of spores of emetic and diarrheal strains of Bacillus
+cereus in growth medium and in rice. J. Food Sci. 48:286-287.
+11. Mead, P.S., L. Slutsker, V. Dietz, L.F. McCaig, J.S. Bresee, C. Shapiro, P.
+Griffen, and R.V. Tauxe, 1999. Food related illness and death in the United
+States. Emerging Infectious Disease. 5 (5): 607-625.
+12. Melling, J.and B.J. Capel, 1978. Characteristics of Bacillus cereus toxin. FEMS
+Micro Letters. 4:133-135.
+13. Mishra, A., Guo, M., Buchanan, R. L., Schaffner, D. W., & Pradhan, A. K. (2017).
+Prediction of Escherichia coli O157: H7, Salmonella, and Listeria monocytogenes
+growth in leafy greens without temperature control. Journal of food
+protection, 80(1), 68-73.
+14. Pan, W., & Schaffner, D. W. (2010). Modeling the growth of Salmonella in cut red
+round tomatoes as a function of temperature. Journal of food protection, 73(8),
+1502-1505.
+15. Salazar, J. K., Sahu, S. N., Hildebrandt, I. M., Zhang, L., Qi, Y., Liggans, G., ... &
+Tortorello, M. L. (2017). Growth Kinetics of Listeria monocytogenes in Cut
+Produce. Journal of food protection, 80(8), 1328-1336.
+16. Sionkowski, P.J. and L.A. Shelef, 1990. Viability of Listeria monocytogenes
+strain Brie-1 in the avian egg. J. Food Prot. 53 (1): 15-17.
+17. Solomon, H.M. and D.A. Kautter, 1986. Growth and toxin production by
+Clostridium botulinum in sautéed onions. J. Food Prot. 49(10):618-620.
+18. Solomon, H.M. and D.A. Kautter, 1988. Outgrowth and toxin production by
+Clostridium botulinum in bottled chopped garlic. J. Food Prot. 51(11):862-865.
+19. Tatini, S.R., 1973. Influence of food environments on growth of
+Staphylococcus aureus and production of various enterotoxins. J. Milk Food
+Technol. 36(11):559-563.
+20. USDA Agriculture Agricultural Research Service. Pathogen Modeling Program
+Version 7.0. Microbial Food Safety Research Unit, Wyndmoor, PA., found at
+http://ars.usda.gov/Services/docs.htm?docid=11550
+3-502.11 Variance Requirement.
+1. Barber, F.E. and R.H. Deibel, 1972. Effect of pH and oxygen tension on
+Staphylococcal growth and enterotoxin formation in fermented sausage. Appl.
+Microbiol. 24:891-898.
+2. Dickerson, R.W. and R.B. Read. 1968. Calculations and measurement of heat
+transfer in foods. Food Technol. 22:1533.
+3. Dickerson, R.W. and R.B. Read, 1973. Cooling rates in foods. J. Milk Food
+Technol. 36(3):167-171.
+4. Food and Drug Administration, 1999. Guidance for Industry: Reducing Microbial
+Food Safety Hazards for Sprouted Seeds, Washington, D.C., found at
+https://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryIn
+formation/ProducePlantProducts/ucm2007944.htm
+5. Food and Drug Administration, 1999. Guidance for Industry: Sampling and
+Microbial Testing of Spent Irrigation Water During Sprout Production,
+Washington, D.C., found at
+https://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryIn
+formation/ProducePlantProducts/ucm2007944.htm
+6. Montville, R. and D.W. Schaffner, 2004. Analysis of Published Sprout Seed
+Sanitation Studies Shows Treatments Are Highly Variable. J. Food Prot. 67(4):
+758-765.
+7. National Advisory Committee on Microbiological Criteria for Foods, 1992. Hazard
+analysis and critical control point system. Int. J. Food Microbiol. 16:1-23.
+8. Pierson, M.D. and D. A. Corlett Jr. (Eds.) 1992. HACCP Principles and
+Applications. Van Nostrand Reinhold, New York. 212 pp.
+9. Shigehisa, T., T. Nakagami and S. Taji, 1985. Influence of heating and cooling
+rates on spore germination and growth of Clostridium perfringens in media and
+in roast beef. Jpn. J. Vet. Sci. 47(2):259.
+10. Snyder, O.P., Jr., 1986. Applying the Hazard Analysis and Critical Control Points
+system in foodservice and foodborne illness prevention. J. Foodservice Systems
+4:125-131.
+11. Sperber, W.H., 1982. Requirements of Clostridium botulinum for growth and
+toxin production. Food Technol. 36(12):89-94.
+12. Tanaka, N., 1982. Challenge of pasteurized process cheese spreads with
+Clostridium botulinum using in-process and post-process inoculation, J. Food
+Prot. 45:1044-1050.
+13. Troller, J.A., 1972. Effect of water activity on enterotoxin A production and growth
+of Staphylococcus aureus. Appl. Microbiol. 24(3):440-443.
+3-502.12 Reduced Oxygen Packaging Without a Variance, Criteria.
+1. Association of Food and Drug Officials, 1990. Retail guidelines - Refrigerated
+foods in reduced oxygen packages. J. Assoc. Food Drug Offic. 54(5):80-84.
+2. Aureli, P., M. Di Cunto, A. Maffei, G. De Chiara, G. Fransiosa, L. Accorinti, A.M.
+Gambardella, and D. Greco. 2000. An outbreak in Italy of botulism associated
+with a dessert made with mascarpone cream cheese. Europ. J. Epidemiol.
+16:913-918.
+3. Bennett, R.W. and W.T. Amos, 1982. Staphylococcus aureus growth and toxin
+production in nitrogen packed sandwiches. J. Food Prot. 45(2):157-161.
+4. Berrang, M.E., R.E. Brackett and L.R. Beuchat, 1989. Growth of Listeria
+monocytogenes on fresh vegetables under controlled atmosphere. J. Food Prot.
+52:702-705.
+5. Briozzo, J., E.A. de Lagarde, J. Chirife, and J.L. Parada. 1983. Clostridium
+botulinum Type A growth and toxin Production in media and process cheese
+spread. Appl. and Env. Microbiol.. 45:1150-1152.
+6. Code of Federal Regulations, Title 21, Part 133 Cheeses and Related Cheese
+Products.
+7. Code of Federal Regulations, Title 9, Part 424 Preparation and Processing
+Operations, Use of food ingredients and sources of radiation.
+8. Conner, D.E., V.N. Scott, D.T. Bernard and D.A. Kautter, 1989. Potential
+Clostridium botulinum hazards associated with extended shelf-life refrigerated
+foods: A review. J. Food Safety 10:131-153.
+9. Davis, H., J.P. Taylor, J.N. Perdue, G.N. Stelma, Jr., J.M. Humphreys, Jr., R.
+Roundtree III, and K.D. Greene, 1988. A shigellosis outbreak traced to
+commercially distributed shredded lettuce. Am. J. Epidemiol. 128(6):1312-1321.
+10. Doyle, M. P. 1991. Evaluating the potential risk from extended shelf-life
+refrigerated foods by Clostridium botulinum inoculation studies. Food Tech.
+154-156.
+11. Farber, J.M. and K.L. Dodd’s (Eds.). 1995. Principles of Modified – Atmosphere
+and Sous Vide Product Packaging. Technomic Publishing Company, Inc.,
+Lancaster, PA 17604.
+12. Gill, C.O. and K.M. Delacy, 1991. Growth of Escherichia coli and Salmonella
+typhimurium on high-pH beef packaged under vacuum or carbon dioxide. Int. J.
+Food Microbiol. 13:21-30.
+13. Glass, K.A. and E.A. Johnson. 2004. Factors that contribute to the botulinal
+safety of reduced-fat and fat-free process cheese products. J. Food Prot.
+67:1687-1693.
+14. Gould, G.W. 1999. Sous vide foods: Conclusions of an ECFF botulinum working
+party. Food Control 10. 47-51.
+15. Grau, F.H. and P.B. Vanderline, 1990. Growth of Listeria monocytogenes on
+vacuum packaged beef. J. Food Prot. 53:739-741, 746.
+16. Johnson, E.A., J.H. Nelson, and M. Johnson. 1990. Microbiology safety cheese
+made from heat-treated milk, Part 1 Executive summary, introduction and history.
+J. Food Prot. 53:441-452.
+17. Juneja, Vijay, Stefan T. Martin and Gerald M. Sapers, 1998. Control of Listeria
+monocytogenes in Vacuum-Packaged Pre-Peeled Potatoes. J. Food Science
+63(5):911-914.
+18. Kautter, D.A., 1964. Clostridium botulinum type E in smoked fish. J. Food Sci.
+29:843-849.
+19. Marth, Elmer H., 1998. Extended Shelf Life Refrigerated Foods: Microbiological
+Quality and Safety. Food Technology 5(2):57-62.
+20. National Advisory Committee on Microbiological Criteria for Foods. 1990.
+Refrigerated foods containing cooked, uncured meat or poultry products that are
+packaged for extended refrigerated shelf life and that are ready-to-eat or
+prepared with little or no additional heat treatment. Washington, DC, found at
+National Advisory Committee on Microbiological Criteria for Foods (NACMCF) |
+Food Safety and Inspection Service (usda.gov)..
+21. New York Department of Agriculture and Markets, 1993. Guidelines for Reduced
+Oxygen Packaging at Retail. Division of Food Safety and Inspection, 1 Winners
+Circle, Albany, NY 12235, 2 pp.
+22. Nolan, D.A., D.C. Chamblin, and J.A. Troller, 1992. Minimal water activity for
+growth and survival of Listeria monocytogenes and Listeria innocua. Int. J.
+Food Microbiol. 16:323-335.
+23. Olarte, C., E. González-Fandos, M.Giménez, S. Sanz and J. Portu. 2002. The
+growth of Listeria monocytogenes in fresh goat cheese (Cameros cheese)
+packaged under modified atmospheres. Food Microbiol. 19, 75-82.
+24. Peck, M.W, Goodburn, K.E., Betts, R.P., and Stringer, S.C. 2008. Assessment of
+the potential for growth and neurotoxin formation by non-proteolytic Clostridium
+botulinum in short shelf-life commercial foods designed to be stored chilled.
+Trends in Food Science & Technology. 19:207-216.
+25. Pourshafie, M.R., M. Saifie, A. Shafiee, P. Vahdani, M. Aslani, and J.Salemian.
+1998. An outbreak of food-borne Botulism associated with contaminated locally
+made cheese in Iran. Scand. J. Infect. 30:92-94.
+26. Refrigerated Foods and Microbiological Criteria Committee of the National Food
+Processors Association, 1988. Factors to be Considered in Establishing Good
+Manufacturing Practices for the Production of Refrigerated Foods. Dairy and
+Food Sanitation, 8(6):288-291.
+27. Refrigerated Foods and Microbiological Criteria Committee of the National Food
+Processors Association, 1988. Safety Considerations for New Generation
+Refrigerated Foods. Dairy and Food Sanitation, 8(1):5-7.
+28. Skinner, G.E, Larkin, J.W. 1998. Conservative Prediction of Time to clostridium
+botulinum Toxin Formation for Use with Time-Temperature Indicators To Ensure
+the Safety of Foods. Journal of Food Protection, 61(9):1154-1160.
+29. Smelt, J.P.P., G.J.M. Raatjes, J.S. Crowther, and C.T. Verrips. 1981. Growth and
+toxin formation by Clostridium botulism at low pH values. J. Appl. Bact. 52:75-
+82.
+30. Townes, J. M., P. R. Cieslak, MD., C. L. Hatheway, PhD., H.M. Solomon, MS., J.
+T. Holloway, MD., M. P. Baker, MD., C. F. Keller, BS., L. M. McCrosky, BS., and
+P.M.
+31. Griffin, MD. 1996. An outbreak of Type A Botulism associated with a commercial
+cheese sauce. Ann. Int. Med. 125:558-563.
+32. Whitley, E., D. Muir and W.M. Waites. 2000. The growth of Listeria
+monocytogenes in cheese packed under a modified atmosphere. J. of Appl.
+Microbiol. 88, 52-57.
+3-601.11 Standards of Identity.
+3-601.12 Honestly Presented.
+3-602.11 Food Labels.
+3-602.12 Other Forms of Information.
+3-603.11 Consumption of Raw or Undercooked Animal Foods.
+1. Centers for Disease Control, 1993. Update: Multistate outbreak of Escherichia
+coli O157:H7 infections from hamburgers - western United States, 1992,1993.
+Morb. Mortal. Wkly. Rep. 42(14):258-263.
+2. Code of Federal Regulations, Title 9, Part 319 Definitions and standards of
+identity or composition.
+3. Code of Federal Regulations, Title 21, Part 101 – Food labeling.
+4. Code of Federal Regulations, Title 9, Part 317 Labeling, marking devices, and
+containers.
+5. Federal Food, Drug, and Cosmetic Act, Sec. 403(q)(3)-(5), nutrition labeling.
+6. Morris, J.G., Jr. 1988. Vibrio vulnificus: A new monster of the deep? Ann.
+Intern. Med. 109:261-263.
+7. Potter, M.E., A.F. Kauffmann, P.A. Blake and R.A. Feldman, 1984.
+Unpasteurized milk: The hazards of a health fetish. J. Am. Med. Assoc.
+252:2048-2052.
+8. St. Louis, M., et al. 1988. The emergence of Grade A eggs as a major source of
+Salmonella enteritidis infections. J. Am. Med. Assoc. 259:2103-2107.
+9. Tacket, C.O., L.B. Dominguez, H.J. Fisher, and M.L. Cohen, 1985. An outbreak
+of multiple-drug-resistant Salmonella enteritidis from raw milk. J. Am. Med.
+Assoc. 253:2058-2060.
+3-801.11 Pasteurized Foods, Prohibited Reservice, and Prohibited Food.
+1. Besser, R.E., S.M. Lett, J.T. Webber, M.P. Doyle, T.J. Barrett, J.G. Wells, and
+P.M. Griffin, 1993. An Outbreak of Diarrhea and Hemolytic Uremic Syndrome
+From Escherichia coli O157H:7 in Fresh-Pressed Apple Cider. J. Am. Med.
+Assoc., 269(17):2217-2220.
+2. Code of Federal Regulations, Title 21, Part 120 Hazard Analysis and Critical
+Control Point (HACCP): Procedures for the Safe and Sanitary Processing and
+Importing of Juice, found at http://www.ecfr.gov/cgi-bin/text-
+idx?c=ecfr&SID=370071ae0a9a1e0ebcee093fcf6f088a&rgn=div5&view=text&no
+de=21:2.0.1.1.17&idno=21
+3. Conner, D.E., and J.S. Kotrola. Growth and Survival of Escherichia coli
+O157H:7 under Acidic Conditions. Applied and Environmental Microbiology,
+January, 1995, pp. 382-385.
+4. Goverd, K.A., F.W. Beech, R.P. Hobbs and R. Shannon, 1979. The occurrence
+and survival of coliforms and salmonellas in apple juice and cider. J. Appl.
+Bacteriol. 46:521-530.
+5. Humphrey, T.J., K.W. Martin, and A. Whitehead. 1994. Contamination of hands
+and work surfaces with Salmonella enteritidis PT4 during the preparation of
+egg dishes. Epidemiol. Infect. 113: 403-409.
+6. Miller, L.G., and C.W. Kaspar, 1994. Escherichia coli O157:H7 Acid Tolerance
+and Survival in Apple Cider. J. Food Pro. 57(6):460-464.
+7. Zhao, T., M.P. Doyle and R.E. Besser, 1993. Fate of enterohemorrhagic
+Escherichia coli O157:H7 in apple cider with and without preservatives. Appl.
+Environ. Microbiol. 59(8): 2526-2530.
+Chapter 4. Equipment, Utensils, and Linens
+4-101.13 Lead, Use Limitation.
+1. Food and Drug Administration, 2003. COMPLIANCE PROGRAM GUIDANCE
+MANUAL, PROGRAM 7304.019, Toxic Elements in Food and Foodware, and
+Radionuclides in Food – Import and Domestic, CHAPTER 04 – PESTICIDE AND
+CHEMICAL CONTAMINANTS, found at:
+http://www.fda.gov/Food/ComplianceEnforcement/FoodCompliancePrograms/uc
+m071496.htm
+2. Food and Drug Administration, 1995. Compliance Policy Guide Section 545.450
+Pottery (Ceramics); Imported and Domestic – Lead Contamination (CPG
+7117.07), found at:
+http://www.fda.gov/ICECI/ComplianceManuals/CompliancePolicyGuidanceManu
+al/ucm074516.htm
+3. Food and Drug Administration, 1998. Dangers of Lead Still Linger. FDA
+Consumer, January-February 1998.
+4-101.14 Copper, Use Limitation.
+1. Low, B.A., J.M. Donahue, and C.B. Bartley, 1996. FINAL REPORT - A STUDY
+ON BACKFLOW PREVENTION ASSOCIATED WITH CARBONATORS. NSF,
+International, Ann Arbor, MI. pp. 18-20.
+2. Peterson, C.S., 1979. Microbiology of Food Fermentation, 2nd Ed. AVI
+Publishing Co., Inc., Westport, Connecticut, pp. 288-293.
+4-101.16 Sponges, Use Limitation.
+1. Enriquez, C.E., R. Enriquez-Gordillo, D.I. Kennedy, and C.P. Gerba, January,
+1997. Bacteriological Survey of Used Cellulose Sponges and Cotton Dishcloths
+from Domestic Kitchens. Dairy, Food and Environmental Sanitation, Vol. 17, No.
+1, pp. 20-24.
+4-101.17 Wood, Use Limitation.
+1. Abrishami, S.H., B.D. Tall, T.J. Bruursema, P.S. Epstein and D.B. Shah.
+Bacterial Adherence and Viability on Cutting Board Surfaces. Department of
+Microbiology, NSF International, Ann Arbor, MI and Division of Microbiological
+Studies, Center for Food Safety and Applied Nutrition, U.S. Food and Drug
+Administration, Washington, D.C. Journal of Food Safety 14 (1994) 153-172.
+2. Agricultural Research Service, U.S. Department of Agriculture. ARS Affirms
+Plastic Cutting Board Policies. Food Chemical News, December 6, 1993, pp. 56-
+57.
+3. Code of Federal Regulations, Title 21, Part 178.3800 Preservatives for wood.
+4-204.13 Dispensing Equipment, Protection of Equipment and Food.
+1. NSF/ANSI 18-2007 Manual Food and Beverage Dispensing Equipment. NSF
+International, http://www.nsf.org
+4-501.13 Microwave Ovens.
+1. Code of Federal Regulations, Title 21, Part 1030.10 Microwave ovens.
+4-501.114 Manual and Mechanical Warewashing Equipment, Chemical
+Sanitization - Temperature, pH, Concentration, and Hardness.
+1. Code of Federal Regulations, Title 21, Part 1030.10 Microwave ovens.
+2. Code of Federal Regulations, Title 40, Part 180.940 Tolerance exemptions for
+active and inert ingredients for use in antimicrobial formulations (food-contact
+surface sanitizing solutions), found at
+http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR
+3. Code of Federal Regulations, Title 40 Part 152.500 Pesticide registration and
+classification procedures, Requirements for devices found at
+http://edocket.access.gpo.gov/cfr_2009/julqtr/pdf/40cfr152.500.pdf
+4. Code of Federal Regulations, Title 40 Part 156.10 Labeling requirements for
+pesticides and devices found at
+http://edocket.access.gpo.gov/cfr_2009/julqtr/pdf/40cfr156.10.pdf
+5. EPA's Good Laboratory Practices Standards (GLPS) found at
+http://www.epa.gov/compliance/monitoring/programs/fifra/glp.html
+6. Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) Sections 2(q)(1) and
+12 found at http://www.epa.gov/pesticides/regulating/laws.htm
+7. Miller, M.P., Principal Investigator, 1984. Relationship of Factors Affecting
+Bactericidal Effectiveness of Chlorine Sanitizing Solutions. Final Report. National
+Sanitation Foundation, Ann Arbor, MI., subcontract No. 9013-092-108-H0620-
+101; Booz, Allen & Hamilton, Inc. contract No. 223-80-2295.
+8. Miller, M.P., Principal Investigator, 1985. Relationship of Factors Affecting
+Bactericidal Effectiveness of Chlorine Sanitizing Solutions. Addendum to Final
+Report. National Sanitation Foundation, Ann Arbor, MI., subcontract No. 9013-
+092-108-H0620-101; Booz, Allen & Hamilton, Inc. contract No. 223-80-2295.
+9. National Sanitation Foundation, Ann Arbor, MI. November, 1990. Report on the
+Bacterial Effectiveness of a Chlorine Sanitizing Solution at Contact Times of Less
+than Ten Seconds. Purchase Order #FDA 665531-00-90-RB
+4-602.11 Equipment Food-Contact Surfaces and Utensils.
+1. Tauxe, R.V., M.D., Chief, Foodborne and Diarrheal Diseases Branch, Division of
+Bacterial and Mycotic Diseases, National Center for Infectious Disease and M.L.
+Cohen, M.D., Director, Division of Bacterial and Mycotic Diseases, National
+Center for Infectious Diseases, memo dated January 10, 1996 re: "Bacterial
+Contamination of Iced Tea," to State and Territorial Epidemiologists and State
+and Territorial Public Health Laboratory Directors. Memo includes two fact sheets
+by the Tea Association of the U.S.A., Inc.
+4-703.11 Hot Water and Chemical.
+1. Miller, M.P., Principal Investigator, 1984. Relationship of Factors Affecting
+Bactericidal Effectiveness of Chlorine Sanitizing Solutions. Final Report. National
+Sanitation Foundation, Ann Arbor, MI., subcontract No. 9013-092-108-H0620-
+101; Booz, Allen & Hamilton, Inc. contract No. 223-80-2295.
+2. Miller, M.P., Principal Investigator, 1985. Relationship of Factors Affecting
+Bactericidal Effectiveness of Chlorine Sanitizing Solutions. Addendum to Final
+Report. National Sanitation Foundation, Ann Arbor, MI., subcontract No. 9013-
+092-108-H0620-101; Booz, Allen & Hamilton, Inc. contract no. 223-80-2295.
+3. National Sanitation Foundation, Ann Arbor, MI. November, 1990. Report on the
+Bacterial Effectiveness of a Chlorine Sanitizing Solution at Contact Times of Less
+than Ten Seconds. Purchase Order #FDA 665531-00-90-RB.
+4-901.11 Equipment and Utensils, Air-Drying Required.
+1. Code of Federal Regulations, Title 40, Part 180.940 Tolerance Exemptions for
+Active and Inert Ingredients for Use in Antimicrobial Formulations (food-contact
+surface sanitizing solutions), before contact with food.
+Chapter 5. Water, Plumbing, and Waste
+1. Code of Federal Regulations, Title 40, Part 180.940 Tolerance Exemptions for
+Active and Inert Ingredients for Use in Antimicrobial Formulations (food-contact
+surface sanitizing solutions), before contact with food.
+2. Code of Federal Regulations, Title 21, Part 129 – Processing and Bottling of
+Bottled Drinking Water.
+3. International Association of Plumbing and Mechanical Officials, 2003 Uniform
+Plumbing Code, Walnut, CA. Available for sale at
+http://publications.iapmo.org/categories.asp?id=1
+4. International Code Council. 2003 International Plumbing Code, Falls Church, VA.
+Available for sale at https://www.iccsafe.org/codes-tech-support/topics/plumbing-
+mechanical-and-fuel-gas/international-plumbing-code-ipc-home-page/
+5-102.12 Nondrinking Water.
+1. FDA, Program Information Manual, Retail Food Protection, Storage and Handling
+of Tomatoes, posted 10/05/07, updated 09/25/08. Available at:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandR
+egulatoryAssistanceandTrainingResources/ucm113843.htm
+2. FDA, Guide to Minimize Microbial Food Safety Hazards for Fresh-cut Fruits and
+Vegetables, posted 10/26/98, updated 08/19/03, 02/2008. Available at:
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/ProducePlantProducts/ucm064458.htm
+5-202.12 Handwashing Facility, Installation.
+1. American Society for Testing and Materials, Designation: E 1838-02, Standard
+Test Method for Determining the Virus-Eliminating Effectiveness of Liquid
+Hygienic Handwash and Handrub Agents Using the Fingerpads of Adult
+Volunteers. ASTM, Philadelphia, PA.
+2. American Society for Testing and Materials, Designation: E 2011-99, Standard
+Test Method for Evaluation of Handwashing Formulations for Virus-Eliminating
+Activity Using the Entire Hand. ASTM, Philadelphia, PA.
+3. American Society for Testing and Materials, Designation: E 1327-90 (reapproved
+2000), Standard Test Method for Evaluation of Health Care Personnel Handwash
+Formulations by Utilizing Fingernail Regions. ASTM, Philadelphia, PA.
+4. American Society for Testing and Materials, Designation: E 1174-00, Standard
+Test Method for Evaluation of Health Care Personnel or Consumer Handwash
+Formulations. ASTM, Philadelphia, PA.
+5. Code of Federal Regulations, Title 21, Part 129 Processing and Bottling of
+Drinking Water.
+5-203.13 Service Sink.
+1. Barker, J. and Bloomfield, S. F., 2000. Survival of Salmonella in bathrooms and
+toilets in domestic homes following salmonellosis. Journal of Applied
+Microbiology, 89, 137-144.
+2. Barker, J. and Jones, M.V., 2005. The potential spread of infection caused by
+aerosol contamination of surfaces after flushing a domestic toilet. Journal of
+Applied Microbiology, 99, 339-347.
+3. Barker, J., Vipond, I. B, and Bloomfield, S. F., 2004. Effects of cleaning and
+disinfection in reducing the spread of Norovirus contamination via environmental
+surfaces. Journal of Hospital Infection, 58, 42-49.
+4. Cheesbrough, J. S., Green, J., Gallimore, C. I., and Wright, P.A., 2000.
+Widespread environmental contamination with Norwalk-like viruses (NLV)
+detected in a prolonged hotel outbreak of gastroenteritis. Epidemiol. Infect., 125,
+93-98.
+5. Gerba, C. P., C. Wallis, and J.L. Melnick, 1975. Microbiological Hazards of
+Household Toilets: Droplet Production and the Fate of Residual Organisms. Appl.
+Microbiology, 30(2):229-237.
+6. Mokhtari, A. and Jaykus, L. (2009). Quantitative exposure model for the
+transmission of norovirus in retail food preparation. International Journal of Food
+Microbiology, 133 (1-2), 38-47.
+5-203.15 Backflow Prevention Device, Carbonator.
+1. American Society of Sanitary Engineering, ASSE Product Performance
+Standards , Standard 1022. ASSE International Office, 901 Canterbury, Suite A,
+Westlake, OH 44145. Available at: http://www.asse-plumbing.org/standards.html
+Chapter 6 Physical Facilities
+6-202.15 Outer Openings, Protected.
+1. National Fire Protection Association, NFPA 101 Life Safety Code, 2009 Edition,
+Quincy, MA. Available for sale at:
+http://www.nfpa.org/aboutthecodes/aboutthecodes.asp?docnum=101
+2. National Fire Protection Association, NFPA 101 Life Safety Code Handbook,
+2009 Edition, Quincy, MA.
+6-303.11 Intensity.
+1. Illuminating Engineering Society of North America, 2000. Lighting Handbook, 9th
+Ed., IESNA Publications Dept., New York, NY. 900+ pp.
+6-301.12 Hand Drying Provision
+1. D. R. Patrick, G. Findon and T. E. Miller (1997). Residual moisture determines
+the level of touch-contact-associated bacterial transfer following hand washing.
+Epidemiology and Infection, 119, pp 319-325 .
+6-501.18 Cleaning Plumbing Fixtures
+1. Barker, J. and Bloomfield, S. F., 2000. Survival of Salmonella in bathrooms and
+toilets in domestic homes following salmonellosis. Journal of Applied
+Microbiology, 89, 137-144.
+2. Barker, J. and Jones, M.V., 2005. The potential spread of infection caused by
+aerosol contamination of surfaces after flushing a domestic toilet. Journal of
+Applied Microbiology, 99, 339-347.
+3. Barker, J., Vipond, I. B, and Bloomfield, S. F., 2004. Effects of cleaning and
+disinfection in reducing the spread of Norovirus contamination via environmental
+surfaces. Journal of Hospital Infection, 58, 42-49.
+4. Cheesbrough, J. S., Green, J., Gallimore, C. I., and Wright, P.A., 2000.
+Widespread environmental contamination with Norwalk-like viruses (NLV)
+detected in a prolonged hotel outbreak of gastroenteritis. Epidemiol. Infect., 125,
+93-98.
+5. Gerba, C. P., C. Wallis, and J.L. Melnick, 1975. Microbiological Hazards of
+Household Toilets: Droplet Production and the Fate of Residual Organisms. Appl.
+Microbiology, 30(2):229-237.
+6-501.111 Controlling Pests
+1. Monica Pava-Ripoll, Rachel E. Goeriz Pearson, Amy K. Miller, and George C.
+Ziobro. 2012. Prevalence and Relative Risk of Cronobacter spp., Salmonella
+spp., and Listeria monocytogenes Associated with the Body Surfaces and
+Guts of Individual Filth Flies. Applied and Environmental Microbiology 78 (22):
+7891-7902. http://aem.asm.org/content/78/22.toc?etoc
+Chapter 7. Poisonous or Toxic Materials
+7-202.12 Conditions of Use.
+1. Federal Insecticide, Fungicide, and Rodenticide Act, 7 USC 136 Definitions, (e)
+Certified Applicator, of the Federal Insecticide, Fungicide, and Rodenticide Act
+found at http://www.epa.gov/opp00001/regulating/fifra.pdf.
+7-204.11 Sanitizers, Criteria.
+1. Code of Federal Regulations, Title 40, Part 180.940 Tolerance exemptions for
+active and inert ingredients for use in antimicrobial formulations (Food-contact
+surface sanitizing solutions) found at:
+http://edocket.access.gpo.gov/cfr_2010/julqtr/pdf/40cfr180.940.pdf
+2. Code of Federal Regulations, Title 40 Part 180.2020 Pesticide Chemicals Not
+Requiring a Tolerance or an Exemption From Tolerance-Non-Food
+determinations found at:
+http://edocket.access.gpo.gov/cfr_2010/julqtr/pdf/40cfr180.2020.pdf
+3. Code of Federal Regulations, Title 29 Part 1910.1000 Occupational Safety and
+Health Standards found at:
+http://edocket.access.gpo.gov/cfr_2010/julqtr/pdf/29cfr1910.1000.pdf
+7-204.12 Chemicals for Washing Fruits and Vegetables, Criteria.
+1. Code of Federal Regulations, Title 21, Part 173.315, Chemicals used in washing
+or to assist in the peeling of fruits and vegetables.
+2. Code of Federal Regulations, Title 21, Part 173.405, Secondary Direct Food
+Additives Permitted in Food for Human Consumption; Sodium
+Dodecylbenzenesulfonate.
+7-204.13 Boiler Water Additives, Criteria.
+1. Code of Federal Regulations, Title 21, Part 173.310, Boiler water additives.
+7-204.14 Drying Agents, Criteria.
+1. Code of Federal Regulations, Title 21, Part 184, Direct Food Substances
+Affirmed as Generally Recognized as Safe.
+2. Code of Federal Regulations, Title 21, Parts 175, Indirect Food Additives:
+Adhesives and Components of Coatings.
+3. Code of Federal Regulations, Title 21, Parts 178, Indirect Food Additives:
+Adjuvants, Production Aids, and Sanitizers.
+4. Code of Federal Regulations, Title 21, Parts 176, Indirect Food Additives: Paper
+and Paperboard Components.
+5. Code of Federal Regulations, Title 21, Parts 177, Indirect Food Additives:
+Polymers.
+6. Code of Federal Regulations, Title 21, Part 186, Indirect Food Substances
+Affirmed as Generally Recognized as Safe.
+7. Code of Federal Regulations, Title 21, Part 181, Prior-Sanctioned Food
+Ingredients.
+8. Code of Federal Regulations, Title 21, Part 182, Substances Generally
+Recognized as Safe.
+9. Code of Federal Regulations, Title 21, Part 170.39, Threshold of regulation for
+substances used in food-contact articles.
+10. Code of Federal Regulations, Title 21, Part 170.30, Eligibility for classification as
+generally recognized as safe (GRAS)
+11. Code of Federal Regulations, Title 21, Part 174, Indirect Food Additives:
+General.
+12. Federal Food Drug and Cosmetic Act, Section, 409 (h),
+http://www.fda.gov/RegulatoryInformation/Legislation/FederalFoodDrugandCosm
+eticActFDCAct/default.htm
+13. Federal Food Drug and Cosmetic Act, Section 201(s)(4)
+http://www.fda.gov/RegulatoryInformation/Legislation/FederalFoodDrugandCosm
+eticActFDCAct/default.htm
+14. Food Contact Notification, Ingredients and Packaging,
+http://www.fda.gov/Food/IngredientsPackagingLabeling/default.htm
+7-205.11 Incidental Food Contact, Criteria.
+1. Code of Federal Regulations, Title 21, Part 178.3570, Lubricants with incidental
+food contact.
+7-206.11 Restricted use Pesticides, Criteria.
+1. Code of Federal Regulations, Title 40, Part 152 Subpart I, Classification of
+Pesticides.
+3. Supporting Documents
+FDA is providing the following guidance documents for reference. A brief summary for
+each document is provided.
+A. Voluntary National Retail Food Regulatory Program Standards
+B. FDA Procedures for Standardization and Certification of Retail Food
+Inspection/Training Officers
+C. Managing Food Safety: A Manual for the Voluntary Use of HACCP
+Principles for Operators of Food Service and Retail Establishments
+D. Managing Food Safety: A Regulator’s Manual for Applying HACCP
+Principles to Risk-based Retail and Food Service Inspections and
+Evaluating Voluntary Food Safety Management Systems
+E. Food Establishment Plan Review Guide
+F. FDA Report on the Occurrence of Foodborne Illness Risk Factors in
+Selected Institutional Foodservice, Restaurant, and Retail Food Store
+Facility Types (2004)
+G. Growing Sprouts in a Retail Food EstablishmentGrowing Sprouts in a
+Retail Food Establishment
+H. Advisories for Retail Processing with Proper Controls and Variances for
+Product Safety
+I. Evaluation and Definition of Potentially Hazardous Foods
+J. The U.S. Equal Employment Opportunity Commission (EEOC) Guide,
+“How to Comply with the Americans with Disabilities Act: A Guide for
+Restaurants and Other Food Service Employers” October 28, 2004
+K. Requirements and Guidance for Retail Facilities Regarding Beef Grinding
+Logs Tracking Supplier Information
+L. Recommended Guidelines for Permanent Outdoor Cooking
+Establishments, 2003
+M. Comprehensive Guidelines for Food Recovery Programs
+N. Retail Food Protection Program Information Manual: Storage and
+Handling of Tomatoes, 2007
+O. Retail Food Protection Program Information Manual: Recommendations to
+Food Establishments for Serving or Selling Cut Leafy Greens
+P. Employee Health and Personal Hygiene Handbook
+Q. Risk Assessment Process and Spreadsheet to Redesignate Food Code
+Provisions
+R. Parameters for Determining Inoculated Pack/Challenge Study Protocols
+S. The Council to Improve Foodborne Outbreak Response (CIFOR) –
+Guidelines for Foodborne Outbreak Response
+T. CIFOR Foodborne Illness Response Guidelines for Owners, Operators,
+and Managers of Food Establishments (CIFOR Industry Guidelines)
+U. Sanitation Practices Standard Operating Procedures and Good Retail
+Practices to Minimize Contamination and Growth of Listeria
+Monocytogenes with Food Establishments, 2nd Edition
+V. The Bad Bug Book, 2nd Edition Foodborne Pathogenic Microorganisms
+and Natural Toxins Handbook
+W. Minimizing the Risk of Campylobactor and Salmonella Illnesses
+Associated with Chicken Liver
+X. Guidance Document for Direct to Consumer and Third Party Delivery
+Service Food Delivery
+Y. Whole Roaster Pigs: Guidance for the Safe Handling and Cooking
+Z. National Shellfish Sanitation Program (NSSP) Guide for the Control of
+Molluscan Shellfish
+Summary of Supporting Documents
+A. Voluntary National Retail Food Regulatory Program Standards
+This document can be accessed at the following web site:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/ProgramStandards/
+default.htm and was formulated from ideas and input by Federal, State, and local
+regulatory officials, industry, trade and professional associations, academia, and
+consumers. The purposes of these standards are:
+• To serve as a bench mark to retail food regulatory program managers in the
+design and management of a retail food program;
+• To provide a means of recognition of programs meeting these standards;
+• To promote uniformity in retail food programs to reduce the risk factors known to
+cause foodborne illness;
+• To provide a foundation for the food regulatory program that is focused on the
+risk factors and other factors that may contribute to foodborne illness; and
+• To promote, through the management of a retail food regulatory program, the
+active managerial control in the retail establishment of all the factors that may
+cause foodborne illness.
+• Further purposes of these standards are to serve as a guide to regulatory retail
+food program managers in the design and management of a retail food program
+and to provide a means of recognition for those programs that meet these
+standards.
+• The intent in the development of these standards is to establish a basic
+foundation in design and management of a retail food program. Program
+management may add additional requirements to meet individual program needs.
+• The standards apply to the operation and management of a regulatory retail food
+program focused on the reduction of risk factors known to cause foodborne
+illness as well as other factors that may contribute to foodborne illness and on
+the promotion of active managerial control of all factors that may cause
+foodborne illness.
+B. FDA Procedures for Standardization and Certification of Retail Food
+Inspection/Training Officers
+This document can be found by accessing the following web site:
+https://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/Standardization/de
+fault.htm
+This is a procedure that integrates the assessment of an individual's knowledge, skills,
+and abilities in a manageable number of inspections while preserving the quality and
+integrity of the process. At the same time, we continue to learn from our experiences in
+applying it and remain open to improving these Procedures based on your experiences
+and feedback.
+As they are written, the Procedures address the situation wherein an FDA Standard is
+assessing a CANDIDATE who is not employed by FDA. For example, Paragraph
+3-301(C) mentions but does not require recording citations (i.e., identifying the codified
+provision that relates to each observed violation). Since jurisdiction's codification
+systems (numeric or alphanumeric) are usually different from the system in the FDA
+Food Code, the utility of that practice would be minimal in an FDA-to-jurisdiction field
+exercise. However, within a jurisdiction where the same Code is in use, the practice
+could be useful in reinforcing diligence in ensuring that violations listed during
+inspections are, in fact, soundly based in regulation.
+FDA invites and encourages jurisdictions to use these Procedures in their internal
+Standardization and Certifications and to add dimensions that promote uniformity such
+as citing codified provisions, as discussed above. With a few language changes, the
+document can be custom-tailored to fit individual jurisdictions and serve as their
+procedures. As with other documents provided as guidance for applying regulatory
+requirements in the retail sector, these Procedures are in the "public domain" and we
+encourage their duplication and use.
+C. Managing Food Safety: A Manual for the Voluntary Use of HACCP Principles
+for Operators of Food Service and Retail Establishments
+The Operator’s Manual can be found by accessing the following web site:
+http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006811.htm. FDA has
+issued guidance to industry in voluntarily applying HACCP principles in food
+establishments. It recognizes that there are differences between using HACCP at retail
+and in food manufacturing. By incorporating the seven principles of HACCP, a good set
+of Standard Operating Procedures, and using a process approach, this Guide sets up a
+framework for the retail food industry to develop and implement a sound food safety
+management system.
+This document is intended to serve as a guide in the writing of a simple plan based on
+HACCP principles that can be used to manage food safety. It is very important to
+understand that this Guide is intended to assist industry's voluntary implementation of
+HACCP principles. It is not meant to stand alone, but instead should be used together
+with advice from and in consultation with your Federal, State, local, or tribal food safety
+regulatory authority. The regulatory authority is an important resource for reviewing your
+food safety management system. Regulatory food safety professionals can provide
+important information for the public health rationale for controlling a particular hazard.
+Users of this document also need to consult and use the latest edition of the FDA Food
+Code since many of its requirements are not reproduced here but constitute a
+fundamental program that is prerequisite to implementing a HACCP program.
+Hazard Analysis Critical Control Point (HACCP) is a common sense technique to control
+food safety hazards. It is a preventive system of hazard control rather than a reactive
+one. Food establishments can use it to ensure safer food products for consumers. It is
+not a zero risk system, but is designed to minimize the risk of food safety hazards.
+HACCP is not a stand alone program but is one part of a larger system of control
+procedures that must be in place in order for HACCP to function effectively. These
+control procedures are prerequisite programs and are discussed more in Annex 4.
+The success of a HACCP program is dependent upon both people and facilities.
+Management and employees must be properly motivated and trained if a HACCP
+program is to successfully reduce the risk of foodborne illness. Education and training in
+the principles of food safety and management commitment to the implementation of a
+HACCP system are critical and must be continuously reinforced. Instilling food worker
+commitment and dealing with problems such as high employee turnover and
+communication barriers must be considered when designing a HACCP plan.
+Successful implementation of a HACCP plan is also dependent upon the design and
+performance of facilities and equipment. The likelihood of the occurrence of a hazard in
+a finished product is definitely influenced by facility and equipment design, construction,
+and installation that play a key role in any preventive strategy.
+The Agency recognizes that this document has areas that need to be further clarified
+and developed with broader input and based on industry’s experiences with the
+practicalities of integrating the HACCP approach in their operations. This Guide will
+continue to evolve and improve.
+D. Managing Food Safety: A Regulator’s Manual for Applying HACCP Principles
+to Risk-based Retail and Food Service Inspections and Evaluating Voluntary
+Food Safety Management Systems
+The Regulator’s Manual can be found by accessing the following website:
+http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006812.htm. This
+document provides State, local, and tribal regulatory authorities with a step-by-step
+scheme for conducting risk-based inspections based on HACCP principles to assist
+them with identifying and assessing control of foodborne illness risk factors. In
+addition,the manual details intervention strategies that can be developed with retail and
+food service operators to reduce the occurrence of foodborne illness risk factors. It also
+provides recommendations for evaluating voluntarily-implemented food safety
+management systems if invited to do so by industry.
+The utilization of voluntary food safety management systems by industry and the
+incorporation of risk-based methodology into regulatory inspection programs are
+important elements in reaching the goals established by the Healthy People 2010 health
+improvement strategy and FDA retail program goals.
+In 2004, the Conference for Food Protection (CFP) endorsed both documents with a
+recommendation that both industry and regulatory entities consider implementing the
+principles of the documents into their respective food safety programs. The CFP is
+composed of regulators, industry, academia, professional organizations, and consumers
+whose purpose is to identify problems, formulate recommendations, and develop and
+implement practices that relate to food safety.
+A Federal Register notice announcing the availability of these documents was published
+July 21, 2005 (Docket No. 2005D-0274).
+E. Food Establishment Plan Review Guide
+This document can be found at:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandRegulat
+oryAssistanceandTrainingResources/ucm101639.htm. This Food Establishment Plan
+Review document has been developed for the purpose of assisting both regulatory and
+industry personnel in achieving greater uniformity in the plan review process. It is the
+result of a joint effort by FDA and the Conference for Food Protection.
+Plan review of food service establishments, retail food stores, and all other food
+operations, must be maintained as a high priority by all regulatory food agencies for
+both new and existing facilities.
+This document has been developed to serve as a guide in facilitating greater uniformity
+and ease in conducting plan review whether your position is a regulator or an industry
+person wishing to build or to expand. You need not be an expert to effectively complete
+this process.
+A good review of plans helps to avoid future problems. By listing and locating equipment
+on floor plans and diagramming specifications for electrical, mechanical and plumbing
+systems, potential problems can be spotted while still on paper and modifications made
+BEFORE costly purchases, installation and construction.
+Food establishment plan review is recognized as an important food program component
+that allows:
+• Regulatory agencies to ensure that food establishments are built or renovated
+according to current regulations or rules.
+• Industry to establish an organized and efficient flow of food.
+• Regulatory agencies to eliminate code violations prior to construction.
+F. FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected
+Institutional Foodservice, Restaurant, and Retail Food Store Facility Types (2004)
+In 1998, FDA initiated a project designed to determine the incidence of foodborne
+illness risk factors in retail and food service establishments. Inspections focusing on the
+occurrence of foodborne illness risk factors were conducted in establishments
+throughout the United States. The results of this project are published in the 2000
+Report of the FDA Retail Food Program Database of Foodborne Illness Risk Factors,
+commonly referred to as the “FDA Baseline Report.” The Baseline Report is available at
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnessriskfac
+torreduction/default.htm.
+The data collection project was repeated in 2003 and the results are published in the
+FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected
+Institutional Foodservice, Restaurant, and Retail Food Store Facility Types (2004). This
+second report is available from FDA through the following website:
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnessriskfac
+torreduction/default.htm
+G. Growing Sprouts in a Retail Food Establishment
+This document, Growing Sprouts in a Retail Food Establishment, can be found at
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/ucm078758.htm.
+There were 25 reported outbreaks associated with raw and lightly cooked seed sprouts
+in the United States between January 1996 and December 2003. No single treatment
+so far has been shown to completely eliminate pathogens on seeds or sprouts without
+affecting germination or yield; therefore a combination of factors is used to eliminate
+and control potential pathogens and assure a safe, ready-to-eat food product. Seeds or
+beans grown using Good Agricultural Practices (GAPs) and conditioned, transported,
+and stored according to GMPs reduce the potential for seed to serve as a source of
+contamination. Retail Sprouting Industry Best Practices help ensure that no further
+contamination occurs and precautionary measures are taken to prevent high levels of
+bacteria from growing on the seeds or sprouts. Seeds for sprouting or sprouts should
+receive a chemical disinfection treatment that has been approved by EPA for reduction
+of pathogens. Other treatments such as irradiation of seeds [21 CFR 179.26(b)(10)]
+have been approved. Because no treatments are known to completely eliminate
+pathogens without adversely affecting germination or yield, microbial testing of spent
+irrigation water from the sprouting process is also necessary to verify that no pathogens
+are present. Raw sprouts are considered time/temperature control for safety food (TCS)
+and therefore, require refrigeration.
+H. Advisories for Retail Processing with Proper Controls and Variances for
+Product Safety
+These documents are available for purchase at minimum cost from the Association of
+Food and Drug Officials (AFDO) at the website http://www.afdo.org/. These guides were
+funded by USDA through the University of Florida in cooperation with Florida A&M
+University and the Association of Food and Drug Officials and developed by experts
+from academic, regulatory, and industry areas. Nine guideshelp retailers and regulatory
+personnel understand the food safety controls to implement in retail food and food
+service operations in order to process and sell safe food products. They can also be
+used as a reference in applying for or reviewing a variance and HACCP Plan, where
+required, for retail processing of beef jerky, cured and hot smoked sausage, cured and
+smoked ham, fermented and dried sausage, fresh-cut produce, fresh juice, reduced
+oxygen packaging (ROP), smoked seafood, and sushi.
+Each guide provides a definition of terms, a flow diagram, and a detailed check list for
+operations including receiving, food storage, preparation, and display. Information in the
+Appendices helps identify specific food safety hazards associated with that product,
+necessary equipment calibrations, product labeling, recommended record keeping with
+sample log sheets, and a daily SOP check list. Authoritative sources are also
+referenced such as FDA’s “Fish and Fisheries Products Hazards & Controls Guidance”
+and 21 CFR 101 for labeling requirements.
+These guides are not intended to replace or duplicate existing regulations within the
+jurisdictions of the regulatory authority or food establishment but they offer information
+and references for more uniform practices.
+I. Evaluation and Definition of Potentially Hazardous Foods
+This document can be found at
+http://www.fda.gov/Food/FoodScienceResearch/SafePracticesforFoodProcesses/ucm0
+94141.htm. The Institute of Food Technologists (IFT) prepared and submitted this report
+as part of a contract with FDA. It contains responses to various questions posed by FDA
+about time/temperature control for safety food (TCS food). The IFT reviewed the
+evolution of the term TCS and recommended a change to time/temperature control for
+safety (TCS) food as well as a science-based framework for determining the
+effectiveness of processing technologies that formulate a food so that it is non-TCS.
+The IFT Science and Technology Expert Panel reviewed the two protocols used by NSF
+International and the American Baking Association for determining if a food is a TCS
+and proposed an alternate approach. The report examines intrinsic factors such as aw,
+pH, redox potential, natural and added antimicrobials and competitive microorganisms,
+and extrinsic factors such as packaging, atmospheres, storage conditions, processing
+steps, and new preservation technologies that influence microbial growth. The report
+also analyzes microbial hazards related to time/temperature control of foods for safety.
+The IFT developed a framework that could be used to determine whether a food is a
+TCS food or not. Part of the framework includes two tables that consider the interaction
+of pH and aw in a food, whether the food is raw or heat-treated, whether it is packaged.
+When further product assessment is required, the and application of microbiological
+challenge testing (inoculation studies) is discussed along with pathogen modeling
+programs and reformulation of the food. An extensive reference list is included in the
+report.
+J. The U.S. Equal Employment Opportunity Commission (EEOC) Guide, “How to
+Comply with the Americans with Disabilities Act: A Guide for Restaurants and
+Other Food Service Employers” October 28, 2004
+The guide is designed to assist restaurants and other food service employers in
+complying with the employment provisions of the Americans with Disabilities Act (ADA).
+The EEOC worked extensively with the Food and Drug Administration in developing this
+new publication.
+Available online at http://www.eeoc.gov/facts/restaurant_guide.html,
+http://www.eeoc.gov/facts/restaurant_guide_summary.html, and http://www.fda.gov, the
+guide covers such topics as how the FDA Food Code provisions about restricting and
+excluding sick employees interact with the ADA’s requirements; types of reasonable
+accommodations, including the use of service animals; and what an employer should do
+if a charge of discrimination is filed against the employer’s business.
+Title I of the ADA, which prohibits employment discrimination against people with
+disabilities in the private sector and State and local governments, and the Rehabilitation
+Act’s prohibitions against disability discrimination in the federal government. The EEOC
+enforces Title VII of the Civil Rights Act of 1964, which prohibits employment
+discrimination based on race, color, religion, sex, and national origin; the Age
+Discrimination in Employment Act, which prohibits discrimination against individuals 40
+years of age or older; the Equal Pay Act; and sections of the Civil Rights Act of 1991.
+K. Requirements and Guidance for Retail Facilities Regarding Beef Grinding Logs
+Tracking Supplier Information
+This document may be found at the following web site for Questions and Answers
+related to the Final Rule "Records To Be Kept by Official Establishments and Retail
+Stores That Grind Raw Beef Products": https://www.fsis.usda.gov/guidelines/2016-0018
+On June 20, 2016, The U.S. Department of Agriculture, Food Safety and Inspection
+Service (USDA-FSIS) published a Federal Register Notice (80 FR 79231) titled Records
+To Be Kept by Official Establishments and Retail Stores That Grind Raw Beef Products,
+available at https://www.federalregister.gov/documents/2015/12/21/2015-
+31795/records-to-be-kept-by-official-establishments-and-retail-stores-that-grind-raw-
+beef-products, in which the agency discussed its recordkeeping requirements.
+All retail stores and official establishments that grind raw beef products for sale in
+commerce must maintain the following records:
+1. The establishment numbers of the establishments that supply the materials
+used to prepare each lot of raw ground beef product;
+2. All supplier lot numbers and production dates;
+3. The names of the supplied materials, including beef components and any
+materials carried over from one production lot to the next;
+4. The date and time each lot of raw ground beef product is produced; and
+5. The date and time when grinding equipment and other related food- contact
+surfaces are cleaned and sanitized.
+Of particular concern to the USDA-FSIS is its ability to quickly and adequately traceback
+contaminated product that is in commerce to its source and to remove it from commerce.
+FSIS conducts sampling and microbiological verification testing for Escherichia coli (E.
+coli) O157:H7 in raw ground beef products and source materials at federally inspected
+establishments, retail facilities as well as at import facilities. Some of the products most
+likely to be sampled and tested at retail facilities are:
+• Ground beef products produced from retail steaks and roasts;
+• Manufacturing trimmings derived at retail;
+• Ground beef that is formulated at retail by commingling in-store trim and trim
+from federally inspected establishments; and
+• Irradiated ground beef commingled with non-irradiated meat or poultry.
+In cases where USDA-FSIS identifies adulterated ground beef, and a product recall is
+necessary, grinding logs will facilitate identifying the source of the product and
+narrowing the scope of the recall.
+In addition to the references cited above, the following references also provide
+information:
+1. Federal Meat Inspection Act (21 U.S.C. 642, Recordkeeping requirements).
+2. Code of Federal Regulations, 9 CFR 320.1, Records required to be kept .
+3. FSIS’ Industry Guideline for Minimizing the Risk of Shiga Toxin-
+Producing Escherichia coli (STEC) in Beef (including Veal) Processing
+Operations. There is a retail grinding log template (Attachment 2 - Grinder’s
+Log) available in the guideline. It is designed to track the source materials
+used, the products produced and any microbiological independence between
+lots. Establishments are encouraged to use the template as a guide and
+include any additional information in the record to fit their unique production
+processes.
+L. Recommended Guidelines for Permanent Outdoor Cooking Establishments,
+2003
+This document can be found at http://www.foodprotect.org/guides-documents/ .
+Permanent Outdoor Cooking Establishments (POCE) include a wide range of facilities
+from barbecue pits at beach resorts to campfire meals at dude ranches, pig roasts and
+clam bakes, and multi-menu food service sites in amusement and theme parks. It is
+essential that the equipment and physical facility requirements be based upon a menu
+review of the items to be prepared, cooked, held, and served. Many of these POCEs
+are high risk operations engaging in extensive preparation of raw ingredients: processes
+that include the cooking, hot and cold holding, and reheating of time/temperature control
+for safety foods. These guidelines provide the basis on which regulatory authorities can
+evaluate and permit permanent outdoor cooking establishments.
+M. Comprehensive Guidelines for Food Recovery Programs
+Food recovery programs collect foods from commercial production and distribution
+channels and redistribute them to people in need. There are food recovery efforts
+carried out by public, private, and nonprofit organizations across the country. The
+primary goal of food recovery programs is to collect safe and wholesome food donated
+from commercial sources to meet the nutritional needs of the hungry.
+With bipartisan support, Congress passed the Bill Emerson Good Samaritan Food
+Donation Act in 1996. The Act is designed to encourage the donation of food and
+grocery products to nonprofit organizations such as homeless shelters, soup
+kitchens,and churches for distribution to hungry individuals. The Bill Emerson Good
+Samaritan Food Donation Act promotes food recovery by limiting the liability of donors
+to instances of gross negligence or intentional misconduct.
+The Guidelines are intended to provide guidance to those who want to participate in
+food recovery programs as donors and receiving operations as well as to those who
+oversee standards compliance as regulators or peer inspectors.
+The Guidelines also give advice on implementing a food recovery program, various
+ways to contribute to food recovery programs, choosing suitable partners, and laying
+the foundation for a successful program. This includes food safety provisions in
+alignment with the FDA Food Code, guidelines for monitoring food recovery programs,
+and handling of donations of game animals. For simple recordkeeping, the contain
+sample forms designed to facilitate the management of a variety of aspects of food
+recovery programs.
+For in-depth information, see the available via the Conference for Food Protection web
+page at Comprehensive Guidelines for Food Recovery Programs
+http://www.foodprotect.org/guides-documents/
+N. Retail Food Protection Program Information Manual: Storage and Handling of
+Tomatoes, 2007.
+This document can be found at the web site:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandRegulat
+oryAssistanceandTrainingResources/ucm113843.htm
+The Retail Food Protection Program Information Manual, Storage and Handling of
+Tomatoes provides safe storage and handling practices for cut tomatoes and additional
+rationale for including cut tomatoes in the definition of time/temperature control for
+safety food in the 2005 Food Code. Historically, uncooked fruits and vegetables have
+been considered non-TCS food unless they were epidemiologically implicated in
+foodborne illness outbreaks and are capable of supporting the growth of pathogenic
+bacteria in the absence of temperature control. Since 1990, at least 12 multi-state
+foodborne illness outbreaks have been associated with different varieties of tomatoes.
+From 1998 – 2006, outbreaks associated with tomatoes made up 17% of the produce-
+related outbreaks reported to FDA. Salmonella has been the pathogen of concern most
+often associated with tomato outbreaks. Recommendations are being offered to prevent
+contamination in food service facilities and retail food stores and to reduce the growth of
+pathogenic bacteria when contamination of fresh tomatoes may have already occurred
+(regardless of the location where the contamination occurred).
+O. Retail Food Protection Program Information Manual: Recommendations to
+Food Establishments for Serving or Selling Cut Leafy Greens.
+This document can be found at:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandRegulat
+oryAssistanceandTrainingResources/ucm113843.htm.
+Following 24 multi-state outbreaks between 1998 and 2008, cut leafy greens was added
+to the definition of time/temperature for safety food requiring time-temperature control
+for safety (TCS). The term used in the definition includes a variety of cut lettuces and
+leafy greens. Raw agricultural commodities (RACs) that are not processed or cut on-site
+are excluded from the definition of cut leafy greens. Herbs such as cilantro or parsley
+are also not considered cut leafy greens. The pH, water activity, available moisture and
+nutrients of cut leafy greens supports the growth of foodborne pathogens and
+refrigeration at 41ºF (5ºC) or less inhibits growth and promotes general die off in some
+pathogens such as E. coli O157:H7. Salmonella, E. coli O157:H7 and Listeria
+monocytogenes, once attached to the surface or internalized into cut surfaces of leafy
+greens, are only marginally affected by chemical sanitizers. Recommended handling
+instructions for leafy greens during purchasing and receiving, storage, food employee
+handling fresh produce, washing fresh produce, preparation for sale or service and
+display for sale or service are attached to the document.
+P. Employee Health and Personal Hygiene Handbook
+This document can be found at:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/IndustryandRegulat
+oryAssistanceandTrainingResources/ucm113827.htm.
+The Employee Health and Personal Hygiene Handbook was developed to
+encourage practices and behaviors that can help prevent food employees from
+spreading foodborne pathogens to food. Information is provided in a question-and-
+answer format and includes easy references to forms and tables that food service and
+retail food establishments and the public health community may find useful when
+training staff and addressing employee health and hygiene matters. This handbook
+highlights a combination of three interventions that can be effective in prevention of the
+transmission of foodborne viruses and bacteria in food establishments. These
+interventions include: (a) restricting or excluding ill food employees from working with
+food; (b) using proper handwashing procedures; and (c) eliminating bare hand contact
+with foods that are ready-to-eat (RTE). Concurrent use of each intervention will help
+prevent the transmission of viruses, bacteria and protozoan oocysts from food
+employees to consumers through contaminated food. Note that the recommendations
+provided are not to be construed as medical advice or directions to diagnose a
+medical condition.
+The person in charge and the food employee always have the option to seek
+professional medical attention as warranted by the situation at hand.
+Q. Risk Assessment Process and Spreadsheet to Redesignate Food Code
+Provisions
+These documents can be found at:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/default.htm
+FDA developed a set of definitions and a qualitative risk assessment process to
+redesignate the Food Code provisions and work with the CFP Critical Items Committee
+of stakeholders for feedback. It changed “critical” and “non-critical” to risk designations
+which include “priority item,” “ priority foundation item” and “core item” to link the
+provision to hazards associated with foodborne illness or injury. The method used is
+described in “Risk Assessment Process to Redesignate Food Code Provisions”
+and the decision-making process recorded in the Excel spreadsheet for transparency.
+The risk assessment decision-making process explained in the instructions provides a
+science-based rationale for each redesignation. It is internally consistent and consistent
+with peer-reviewed publications.
+The process considered the general and specific hazards that each provision is
+intended to address. An initial risk designation was made based on the definitions for
+“priority item,” “ priority foundation item”, and “core item”, to show how directly the
+provision eliminated, prevented or reduced to an acceptable level, the hazards
+associated with foodborne illness or injury. To further refine the designation, the
+virulence or severity of the hazard in the absence of control by this Code provision was
+also examined. Contributing factors (contamination factors, proliferating/amplification
+factors, survival factors and method of preparation) identified for foodborne outbreaks
+reported to the Centers for Disease Control and Prevention were also considered. The
+risk designation was then re-evaluated in terms of meeting the definition, characteristics
+of the potential hazards, size and/or number of outbreaks caused by the hazard in
+conjunction with non-application of this Code provision and the contributing factors. The
+final determination was based on the term which most closely defined that provision,
+taking into account any weighting due to severity and infectivity of the hazard. Additional
+comments and references to explain or support this determination were included on the
+spreadsheet.
+R. Parameters for Determining Inoculated Pack/Challenge Study Protocols
+The National Advisory Committee on Microbiological Criteria for Foods (NACMCF), in
+response to questions posed by FDA, developed guidelines for conducting challenge
+studies on pathogen inhibition and inactivation studies in a variety of foods. The
+guidelines are available at:
+http://www.fsis.usda.gov/wps/portal/informational/aboutfsis/!ut/p/a0/04_Sj9CPykssy0xP
+LMnMz0vMAfGjzOINAg3MDC2dDbz8LQ3dDDz9wgL9vZ2dDdz9TfQLsh0VAfb5Y5I!/?1
+dmy&current=true&urile=wcm%3Apath%3A%2Ffsis-
+content%2Finternet%2Fmain%2Ftopics%2Fdata-collection-and-
+reports%2Fnacmcf%2Fcurrent-subcommittees%2Fparameters-for-inoculated-pack-
+challenge-study-protocols%2Fct_index9
+The document is intended for use by the food industry, including food processors, food
+service operators and food retailers; federal, state and local food safety regulators;
+public health officials; food testing laboratories; and process authorities. The document
+is focused on, and limited to, bacterial inactivation and growth inhibition and does not
+make specific recommendations with respect to public health. NACMCF concluded that
+challenge studies should be designed considering the most current advances in
+methodologies, current thinking on pathogens of concern, and an understanding of the
+product preparation, variability and storage conditions. Studies should be completed
+and evaluated under the guidance of an expert microbiologist in a qualified laboratory
+and should include appropriate statistical design and data analyses.
+This document provides guidelines for choice of microorganisms for studies, inoculum
+preparation, inoculum level, methods of inoculation, incubation temperatures and times,
+sampling considerations, and interpreting test results. Examples of appropriately
+designed growth inhibition and inactivation studies are provided. The NACMCF report,
+through tables and appendices, also provides sources of accepted laboratory methods,
+considerations for selecting a laboratory, pathogens of concern with control methods for
+food product categories, relevant Food Code definitions and food product checklists that
+test the protocol.
+It also includes recommended minimum expertise for designing, conducting and
+evaluating microbiological studies; potential pathogens of concern for growth studies
+based on pH and aw; examples of mathematical growth and inactivation models and
+their application to different foods; pathogen growth ranges used in CommBase and
+Pathogen Modeling Program models; and limits for growth when other conditions are
+near optimum.
+S. The Council to Improve Foodborne Outbreak Response (CIFOR) – Guidelines
+for Foodborne Outbreak Response
+This document can be found at: http://www.cifor.us/CIFORGuidelinesProjectMore.cfm
+The Guidelines for Foodborne Outbreak Response describe the overall approach to
+foodborne disease outbreaks, including preparation, detection, investigation, control and
+follow-up. The Guidelines also describe the roles of all key organizations in foodborne
+disease outbreaks. The Guidelines are targeted at local, state and federal agencies that
+are responsible for preventing and managing foodborne disease.
+T. CIFOR Foodborne Illness Response Guidelines for Owners, Operators, and
+Managers of Food Establishments (CIFOR Industry Guidelines)
+In 2009, the Council to Improve Foodborne Outbreak Response (CIFOR) convened a
+workgroup comprised of representatives from the food industry and local, state and
+Federal government for the purpose of creating guidelines and tools specific
+for industry response to foodborne illness. The resulting document, called the CIFOR
+Foodborne Illness Response Guidelines for Owners, Operators, and Managers of Food
+Establishments (CIFOR Industry Guidelines), was developed as voluntary guidance for
+managers of Food Establishments (“Industry”) to help outline, clarify, and explain
+Industry’s recommended role in a foodborne illness outbreak investigation. These
+CIFOR Industry Guidelines:
+• Provide a step-by-step approach including Preparation, Illness Complaints,
+Investigation, Control, and Follow-up
+• Describe what to expect when first notified of potential illnesses or outbreak
+• Provide Tools to guide Industry through the regulatory investigation process.
+This document is available for download at: http://www.cifor.us/index.cfm
+U. Sanitation Practices Standard Operating Procedures and Good Retail Practices
+to Minimize Contamination and Growth of Listeria Monocytogenes with Food
+Establishments, 2nd Edition.
+The “Sanitation Practices Standard Operating Procedures and Good Retail Practices to
+Minimize Contamination and Growth of Listeria Monocytogenes with Food
+Establishments, 2nd Edition” replaces a 2006 document by the Conference for
+FoodProtection (CFP). The new voluntary guidelines address recommended standard
+operating procedures (SOPs) and good retail practices (GRPs) to minimize
+contamination and growth of Listeria Monocytogenes in retail food establishments.
+This document is available for download at:
+http://www.foodprotect.org/media/site/january-2016-cfp-lm-document-v3.pdf
+V. The Bad Bug Book, 2nd Edition Foodborne Pathogenic Microorganisms and
+Natural Toxins Handbook.
+The Bad Bug Book 2nd Edition provides current information about the major known
+agents that cause foodborne illness. Each chapter is about a pathogen—a bacterium,
+virus, or parasite—or a natural toxin that can contaminate food and cause illness. The
+book contains scientific and technical information about the major pathogens that cause
+these kinds of illnesses.
+The Bad Bug Book is published by the Center for Food Safety and Applied Nutrition
+(CFSAN) of the Food and Drug Administration (FDA), U.S. Department of Health and
+Human Services.
+This document is available for download at:
+https://www.fda.gov/downloads/Food/FoodborneIllnessContaminants/UCM297627.pdf
+W. Minimizing the Risk of Campylobactor and Salmonella Illnesses Associated
+with Chicken Liver
+USDA-FSIS has found that from 2000 to 2015, chicken livers were associated with 22
+outbreaks most commonly due to undercooking. USDA-FSIS’ Compliance Guideline,
+Minimizing the Risk of Campylobacter and Salmonella Illnesses Associated with
+Chicken Liver provides additional guidance that retailers and others can use to reduce
+or eliminate pathogens, thereby decreasing the likelihood of foodborne illness outbreaks
+from this product. The guidance document explains why searing the outside of the liver
+is not adequate for pathogen elimination in chicken livers and emphasizes appropriate
+cooking to an internal temperature of 165°F to avoid illnesses. Thorough cooking is the
+only method to eliminate pathogens. This guidance also provides other
+recommendations to minimize (but not eliminate) pathogen contamination associated
+with undercooked chicken liver dishes.
+This document is available for download at:
+https://www.fsis.usda.gov/wps/wcm/connect/b3f4efe7-27d4-4c39-bce7-
+011b7bbd1e7d/Chicken-Liver-Guidance-July-2018.pdf?MOD=AJPERES
+X. Guidance Document for Direct to Consumer and Third-Party Delivery Service
+Food Delivery
+Companies that engage in direct-to-consumer and third-party delivery service food
+delivery have increased in recent years. In 2018 the Conference for Food Protection
+recommended formation of a committee to revise the existing guidance for direct-to-
+consumer (mail order) food companies to include guidance for companies engaging in
+third-party delivery serviced for food delivery. This guidance document provides food
+safety best practices for managing or performing Direct to Consumer (DTC) or third-
+party delivery (TPD) services.
+This document is available for download at:
+http://www.foodprotect.org/media/guide/guidance-document-for-direct-to-consumer-and-
+third-party-delivery.pdf
+Y. Whole Roaster Pigs: Guidance for the Safe Handling and Cooking
+This document can be found at: http://www.foodprotect.org/guides-documents/whole-
+roaster-pigs-guidance-for-the-safe-handling-and-cooking/
+Roaster pigs present unique challenges for handling and cooking due to their variable,
+and sometimes, large size. This guidance document provides practical
+recommendations for the safe handling, preparation, and cooking of roaster pigs. It
+contains a synopsis on lessons learned from previous outbreaks and a discussion on
+common handling and cooking practices of roaster pigs including a description of the
+food safety risks associated with certain practices and practical recommendations to
+mitigate the food safety risk.
+Z. National Shellfish Sanitation Program (NSSP) Guide for the Control of
+Molluscan Shellfish
+Food and Drug Administration, Center for Food Safety and Applied Nutrition, 2019.
+National Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, can
+be found at: https://www.fda.gov/food/federalstate-food-programs/national-shellfish-
+sanitation-program-
+nssp#:~:text=The%20National%20Shellfish%20Sanitation%20Program,and%20sold%2
+0for%20human%20consumption.
+The National Shellfish Sanitation Program (NSSP) is the federal/state cooperative
+program recognized by the U. S. Food and Drug Administration (FDA) and the Interstate
+Shellfish Sanitation Conference (ISSC) for the sanitary control of shellfish produced and
+sold for human consumption. The purpose of the NSSP is to promote and improve the
+sanitation of shellfish (oysters, clams, mussels and scallops) moving in interstate
+commerce through federal/state cooperation and uniformity of State shellfish programs.
+Participants in the NSSP include agencies from shellfish producing and non-producing
+States, FDA, EPA, NOAA, and the shellfish industry. Under international agreements
+with FDA, foreign governments also participate in the NSSP. Other components of the
+NSSP include program guidelines, State growing area classification and dealer
+certification programs, and FDA evaluation of State program elements.
+The NSSP Guide for the Control of Molluscan Shellfish
+https://www.fda.gov/media/143238/download consists of a Model Ordinance, supporting
+guidance documents, recommended forms, and other related materials associated with
+the Program. The Model Ordinance includes guidelines to ensure that the shellfish
+produced in States in compliance with the guidelines are safe and sanitary. The Model
+Ordinance provides readily adoptable standards and administrative practices necessary
+for the sanitary control of molluscan shellfish. The Model Ordinance is intended to cover
+molluscan shellfish that are raw (live, fresh or fresh frozen) and molluscan shellfish
+subjected to post-harvest processing (PHP) as defined in this Guide. Cooked shellfish,
+shellfish subject to 21 CFR part 113 or 114, or raw shellfish packaged with the explicit
+intent that they will be cooked by the end consumer (such as breaded or marinated) are
+generally recognized as products that are beyond the scope of the NSSP and are
+subject to the Seafood HACCP regulations (21 CFR 123). However, such shellfish
+products intended for interstate commerce are still subject to the appropriate harvest
+and/or approved source controls outlined in this Guide when they are necessary to
+control a food safety hazard.
+4. Food Defense Guidance from Farm to Table
+The following is a summary of available resources on food defense that is of interest to
+the retail and food service food community. This listing is provided below and is not all-
+inclusive. It contains links to publications from federal regulatory agencies (primarily
+FDA, CDC, and USDA) and industry groups with information of interest to regulators,
+industry, and consumers. Responsibility for updating the web pages lies with the listed
+organization and those listed are up-to-date as of the printing of the 2005 Food Code.
+FDA Publications:
+These guidance documents identify the kinds of preventive measures that food
+establishment and food processing operators may take to minimize risks to food under
+their control, from tampering or other malicious, criminal, or terrorist actions:
+• Retail Food Stores and Food Service Establishments: Food Security
+Preventive Measures Guidance at
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/FoodDefense/ucm082751.htm
+• Food Producers, Processors, and Transporters: Food Security Preventive
+Measures Guidance at
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/FoodDefense/ucm083075.htm
+• Dairy Farms, Bulk Milk Transporters, Bulk Milk Transfer Stations and Fluid Milk
+Processors Food Security Preventive Measures Guidance at
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulat
+oryInformation/FoodDefense/ucm083049.htm
+• Importers and Filers: Food Security Preventive Measures Guidance at
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/FoodDefense/ucm078978.htm
+• The Bioterrorism Act of 2002 at:
+http://www.fda.gov/RegulatoryInformation/Legislation/ucm148797.htm
+USDA Publications:
+• Food Safety and Inspection Service (FSIS) Security Guidelines for Food
+Processors at https://www.fsis.usda.gov/wps/wcm/connect/457116c6-dccb-
+494a-a419-62d07d4123a4/PHVv2Homeland_Food_Security-
+Security_Guide.pdf?MOD=AJPERES at
+https://www.fsis.usda.gov/wps/portal/fsis/topics/food-defense-and-emergency-
+response/preparation-and-prevention/guidance-documents/security-
+guidelines/keep-americas-food-safe
+This guidance is designed to assist transporters, warehouses, distributors,
+retailers, and restaurants with enhancing their security programs to further
+protect the food supply from contamination due to criminal or terrorist acts at:
+https://www.fsis.usda.gov/shared/PDF/Transportation_Security_Guidelines.pdf.
+This guidance contains recommendations to ensure the security of food products
+through all phases of the distribution process.
+Additional information on FSIS food security guidance publications is available
+over the Internet at http://www.fsis.usda.gov.
+Industry Publications:
+• National Restaurant Association Information for restaurants can be found at
+http://www.restaurant.org.
+• Food Marketing Institute (FMI) Security Information and Resources web page
+at http://www.fmi.org/foodsafety/ provides access to security information and
+guidelines targeted specifically to food retailers.
+Guidance on Responding to Food Emergencies:
+Centers for Disease Control and Prevention (CDC) Emergency Preparedness and
+Response information can be found at https://www.cdc.gov/nceh/ehs/etp/food.htm.
+• USDA – Food and Nutrition Service food emergency publication Responding
+to a Food Recall at https://www.fns.usda.gov/responding-food-recall-
+procedures-recalls-usda-foods
+• FDA’s Office of Emergency Operations at 301-443-1240 for FDA regulated
+products and FSIS Technical Service Center at 1-800-233-3935 for USDA
+regulated products.
+• Conference for Food Protection (CFP) Emergency Action Plan for Retail Food
+Establishments, 2nd Editon can be found at http://www.foodprotect.org/.
+Food Defense and Emergency Guidance of Interest to Schools:
+• A Biosecurity Checklist for School Foodservice: Developing a Biosecurity
+Management Plan
+The document is from the USDA – Food and Nutrition Service and provides
+information for school food service managers. It can be found at
+https://dese.mo.gov/sites/default/files/BiosecurityRevisedChecklist.pdf. The exact
+link to the checklist is http://foodbiosecurity.nfsmi.org/FSManager.php.
+• USDA – Food and Nutrition Service food emergency publication, Emergency
+Readiness Plan: A Guide for the School Foodservice Operation at
+http://www.nfsmi.org/documentlibraryfiles/PDF/20080207044955.pdf
+Defense Guidance of Interest to Consumers:
+• Food Safety and Security: What Consumers Need to Know, at
+http://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-
+answers/food-safety-fact-sheets/emergency-preparedness/food-safety-and-
+security-what-consumers-need-to-know
+• Food Tampering: An Extra Ounce of Caution, at
+http://www.fda.gov/Food/ResourcesForYou/Consumers/ucm079137.htm

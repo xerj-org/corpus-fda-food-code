@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-303.30 - Denial of Application for Permit, Notice.
+[source PDF page 173; extracted with pypdf 6.19.0]
+
+8-303.30 Denial of Application for Permit, Notice.
+If an application for a PERMIT to operate is denied, the REGULATORY AUTHORITY
+shall provide the applicant with a notice that includes:
+(A) The specific reasons and Code citations for the PERMIT denial;
+(B) The actions, if any, that the applicant must take to qualify for a PERMIT;
+and
+(C) Advisement of the applicant's right of appeal and the process and time
+frames for appeal that are provided in LAW.
+8-304 Conditions of Retention

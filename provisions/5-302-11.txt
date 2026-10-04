@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-302.11 - Enclosed System, Sloped to Drain.
+[source PDF page 141; extracted with pypdf 6.19.0]
+
+5-302.11 Enclosed System, Sloped to Drain.
+A mobile water tank shall be:
+(A) Enclosed from the filling inlet to the discharge outlet; and
+(B) Sloped to an outlet that allows complete drainage of the tank.

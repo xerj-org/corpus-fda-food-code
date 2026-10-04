@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-402.13 - Conveying Sewage.
+[source PDF page 144; extracted with pypdf 6.19.0]
+
+5-402.13 Conveying Sewage.
+SEWAGE shall be conveyed to the point of disposal through an APPROVED sanitary
+SEWAGE system or other system, including use of SEWAGE transport vehicles,
+waste retention tanks, pumps, pipes, hoses, and connections that are
+constructed, maintained, and operated according to LAW.P

@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-202.14 - Backflow Prevention Device, Design Standard.
+[source PDF page 138; extracted with pypdf 6.19.0]
+
+5-202.14 Backflow Prevention Device, Design Standard.
+A backflow or backsiphonage prevention device installed on a water supply
+system shall meet American Society of Sanitary Engineering (A.S.S.E.)
+standards for construction, installation, maintenance, inspection, and testing for
+that specific application and type of device. P

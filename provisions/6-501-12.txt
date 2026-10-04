@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.12 - Cleaning, Frequency and Restrictions.
+[source PDF page 156; extracted with pypdf 6.19.0]
+
+6-501.12 Cleaning, Frequency and Restrictions.
+(A) PHYSICAL FACILITIES shall be cleaned as often as necessary to keep them
+clean.
+(B) Except for cleaning that is necessary due to a spill or other accident, cleaning
+shall be done during periods when the least amount of FOOD is exposed such as
+after closing.

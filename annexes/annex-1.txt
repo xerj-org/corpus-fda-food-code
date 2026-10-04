@@ -1,0 +1,620 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Annex 1. Compliance And Enforcement
+[source PDF pages 186-204; extracted with pypdf 6.19.0]
+
+Compliance and Enforcement
+Parts:
+1 PURPOSE
+2 EXPLANATION
+3 PRINCIPLE
+4 RECOMMENDATION
+5 PARTS
+1. PURPOSE
+The purpose of this Annex is to set forth provisions, in codified form, that provide a full
+array of enforcement mechanisms while recognizing the diverse statutes and
+regulations that currently govern the operations of the thousands of State and local
+regulatory agencies.
+2. EXPLANATION
+State or local statutes, regulations, and ordinances vary in their design, specificity, and
+degree of comprehensiveness in that they may:
+(A) Contain authorities that provide the basis for certain post-inspection
+compliance strategies but remain silent with respect to other enforcement
+mechanisms;
+(B) Include specific requirements that are different from those provided in this
+Annex; and
+(C) Be structured so that provisions such as administrative procedures are
+embodied in sections of the law that transcend and are separate from those
+governing food establishments.
+Consequently, in this document a deliberate attempt is made to extract those provisions
+that could conceptually be adopted as an extension of Chapter 8 if they were
+compatible with existing, governing State and local statutes. The extracted provisions
+are numbered to sequentially follow Chapter 8 but are placed in this Annex so that
+regulatory agencies can revise them to be consistent with their statutes and their needs
+as discussed in the Recommendation, below.
+It is anticipated that adoption of this Code will be facilitated by the fact that:
+(A) The compliance provisions of Chapter 8 that should be an integral part of
+State or local food regulations are part of the text of the Code; and
+(B) The administrative and judicial enforcement provisions that are critical to the
+framework of a food regulatory program, but that may be repetitive or discrepant
+when compared to State or local statutes, are separated in this Annex.
+3. PRINCIPLE
+Although the situations necessitating escalated enforcement actions comprise a small
+percentage of those encountered by the regulator, a full spectrum of enforcement tools
+must be available where immediate hazards exist, or where compliance is not obtained
+voluntarily. Thus, a jurisdiction must have in place both the necessary statutory
+framework that includes a broad-based, well-defined enforcement component and
+regulations that specify the requirements within those legal authorities. It is imperative
+that there be clearly stated and legally sound rules that include the criteria for
+compliance and enforcement, the responsibilities of all parties, sanctions for
+noncompliance, and due process guarantees.
+4. RECOMMENDATION
+FDA recommends that agencies assess their statutory provisions that pertain to food
+establishments in light of this Annex and consider proposing changes to their statutes
+and regulations where they determine that provisions contained within this Annex will
+strengthen their programs. Such an assessment may involve reviewing problems
+encountered in attempts to prosecute under existing State or local provisions;
+considering comments received by the regulatory authority about its enforcement
+process; consulting with staff and legal counsel to identify gaps or weaknesses in the
+provisions; comparing provisions with sister agencies for comprehensiveness, equity,
+and uniformity; and seeking input from outside sources that have experience in taking,
+or being the subject of, enforcement actions.
+Appropriate wording and cross referencing changes to the provisions in this Annex may
+be necessary, based on whether they are adopted as statutes or regulations.
+Modifications to the adoption forms (Forms #2-A and #2-B in Annex 7) may also be
+necessary based on that decision.
+5. PARTS
+8-6 Constitutional Protection
+8-601 Procedural Safeguards
+8-601.10 Preservation of Rights.
+The REGULATORY AUTHORITY shall justly apply the remedies according to LAW and
+this Code, to preserve the rights to equal protection and due process of a PERSON
+to whom the remedies are applied.
+8-602 Judicial Review
+8-602.10 Rights of Recipients of Orders or Decisions.
+A recipient of a REGULATORY AUTHORITY order or decision may file a petition for
+judicial review in a court of competent jurisdiction after available administrative
+appeal remedies are exhausted.
+8-7 Authority
+8-701 Legal Authority
+8-701.10 Adoption of Regulations.
+The REGULATORY AUTHORITY shall have the requisite legal authority from the
+appropriate statute/ordinance making authority to adopt and enforce regulations
+to carry out the administrative and judicial enforcement provisions of the Code
+that are critical to the framework of a Food Establishment regulatory program, to
+include the requirement for the issuance of a Permit.
+8-701.11 Implementation of Regulations.
+Appropriate modifications to the adoption forms (Form #2-A (Adoption by
+Reference short form) and #2-B (Adoption by Section-by-Section Reference)) in
+Annex 7, where used, shall be made consistent with said legal authority to enact
+regulations and enforce compliance of the Code, whether they are adopted as
+statutes or regulations.
+8-701.20 Basis for Action.
+The REGULATORY AUTHORITY shall clearly state and reference within the Code the
+legally sound basis for compliance and enforcement action, the responsibilities of
+the parties, sanctions for noncompliance and due process.
+8-8 Notices
+8-801 Service of Notice
+8-801.10 Proper Methods.
+(Note: Adoption of this section provides the basis for serving notice of
+inspectional findings as specified in § 8-403.30 and would be cited there.)
+A notice issued in accordance with this Code shall be considered to be properly
+served if it is served by one of the following methods:
+(A) The notice is personally served by the REGULATORY AUTHORITY, a LAW
+enforcement officer, or a PERSON authorized to serve a civil process to the
+PERMIT HOLDER, the PERSON IN CHARGE, or PERSON operating a FOOD
+ESTABLISHMENT without a PERMIT;
+(B) The notice is sent by the REGULATORY AUTHORITY to the last known
+address of the PERMIT HOLDER or the PERSON operating a FOOD
+ESTABLISHMENT without a PERMIT, by registered or certified mail or by other
+public means so that a written acknowledgment of receipt may be
+acquired; or
+(C) The notice is provided by the REGULATORY AUTHORITY in accordance
+with another manner of service authorized in LAW.
+8-801.20 Restriction or Exclusion Order, Hold Order or Summary
+Suspension.
+An EMPLOYEE RESTRICTION or EXCLUSION order, an order to hold and not distribute
+FOOD, such as a hold, detention, embargo, or seizure order which is hereinafter
+referred to as a hold order, or a summary suspension order shall be:
+(A) Served as specified in ¶ 8-801.10(A); or
+(B) Clearly posted by the regulatory authority at a public entrance to the
+food establishment and a copy of the notice sent by first class mail to the
+permit holder or to the owner or custodian of the food, as appropriate.
+8-801.30 When Notice is Effective.
+Service is effective at the time of the notice's receipt or if service is made as
+specified in ¶ 8-801.20(B), at the time of the notice's posting.
+8-801.40 Proof of Proper Service.
+Proof of proper service may be made by affidavit of the PERSON making service
+or by admission of the receipt signed by the PERMIT HOLDER, the PERSON
+operating a FOOD ESTABLISHMENT without a PERMIT to operate, or an authorized
+agent.
+8-9 Remedies
+8-901 Criteria for Seeking Remedies
+Administrative
+8-902 Inspection Orders
+8-903 Holding, Examination, and Destruction of Food
+8-904 Summary Permit Suspension
+8-905 Hearings Administration
+8-906 Hearing Officer, Purpose Qualifications, Appointment, and Powers
+8-907 Rights of Parties and Evidence
+8-908 Settlement
+Judicial
+8-909 Inspection Orders-901 Criteria for Seeking Remedies
+8-910 Means of Instituting Judicial Enforcement Proceedings
+8-911 Criminal Proceedings
+8-912 Injunctive Proceeding
+8-913 Civil Proceedings
+8-901 Criteria for Seeking Remedies
+8-901.10 Conditions Warranting Remedy.
+The REGULATORY AUTHORITY may seek an administrative or judicial remedy to
+achieve compliance with the provisions of this Code if a PERSON operating a FOOD
+ESTABLISHMENT or EMPLOYEE:
+(A) Fails to have a valid permit to operate a food establishment as
+specified under § 8-301.11;
+(B) Violates any term or condition of a permit as specified under
+§ 8-304.11;
+(C) Allows serious or repeated code violations to remain uncorrected
+beyond time frames for correction approved, directed, or ordered by the
+regulatory authority under ¶¶ 8-405.11(A) and (B), and ¶¶ 8-406.11(A) and
+(B);
+(D) Fails to comply with a regulatory authority order issued as specified in
+§ 8-501.20 concerning an employee or conditional employee suspected of
+having a disease transmissible through food by infected persons;
+(E) Fails to comply with a hold order as specified in § 8-903.10;
+(F) Fails to comply with an order issued as a result of a hearing for an
+administrative remedy as specified in § 8-906.40; or
+(G) Fails to comply with a summary suspension order issued by the
+regulatory authority as specified in §§ 8-801.20 and 8-904.10.
+Administrative
+8-902 Inspection Orders
+8-902.10 Gaining Access to Premises and Records.
+(Note: Adoption of this section provides the basis for Subparagraph 8-
+402.20(A)(3) and § 8-402.40 and would be cited there.)
+The REGULATORY AUTHORITY may order access for one or more of the following
+purposes, subject to LAW for gaining access:
+(A) If admission to the PREMISES of a FOOD ESTABLISHMENT is denied or
+other circumstances exist that would justify an inspection order under LAW,
+to make an inspection including taking photographs;
+(B) To examine and sample the FOOD; and
+(C) To examine the records on the PREMISES relating to FOOD purchased,
+received, or used by the FOOD ESTABLISHMENT.
+8-902.20 Contents of Inspection Order.
+The REGULATORY AUTHORITY'S inspection order shall:
+(A) Stipulate that access be allowed on or to the described PREMISES,
+FOOD, or records under the order's provisions;
+(B) Provide a description that specifies the PREMISES, FOOD, or records
+subject to the order; and
+(C) Specify areas to be accessed and activities to be performed.
+8-903 Holding, Examination, and Destruction of Food
+8-903.10 Hold Order, Justifying Conditions and Removal of Food.
+(Note: Adoption of this section provides the basis for ¶ 3-202.18(B) and
+would be cited there.)
+(A) According to time limits imposed by LAW, the REGULATORY AUTHORITY
+may place a hold order on a FOOD that:
+(1) Originated from an unAPPROVED source;
+(2) May be unsafe, ADULTERATED, or not honestly presented;
+(3) Is not labeled according to LAW, or, if raw MOLLUSCAN
+SHELLFISH, is not tagged or labeled according to LAW; or
+(4) Is otherwise not in compliance with this Code.
+(B) If the REGULATORY AUTHORITY has reasonable cause to believe that the
+hold order will be violated, or finds that the order is violated, the
+REGULATORY AUTHORITY may remove the FOOD that is subject to the order
+to a place of safekeeping.
+8-903.20 Hold Order, Warning or Hearing Not Required.
+The REGULATORY AUTHORITY may issue a hold order to a PERMIT HOLDER or to a
+PERSON who owns or controls the FOOD, as specified in § 8-903.10, without prior
+warning, notice of a hearing, or a hearing on the hold order.
+8-903.30 Hold Order, Contents.
+The hold order notice shall:
+(A) State that FOOD subject to the order may not be used, sold, moved
+from the FOOD ESTABLISHMENT, or destroyed without a written release of
+the order from the REGULATORY AUTHORITY;
+(B) State the specific reasons for placing the FOOD under the hold order
+with reference to the applicable provisions of this Code and the HAZARD or
+adverse effect created by the observed condition;
+(C) Completely identify the FOOD subject to the hold order by the common
+name, the label information, a container description, the quantity,
+REGULATORY AUTHORITY'S tag or identification information, and location;
+(D) State that the PERMIT HOLDER has the right to an appeal hearing and
+may request a hearing by submitting a timely request as specified in
+§§ 8-905.10 and 8-905.20;
+(E) State that the REGULATORY AUTHORITY may order the destruction of the
+FOOD if a timely request for an appeal hearing is not received; and
+(F) Provide the name and address of the REGULATORY AUTHORITY
+representative to whom a request for an appeal hearing may be made.
+8-903.40 Hold Order, Official Tagging of Food.
+(A) The REGULATORY AUTHORITY shall securely place an official tag or label
+on the FOOD or containers or otherwise conspicuously identify FOOD
+subject to the hold order.
+(B) The tag or other method used to identify a FOOD that is the subject of a
+hold order shall include a summary of the provisions specified in
+§ 8-903.30 and shall be signed and dated by the REGULATORY AUTHORITY.
+8-903.51 Hold Order, Food May Not Be Used or Moved.
+(A) Except as specified in ¶ (B) of this section, a FOOD placed under a hold
+order may not be used, sold, served, or moved from the establishment by
+any PERSON.
+(B) The REGULATORY AUTHORITY may allow the PERMIT HOLDER the
+opportunity to store the FOOD in an area of the FOOD ESTABLISHMENT if the
+FOOD is protected from subsequent deterioration and the storage does not
+restrict operations of the establishment.
+8-903.60 Examining, Sampling, and Testing Food.
+The REGULATORY AUTHORITY may examine, sample, and test FOOD in order to
+determine its compliance with this Code.
+8-903.70 Hold Order, Removing the Official Tag.
+Only the REGULATORY AUTHORITY may remove hold order tags, labels, or other
+identification from FOOD subject to a hold order.
+8-903.80 Destroying or Denaturing Food.
+If a hold order is sustained upon appeal or if a timely request for an appeal
+hearing is not filed, the REGULATORY AUTHORITY may order the PERMIT HOLDER or
+other PERSON who owns or has custody of the FOOD to bring the FOOD into
+compliance with this Code or to destroy or denature the FOOD under the
+REGULATORY AUTHORITY'S supervision.
+8-903.90 Releasing Food from Hold Order.
+The REGULATORY AUTHORITY shall issue a notice of release from a hold order and
+shall remove hold tags, labels, or other identification from the FOOD if the hold
+order is vacated.
+8-904 Summary Permit Suspension
+8-904.10 Conditions Warranting Action.
+The REGULATORY AUTHORITY may summarily suspend a PERMIT to operate a FOOD
+ESTABLISHMENT if it determines through inspection, or examination of EMPLOYEES,
+FOOD, records, or other means as specified in this Code, that an IMMINENT HEALTH
+HAZARD exists.
+8-904.20 Summary Suspension, Warning or Hearing Not Required.
+The REGULATORY AUTHORITY may summarily suspend a PERSON'S PERMIT as
+specified in § 8-904.10 by providing written notice as specified in § 8-801.20 of
+the summary suspension to the PERMIT
+HOLDER or PERSON IN CHARGE, without prior warning, notice of a hearing, or a
+hearing.
+8-904.30 Contents of the Notice.
+A summary suspension notice shall state:
+(A) That the FOOD ESTABLISHMENT PERMIT is immediately suspended and that all
+FOOD operations shall immediately cease;
+(B) The reasons for summary suspension with reference to the provisions of this
+Code that are in violation;
+(C) The name and address of the REGULATORY AUTHORITY representative to whom
+a written request for reinspection may be made and who may certify that reasons
+for the suspension are eliminated; and
+(D) That the PERMIT HOLDER may request an appeal hearing by submitting a
+timely request as specified in §§ 8-905.10 and 8-905.20.
+8-904.40 Time Frame for Reinspection.
+After receiving a written request from the PERMIT HOLDER stating that the
+conditions cited in the summary suspension order no longer exist, the
+REGULATORY AUTHORITY shall conduct a reinspection of the FOOD ESTABLISHMENT
+for which the PERMIT was summarily suspended within 2 business days, which
+means 2 days during which the REGULATORY AUTHORITY'S office is open to the
+public.
+8-904.50 Term of Suspension, Reinstatement of Permit.
+(A) A summary suspension shall remain in effect until the conditions cited in the
+notice of suspension no longer exist and their elimination has been confirmed by
+the REGULATORY AUTHORITY through reinspection and other means as appropriate.
+(B) The suspended PERMIT shall be reinstated immediately if the REGULATORY
+AUTHORITY determines that the public health HAZARD or nuisance no longer exists.
+A notice of reinstatement shall be provided to the PERMIT HOLDER or PERSON IN
+CHARGE.
+8-905 Hearings Administration
+8-905.10 Response to Notice of Hearing or Request for Hearing, Basis and
+Time Frame.
+(Note: Adoption of this section provides the basis for ¶¶ 8-303.30(C) and
+8-501.30(C). ¶¶ 8-905.10(C) and (D) would be cited there.)
+(A) A PERSON who receives a notice of hearing for an administrative remedy as
+specified in Part 8-8, § 8-901.10, or ¶ 8-905.30(A) and elects to respond to the
+notice shall file a response to notice as specified in § 8-905.20 within 7 calendar
+days after service.
+(B) A PERMIT applicant may request a hearing regarding the disposition of an
+application for a new or revised PERMIT if the REGULATORY AUTHORITY does not
+issue or deny the PERMIT within the time frame specified in LAW.
+(C) A PERMIT HOLDER may request a hearing to address concerns about the
+REGULATORY AUTHORITY'S denial of application for a PERMIT or request for a
+VARIANCE, or compliance actions, except that a hearing request does not stay the
+REGULATORY AUTHORITY'S restriction or exclusion of EMPLOYEES specified in
+§§ 8-501.10 - 8-501.40, a hold order specified in § 8-903.10, or the imposition of
+a summary suspension specified in § 8-904.10.
+(D) A PERSON desiring a hearing in response to a denial of an application for
+PERMIT or an adverse administrative determination shall submit a hearing request
+to the REGULATORY AUTHORITY within 10 calendar days of the date of the denial,
+inspection, or compliance action, unless the REGULATORY AUTHORITY specifies in
+certain situations that the request shall be submitted within a shorter period of
+time.
+8-905.20 Response to a Notice of Hearing or Request for Hearing, Required
+Form and Contents.
+A response to a hearing notice or a request for hearing as specified in § 8-905.10
+shall be in written form and contain the following:
+(A) If a response to notice of hearing,
+(1) An admission or denial of each allegation of fact;
+(2) A statement as to whether the respondent waives the right to a
+hearing; and may also contain
+(3) A statement of defense, mitigation, or explanation concerning
+any allegation of fact; and
+(4) A request to the REGULATORY AUTHORITY for a settlement of the
+proceeding by consent agreement, if the REGULATORY AUTHORITY
+will provide this opportunity.
+(B) If a request for hearing,
+(1) A statement of the issue of fact specified in ¶ 8-905.30(B) for
+which the hearing is requested; and
+(2) A statement of defense, mitigation, denial, or explanation
+concerning each allegation of fact.
+(C) If either a response to notice of hearing or a request for a hearing,
+(1) A statement indicating whether the presence of witnesses for
+the REGULATORY AUTHORITY is required; and
+(2) The name and address of the respondent's or requester's
+legal counsel, if any.
+8-905.30 Provided Upon Request.
+The REGULATORY AUTHORITY shall hold hearings according to LAW and the
+provisions of this Code:
+(A) As determined necessary by LAW or the REGULATORY AUTHORITY to
+accomplish the purpose and intent of this Code specified in § 8-101.10;
+and
+(B) As requested by a PERMIT applicant or a PERMIT HOLDER if:
+(1) Requested as specified in § 8-905.10, and
+(2) The request demonstrates that there is a genuine and material
+issue of fact that justifies that a hearing be held.
+8-905.40 Provided in Accordance with Law.
+Hearings shall be conducted according to LAW, administrative procedures, and
+this Code.
+8-905.50 Timeliness, Appeal Proceeding Within 5 Business Days, Other
+Proceeding Within 30 Calendar Days.
+(A) The REGULATORY AUTHORITY shall afford a hearing:
+(1) Except as provided in ¶ (B) of this section, within 5 business days after
+receiving a written request for an appeal hearing from:
+(a) A PERSON who is EXCLUDED by the REGULATORY AUTHORITY
+from working in a FOOD ESTABLISHMENT as specified in §§ 8-501.10
+- 8-501.40,
+(b) A PERMIT HOLDER or PERSON whose FOOD is subject to a hold
+order as specified in Subpart 8-903, or
+(c) A PERMIT HOLDER whose PERMIT is summarily suspended as
+specified in Subpart 8-904; and
+(2) Within 30 calendar days but no earlier than 7 calendar days after
+the service of a hearing notice to consider administrative remedies for
+other matters as specified in ¶ 8-905.10(C) or for matters as
+determined necessary by the REGULATORY AUTHORITY.
+(B) A PERMIT HOLDER or PERSON who submits a request for a hearing as specified
+in Subparagraphs (A)(1)(a)-(c) of this section may waive the prompt hearing in
+the written request to the REGULATORY AUTHORITY.
+8-905.60 Notice, Contents.
+A notice of hearing shall contain the following information:
+(A) Time, date, and place of the hearing;
+(B) Purpose of the hearing;
+(C) Facts that constitute the basis or reason for the hearing including
+specific details of violations or allegations;
+(D) The rights of the respondent, including the right to be represented by
+counsel and to present witnesses and evidence on the respondent's
+behalf as specified in § 8-907.10;
+(E) At the REGULATORY AUTHORITY'S discretion, the procedure for the
+respondent to request an offer from the REGULATORY AUTHORITY to settle
+the matter;
+(F) The consequences of failing to appear at the hearing;
+(G) The maximum sanctions or penalties as specified in ¶¶ 8-906.40(B) -
+(D) that may result from the hearing if the hearing concerns a proposed
+administrative remedy and if the facts are found to be as alleged;
+(H) If the hearing concerns a proposed administrative remedy, a statement
+specifying the form and time frame for response as specified in § 8-
+905.10;
+(I) Notification that the written response shall include the information
+specified in § 8-905.20; and
+(J) The name and address of the PERSON to whom such written response
+shall be addressed.
+8-905.70 Proceeding Commences Upon Notification.
+A hearing proceeding commences at the time the REGULATORY AUTHORITY notifies
+the respondent of the hearing proceeding.
+8-905.80 Procedure, Expeditious and Impartial.
+Hearings shall be conducted in an expeditious and impartial manner.
+8-905.90 Confidential.
+(A) Hearings or portions of hearings may be closed to the public:
+(1) If compelling circumstances, such as the need to discuss in the
+hearing a PERSON'S medical condition or a FOOD ESTABLISHMENT'S
+trade secrets, indicate that it would be prudent; and
+(2) According to LAW, such as an open meetings LAW.
+(B) A party to a hearing shall maintain confidentiality of discussions that
+warrant closing the hearing to the public.
+8-905.100 Record of Proceeding.
+A complete record of a hearing shall be prepared under the direction of
+the PERSON conducting the hearing and maintained as part of the
+REGULATORY AUTHORITY'S records for the FOOD ESTABLISHMENT. Except
+as required by LAW, a verbatim transcript of the hearing need not be
+prepared.
+8-906 Hearing Officer, Purpose Qualifications, Appointment, and Powers
+8-906.10 Appointment by Regulatory Authority and Purpose.
+The REGULATORY AUTHORITY may appoint a PERSON such as an adjudicator,
+administrative LAW judge, or examiner, hereinafter referred to as a hearing
+officer, who presides over a proceeding initiated by the REGULATORY AUTHORITY or
+by a PERSON contesting an action of the REGULATORY AUTHORITY, to perform one
+or more of the following:
+(A) Hear the facts presented by an applicant or a PERMIT HOLDER;
+(B) Make a decision or recommendation concerning administrative
+remedies to achieve compliance with this Code; or
+(C) Address other concerns or allegations appropriately raised according
+to LAW, in the matter before the hearing officer.
+8-906.20 Qualifications.
+A hearing officer shall be knowledgeable of the provisions of this chapter and the
+LAW as they relate to hearings, and be:
+(A) A REGULATORY AUTHORITY representative other than the PERSON who
+inspects the FOOD ESTABLISHMENT or who has any other role in making the
+decision that is being contested; or
+(B) An individual who is not employed by the REGULATORY AUTHORITY.
+8-906.30 Powers, Administration of Hearings.
+(A) A hearing officer shall have the following powers in a hearing in which the
+hearing officer presides:
+(1) Setting and conducting the course of a hearing requested in
+accordance with or authorized by this Code,
+(2) Issuing subpoenas in the name of the REGULATORY AUTHORITY at the
+request of a party to a hearing, administering oaths and affirmations,
+examining witnesses, receiving evidence,
+(3) Approving a consent agreement on the issues involved in the hearing
+entered into by the REGULATORY AUTHORITY and the respondent after the
+respondent receives a hearing notice,
+(4) Sustaining, modifying, rescinding, or vacating an order or directive of
+the REGULATORY AUTHORITY in an appeal hearing proceeding, and if the
+order or directive is sustained, ordering appropriate measures to execute
+the REGULATORY AUTHORITY'S order or directive; and
+(B) Unless a party appeals to the head of the REGULATORY AUTHORITY within 15
+days of the hearing or a lesser number of days specified by the hearing officer:
+(1) Rendering a binding decision and final order in a proceeding after
+conducting a hearing, if the respondent has not waived the right to a
+hearing, and
+(2) Then notifying the respondent of the decision and the order which
+contains the findings and conclusions of LAW.
+8-906.40 Powers, Administrative Remedies.
+The hearing officer shall have the following powers in a hearing proceeding
+concerning an administrative remedy specified in §§ 8-901.10 and 8-905.30:
+(A) Issuing orders to abate or correct violations of this Code and
+establishing a schedule for the abatement or correction of violations;
+(B) Making a finding of fact regarding the occurrence of each violation and
+assessing, levying, and ordering a reasonable civil penalty, according to
+LAW and not to exceed the amount specified in ¶ 8-913.10(B) for each
+violation of this Code that is alleged and found to be committed, and
+calculated based on each day a violation occurs as specified in ¶ 8-
+913.10(C);
+(C) Suspending, revoking, modifying, or imposing reasonable restrictions
+or conditions on a PERMIT to operate a FOOD ESTABLISHMENT, or ordering
+the closure of a FOOD ESTABLISHMENT that is operated without a valid
+PERMIT as required under § 8-301.11;
+(D) Making a finding of fact regarding the occurrence of each violation of
+the REGULATORY AUTHORITY'S or hearing officer's LAWful order issued in
+accordance with this Code and assessing, levying, and ordering a
+reasonable civil penalty, in accordance with LAW and not to exceed the
+amount specified in ¶ 8-913.10(B) for each violation of this Code that is
+alleged and found to be committed, and calculated based on each day a
+violation occurs as specified in ¶ 8-913.10(C);
+(E) Deferring or suspending the imposition of a decision or execution of an
+order, and imposing a probationary period, upon the condition that the
+respondent comply with the hearing officer's reasonable terms and
+conditions;
+(F) Dismissing the appeal if the matter is settled between the REGULATORY
+AUTHORITY and the respondent after a hearing notice is served;
+(G) Ordering reinspection of a FOOD ESTABLISHMENT to determine
+compliance with a hearing officer's order;
+(H) Suspending or ordering the payment of a fee established by the
+REGULATORY AUTHORITY for a reinspection that is required to determine
+compliance and for the reinstatement of a PERMIT after suspension;
+(I) Retaining and exercising jurisdiction for a specific period of time not to
+exceed 90 calendar days after the hearing officer's decision and final order
+is issued, over a respondent who receives a hearing notice; and
+(J) Modifying or setting aside an order by rehearing upon the hearing
+officer's own motion, the motion of the REGULATORY AUTHORITY, or the
+motion of the respondent.
+8-907 Rights of Parties and Evidence
+8-907.10 Rights of Parties.
+Parties to a hearing may be represented by counsel, examine and cross examine
+witnesses, and present evidence in support of their position.
+8-907.20 Evidence to be Presented by the Regulatory Authority.
+The REGULATORY AUTHORITY shall present at the hearing its evidence, orders,
+directives, and reports related to the proposed or appealed administrative
+remedy.
+8-907.30 Evidence to be Excluded.
+Evidence shall be EXCLUDED:
+(A) If it is irrelevant, immaterial, unduly repetitious, or excludable on
+constitutional or statutory grounds or on the basis of evidentiary privilege
+recognized by the state's courts; or
+(B) Otherwise according to LAW.
+8-907.40 Testimony under Oath.
+Testimony of parties and witnesses shall be made under oath or affirmation
+administered by a duly authorized official.
+8-907.50 Written Evidence.
+Written evidence may be received if it will expedite the hearing without
+substantial prejudice to a party's interests.
+8-907.60 Documentary Evidence.
+Documentary evidence may be received in the form of a copy or excerpt.
+8-908 Settlement
+8-908.10 Authorization.
+The REGULATORY AUTHORITY may settle a case after a notice of hearing is served
+by providing a respondent with an opportunity to request a settlement before a
+hearing commences on the matter and by entering into a consent agreement with
+the respondent.
+8-908.20 Respondent Acceptance of Consent Agreement Is Waiver of Right
+to Appeal.
+Respondents accepting a consent agreement waive their right to a hearing on
+the matter.
+Judicial
+8-909 Inspection Orders
+8-909.10 Gaining Access to Premises and Records.
+(Note: Adoption of this section provides the basis for Subparagraph 8-
+402.20(A)(3) and § 8-402.40 and would be cited there.)
+The REGULATORY AUTHORITY may seek access for one or more of the following
+purposes, according to LAW for gaining access:
+(A) If admission to the PREMISES of a FOOD ESTABLISHMENT is denied or
+other circumstances exist that would justify an inspection order under LAW,
+to make an inspection including taking photographs;
+(B) To examine and sample the FOOD; and
+(C) To examine the records on the PREMISES relating to FOOD purchased,
+received, or used by the FOOD ESTABLISHMENT.
+8-909.20 Contents of Court Petition.
+In the absence of a specific set of requirements established by LAW, in its petition
+to the court to compel access the REGULATORY AUTHORITY shall:
+(A) Describe in detail the PREMISES, FOOD, or records on or to which
+access was denied;
+(B) Detail the legal authority to regulate and to have access for a specific
+purpose on or to the PREMISES, FOOD, or records where access was
+denied; and
+(C) Provide information that the FOOD ESTABLISHMENT possesses a valid
+PERMIT from the REGULATORY AUTHORITY and that it applies to the PREMISES
+where access was denied; or
+(D) Provide information that a PERSON is known to be or suspected of
+operating a FOOD ESTABLISHMENT without possessing a valid PERMIT as
+specified in LAW and under this Code.
+8-909.30 Sworn Statement of Denied Access.
+The REGULATORY AUTHORITY shall demonstrate to the court by affidavit, sworn
+testimony, or both that:
+(A) Access on or to the PREMISES, FOOD, or records was denied after the
+REGULATORY AUTHORITY acted as specified in §§ 8-402.20 and 8-402.30; or
+(B) There is reason to believe that a FOOD ESTABLISHMENT is being
+operated on the PREMISES and that access was denied or is sought under
+a REGULATORY AUTHORITY'S reasonable administrative plan to enforce the
+provisions of this Code.
+8-909.40 Contents of an Order.
+Upon petition of the REGULATORY AUTHORITY, the court may issue an inspection
+order that:
+(A) Includes the information specified in ¶¶ 8-902.20(A) - (C); and
+(B) Orders or authorizes any other identified agencies and persons
+including LAW enforcement agencies to execute, or assist with the
+execution of, the order.
+8-909.50 Optional Contents of an Order.
+Upon petition of the REGULATORY AUTHORITY, the court may further issue an
+inspection order that:
+(A) Provides a maximum time limit for the order's execution;
+(B) Authorizes LAW enforcement officers who assist in the order's
+execution to use necessary force against PERSONS or property to execute
+the order; and
+(C) Requires that the agencies or PERSONS ordered or authorized to
+execute the order shall report to the court the date and time of the order's
+execution and the findings reached by the inspection, examination, or
+sampling conducted under the order.
+8-910 Means of Instituting Judicial Enforcement Proceedings
+8-910.10 Institution of Proceedings.
+(A) Proceedings to enforce this Code may be instituted by the REGULATORY
+AUTHORITY according to LAW by issuing a citation or summons, by filing a
+misdemeanor complaint affidavit and request for a warrant of arrest with the court
+of competent jurisdiction, or by referring the complaint to a grand jury for
+indictment, as appropriate.
+(B) The REGULATORY AUTHORITY may designate a representative to issue
+summons or citations or sign warrants on behalf of the agency.
+8-911 Criminal Proceedings
+8-911.10 Authorities, Methods, Fines, and Sentences.
+(A) The REGULATORY AUTHORITY may seek to enforce the provisions of this Code
+and its orders by instituting criminal proceedings as provided in LAW against the
+PERMIT HOLDER or other PERSONS who violate its provisions.
+(B) A PERSON who violates a provision of this Code shall be guilty of a
+misdemeanor, punishable by:
+(1) A fine of not more than (designate amount) dollars, or by imprisonment
+not exceeding 1 year, or both the fine and imprisonment; or
+(2) If the PERSON has been convicted once of violating this Code or if there
+is an intent to defraud or mislead, a fine not exceeding (designate amount)
+or imprisonment not exceeding (designate time) year(s) or both.
+(C) Each day on which a violation occurs is a separate violation under this
+section.
+8-912 Injunctive Proceeding
+8-912.10 Petitions for Injunction.
+The REGULATORY AUTHORITY may, according to LAW, petition a court of competent
+jurisdiction for temporary or permanent injunctive relief to achieve compliance
+with the provisions of this Code or its orders.
+8-913 Civil Proceedings
+8-913.10 Petitions, Penalties, and Continuing Violations.
+(A) The REGULATORY AUTHORITY may petition a court of competent jurisdiction to
+enforce the provisions of this Code or its administrative orders and according to
+LAW collect penalties and fees for violations.
+(B) In addition to any criminal fines and sentences imposed as specified in § 8-
+911.10, or to being enjoined as specified in § 8-912.10, a PERSON who violates a
+provision of this Code, any rule or regulation adopted in accordance with LAW
+related to FOOD ESTABLISHMENTS within the scope of this Code, or to any term,
+condition, or limitation of a PERMIT issued as specified in §§ 8-303.10 and 8-
+303.20 is subject to a civil penalty not exceeding (designate amount).
+(C) Each day on which a violation occurs is a separate violation under this
+section.

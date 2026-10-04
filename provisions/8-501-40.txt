@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-501.40 - Removal of Exclusions and Restrictions.
+[source PDF page 181; extracted with pypdf 6.19.0]
+
+8-501.40 Removal of Exclusions and Restrictions.
+The REGULATORY AUTHORITY shall release a FOOD EMPLOYEE, OR CONDITIONAL
+EMPLOYEE from RESTRICTION or EXCLUSION according to LAW and the conditions
+specified under § 2-201.13.

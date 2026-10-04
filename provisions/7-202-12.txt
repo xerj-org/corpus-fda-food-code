@@ -1,0 +1,33 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-202.12 - Conditions of Use.
+[source PDF page 161; extracted with pypdf 6.19.0]
+
+7-202.12 Conditions of Use.
+POISONOUS OR TOXIC MATERIALS shall be:
+(A) Used according to:
+(1) LAW and this Code,
+(2) Manufacturer's use directions included in labeling, and, for a
+pesticide, manufacturer's label instructions that state that use is
+allowed in a FOOD ESTABLISHMENT, P
+(3) The conditions of certification, if certification is required, for use
+of the pest control materials, P and
+(4) Additional conditions that may be established by the
+REGULATORY AUTHORITY; and
+(B) Applied so that:
+(1) A HAZARD to EMPLOYEES or other PERSONS is not constituted, P
+and
+(2) Contamination including toxic residues due to drip, drain, fog,
+splash or spray on FOOD, EQUIPMENT, UTENSILS, LINENS, and SINGLE-
+SERVICE and SINGLE-USE ARTICLES is prevented, and this is achieved
+by: P
+(a) Removing the items, P
+(b) Covering the items with impermeable covers, P or
+(c) Taking other appropriate preventive actions, P and
+(d) Cleaning and SANITIZING EQUIPMENT and UTENSILS after
+the application. P
+(C) A restricted USE PESTICIDE shall be applied only by an applicator
+certified as defined in 7 USC 136 Definitions, (e) Certified Applicator, of
+the Federal Insecticide, Fungicide, and Rodenticide Act, or a PERSON
+under the direct supervision of a certified applicator. Pf
+7-203 Container Prohibitions

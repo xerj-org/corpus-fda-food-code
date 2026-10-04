@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-802.11 - Specifications.
+[source PDF page 132; extracted with pypdf 6.19.0]
+
+4-802.11 Specifications.
+(A) LINENS that do not come in direct contact with FOOD shall be laundered
+between operations if they become wet, sticky, or visibly soiled.
+(B) Cloth gloves used as specified in ¶ 3-304.15(D) shall be laundered before
+being used with a different type of raw animal FOOD such as beef, FISH, lamb,
+pork or POULTRY.
+(C) LINENS that are used as specified under § 3-304.13 and cloth napkins shall be
+laundered between each use.
+(D) Wet wiping cloths shall be laundered daily.
+(E) Dry wiping cloths shall be laundered as necessary to prevent contamination
+of FOOD and clean serving UTENSILS.
+4-803 Methods

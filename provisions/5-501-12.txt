@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.12 - Outdoor Enclosure.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-501.12 Outdoor Enclosure.
+If used, an outdoor enclosure for REFUSE, recyclables, and returnables shall be
+constructed of durable and cleanable materials.

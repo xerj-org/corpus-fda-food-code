@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.13 - Cleaning Floors, Dustless Methods.
+[source PDF page 156; extracted with pypdf 6.19.0]
+
+6-501.13 Cleaning Floors, Dustless Methods.
+(A) Except as specified in ¶ (B) of this section, only dustless methods of cleaning
+shall be used, such as wet cleaning, vacuum cleaning, mopping with treated dust
+mops, or sweeping using a broom and dust-arresting compounds.
+(B) Spills or drippage on floors that occur between normal floor cleaning times
+may be cleaned:
+(1) Without the use of dust-arresting compounds; and
+(2) In the case of liquid spills or drippage, with the use of a small amount
+of absorbent compound such as sawdust or diatomaceous earth applied
+immediately before spot cleaning.

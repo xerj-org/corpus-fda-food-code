@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.18 - Cleaning of Plumbing Fixtures.
+[source PDF page 157; extracted with pypdf 6.19.0]
+
+6-501.18 Cleaning of Plumbing Fixtures.
+PLUMBING FIXTURES such as HANDWASHING SINKS, toilets, and urinals shall be
+cleaned as often as necessary to keep them clean.

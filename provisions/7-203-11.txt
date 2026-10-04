@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-203.11 - Poisonous or Toxic Material Containers.
+[source PDF page 162; extracted with pypdf 6.19.0]
+
+7-203.11 Poisonous or Toxic Material Containers.
+A container previously used to store POISONOUS OR TOXIC MATERIALS may not be
+used to store, transport, or dispense FOOD, EQUIPMENT, UTENSILS, LINENS, SINGLE-
+SERVICE or SINGLE-USE ARTICLES . P
+7-204 Chemicals

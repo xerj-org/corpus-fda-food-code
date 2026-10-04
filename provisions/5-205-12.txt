@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-205.12 - Prohibiting a Cross Connection.
+[source PDF page 140; extracted with pypdf 6.19.0]
+
+5-205.12 Prohibiting a Cross Connection.
+(A) A PERSON may not create a cross connection by connecting a pipe or conduit
+between the DRINKING WATER system and a nonDRINKING WATER system or a water
+system of unknown quality.P
+(B) The piping of a nonDRINKING WATER system shall be durably identified so that
+it is readily distinguishable from piping that carries DRINKING WATER. Pf

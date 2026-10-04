@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-501.12 - Cutting Surfaces.
+[source PDF page 122; extracted with pypdf 6.19.0]
+
+4-501.12 Cutting Surfaces.
+Surfaces such as cutting blocks and boards that are subject to scratching and
+scoring shall be resurfaced if they can no longer be effectively cleaned and
+SANITIZED, or discarded if they are not capable of being resurfaced.

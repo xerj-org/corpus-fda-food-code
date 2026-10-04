@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-203.12 - Temperature Measuring Devices, Ambient Air and Water.
+[source PDF page 111; extracted with pypdf 6.19.0]
+
+4-203.12 Temperature Measuring Devices, Ambient Air and Water.
+(A) Ambient air and water TEMPERATURE MEASURING DEVICES that are scaled in
+Celsius or dually scaled in Celsius and Fahrenheit shall be designed to be easily
+readable and accurate to ±1.5oC in the intended range of use. Pf
+(B) Ambient air and water TEMPERATURE MEASURING DEVICES that are scaled only
+in Fahrenheit shall be accurate to ±3oF in the intended range of use. Pf

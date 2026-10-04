@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-301.15 - Clothes Washers and Dryers.
+[source PDF page 119; extracted with pypdf 6.19.0]
+
+4-301.15 Clothes Washers and Dryers.
+(A) Except as specified in ¶ (B) of this section, if work clothes or LINENS are
+laundered on the PREMISES, a mechanical clothes washer and dryer shall be
+provided and used.
+(B) If on-PREMISES laundering is limited to wiping cloths intended to be used
+moist, or wiping cloths are air-dried as specified under § 4-901.12, a mechanical
+clothes washer and dryer need not be provided.
+4-302 Utensils, Temperature Measuring Devices, and Testing Devices

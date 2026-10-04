@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-405.20 - Verification and Documentation of Correction.
+[source PDF page 179; extracted with pypdf 6.19.0]
+
+8-405.20 Verification and Documentation of Correction.
+(A) After observing at the time of inspection a correction of a violation of a
+PRIORITY ITEM or PRIORITY FOUNDATION ITEM or a HACCP PLAN deviation, the
+REGULATORY AUTHORITY shall enter the violation and information about the
+corrective action on the inspection report.
+(B) As specified under ¶ 8-405.11(B), after receiving notification that the PERMIT
+HOLDER has corrected a violation of a PRIORITY ITEM OR PRIORITY FOUNDATION ITEM
+or HACCP PLAN deviation, or at the end of the specified period of time, the
+REGULATORY AUTHORITY shall verify correction of the violation, document the
+information on an inspection report, and enter the report in the REGULATORY
+AUTHORITY'S records.
+8-406 Core Item Violation

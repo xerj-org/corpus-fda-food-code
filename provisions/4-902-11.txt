@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-902.11 - Food-Contact Surfaces.
+[source PDF page 133; extracted with pypdf 6.19.0]
+
+4-902.11 Food-Contact Surfaces.
+Lubricants as specified under § 7-205.11 shall be applied to FOOD-CONTACT
+SURFACES that require lubrication in a manner that does not contaminate FOOD-
+CONTACT SURFACES.

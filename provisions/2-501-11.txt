@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-501.11 - Clean-up of Vomiting and Diarrheal Events.
+[source PDF page 65; extracted with pypdf 6.19.0]
+
+2-501.11 Clean-up of Vomiting and Diarrheal Events.
+A FOOD ESTABLISHMENT shall have written procedures for EMPLOYEES to follow
+when responding to vomiting or diarrheal events that involve the discharge of
+vomitus or fecal matter onto surfaces in the FOOD ESTABLISHMENT. The
+procedures shall address the specific actions EMPLOYEES must take to minimize
+the spread of contamination and the exposure of EMPLOYEES, consumers, FOOD,
+and surfaces to vomitus or fecal matter. Pf

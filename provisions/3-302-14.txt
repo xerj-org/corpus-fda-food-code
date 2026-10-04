@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-302.14 - Protection from Unapproved Additives.
+[source PDF page 77; extracted with pypdf 6.19.0]
+
+3-302.14 Protection from Unapproved Additives.
+(A) FOOD shall be protected from contamination that may result from the addition
+of, as specified in § 3-202.12:
+(1) Unsafe or unapproved food or color additives; P and
+(2) Unsafe or unapproved levels of approved food and color additives. P
+(B) A FOOD EMPLOYEE may not:
+(1) Apply sulfiting agents to fresh fruits and vegetables intended for raw
+consumption or to a FOOD considered to be a good source of vitamin B1; P
+or
+(2) Except for grapes, serve or sell FOOD specified under Subparagraph
+(B)(1) of this section that is treated with sulfiting agents before receipt by
+the FOOD ESTABLISHMENT. P

@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-302.14 - Tank Vent, Protected.
+[source PDF page 142; extracted with pypdf 6.19.0]
+
+5-302.14 Tank Vent, Protected.
+If provided, a water tank vent shall terminate in a downward direction and shall
+be covered with:
+(A) 16 mesh to 25.4 mm (16 mesh to 1 inch) screen or equivalent when
+the vent is in a protected area; or
+(B) A protective filter when the vent is in an area that is not protected from
+windblown dirt and debris.

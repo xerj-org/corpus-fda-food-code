@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-306.11 - Food Display.
+[source PDF page 82; extracted with pypdf 6.19.0]
+
+3-306.11 Food Display.
+Except for nuts in the shell and whole, raw fruits and vegetables that are
+intended for hulling, peeling, or washing by the CONSUMER before consumption,
+FOOD on display shall be protected from contamination by the use of PACKAGING;
+counter, service line, or salad bar FOOD guards; display cases; or other effective
+means. P

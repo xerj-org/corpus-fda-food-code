@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-202.14 - Hot Oil Filtering Equipment.
+[source PDF page 111; extracted with pypdf 6.19.0]
+
+4-202.14 Hot Oil Filtering Equipment.
+Hot oil filtering EQUIPMENT shall meet the characteristics specified under §
+4-202.11 or § 4-202.12 and shall be readily accessible for filter replacement and
+cleaning of the filter.

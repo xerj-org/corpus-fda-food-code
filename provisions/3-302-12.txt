@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-302.12 - Food Storage Containers, Identified with Common Name of
+[source PDF page 76; extracted with pypdf 6.19.0]
+
+3-302.12 Food Storage Containers, Identified with Common Name of
+Food.
+Except for containers holding FOOD that can be readily and unmistakably
+recognized such as dry pasta, working containers holding FOOD or FOOD
+ingredients that are removed from their original packages for use in the FOOD
+ESTABLISHMENT, such as cooking oils, flour, herbs, potato flakes, salt, spices, and
+sugar shall be identified with the common name of the FOOD.

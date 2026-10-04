@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-402.15 - Flushing a Waste Retention Tank.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-402.15 Flushing a Waste Retention Tank.
+A tank for liquid waste retention shall be thoroughly flushed and drained in a
+sanitary manner during the servicing operation.
+5-403 Disposal Facility
+Design and construction

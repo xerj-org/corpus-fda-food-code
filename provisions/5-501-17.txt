@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.17 - Toilet Room Receptacle, Covered.
+[source PDF page 146; extracted with pypdf 6.19.0]
+
+5-501.17 Toilet Room Receptacle, Covered.
+A toilet room used by females shall be provided with a covered receptacle for
+sanitary napkins.

@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-301.11 - Prerequisite for Operation.
+[source PDF page 170; extracted with pypdf 6.19.0]
+
+8-301.11 Prerequisite for Operation.
+A PERSON may not operate a FOOD ESTABLISHMENT without a valid PERMIT to
+operate issued by the REGULATORY AUTHORITY. Pf
+8-302 Application Procedure

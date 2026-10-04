@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-102.12 - Certified Food Protection Manager
+[source PDF page 46; extracted with pypdf 6.19.0]
+
+2-102.12 Certified Food Protection Manager
+(A) The PERSON IN CHARGE shall be a certified FOOD protection manager who has
+shown proficiency of required information through passing a test that is part of an
+ACCREDITED PROGRAM.
+(B) This section does not apply to certain types of FOOD ESTABLISHMENTS deemed
+by the REGULATORY AUTHORITY to pose minimal risk of causing, or contributing to,
+foodborne illness based on the nature of the operation and extent of FOOD
+preparation.

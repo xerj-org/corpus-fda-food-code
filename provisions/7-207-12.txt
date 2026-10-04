@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-207.12 - Refrigerated Medicines, Storage.
+[source PDF page 164; extracted with pypdf 6.19.0]
+
+7-207.12 Refrigerated Medicines, Storage.
+Medicines belonging to EMPLOYEES or to children in a day care center that require
+refrigeration and are stored in a FOOD refrigerator shall be:
+(A) Stored in a package or container and kept inside a covered, leakproof
+container that is identified as a container for the storage of medicines; P and
+(B) Located so they are inaccessible to children. P
+7-208 First Aid Supplies

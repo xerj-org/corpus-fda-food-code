@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-402.11 - Convenience and Accessibility.
+[source PDF page 155; extracted with pypdf 6.19.0]
+
+6-402.11 Convenience and Accessibility.
+Toilet rooms shall be conveniently located and accessible to EMPLOYEES during
+all hours of operation.
+6-403 Employee Accommodations

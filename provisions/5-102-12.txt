@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-102.12 - Nondrinking Water.
+[source PDF page 137; extracted with pypdf 6.19.0]
+
+5-102.12 Nondrinking Water.
+(A) A nonDRINKING WATER supply shall be used only if its use is APPROVED. P
+(B) NonDRINKING WATER shall be used only for nonculinary purposes such as air
+conditioning, nonFOOD EQUIPMENT cooling, and fire protection. P

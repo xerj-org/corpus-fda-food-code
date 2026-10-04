@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-305.13 - Vended Time/Temperature Control for Safety Food, Original
+[source PDF page 82; extracted with pypdf 6.19.0]
+
+3-305.13 Vended Time/Temperature Control for Safety Food, Original
+Container.
+TIME/TEMPERATURE CONTROL FOR SAFETY FOOD dispensed through a VENDING
+MACHINE shall be in the PACKAGE in which it was placed at the FOOD
+ESTABLISHMENT or FOOD PROCESSING PLANT at which it was prepared.

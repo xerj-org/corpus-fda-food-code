@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-204.14 - Vending Machine, Vending Stage Closure.
+[source PDF page 113; extracted with pypdf 6.19.0]
+
+4-204.14 Vending Machine, Vending Stage Closure.
+The dispensing compartment of a VENDING MACHINE including a machine that is
+designed to vend prePACKAGED snack FOOD that is not TIME/TEMPERATURE
+CONTROL FOR SAFETY FOOD such as chips, party mixes, and pretzels shall be
+equipped with a self-closing door or cover if the machine is:
+(A) Located in an outside area that does not otherwise afford the
+protection of an enclosure against the rain, windblown debris, insects,
+rodents, and other contaminants that are present in the environment; or
+(B) Available for self-service during hours when it is not under the full-time
+supervision of a FOOD EMPLOYEE.

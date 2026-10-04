@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-602.12 - Other Forms of Information.
+[source PDF page 103; extracted with pypdf 6.19.0]
+
+3-602.12 Other Forms of Information.
+(A) If required by LAW, CONSUMER warnings shall be provided.
+(B) FOOD ESTABLISHMENT or manufacturers' dating information on FOODS may not
+be concealed or altered.
+(C) The PERMIT HOLDER shall notify CONSUMERS by written notification of the
+presence of MAJOR FOOD ALLERGENS as an ingredient in unPACKAGED FOOD items
+that are served or sold to the CONSUMER.
+3-603 Consumer Advisory

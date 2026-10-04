@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-603.14 - Wet Cleaning.
+[source PDF page 130; extracted with pypdf 6.19.0]
+
+4-603.14 Wet Cleaning.
+(A) EQUIPMENT FOOD-CONTACT SURFACES and UTENSILS shall be effectively
+washed to remove or completely loosen soils by using the manual or mechanical
+means necessary such as the application of detergents containing wetting agents
+and emulsifiers; acid, alkaline, or abrasive cleaners; hot water; brushes; scouring
+pads; high-pressure sprays; or ultrasonic devices.
+(B) The washing procedures selected shall be based on the type and purpose of
+the EQUIPMENT or UTENSIL, and on the type of soil to be removed.

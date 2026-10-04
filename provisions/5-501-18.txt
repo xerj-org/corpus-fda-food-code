@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.18 - Cleaning Implements and Supplies.
+[source PDF page 146; extracted with pypdf 6.19.0]
+
+5-501.18 Cleaning Implements and Supplies.
+(A) Except as specified in ¶ (B) of this section, suitable cleaning implements and
+supplies such as high pressure pumps, hot water, steam, and detergent shall be
+provided as necessary for effective cleaning of receptacles and waste handling
+units for REFUSE, recyclables, and returnables.
+(B) If APPROVED, off-PREMISES-based cleaning services may be used if on-
+PREMISES cleaning implements and supplies are not provided.
+Location and placement

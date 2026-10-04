@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-402.10 - Establishment Drainage System.
+[source PDF page 144; extracted with pypdf 6.19.0]
+
+5-402.10 Establishment Drainage System.
+FOOD ESTABLISHMENT drainage systems, including grease traps, that convey
+SEWAGE shall be designed and installed as specified under ¶ 5-202.11(A).

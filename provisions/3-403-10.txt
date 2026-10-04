@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-403.10 - Preparation for Immediate Service.
+[source PDF page 89; extracted with pypdf 6.19.0]
+
+3-403.10 Preparation for Immediate Service.
+Cooked and refrigerated FOOD that is prepared for immediate service in response
+to an individual CONSUMER order, such as a roast beef sandwich au jus, may be
+served at any temperature.

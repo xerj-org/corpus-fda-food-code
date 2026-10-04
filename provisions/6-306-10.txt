@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-306.10 - Availability.
+[source PDF page 155; extracted with pypdf 6.19.0]
+
+6-306.10 Availability.
+A service sink or curbed cleaning facility shall be provided as specified under ¶ 5-
+203.13(A).
+6-4 Location and Placement
+6-401 Handwashing Sinks

@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-304.13 - Protecting Inlet, Outlet, and Hose Fitting.
+[source PDF page 143; extracted with pypdf 6.19.0]
+
+5-304.13 Protecting Inlet, Outlet, and Hose Fitting.
+If not in use, a water tank and hose inlet and outlet fitting shall be protected using
+a cover or device as specified under § 5-303.12.

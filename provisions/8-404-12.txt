@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-404.12 - Resumption of Operations.
+[source PDF page 179; extracted with pypdf 6.19.0]
+
+8-404.12 Resumption of Operations.
+If operations are discontinued as specified under § 8-404.11 or otherwise
+according to LAW, the PERMIT HOLDER shall obtain approval from the REGULATORY
+AUTHORITY before resuming operations.
+8-405 Violation of Priority Item or Priority Foundatio Item

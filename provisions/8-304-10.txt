@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-304.10 - Responsibilities of the Regulatory Authority.
+[source PDF page 173; extracted with pypdf 6.19.0]
+
+8-304.10 Responsibilities of the Regulatory Authority.
+(A) At the time a PERMIT is first issued, the REGULATORY AUTHORITY shall provide
+to the PERMIT HOLDER a copy of this Code so that the PERMIT HOLDER is notified of
+the compliance requirements and the conditions of retention, as specified under
+§ 8-304.11, that are applicable to the PERMIT.
+(B) Failure to provide the information specified in ¶ (A) of this section does not
+prevent the REGULATORY AUTHORITY from taking authorized action or seeking
+remedies if the PERMIT HOLDER fails to comply with this Code or an order,
+warning, or directive of the REGULATORY AUTHORITY.

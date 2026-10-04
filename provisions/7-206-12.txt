@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-206.12 - Rodent Bait Stations.
+[source PDF page 163; extracted with pypdf 6.19.0]
+
+7-206.12 Rodent Bait Stations.
+Rodent bait shall be contained in a covered, tamper-resistant bait station. P

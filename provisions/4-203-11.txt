@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-203.11 - Temperature Measuring Devices, Food.
+[source PDF page 111; extracted with pypdf 6.19.0]
+
+4-203.11 Temperature Measuring Devices, Food.
+(A) FOOD TEMPERATURE MEASURING DEVICES that are scaled only in Celsius or
+dually scaled in Celsius and Fahrenheit shall be accurate to ±1oC in the intended
+range of use. Pf
+(B) FOOD TEMPERATURE MEASURING DEVICES that are scaled only in Fahrenheit
+shall be accurate to ±2oF in the intended range of use. Pf

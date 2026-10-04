@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.13 - Receptacles.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-501.13 Receptacles.
+(A) Except as specified in ¶ (B) of this section, receptacles and waste handling
+units for REFUSE, recyclables, and returnables and for use with materials
+containing FOOD residue shall be durable, cleanable, insect- and rodent-resistant,
+leakproof, and nonabsorbent.
+(B) Plastic bags and wet strength paper bags may be used to line receptacles for
+storage inside the FOOD ESTABLISHMENT, or within closed outside receptacles.

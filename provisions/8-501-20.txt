@@ -1,0 +1,16 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-501.20 - Restriction or Exclusion of Food Employee, or Summary
+[source PDF page 180; extracted with pypdf 6.19.0]
+
+8-501.20 Restriction or Exclusion of Food Employee, or Summary
+Suspension of Permit.
+Based on the findings of an investigation related to a FOOD EMPLOYEE or
+CONDITIONAL EMPLOYEE who is suspected of being infected or diseased, the
+REGULATORY AUTHORITY may issue an order to the suspected FOOD EMPLOYEE,
+CONDITIONAL EMPLOYEE or PERMIT HOLDER instituting one or more of the following
+control measures:
+(A) RESTRICTING the FOOD EMPLOYEE or CONDITIONAL EMPLOYEE;
+(B) EXCLUDING the FOOD EMPLOYEE or CONDITIONAL EMPLOYEE; or
+(C) Closing the FOOD ESTABLISHMENT by summarily suspending a PERMIT to
+operate in accordance with LAW.

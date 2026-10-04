@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 1. Purpose and Definitions
+Provision 1-103.10 - Statement.
+[source PDF page 22; extracted with pypdf 6.19.0]
+
+1-103.10 Statement.
+This Code establishes definitions; sets standards for management and
+personnel, FOOD operations, and EQUIPMENT and facilities; and provides for FOOD
+ESTABLISHMENT plan review, PERMIT issuance, inspection, EMPLOYEE RESTRICTION,
+and PERMIT suspension.
+1-2 Definitions
+1-201 Applicability and Terms Defined

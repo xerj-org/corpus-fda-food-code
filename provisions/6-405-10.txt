@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-405.10 - Receptacles, Waste Handling Units, and Designated Storage Areas.
+[source PDF page 156; extracted with pypdf 6.19.0]
+
+6-405.10 Receptacles, Waste Handling Units, and Designated Storage Areas.
+Units, receptacles, and areas designated for storage of REFUSE and recyclable
+and returnable containers shall be located as specified under § 5-501.19.
+6-5 Maintenance and Operation
+6-501 Premises, Structures, Attachments, and Fixtures - Methods

@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-304.13 - Linens and Napkins, Use Limitation.
+[source PDF page 79; extracted with pypdf 6.19.0]
+
+3-304.13 Linens and Napkins, Use Limitation.
+LINENS, such as cloth napkins, may not be used in contact with FOOD unless they
+are used to line a container for the service of FOODS and the LINENS and napkins
+are replaced each time the container is refilled for a new CONSUMER.

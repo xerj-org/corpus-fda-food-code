@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-209.11 - Storage.
+[source PDF page 164; extracted with pypdf 6.19.0]
+
+7-209.11 Storage.
+Except as specified under §§ 7-207.12 and 7-208.11, EMPLOYEES shall store their
+PERSONAL CARE ITEMS in facilities as specified under ¶ 6-305.11(B).
+7-3 Stock and Retail Sale
+Storage and Display

@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-206.13 - Tracking Powders, Pest Control and Monitoring.
+[source PDF page 164; extracted with pypdf 6.19.0]
+
+7-206.13 Tracking Powders, Pest Control and Monitoring.
+(A) Except as specified in ¶ (B) of this section, a tracking powder pesticide may
+not be used in a FOOD ESTABLISHMENT. P
+(B) If used, a nontoxic tracking powder such as talcum or flour may not
+contaminate FOOD, EQUIPMENT, UTENSILS, LINENS, and SINGLE-SERVICE and SINGLE-
+USE ARTICLES.
+7-207 Medicines

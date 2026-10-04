@@ -1,0 +1,686 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Annex 6. Food Processing Criteria
+[source PDF pages 571-588; extracted with pypdf 6.19.0]
+
+Annex 6 Food Processing
+Criteria
+1. Introduction
+2. Reduced Oxygen Packaging
+3. Smoking and Curing
+1. Introduction
+From its inception, the retail segment of the food industry has prepared foods in
+consumer-sized portions, using commercially available equipment for cutting, grinding,
+slicing, cooking, and refrigeration, and applying herbs and spices readily available to
+consumers at their local grocery.
+Over the past score of years, retail segment operators have expanded into food
+manufacturing/processing-type operations, often using sophisticated new technologies
+and equipment that are sometimes microprocessor-controlled. Many now desire to alter
+the atmospheres within food packages, or apply federally regulated chemical food
+additives as a method of food preservation. Food processing operations now being
+conducted or proposed include cook-chill; vacuum packaging; sous vide; smoking and
+curing; brewing, processing, and bottling alcoholic beverages, carbonated beverages, or
+drinking water; and custom processing of animals.
+The Food Code specifies that a HACCP plan acceptable to the regulatory authority be
+the basis for approving food manufacturing/processing operations at retail. The HACCP
+plans are to be provided and accepted in two ways as follows.
+(A) Reduced Oxygen Packaging
+Section 3-502.12 of the Food Code provides the criteria that are to be met in the
+HACCP plans of those operators who are conducting reduced oxygen packaging
+(ROP) operations. Unless prior approval of the HACCP plan is required by the
+regulatory authority, the HACCP plan covering this operation along with the
+related records documenting monitoring and corrective actions need only be
+available and acceptable to the regulatory authority at the time of inspection.
+(B) Other Food Manufacturing/Processing Operations
+Except for ROP as discussed in (A) above, the Food Code specifies under §§ 3-
+502.11, 8-103.10, 8-103.11, and 8-201.13 that the food establishment operator
+must obtain a variance from the regulatory authority for all food
+manufacturing/processing operations based on the prior approval of a HACCP
+plan.
+The purpose of this Annex is to provide processing criteria for different types of
+food manufacturing/processing operations for use by those preparing and
+reviewing HACCP plans and proposals. Criteria for additional processes will be
+provided as they are developed, reviewed, and accepted.
+2. Reduced Oxygen Packaging
+(A) Introduction
+ROP which provides an environment that contains little or no oxygen, offers unique
+advantages and opportunities for the food industry but also raises many microbiological
+concerns. Products packaged using ROP may be produced safely if proper controls are
+in effect. Producing and distributing these products with a HACCP approach offer an
+effective, rational, and systematic method for the assurance of food safety. Non-
+time/temperature control for safety food, defined in Chapter 1, does not require a
+variance or HACCP Plan for ROP. This Annex will provide guidelines for effective food
+safety controls for retail food establishments covering the receipt, processing,
+packaging, holding, displaying, and labeling of food in reduced oxygen packages.
+(B) Definitions
+The term ROP can be used to describe any packaging procedure that results in a
+reduced oxygen level in a sealed package. The term is often used because it is an
+inclusive term and can include packaging options such as:
+(1) Cook-chill packaging, in which cooked food is hot filled into impermeable
+bags and are then sealed or crimped closed. The bagged food is rapidly chilled
+and refrigerated at temperatures that inhibit the growth of psychrotrophic
+pathogens.
+(2) Controlled Atmosphere Packaging (CAP) in which the atmosphere of a
+package of food is modified so that until the package is opened, its composition
+is different from air, and continuous control of that atmosphere is maintained,
+such as by using oxygen scavengers or a combination of total replacement of
+oxygen, nonrespiring food, and impermeable packaging material.
+(3) Modified Atmosphere Packaging (MAP) in which the atmosphere of a
+package of food is modified so that its composition is different from air but the
+atmosphere may change over time due to the permeability of the packaging
+material or the respiration of the food. Modified atmosphere packaging includes
+reduction in the proportion of oxygen, total replacement of oxygen, or in increase
+in the proportion of other gases such as carbon dioxide or nitrogen.
+(4) Sous Vide, in which raw or partially cooked food is placed in a hermetically
+sealed, impermeable bag, cooked in the bag, rapidly chilled, and refrigerated at
+temperatures that inhibit the growth of psychrotrophic pathogens.
+(5) Vacuum Packaging in which air is removed from the package of food and the
+package is hermetically sealed so that a vacuum remains inside the package.
+(C) Benefits of ROP
+ROP can create a significantly anaerobic environment that prevents the growth of
+aerobic spoilage organisms, which generally are Gram-negative bacteria such as
+pseudomonads or aerobic yeast and molds. These organisms are responsible for off-
+odors, slime, and texture changes, which are signs of spoilage.
+ROP can be used to prevent degradation or oxidative processes in food products.
+Reducing the oxygen in and around a food retards the amount of oxidative rancidity in
+fats and oils. ROP also prevents color deterioration in raw meats caused by oxygen. An
+additional effect of sealing food in ROP is the reduction of product shrinkage by
+preventing water loss.
+These benefits of ROP allow an extended shelf life for vacuum packaged (VP), modified
+atmosphere packaged (MAP) and controlled atmosphere packaged (CAP) foods
+displayed for retail sale. Cook chill (CC) and sous vide (SV) processed food cannot be
+sold directly to consumers or other businesses but the extended shelf life and quality
+benefits internal service and use of the products. Providing an extended shelf life for
+ready-to-eat convenience foods and advertising foods as "Fresh – Never Frozen" are
+examples of economic and quality advantages.
+(D) Safety Concerns
+Use of ROP with some foods can markedly increase safety concerns. Unless
+time/temperature control for safety foods are protected inherently, simply placing them
+in ROP without regard to microbial growth will increase the risk of foodborne illnesses.
+ROP processors and regulators must assure that during distribution of foods or while
+foods are held by retailers or consumers, refrigerated temperatures must be
+consistently maintained. In fact, a serious concern is that the increased use of vacuum
+packaging at retail supermarket deli-type operations may be followed by temperature
+abuse in the establishment or by the consumer. Consequently, at least
+one barrier or multiple hurdles resulting in a barrier needs to be incorporated into the
+production process for products packaged using ROP. The incorporation of several sub-
+inhibitory barriers, none of which could individually inhibit microbial growth but which in
+combination provide a full barrier to growth (the hurdle concept), is necessary to ensure
+food safety.
+Some products in ROP contain no preservatives and frequently do not possess any
+intrinsic inhibitory barriers (such as, pH, aw, or salt concentrations) that either alone or in
+combination will inhibit microbial growth. Thus, product safety is not provided by natural
+or formulated characteristics.
+A reduced oxygen atmosphere provides the potential for growth of several important
+foodborne pathogens. Some of these pathogens such as Listeria monocytogenes are
+psychrotrophic and grow slowly at temperatures near the freezing point of foods.
+Additionally, the inhibition of the spoilage bacteria is significant because without these
+competing organisms, tell-tale signs signaling that the product is no longer fit for
+consumption will not occur.
+The use of one form of ROP, vacuum packaging, is not new. Many food products have
+a long and safe history of being vacuum packaged in ROP. However, the early use of
+vacuum packaging for smoked fish had disastrous results, causing a long-standing
+moratorium on certain uses of this technology at the retail level.
+Refrigerated Holding Requirements for Foods in ROP
+Safe use of ROP technology demands that adequate refrigeration be maintained
+during the entire shelf-life of time/temperature control for safety foods to ensure
+product safety.
+Bacteria, with the exception of those that can form spores, are eliminated by
+pasteurization. However, pathogens may survive in the final product if
+pasteurization is inadequate, poor quality raw materials or poor handling
+practices are used, or post-processing contamination occurs. Even if foods that
+are in ROP receive adequate thermal processing, a particular concern is present
+at retail when employees open manufactured products and repackage them. This
+operation presents the potential for post-processing contamination by pathogens.
+If products in ROP are subjected to mild temperature abuse, i.e., 5o-12oC (41o-
+53oF), at any stage during storage or distribution, foodborne pathogens, including
+Bacillus cereus, Salmonella spp., Staphylococcus aureus, and Vibrio
+parahaemolyticus, can grow slowly. Marginal refrigeration that does not
+facilitate growth may still allow Salmonella spp., Campylobacter spp., and
+Brucella spp. to survive for long periods of time.
+Published surveys indicate that refrigeration practices at retail need
+improvement. Some refrigerated products offered in convenience stores were
+found at or above 7.2oC (45oF) 50% of the time; in several cases temperatures
+as high as 10oC (50oF) were observed. Delicatessen display cases have been
+shown to demonstrate poor temperature control. Foods have been observed
+above 10oC (50oF) and above 12.8oC (55oF) in several instances. Supermarket
+fresh meat cases appear to have a relatively good record of temperature control.
+However, even these foods can occasionally be found above 10oC (50oF).
+Temperature abuse is common throughout distribution and retail markets. Strict
+adherence to temperature control and shelf-life must be observed and
+documented by the establishment using ROP. Buyer specifications for
+refrigerated distribution systems as well as internal time/temperature controls
+should be implemented by the establishment. Information on temperature control
+should also be provided to the consumer. Currently these controls are not
+extensively used.
+Control of Clostridium botulinum and Listeria monocytogenes in Reduced
+Oxygen Packaged Foods
+There has been an increased interest in ROP at retail using conventional
+refrigeration units for holding. Refrigerated foods packaged at retail may be
+chilled either after they are physically prepared and repackaged, or packaged
+after a cooking step. In either case Clostridium botulinum and Listeria
+monocytogenes are the pathogens of concern for ROP products.
+Clostridium botulinum is the causative agent of botulism, a severe food
+poisoning characterized by double vision, paralysis, and occasionally death. The
+organism is an anaerobic spore-forming bacteria that produces a potent
+neurotoxin. The spores are ubiquitous in nature, relatively heat-resistant, and can
+survive most minimal heat treatments that destroy vegetative cells. Certain
+strains of C. botulinum (type E and non-proteolytic types B and F), which have
+been primarily associated with fish, are psychrotrophic and can grow and
+produce toxin at temperatures as low as 3.3oC (38oF). Other strains of
+C. botulinum (type A and proteolytic types B and F) can grow and produce toxin
+at temperatures slightly above 10oC (50oF). If present, C. botulinum could
+potentially grow and render a food PACKAGED and held in ROP toxigenic because
+most other competing organisms are inhibited by ROP. Therefore, the food could
+be toxic yet appear organoleptically acceptable.
+This is particularly true of psychrotrophic strains of C. botulinum that do not
+produce tell-tale proteolytic enzymes which result in a distinct bad odor. Because
+botulism is potentially deadly, foods held in anaerobic conditions merit regulatory
+concern and vigilance.
+The potential for Clostridium botulinum toxin to develop also exists when ROP
+is used after heat treatments such as pasteurization, or sous vide processing of
+foods which will not destroy the spores of C. botulinum. Mild heat treatments
+(heat shocks) in combination with ROP may actually select for C. botulinum by
+killing off competitors. If the applied heat treatment does not produce commercial
+sterility, the food requires refrigeration below 3.3oC (38oF) to prevent spore
+germination and toxin formation and ensure product safety. For this reason, sous
+vide products are frequently frozen and held in frozen storage until use.
+There is a further microbial concern with ROP at retail. Processed products such
+as meats and cheeses which have undergone an adequate cooking step to kill
+L. monocytogenes can be re-contaminated when opened, sliced, and
+repackaged at retail. Thus, a simple packaging or repackaging operation can
+present an opportunity for recontamination with pathogens if strict sanitary
+safeguards are not in place. Hard and semi-soft cheeses that meet the
+Standards of Identity for those cheeses in 21 CFR 133.150 Hard cheeses, 21
+CFR 133.169 Pasteurized process cheese and 21 CFR 133.187 Semi-soft
+cheeses may be packaged using ROP without a variance. Refer to Annex 3
+Public Health Reasons, Sections 3-501.17 and 3-501.18 for a partial list of hard
+and semi-soft cheeses.
+Processors of products using ROP should build in extra safeguards if they plan to
+rely on refrigeration as the sole barrier that ensures product safety. This
+approach requires very rigorous temperature controls of products and
+refrigeration equipment. If extended shelf life is sought, a temperature of 3.3oC
+(38oF) or lower must be maintained at all times to prevent outgrowth of C.
+botulinum and the subsequent production of toxin. Listeria monocytogenes
+can grow at even lower temperatures; consequently, appropriate use-by dates
+must be established. Growth barriers are provided by hurdles such as low pH, aw,
+or short shelf life, and constant monitoring of the product temperature. Any one
+hurdle, or a combination of several, may be used with refrigeration to control
+pathogenic outgrowth.
+Design of Heat Processes for Foods in Reduced Oxygen Packages
+Heat processes for sous vide or cook-chill operations must be designed so that,
+at a minimum, all vegetative pathogens are destroyed by a pasteurization
+process and temperature control is verified. When temperature is the only barrier
+and no other intrinsic or extrinsic factors add protection against the growth of
+foodborne pathogens and formation of toxin, the product may not be sold to other
+business entities or to the consumer in the ROP package because of the inability
+to verify temperature control.
+The National Advisory Committee on Microbiological Criteria for Foods
+(NACMCF), chartered by the U.S. Department of Agriculture (USDA) and the
+Department of Health and Human Services (DHHS), commented on the microbial
+safety of refrigerated foods containing cooked, uncured meat or poultry products
+that are packaged for extended refrigerated shelf life and are ready-to-eat or
+prepared with little or no additional heat treatment. NACMCF recommended
+guidelines for evaluating the ability of thermal processes to inactivate L.
+monocytogenes in extended shelf life refrigerated foods. Specifically, it
+recommended a proposed requirement for demonstrating that an ROP process
+provides a heat treatment sufficient to achieve a 4 decimal log reduction (4D) of
+L. monocytogenes.
+Other scientific reports recommend more extensive thermal processing. Thermal
+processes for sous vide practiced in Europe are designed to achieve a 12-13 log
+reduction (12-13D) of the target organism Streptococcus faecalis. It is
+reasoned that thermal inactivation of this organism would ensure destruction of
+all other vegetative pathogens.
+Food manufacturers with adequate in-house research and development
+programs may have the ability to design their own thermal processes. However,
+small retailers and supermarkets may not be able to perform the microbiological
+challenge studies necessary to provide the same level of food safety. If a retail
+establishment wishes to use an ROP process with different time-temperature
+parameters from those provided in Section 3-502.12 of the Food Code,
+microbiological inoculation studies should be performed by, or in conjunction
+with, an appropriate process authority or person knowledgeable in food
+microbiology who is acceptable to the regulatory authority.
+Finally, if foods are held long enough, even under proper refrigeration, extended
+shelf life may be a problem. A study on fresh vegetables inoculated with
+L. monocytogenes, conducted to determine the effect of MAP on shelf life,
+found that MAP lengthened the time that all vegetables were considered
+acceptable, but that populations of L. monocytogenes increased during that
+extended storage.
+Consumer Handling Practices and In-Home Refrigerator Temperatures
+Extended shelf life provided by ROP is cause for concern because of the
+potential for abuse by the consumer. Consumers often cannot, or do not,
+maintain adequate refrigeration of time/temperature control for safety foods at
+home. Under the best of circumstances, home refrigerators can be expected to
+range between 5o and 10oC (41o-50oF). One study reported that home
+refrigerator temperatures in 21% of the households surveyed were 10oC (50oF).
+Another study reported more than 1 of 4 home refrigerators are above 7.2oC
+(45oF) and almost 1 of 10 are above 10oC (50oF). Thus, refrigeration alone
+cannot be relied on for ensuring microbiological safety after foods in ROP leave
+the establishment.
+Consumers have come to expect that certain packages of foods would be safe
+without refrigeration. Low-acid canned foods have been thermally processed,
+which renders the food shelf-stable. Retort heating ensures the destruction of C.
+botulinum spores as well as all other foodborne pathogens. Yet consumers may
+not understand that most products that are packaged in ROP are not
+commercially sterile or shelf-stable and must be refrigerated. A clear label
+statement to keep the product refrigerated must be provided to consumers.
+The use of ROP has been extensively studied by regulators and the food industry
+over the past several years. Recommendations have been adapted from the
+Association of Food and Drug Officials "Retail Guidelines - Refrigerated Foods in
+Reduced Oxygen Packages" and New York State Department of Agriculture and
+Markets "Proposed Reduced Oxygen Packaging Regulations." As provided in the
+Food Code, some ROP operations may be conducted under provision 3-502.12
+Reduced Oxygen Packaging, Criteria. Food that is packaged by an ROP method
+under these provisions is considered safe while it is under the control of the
+establishment and, if the labeling instructions are followed, while under the
+control of the consumer.
+(E) Safety Barrier Verification
+The safety barriers for all ROP processed foods under a variance at retail must be
+verified in writing. Independent laboratory analysis using methodology approved by the
+regulatory authority such as official methods of the AOAC International (AOAC) can also
+be used to verify incoming product. ROP processed foods which comply with one of the
+methods in Section 3-502.12 do not require written verification.
+Any changes in product formulation or processing procedures should be reflected in the
+HACCP plan and may require further product testing for validation. A record of all safety
+barrier verifications should be updated every 12 months. This record must be available to
+the regulatory authority for review at the time of inspection.
+(F) USDA Process Exemption
+Meat and poultry products cured at a food processing plant regulated by the U.S.
+Department of Agriculture using substances specified in 9 CFR 424, Preparation and
+Processing Operations, are exempt from the safety barrier verification requirements.
+Other ROP operations may be developed that do not meet the provisions of Section
+3-502.12 of the Code and that will require a variance and prior approval by the
+regulatory authority under Section 3-502.11.
+(G) Recommendations for ROP Without Multiple Barriers
+(1) Employee Training
+If ROP is used in a food establishment, employees assigned to packaging of the
+foods must have documented proof that demonstrates familiarity with ROP
+guidelines in this Annex and the potential hazards associated with these foods. A
+description of the training and course content provided to the employees must
+either be available for review or have prior approval by the regulatory authority.
+(2) Refrigeration Requirements
+Refrigeration times and temperatures to inhibit C. botulinum and L.
+monocytogenes must be based on laboratory inoculation study data or follow
+one of the ROP methods in Section 3-502.12 which specifies the time and
+temperature combinations. The ROP package must be marked with a use-by
+date within either the manufacturer's labeled use-by date or as determined by the
+laboratory data, whichever comes first. Alternatively, foods packaged by ROP
+may be kept frozen if freezing is used as the declared primary safety barrier.
+(3) Labeling - Refrigeration Statements
+All foods offered for sale in ROP which rely on refrigeration at 5oC (41oF) or less
+as a barrier to microbial growth must bear the statement "Important - Must be
+kept refrigerated at 5oC (41oF)" or "Important - Must be kept frozen," in the case
+of foods which rely on freezing as a primary safety barrier. The statement must
+appear on the principal display panel in bold type on a contrasting background.
+Foods packaged using cook chill or sous vide processing methods which have
+lower refrigeration requirements below 5oC (41oF) as a condition of safe shelf life
+must be monitored for temperature history and must not be offered for retail sale
+in the package or sold to a different business entity. The labeling statement
+regarding cold holding temperatures is not required for food packaged using cook
+chill or sous vide processing.
+(4) Labeling - "Use-by date"
+The shelf life of ROP foods is based on storage temperature for a certain time
+and other intrinsic factors of the food (pH, aw, cured with salt and nitrite, high
+levels of competing organisms, organic acids, natural antibiotics or bacteriocins,
+salt, preservatives, etc.). Each package of food in ROP must bear a "use-by"
+date. In some cases such as cook chill or sous vide processing when none of
+these intrinsic factors are present, a temperature lower than 3ºC (38ºF) must be
+the controlling factor for C. botulinum and L. monocytogenes growth and/or
+toxin formation. This “use by” date cannot exceed the number of days specified
+in one of the ROP methods in Section 3-502.12 or must be based on laboratory
+inoculation studies. The date assigned by a retail repacker cannot extend beyond
+the manufacturer's recommended expiration or "pull date" for the food. The "use-
+by" date must be listed on the principal display panel in bold type on a
+contrasting background for any product sold to consumers. Any label on
+packages intended for consumer sale must contain a combination of a "sell-by"
+date and use-by instructions which makes it clear that the product must be
+consumed within the number of days determined to be safe as specified under
+Section 3-502.12 of the Food Code. Foods, especially fish, that are frozen before
+or immediately after packaging and remain frozen until use should bear a label
+statement, “Important, keep frozen until used, thaw under refrigeration
+immediately before use.” Raw meat and poultry packaged using ROP methods
+must be labeled with safe handling instructions found in 9 CFR 317.2(l) and 9
+CFR 381.125(b).
+(H) Foods Which Require a Variance Under Code Section 3-502.11 if Packaged in
+Reduced Oxygen Atmosphere
+(1) Unfrozen processed fish and smoked fish may not be packed by ROP unless retail
+food establishments have an approved variance application and HACCP plan to show
+C. botulinum spore germination and toxin production or L. monocytogenes growth will
+not occur and are inspected by the regulatory authority. Establishments packaging such
+fish products, and smoking and packing establishments, must be licensed in
+accordance with applicable law.
+(2) Soft cheeses such as ricotta, cottage cheese, cheese spreads, and combinations of
+cheese with other ingredients such as vegetables, meat, or fish at retail must be
+approved for ROP through an approved variance application and HACCP plan and be
+inspected by the regulatory authority.
+(3) Meat or poultry products which are smoked or cured at retail, except that raw food of
+animal origin which is cured in a USDA-regulated processing plant, or establishment
+approved by the regulatory authority to cure these foods, may be smoked in accordance
+with approved time/temperature requirements and packaged in ROP at retail if
+approved by the regulatory authority. Smoking which meets the time/temperature
+parameters in Section 3-401.11 does not require a variance. Cold smoking where the
+temperature achieved by the product is greater than 41ºF requires a variance. Curing
+using nitrite or nitrate always requires a variance.
+(I) Hazard Analysis and Critical Control Point (HACCP) Operation
+All food establishments packaging food in a reduced oxygen atmosphere must develop
+a HACCP plan and maintain the plan at the processing site for review by the regulatory
+authority. For ROP operations, the plan must include the requirements specified under §
+8-201.14. In addition, the HACCP plan may also include:
+(1) A complete description of the processing, packaging, and storage procedures
+designated as critical control points, with attendant critical limits, corrective action
+plans, monitoring and verification schemes, and records required;
+(2) A list of equipment and food-contact packaging supplies used, including
+compliance standards that may be required by the regulatory authority, i.e., a
+recognized third party equipment evaluation organization such as NSF
+International;
+(3) A description of the lot identification system;
+(4) A description of the employee training program;
+(5) A listing and proportion of food-grade gasses used; and
+(6) A standard operating procedure for method and frequency of cleaning and
+sanitizing food-contact surfaces in the designated processing area.
+(J) Precautions Against Contamination at Retail
+Only unopened packages of commercially processed, ready-to-eat deli meats or
+cheeses obtained from sources that comply with the applicable laws relating to food
+safety should be used for ROP packaging at retail. If it is necessary to stop packaging
+for a period in excess of one-half hour, the remainder of that product should be diverted
+for another use in the retail establishment. Cook chill products that are cooked before
+packaging (ready-to-eat) should also be protected from cross-contamination before
+being packaged.
+(K) Disposition of Expired Product at Retail
+Processed reduced oxygen foods that exceed the "use-by" date or manufacturer's "pull
+date" cannot be sold in any form and must be disposed of in a proper manner.
+(L) Dedicated Area/Restricted Access
+All aspects of reduced oxygen packaging shall be conducted in an area specifically
+designated for this purpose. There shall be an effective separation to prevent cross
+contamination between raw and cooked foods. Access to processing equipment shall
+be restricted to responsible trained personnel who are familiar with the potential hazards
+inherent in food packaged by an ROP method. Some ROP procedures such as sous
+vide may require a "sanitary zone" or dedicated room with restricted access to prevent
+contamination.
+(M) References
+1. Association of Food and Drug Officials, 1990. Retail Guidelines - Refrigerated Foods
+in Reduced Oxygen Packages. J. Assoc. Food Drug Offic. 54(5):80-84.
+2. Berang, M.E., R.E. Brackett, and L.R. Beuchat., 1989. Growth of Listeria
+monocytogenes on fresh vegetables stored under controlled atmosphere. J. Food Prot.
+52:702-705.
+3. Brown, W.L., 1991. Designing Listeria monocytogenes thermal inactivation studies for
+extended-shelf-life refrigerated foods. Food Technol. 45(4):152-153.
+4. Bryan, F.L., L.A. Seabolt, R.W. Peterson, and L.M. Roberts, 1978. Time-temperature
+observations of food and equipment in airline catering operations. J. Food Prot. 41: 80-
+92.
+5. Conner, D.E., V.N. Scott, D.T. Bernard, and D.A. Kautter, 1989. Potential Clostridium
+botulinum hazards associated with extended shelf-life refrigerated foods: a review. J.
+Food Safety 10:131-153.
+6. Daniels, R.W., 1991. Applying HACCP to new-generation refrigerated foods at retail
+and beyond. Food Technol. 45(4):122-124.
+7. Davidson, W.D., 1987. Retail store handling conditions for refrigerated foods.
+Presented at a technical session "New extended shelf-life: low-acid refrigerated foods"
+at the 80th annual convention of the National Food Processors Association. Jan. 26,
+Chicago, IL.
+8. Doyle, M.P., 1991. Evaluating the potential risk from extended-shelf-life refrigerated
+foods by Clostridium botulinum inoculation studies. Food Technol. 44(4):154-156.
+9. Eklund, M.W., D.I. Wieler, and F. Polsky, 1967. Growth and toxin production of
+nonproteolytic type B Clostridium botulinum at 3.3 to 5.6C. J. Bacteriol. 93:1461-1462.
+10. Harris, R.D., 1989. Kraft builds safety into next generation refrigerated foods. Food
+Proc. 50(13):111-112,114.
+11. Hutton, M.T., P.A. Dhehak, and J.H. Hanlin, 1991. Inhibition of botulinum toxin
+production by Pedicoccus acidilacti in temperature abused refrigerated foods. J. Food
+Safety 11:255-267.
+12. Kalish, F., 1991. Extending the HACCP concept to product distribution. Food
+Technol. 45(4):119-120.
+13. Knabel, S.J., H.W. Walker, P.A. Hartman, and A.F. Mendonca, 1990. Effects of
+growth temperature and strictly anaerobic recovery on the survival of Listeria
+monocytogenes during pasteurization. Appl. Environ. Microbiol. 56:370-376.
+14. Moberg, L., 1989. Good manufacturing practices for refrigerated foods. J. Food Prot.
+52:363-367.
+15. National Advisory Committee on Microbiological Criteria for Foods, 1991. Listeria
+monocytogenes. Int. J. Food Microbiol. 14:185-246.
+16. National Advisory Committee on Microbiological Criteria for Foods, 1991. I HACCP
+Principles, II Meat and Poultry, III Seafood. Food Control 2(4):202-211.
+17. New York Department of Agriculture and Markets, 1993. Proposed Reduced
+Oxygen Packaging Regulations. Division of Food Safety and Inspection, 1 Winners
+Circle, Albany, NY, 12235, 6 pp.
+18. Nolan, D.A., D.C. Chamberlin and J.A. Troller, 1992. Minimal water activity of
+Listeria monocytogenes and Listeria innocua. Int. J. Food Microbiol. 16:323-335.
+19. Palumbo, S. A., 1986. Is refrigeration enough to restrain foodborne pathogens? J.
+Food Prot. 49:1003-1009.
+20. Refrigerated Foods and Microbiological Criteria Committee of the National Food
+Processors Association, 1988. Safety considerations for new generation refrigerated
+foods. Dairy Food Sanit. 8:5-7.
+21. Rhodehamel, E.J., 1992. FDA concerns with sous vide processing. Food Technol.
+46(12):73-76.
+22. Schimdt, C.F., R.V. Lechowich, and J.F. Folinazzo, 1961. Growth and toxin
+production by type E C. botulinum below 40F. J. Food Sci. 26:626-630.
+23. Scott, V.N., 1989. Interaction of factors to control microbial spoilage of refrigerated
+foods. J. Food Prot. 52:431-435.
+24. Smith, J.P., C. Toupin, B. Gagnon, R. Voyer, P.P. Fiset, and M.V. Simpson, 1990.
+Hazard analysis critical control point approach (HACCP) to ensure the microbiological
+safety of sous vide processed meat/pasta product. Food Microbiol. 7:177-198.
+25. Van Garde, S.J., and M. Woodburn, 1987. Food discard practices of householders.
+J. Am. Diet. Assoc. 87:322-329.
+26. Wyatt, L.D., and V. Guy, 1980. Relationships of microbial quality of retail meat
+samples and sanitary conditions. J. Food Prot. 43:385-389.
+3. Smoking and Curing
+(A) Introduction
+Meat and poultry are cured by the addition of salt alone or in combination with one or
+more ingredients such as sodium nitrite, sugar, curing accelerators, and spices. These
+are used for partial preservation, flavoring, color enhancement, tenderizing and
+improving yield of meat. The process may include dry curing, immersion curing, direct
+addition, or injection of the curing ingredients. Curing mixtures are typically composed of
+salt (sodium chloride), sodium nitrite, and seasonings. The preparation of curing
+mixtures must be carefully controlled. A number of proprietary mixtures which are
+uniform in composition are available. The maximum residual sodium nitrite in the
+finished product is limited to 200 ppm by the USDA Food Safety and Inspection Service
+(FSIS). A sodium nitrite concentration of 120 ppm is usually sufficient for most
+purposes. Specific requirements for added nitrite may be found in USDA regulations, 9
+CFR 424. It is important to use curing methods which achieve uniform distribution of the
+curing mixture in the meat or poultry product.
+(B) Definitions
+Cured meat and poultry can be divided into three basic categories: (1) uncomminuted
+smoked products; (2) sausages; and (3) uncomminuted unsmoked processed meats.
+(1) Uncomminuted smoked products - include bacon, beef jerky, hams, pork
+shoulders, turkey breasts, turkey drumsticks.
+(2) Sausages - include both finely ground and coarse ground products. Finely
+ground sausages include bologna, frankfurters, luncheon meats and loaves,
+sandwich spreads, and viennas. Coarse ground sausages include chorizos,
+kielbasa, pepperoni, salami, and summer sausages.
+(3) Cured sausages - may be categorized as: (1) raw, cured; (2) cooked,
+smoked; (3) cooked, unsmoked; and (4) dry, semidry, or fermented.
+(4) Uncomminuted, unsmoked processed products - include corned beef,
+pastrami, pig's feet, corned tongues. This category of products may be sold as
+either raw ready-to-cook or ready-to-eat.
+(C) Incorporation of Cure Ingredients
+Regardless of preparation method, cure ingredients must be distributed throughout the
+product. Cure ingredients may be introduced into sausage products during mixing or
+comminuting. Proper and thorough mixing is necessary whether the cure is added to the
+formulation in dry or solution form. Muscle cuts may be cured by immersion into a curing
+(pickle) solution. These methods depend on slow diffusion of the curing agents through
+the product. Products must be properly refrigerated during immersion curing.
+Several methods may be used to shorten curing times. These include hot immersion
+curing greater than 49oC (>120oF), injection by arterial pumping (e.g., hams), and stitch
+pumping by a series of hollow needles. If the injection method is used, injection needles
+must be frequently monitored during processing to ensure that they are not fouled or
+plugged.
+Tumbling or massaging may also be used as an aid to hasten curing. Proper sanitation
+must be observed to prevent contamination during this operation.
+The dry curing method, a similar process, may also be used. In this case, curing
+ingredients are rubbed over cuts and surfaces of meat held under refrigeration.
+Precautions must include wearing sanitary gloves when meat is handled. Product
+temperature maintenance is critical.
+(D) Smoking
+Smoking is the process of exposing meat products to wood smoke. Depending on the
+method, some products may be cooked and smoked simultaneously, smoked and dried
+without cooking, or cooked without smoking. Smoke may be produced by burning wood
+chips or using an approved liquid smoke preparation. Liquid smoke preparations may
+also be substituted for smoke by addition directly onto the product during formulation in
+lieu of using a smokehouse or another type of smoking vessel. As with curing
+operations, a standard operating procedure must be established to prevent
+contamination during the smoking process.
+(E) Fermentation and Dehydration
+Meat may be fermented or dehydrated for preservation. The purpose of fermentation is
+to reduce the pH to below 4.6 and inhibit bacteria harmful to health as well as bacteria
+which can cause spoilage. Meat products may also be cured and then dehydrated to
+prevent germination and growth of bacterial spores. Many fermented and dehydrated
+meats are made without a cooking step. Sanitary practices in the production of these
+products are extremely important because Staphylococcus aureus can be introduced.
+Staphylococcus aureus produces an enterotoxin that is heat stable and thus will not
+be inactivated by subsequent cooking.
+Processed pork products require treatment to destroy Trichinella spiralis. At retail,
+products which contain raw pork and which are not subsequently cooked must be
+produced from certified trichina-free pork or treated to destroy trichinae. USDA
+regulations, 9 CFR 318.10(c)(3), establish various requirements for destroying trichina
+in pork by heating, freezing, drying, or smoking.
+Some fermented and dry cured products are processed without cooking. The labeling
+for these products should include instructions to the consumer to cook thoroughly
+before consumption.
+(F) Recommendations for Safe Curing of Meat and Poultry
+(1) Posting of Acceptable Products
+A list of products approved by the regulatory authority, or by an approved
+knowledgeable authority on curing acceptable to the regulatory authority, must
+be posted in the processing area of the establishment.
+(2) Employee Training
+Employees assigned to cure meat or poultry must demonstrate familiarity with
+these guidelines and the potential hazards associated with curing foods. A
+description of the training and course content provided to the employees must be
+available for review by the regulatory authority.
+(3) HACCP
+A HACCP plan is needed for all curing operations. The following
+recommendations must be met to cure meat and poultry products in the
+establishment. References are available from local USDA extension offices,
+public libraries, and college or university food or meat science departments to
+develop HACCP plans for curing meat and poultry.
+Critical Control Points
+The following are critical control points to be addressed:
+(i) Purchase of prepared cure mixes; or
+(ii) If cure mixes are blended on the premises instead of acquired
+pre-mixed, mixing must be carefully controlled by using calibrated
+weighing devices.
+(iii) Cure ingredients must be stored in a dry location. Cure must be
+discarded if the package is wet or appears to have been wetted.
+Raw Material Handling
+(i) Thawing must be monitored and controlled to ensure
+thoroughness and to prevent temperature abuse. Improperly
+thawed meat could cause insufficient cure penetration.
+Temperature abuse can cause spoilage or growth of pathogens.
+(ii) Meat must be fresh. Curing may not be used to salvage meat
+that has excessive bacterial growth or spoilage.
+Formulating, Preparation and Curing
+(i) A formulation and preparation procedure must be documented.
+(ii) All equipment and utensils must be cleaned and sanitized.
+(iii) Pieces must be prepared to uniform sizes to ensure uniform
+cure penetration. This is extremely critical for dry and immersion
+curing.
+(iv) Calibrated scales must be used to weigh ingredients.
+(v) A schedule or recipe must be established for determining the
+exact amount of curing formulation to be used for a specified weight
+of meat or meat mixture.
+(vi) Methods and procedures must be strictly controlled to ensure
+uniform cure.
+(vii) Mixing of curing formulation with comminuted ingredients must
+be controlled and monitored.
+(viii) All surfaces of meat must be rotated and rubbed at intervals of
+sufficient frequency to ensure cure penetration when a dry curing
+method is used.
+(ix) Immersion curing requires periodic mixing of the batch to
+facilitate uniform curing.
+(x) The application of salt during dry curing of muscle cuts requires
+that the temperature of the product be strictly controlled between
+1.7°C (35oF) and 7.2°C (45oF). The lower temperature is set to limit
+microbial growth and the upper temperature is set for the purpose
+of ensuring cure penetration. Refer to USDA regulations 9 CFR
+318.10(c)(3)(iv) for specific details on dry curing.
+(xi) Curing solutions must be discarded daily unless they remain
+with the same batch of product during its entire curing process.
+(xii) Injection needles must be inspected for plugging when stitch
+pumping or artery pumping of muscle cuts is performed.
+(xiii) Sanitary casings must be provided for sausage, chub or loaf
+forming.
+(xiv) Casings may not be stripped for reuse in forming additional
+chubs or sausages from batch to batch.
+(xv) Hot curing of bacon bellies, hams, or any other products must
+be performed at >49°C (120oF) as specified in 9 CFR 318.
+Cooking and/or Smoking
+(i) When smokehouses are initially installed or structurally modified,
+calibration of product heating characteristics must be ascertained
+by competent food technologists. Tests should be run with full
+range of anticipated product loading. Verification of even airflow
+and moisture should be recorded in operational records of the
+smokehouse for these various loads.
+(ii) Procedures for delivering the appropriate thermal treatment of
+cooked meats in conformance with the Food Code must be
+developed and used. (Also see 9 CFR 318.17 and 318.23 for
+USDA requirements for meat products.) A minimum of 73.9°C
+(165°F) should be used for cured poultry products.
+(iii) Cooking equipment that provides even temperature control of
+the heating medium must be used.
+(iv) Products must be adequately separated to prevent overlap in
+the cooking media whether immersed in hot water, sprayed with hot
+water, steamed, or oven heated.
+(v) Calibrated temperature measuring devices must be used for
+determining internal product temperatures.
+(vi) Temperature measuring device probes must be sanitized to
+prevent contaminating products when internal temperatures are
+measured.
+(vii) Calibrated temperature measuring devices must be used for
+measuring temperatures of the heating medium.
+(viii) Raw products must be separated from cooked products.
+(ix) Time/temperature parameters of the cooking process must be
+monitored and recorded. In some processes, the heating medium
+temperature should also monitored.
+Cooling
+(i) Cooling must be done in accordance with recommendations in
+the Food Code or under a variance. The USDA Cooling Guideline,
+FSIS Directive 7110.3 for special procedures for cured products,
+provides specific guidance.
+(ii) Written cooling procedures must be established.
+(iii) Chill water used in water sprays or immersion chilling which is
+in direct contact with products in casings or products cooked in an
+impervious package must be properly chlorinated.
+(iv) Chill water temperature must be monitored and controlled.
+(v) Chill water may not be reused until properly chlorinated.
+Reclaimed chill water must be discarded daily.
+(vi) Product must be placed in a manner that allows chilled water or
+air to uniformly contact the product for assurance of uniform
+cooling.
+(vii) Internal temperatures must be monitored during cooling by
+using calibrated temperature measuring devices.
+(viii) Adequate cooling medium circulation must be maintained and
+monitored.
+(ix) Temperatures of the cooling medium must be monitored and
+recorded in accordance with a written procedure.
+(x) Handling of product must be minimized during cooling, peeling
+of casing, and packaging. Sanitary gloves must be used in these
+procedures.
+Fermentation and Drying
+(i) Temperature and time must be controlled and logs must be
+maintained that record the monitoring of this process.
+(ii) Humidity must be controlled by use of a humidistat. Monitoring
+of the process must be recorded in a written log.
+(iii) Product must be kept separated to allow adequate air
+circulation during the process.
+(iv) Use of an active and pure culture must be ensured to effect a
+rapid pH drop of the product. Use of commercially produced culture
+is necessary and the culture must be used according to the
+manufacturer's instructions.
+(v) Determination of the pH of fermented sausages at the end of the
+fermentation cycle must be recorded.
+(vi) Handling of products must be minimized and only done with
+sanitary gloves or sanitized utensils.
+(vii) Dry (unfermented) products may not be hot smoked until the
+curing and drying procedures are completed.
+(viii) Semi-dry fermented sausage must be heated after
+fermentation to a time/temperature sufficient to control growth of
+pathogenic and spoilage organisms of concern.
+(4) Dedicated Area/Restricted Access
+All aspects of curing operations must be conducted in an area specifically
+designated for this purpose. There must be an effective separation to prevent
+cross contamination between raw and cooked foods or cured and uncured foods.
+Access to processing equipment shall be restricted to responsible trained
+personnel who are familiar with the potential hazards inherent in curing foods.
+Equipment Cleaning and Sanitizing
+The procedures for cleaning and sanitization must be accomplished according to
+parts 4-6 and 4-7 of the Food Code.
+(G) References
+Judge, M., E. Aberle, J. Forrest, H. Hedrick, and R. Merkel, 1984. Principles of Meat
+Science. Kendall/Hunt Publishing Company, Dubuque, IA.
+Price, J. and B. Schweigert, 1978. The Science of Meat and Meat Products. Food and
+Nutrition Press, Inc., Westport, CT.

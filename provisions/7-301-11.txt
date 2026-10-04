@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-301.11 - Separation.
+[source PDF page 165; extracted with pypdf 6.19.0]
+
+7-301.11 Separation.
+POISONOUS or TOXIC MATERIALS shall be stored and displayed for retail sale so
+they can not contaminate FOOD, EQUIPMENT, UTENSILS, LINENS, and SINGLE-
+SERVICE and SINGLE-USE ARTICLES by:
+(A) Separating the POISONOUS or TOXIC MATERIALS by spacing or
+partitioning; P and
+(B) Locating the POISONOUS OR TOXIC MATERIALS in an area that is not
+above FOOD, EQUIPMENT, UTENSILS, LINENS, and SINGLE-SERVICE or SINGLE-
+USE ARTICLES. P

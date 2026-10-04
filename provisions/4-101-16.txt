@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-101.16 - Sponges, Use Limitation.
+[source PDF page 108; extracted with pypdf 6.19.0]
+
+4-101.16 Sponges, Use Limitation.
+Sponges may not be used in contact with cleaned and SANITIZED or in-use FOOD-
+CONTACT SURFACES.

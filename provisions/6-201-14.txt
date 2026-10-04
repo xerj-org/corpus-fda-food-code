@@ -1,0 +1,18 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-201.14 - Floor Carpeting, Restrictions and Installation.
+[source PDF page 150; extracted with pypdf 6.19.0]
+
+6-201.14 Floor Carpeting, Restrictions and Installation.
+(A) A floor covering such as carpeting or similar material may not be installed as
+a floor covering in FOOD preparation areas, walk-in refrigerators, WAREWASHING
+areas, toilet room areas where handwashing lavatories, toilets, and urinals are
+located, REFUSE storage rooms, or other areas where the floor is subject to
+moisture, flushing, or spray cleaning methods.
+(B) If carpeting is installed as a floor covering in areas other than those specified
+under ¶ (A) of this section, it shall be:
+(1) Securely attached to the floor with a durable mastic, by using a stretch
+and tack method, or by another method; and
+(2) Installed tightly against the wall under the coving or installed away from
+the wall with a space between the carpet and the wall and with the edges
+of the carpet secured by metal stripping or some other means.

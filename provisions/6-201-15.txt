@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-201.15 - Floor Covering, Mats and Duckboards.
+[source PDF page 150; extracted with pypdf 6.19.0]
+
+6-201.15 Floor Covering, Mats and Duckboards.
+Mats and duckboards shall be designed to be removable and EASILY CLEANABLE.

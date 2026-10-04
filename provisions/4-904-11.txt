@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-904.11 - Kitchenware and Tableware.
+[source PDF page 135; extracted with pypdf 6.19.0]
+
+4-904.11 Kitchenware and Tableware.
+(A) SINGLE-SERVICE and SINGLE-USE ARTICLES and cleaned and SANITIZED UTENSILS
+shall be handled, displayed, and dispensed so that contamination of FOOD- and
+lip-contact surfaces is prevented.
+(B) Knives, forks, and spoons that are not prewrapped shall be presented so that
+only the handles are touched by EMPLOYEES and by CONSUMERS if CONSUMER self-
+service is provided.
+(C) Except as specified under ¶ (B) of this section, SINGLE-SERVICE ARTICLES that
+are intended for FOOD- or lip-contact shall be furnished for CONSUMER self-service
+with the original individual wrapper intact or from an APPROVED dispenser.

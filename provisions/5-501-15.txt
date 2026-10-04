@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.15 - Outside Receptacles.
+[source PDF page 146; extracted with pypdf 6.19.0]
+
+5-501.15 Outside Receptacles.
+(A) Receptacles and waste handling units for REFUSE, recyclables, and
+returnables used with materials containing FOOD residue and used outside the
+FOOD ESTABLISHMENT shall be designed and constructed to have tight-fitting lids,
+doors, or covers.
+(B) Receptacles and waste handling units for REFUSE and recyclables such as an
+on-site compactor shall be installed so that accumulation of debris and insect and
+rodent attraction and harborage are minimized and effective cleaning is facilitated
+around and, if the unit is not installed flush with the base pad, under the unit.
+Numbers and capacities

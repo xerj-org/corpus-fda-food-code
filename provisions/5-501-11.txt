@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.11 - Outdoor Storage Surface.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-501.11 Outdoor Storage Surface.
+An outdoor storage surface for REFUSE, recyclables, and returnables shall be
+constructed of nonabsorbent material such as concrete or asphalt and shall be
+SMOOTH, durable, and sloped to drain.

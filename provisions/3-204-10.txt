@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-204.10 - Food Donation.
+[source PDF page 73; extracted with pypdf 6.19.0]
+
+3-204.10 Food Donation.
+FOOD stored, prepared, PACKAGED, displayed, and labeled in accordance to LAW
+and this Code may be offered for donation.
+3-3 Protection From Contamination After Receiving
+3-301 Preventing Contamination by Employees

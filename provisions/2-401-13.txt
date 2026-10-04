@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-401.13 - Use of Bandages, Finger Cots, or Finger Stalls
+[source PDF page 64; extracted with pypdf 6.19.0]
+
+2-401.13 Use of Bandages, Finger Cots, or Finger Stalls
+If used, an impermeable cover such as a bandage, finger cot or finger stall
+located on the wrist, hand or finger of a FOOD EMPLOYEE working with exposed
+FOOD shall be covered with a single-use glove.
+2-402 Hair Restraints

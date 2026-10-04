@@ -1,0 +1,33 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-101.10 - Public Health Protection.
+[source PDF page 166; extracted with pypdf 6.19.0]
+
+[chapter opening] Chapter 8 Compliance and
+[chapter opening] Enforcement
+[chapter opening] Parts:
+[chapter opening] 8-1 Code Applicability
+[chapter opening] 8-2 Plan Submission and Approval
+[chapter opening] 8-3 Permit to Operate
+[chapter opening] 8-4 Inspection and Correction of Violations
+[chapter opening] 8-5 Prevention of Foodborne Disease Transmission By Employees
+[chapter opening] 8-1 Code Applicability
+[chapter opening] 8-101 Use for Intended Purpose
+
+8-101.10 Public Health Protection.
+(A) The REGULATORY AUTHORITY shall apply this Code to promote its underlying
+purpose, as specified in § 1-102.10, of safeguarding public health and ensuring
+that FOOD is safe, unADULTERATED, and honestly presented when offered to the
+CONSUMER or donated.
+(B) In enforcing the provisions of this Code, the REGULATORY AUTHORITY shall
+assess existing facilities or EQUIPMENT that were in use before the effective date
+of this Code based on the following considerations:
+(1) Whether the facilities or EQUIPMENT are in good repair and capable of
+being maintained in a sanitary condition;
+(2) Whether FOOD-CONTACT SURFACES comply with Subpart 4-101;
+(3) Whether the capacities of cooling, heating, and holding EQUIPMENT are
+sufficient to comply with § 4-301.11; and
+(4) The existence of a documented agreement with the PERMIT HOLDER that
+the facilities or EQUIPMENT will be replaced as specified under
+¶ 8-304.11(G).
+8-102 Additional Requirements

@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-304.12 - Using a Pump and Hoses, Backflow Prevention.
+[source PDF page 143; extracted with pypdf 6.19.0]
+
+5-304.12 Using a Pump and Hoses, Backflow Prevention.
+A PERSON shall operate a water tank, pump, and hoses so that backflow and
+other contamination of the water supply are prevented.

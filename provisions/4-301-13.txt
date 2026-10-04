@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-301.13 - Drainboards.
+[source PDF page 119; extracted with pypdf 6.19.0]
+
+4-301.13 Drainboards.
+Drainboards, UTENSIL racks, or tables large enough to accommodate all soiled
+and cleaned items that may accumulate during hours of operation shall be
+provided for necessary UTENSIL holding before cleaning and after SANITIZING.

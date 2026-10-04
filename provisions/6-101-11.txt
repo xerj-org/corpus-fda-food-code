@@ -1,0 +1,33 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-101.11 - Surface Characteristics.
+[source PDF page 149; extracted with pypdf 6.19.0]
+
+[chapter opening] Chapter 6 Physical Facilities
+[chapter opening] Parts:
+[chapter opening] 6-1 Materials for Construction and Repair
+[chapter opening] 6-2 Design, Construction, and Installation
+[chapter opening] 6-3 Numbers and Capacities
+[chapter opening] 6-4 Location and Placement
+[chapter opening] 6-5 Maintenance and Operation
+[chapter opening] 6-1 Materials for Construction and Repair
+[chapter opening] 6-101 Indoor Areas
+
+6-101.11 Surface Characteristics.
+(A) Except as specified in ¶ (B) of this section, materials for indoor floor, wall, and
+ceiling surfaces under conditions of normal use shall be:
+(1) SMOOTH, durable, and EASILY CLEANABLE for areas where FOOD
+ESTABLISHMENT operations are conducted;
+(2) Closely woven and EASILY CLEANABLE carpet for carpeted areas; and
+(3) Nonabsorbent for areas subject to moisture such as FOOD preparation
+areas, walk-in refrigerators, WAREWASHING areas, toilet rooms, mobile
+FOOD ESTABLISHMENT SERVICING AREAS, and areas subject to flushing or
+spray cleaning methods.
+(B) In a temporary food establishment:
+(1) If graded to drain, a floor may be concrete, machine-laid asphalt, or dirt
+or gravel if it is covered with mats, removable platforms, duckboards, or
+other APPROVED materials that are effectively treated to control dust and
+mud; and
+(2) Walls and ceilings may be constructed of a material that protects the
+interior from the weather and windblown dust and debris.
+6-102 Outdoor Areas

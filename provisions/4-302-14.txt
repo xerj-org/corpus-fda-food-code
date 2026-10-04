@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-302.14 - Sanitizing Solutions, Testing Devices.
+[source PDF page 120; extracted with pypdf 6.19.0]
+
+4-302.14 Sanitizing Solutions, Testing Devices.
+A test kit or other device that accurately measures the concentration in MG/L of
+SANITIZING solutions shall be provided.Pf
+4-303 Cleaning Agents and Sanitizers

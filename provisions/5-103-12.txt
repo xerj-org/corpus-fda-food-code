@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-103.12 - Pressure.
+[source PDF page 137; extracted with pypdf 6.19.0]
+
+5-103.12 Pressure.
+Water under pressure shall be provided to all fixtures, EQUIPMENT, and nonFOOD
+EQUIPMENT that are required to use water except that water supplied as specified
+under ¶¶ 5-104.12(A) and (B) to a TEMPORARY FOOD ESTABLISHMENT or in
+response to a temporary interruption of a water supply need not be under
+pressure. Pf
+5-104 Distribution, Delivery, and Retention

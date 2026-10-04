@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-803.13 - Use of Laundry Facilities.
+[source PDF page 133; extracted with pypdf 6.19.0]
+
+4-803.13 Use of Laundry Facilities.
+(A) Except as specified in ¶ (B) of this section, laundry facilities on the PREMISES
+of a FOOD ESTABLISHMENT shall be used only for the washing and drying of items
+used in the operation of the establishment.
+(B) Separate laundry facilities located on the PREMISES for the purpose of general
+laundering such as for institutions providing boarding and lodging may also be
+used for laundering FOOD ESTABLISHMENT items.
+4-9 Protection of Clean Items
+4-901 Drying

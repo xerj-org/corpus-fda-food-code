@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.11 - Repairing.
+[source PDF page 156; extracted with pypdf 6.19.0]
+
+6-501.11 Repairing.
+PHYSICAL FACILITIES shall be maintained in good repair.

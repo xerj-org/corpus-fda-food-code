@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-602.13 - Nonfood-Contact Surfaces.
+[source PDF page 129; extracted with pypdf 6.19.0]
+
+4-602.13 Nonfood-Contact Surfaces.
+NonFOOD-CONTACT SURFACES of EQUIPMENT shall be cleaned at a frequency
+necessary to preclude accumulation of soil residues.
+4-603 Methods

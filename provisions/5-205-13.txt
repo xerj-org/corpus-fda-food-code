@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-205.13 - Scheduling Inspection and Service for a Water System Device.
+[source PDF page 140; extracted with pypdf 6.19.0]
+
+5-205.13 Scheduling Inspection and Service for a Water System Device.
+A device such as a water treatment device or backflow preventer shall be
+scheduled for inspection and service, in accordance with manufacturer's
+instructions and as necessary to prevent device failure based on local water
+conditions, and records demonstrating inspection and service shall be
+maintained by the PERSON IN CHARGE. Pf

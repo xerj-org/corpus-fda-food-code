@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-901.11 - Equipment and Utensils, Air-Drying Required.
+[source PDF page 133; extracted with pypdf 6.19.0]
+
+4-901.11 Equipment and Utensils, Air-Drying Required.
+After cleaning and SANITIZING, EQUIPMENT and UTENSILS:
+(A) Shall be air-dried or used after adequate draining as specified in the
+first paragraph of 40 CFR 180.940 Tolerance exemptions for active and
+inert ingredients for use in antimicrobial formulations (food-contact surface
+SANITIZING solutions), before contact with FOOD; and
+(B) May not be cloth dried except that UTENSILS that have been air-dried
+may be polished with cloths that are maintained clean and dry.

@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-904.13 - Preset Tableware.
+[source PDF page 135; extracted with pypdf 6.19.0]
+
+4-904.13 Preset Tableware.
+(A) Except as specified in ¶ (B) of this section, TABLEWARE that is preset shall be
+protected from contamination by being wrapped, covered, or inverted.
+(B) Preset TABLEWARE may be exposed if:
+(1) Unused settings are removed when a CONSUMER is seated; or
+(2) Settings not removed when a CONSUMER is seated are cleaned and
+SANITIZED before further use.

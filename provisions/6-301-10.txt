@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-301.10 - Minimum Number.
+[source PDF page 153; extracted with pypdf 6.19.0]
+
+6-301.10 Minimum Number.
+HANDWASHING SINKS shall be provided as specified under § 5-203.11.

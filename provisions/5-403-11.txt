@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-403.11 - Approved Sewage Disposal System.
+[source PDF page 145; extracted with pypdf 6.19.0]
+
+5-403.11 Approved Sewage Disposal System.
+SEWAGE shall be disposed through an APPROVED facility that is:
+(A) A public SEWAGE treatment plant; P or
+(B) An individual SEWAGE disposal system that is sized, constructed,
+maintained, and operated according to LAW. P

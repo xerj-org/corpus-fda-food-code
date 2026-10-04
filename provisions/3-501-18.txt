@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-501.18 - Ready-to-Eat, Time/Temperature Control for Safety Food,
+[source PDF page 95; extracted with pypdf 6.19.0]
+
+3-501.18 Ready-to-Eat, Time/Temperature Control for Safety Food,
+Disposition.
+(A) A FOOD specified in ¶ 3-501.17(A) or (B) shall be discarded if it:
+(1) Exceeds the temperature and time combination specified in ¶ 3-
+501.17(A), except time that the product is frozen; P
+(2) Is in a container or PACKAGE that does not bear a date or day; P or
+(3) Is inappropriately marked with a date or day that exceeds a
+temperature and time combination as specified in ¶ 3-501.17(A).P
+(B) Refrigerated, READY-TO-EAT, TIME/TEMPERATURE CONTROL FOR SAFETY FOOD
+prepared in a FOOD ESTABLISHMENT and dispensed through a VENDING MACHINE
+with an automatic shutoff control shall be discarded if it exceeds a temperature
+and time combination as specified in ¶ 3-501.17(A). P

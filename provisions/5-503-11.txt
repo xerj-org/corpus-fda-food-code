@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-503.11 - Community or Individual Facility.
+[source PDF page 148; extracted with pypdf 6.19.0]
+
+5-503.11 Community or Individual Facility.
+Solid waste not disposed of through the SEWAGE system such as through grinders
+and pulpers shall be recycled or disposed of in an APPROVED public or private
+community recycling or REFUSE facility; or solid waste shall be disposed of in an
+individual REFUSE facility such as a landfill or incinerator which is sized,
+constructed, maintained, and operated according to LAW.

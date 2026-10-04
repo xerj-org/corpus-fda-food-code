@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-501.11 - Frozen Food.
+[source PDF page 90; extracted with pypdf 6.19.0]
+
+3-501.11 Frozen Food.
+Stored frozen FOODS shall be maintained frozen.

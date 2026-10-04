@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-401.10 - Conveniently Located.
+[source PDF page 155; extracted with pypdf 6.19.0]
+
+6-401.10 Conveniently Located.
+HANDWASHING SINKS shall be conveniently located as specified under § 5-204.11.
+6-402 Toilet Rooms

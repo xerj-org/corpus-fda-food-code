@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-305.11 - Food Storage.
+[source PDF page 81; extracted with pypdf 6.19.0]
+
+3-305.11 Food Storage.
+(A) Except as specified in ¶¶ (B) and (C) of this section, FOOD shall be protected
+from contamination by storing the FOOD:
+(1) In a clean, dry location;
+(2) Where it is not exposed to splash, dust, or other contamination; and
+(3) At least 15 cm (6 inches) above the floor.
+(B) FOOD in packages and working containers may be stored less than 15 cm (6
+inches) above the floor on case lot handling EQUIPMENT as specified under §
+4-204.122.
+(C) Pressurized BEVERAGE containers, cased FOOD in waterproof containers such
+as bottles or cans, and milk containers in plastic crates may be stored on a floor
+that is clean and not exposed to floor moisture.

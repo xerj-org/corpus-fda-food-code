@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-201.11 - When Plans Are Required.
+[source PDF page 168; extracted with pypdf 6.19.0]
+
+8-201.11 When Plans Are Required.
+A PERMIT applicant or PERMIT HOLDER shall submit to the REGULATORY AUTHORITY
+properly prepared plans and specifications for review and approval before:
+(A) The construction of a FOOD ESTABLISHMENT; Pf
+(B) The conversion of an existing structure for use as a FOOD
+ESTABLISHMENT; Pf or
+(C) The remodeling of a FOOD ESTABLISHMENT or a change of type of FOOD
+ESTABLISHMENT or FOOD operation as specified under ¶ 8-302.14(C) if the
+REGULATORY AUTHORITY determines that plans and specifications are
+necessary to ensure compliance with this Code. Pf

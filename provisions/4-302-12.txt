@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-302.12 - Food Temperature Measuring Devices.
+[source PDF page 120; extracted with pypdf 6.19.0]
+
+4-302.12 Food Temperature Measuring Devices.
+(A) FOOD TEMPERATURE MEASURING DEVICES shall be provided and readily
+accessible for use in ensuring attainment and maintenance of FOOD temperatures
+as specified under Chapter 3. Pf
+(B) A TEMPERATURE MEASURING DEVICE with a suitable small-diameter probe that is
+designed to measure the temperature of thin masses shall be provided and
+readily accessible to accurately measure the temperature in thin FOODS such as
+MEAT patties and FISH filets. Pf

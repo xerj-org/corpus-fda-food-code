@@ -1,0 +1,34 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-101.13 - Lead, Use Limitation.
+[source PDF page 108; extracted with pypdf 6.19.0]
+
+4-101.13 Lead, Use Limitation.
+(A) Ceramic, china, and crystal UTENSILS, and decorative UTENSILS such as
+hand painted ceramic or china that are used in contact with FOOD shall be
+lead-free or contain levels of lead not exceeding the limits of the following
+UTENSIL categories: P
+UTENSIL
+Category
+Ceramic Article
+Description
+Maximum Lead
+MG/L
+Beverage Mugs, Cups,
+Pitchers
+Coffee Mugs 0.5
+Large Hollowware
+(excluding pitchers)
+Bowls > 1.1 Liter
+(1.16 Quart)
+1
+Small Hollowware
+(excluding cups & mugs)
+Bowls < 1.1 Liter
+(1.16 Quart)
+2.0
+Flat TABLEWARE Plates, Saucers 3.0
+(B) Pewter alloys containing lead in excess of 0.05% may not be used as
+a FOOD-CONTACT SURFACE. P
+(C) Solder and flux containing lead in excess of 0.2% may not be used as
+a FOOD-CONTACT SURFACE.

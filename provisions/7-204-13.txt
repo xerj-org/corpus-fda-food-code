@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-204.13 - Boiler Water Additives, Criteria.
+[source PDF page 162; extracted with pypdf 6.19.0]
+
+7-204.13 Boiler Water Additives, Criteria.
+Chemicals used as boiler water ADDITIVES shall meet the requirements specified
+in 21 CFR 173.310 Boiler water additives. P

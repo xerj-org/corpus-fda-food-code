@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-104.12 - Alternative Water Supply.
+[source PDF page 137; extracted with pypdf 6.19.0]
+
+5-104.12 Alternative Water Supply.
+Water meeting the requirements specified under Subparts 5-101, 5-102, and
+5-103 shall be made available for a mobile facility, for a TEMPORARY FOOD
+ESTABLISHMENT without a permanent water supply, and for a FOOD ESTABLISHMENT
+with a temporary interruption of its water supply through:
+(A) A supply of containers of commercially BOTTLED DRINKING WATER; Pf
+(B) One or more closed portable water containers; Pf
+(C) An enclosed vehicular water tank; Pf
+(D) An on-PREMISES water storage tank; Pf or
+(E) Piping, tubing, or hoses connected to an adjacent APPROVED source. Pf
+5-2 Plumbing System
+5-201 Materials

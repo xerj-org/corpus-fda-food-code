@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-202.12 - Heating, Ventilating, Air Conditioning System Vents.
+[source PDF page 151; extracted with pypdf 6.19.0]
+
+6-202.12 Heating, Ventilating, Air Conditioning System Vents.
+Heating, ventilating, and air conditioning systems shall be designed and installed
+so that make-up air intake and exhaust vents do not cause contamination of
+FOOD, FOOD-CONTACT SURFACES, EQUIPMENT, or UTENSILS.

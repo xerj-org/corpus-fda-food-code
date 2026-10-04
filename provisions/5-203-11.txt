@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-203.11 - Handwashing Sinks.
+[source PDF page 139; extracted with pypdf 6.19.0]
+
+5-203.11 Handwashing Sinks.
+(A) Except as specified in ¶¶ (B) of this section, at least 1 HANDWASHING SINK, a
+number of HANDWASHING SINKS necessary for their convenient use by EMPLOYEES
+in areas specified under § 5-204.11, and not fewer than the number of
+HANDWASHING SINKS required by LAW shall be provided. Pf
+(B) If APPROVED and capable of removing the types of soils encountered in the
+FOOD operations involved, automatic handwashing facilities may be substituted
+for HANDWASHING SINKS in a FOOD ESTABLISHMENT that has at least 1 HANDWASHING
+SINK.

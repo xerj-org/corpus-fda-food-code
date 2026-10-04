@@ -1,0 +1,18 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-204.12 - Chemicals for Washing, Treatment, Storage and Processing
+[source PDF page 162; extracted with pypdf 6.19.0]
+
+7-204.12 Chemicals for Washing, Treatment, Storage and Processing
+Fruits and Vegetables, Criteria.
+Chemicals, including those generated on-site, used to wash or peel raw, whole
+fruits and vegetables or used in the treatment, storage, and processing of fruits
+and vegetables shall:
+(A) Be an approved food additive listed for this intended use in 21 CFR
+173, P or
+(B) Be generally recognized as safe (GRAS) for this intended use, P or
+(C) Be the subject of an effective food contact notification for this intended
+use (only effective for the manufacturer or supplier identified in the
+notification), P and
+(D) Meet the requirements in 40 CFR 156 Labeling Requirements for
+Pesticide and Devices. P

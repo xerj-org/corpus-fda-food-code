@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-202.16 - Exterior Walls and Roofs, Protective Barrier.
+[source PDF page 153; extracted with pypdf 6.19.0]
+
+6-202.16 Exterior Walls and Roofs, Protective Barrier.
+Perimeter walls and roofs of a FOOD ESTABLISHMENT shall effectively protect the
+establishment from the weather and the entry of insects, rodents, and other
+animals.

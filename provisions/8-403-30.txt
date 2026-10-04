@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-403.30 - Issuing Report and Obtaining Acknowledgment of Receipt.
+[source PDF page 178; extracted with pypdf 6.19.0]
+
+8-403.30 Issuing Report and Obtaining Acknowledgment of Receipt.
+At the conclusion of the inspection and according to LAW, the REGULATORY
+AUTHORITY shall provide a copy of the completed inspection report and the notice
+to correct violations to the PERMIT HOLDER or to the PERSON IN CHARGE, and
+request a signed acknowledgment of receipt.

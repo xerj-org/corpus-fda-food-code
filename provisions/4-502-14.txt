@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-502.14 - Shells, Use Limitation.
+[source PDF page 126; extracted with pypdf 6.19.0]
+
+4-502.14 Shells, Use Limitation.
+Mollusk and crustacea shells may not be used more than once as serving
+containers.
+4-6 Cleaning of Equipment and Utensils
+4-601 Objective

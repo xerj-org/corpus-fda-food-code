@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-402.12 - Grease Trap.
+[source PDF page 144; extracted with pypdf 6.19.0]
+
+5-402.12 Grease Trap.
+If used, a grease trap shall be located to be easily accessible for cleaning.
+Operation and maintenance

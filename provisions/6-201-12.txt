@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-201.12 - Floors, Walls, and Ceilings, Utility Lines.
+[source PDF page 150; extracted with pypdf 6.19.0]
+
+6-201.12 Floors, Walls, and Ceilings, Utility Lines.
+(A) Utility service lines and pipes may not be unnecessarily exposed.
+(B) Exposed utility service lines and pipes shall be installed so they do not
+obstruct or prevent cleaning of the floors, walls, or ceilings.
+(C) Exposed horizontal utility service lines and pipes may not be installed on the
+floor.

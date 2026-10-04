@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-201.18 - Walls and Ceilings, Studs, Joists, and Rafters.
+[source PDF page 151; extracted with pypdf 6.19.0]
+
+6-201.18 Walls and Ceilings, Studs, Joists, and Rafters.
+Except for TEMPORARY FOOD ESTABLISHMENTS, studs, joists, and rafters may not
+be exposed in areas subject to moisture.
+6-202 Functionality

@@ -1,0 +1,20 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-501.30 - Restriction or Exclusion Order: Warning or Hearing Not
+[source PDF page 180; extracted with pypdf 6.19.0]
+
+8-501.30 Restriction or Exclusion Order: Warning or Hearing Not
+Required, Information Required in Order.
+Based on the findings of the investigation as specified in § 8-501.10 and to
+control disease transmission, the REGULATORY AUTHORITY may issue an order of
+RESTRICTION or EXCLUSION to a suspected FOOD EMPLOYEE or the PERMIT HOLDER
+without prior warning, notice of a hearing, or a hearing if the order:
+(A) States the reasons for the RESTRICTION or EXCLUSION that is ordered;
+(B) States the evidence that the FOOD EMPLOYEE or PERMIT HOLDER shall
+provide in order to demonstrate that the reasons for the RESTRICTION or
+EXCLUSION are eliminated;
+(C) States that the suspected FOOD EMPLOYEE or the PERMIT HOLDER may
+request an appeal hearing by submitting a timely request as provided in
+LAW; and
+(D) Provides the name and address of the REGULATORY AUTHORITY
+representative to whom a request for an appeal hearing may be made.

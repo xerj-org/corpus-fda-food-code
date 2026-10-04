@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-205.15 - System Maintained in Good Repair.
+[source PDF page 141; extracted with pypdf 6.19.0]
+
+5-205.15 System Maintained in Good Repair.
+A plumbing system shall be:
+(A) Repaired according to LAW; P and
+(B) Maintained in good repair.
+5-3 Mobile Water Tank and Mobile FOOD Establishment Water Tank
+5-301 Materials

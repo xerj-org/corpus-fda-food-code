@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-904.12 - Soiled and Clean Tableware.
+[source PDF page 135; extracted with pypdf 6.19.0]
+
+4-904.12 Soiled and Clean Tableware.
+Soiled TABLEWARE shall be removed from CONSUMER eating and drinking areas
+and handled so that clean TABLEWARE is not contaminated.

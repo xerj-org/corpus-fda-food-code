@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-302.11 - Maintenance.
+[source PDF page 63; extracted with pypdf 6.19.0]
+
+2-302.11 Maintenance.
+(A) FOOD EMPLOYEES shall keep their fingernails trimmed, filed, and maintained
+so the edges and surfaces are cleanable and not rough. Pf
+(B) Unless wearing intact gloves in good repair, a FOOD EMPLOYEE may not wear
+fingernail polish or artificial fingernails when working with exposed FOOD. Pf
+2-303 Jewelry

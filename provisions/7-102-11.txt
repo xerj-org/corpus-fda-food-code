@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-102.11 - Common Name.
+[source PDF page 160; extracted with pypdf 6.19.0]
+
+7-102.11 Common Name.
+Working containers used for storing POISONOUS OR TOXIC MATERIALS such as
+cleaners and SANITIZERS taken from bulk supplies shall be clearly and individually
+identified with the common name of the material. Pf
+7-2 Operational Supplies and Applications
+7-201 Storage

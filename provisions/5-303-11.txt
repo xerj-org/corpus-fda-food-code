@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-303.11 - Filter, Compressed Air.
+[source PDF page 142; extracted with pypdf 6.19.0]
+
+5-303.11 Filter, Compressed Air.
+A filter that does not pass oil or oil vapors shall be installed in the air supply line
+between the compressor and DRINKING WATER system when compressed air is
+used to pressurize the water tank system. P

@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-304.11 - System Flushing and Sanitization.
+[source PDF page 143; extracted with pypdf 6.19.0]
+
+5-304.11 System Flushing and Sanitization.
+A water tank, pump, and hoses shall be flushed and SANITIZED before being
+placed in service after construction, repair, modification, and periods of nonuse. P

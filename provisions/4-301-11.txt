@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-301.11 - Cooling, Heating, and Holding Capacities.
+[source PDF page 118; extracted with pypdf 6.19.0]
+
+4-301.11 Cooling, Heating, and Holding Capacities.
+EQUIPMENT for cooling and heating FOOD, and holding cold and hot FOOD, shall be
+sufficient in number and capacity to provide FOOD temperatures as specified
+under Chapter 3. Pf

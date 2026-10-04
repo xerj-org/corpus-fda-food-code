@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-303.11 - Prohibition.
+[source PDF page 63; extracted with pypdf 6.19.0]
+
+2-303.11 Prohibition.
+Except for a plain ring such as a wedding band, while preparing FOOD, FOOD
+EMPLOYEES may not wear jewelry including medical information jewelry on their
+arms and hands.
+2-304 Outer Clothing

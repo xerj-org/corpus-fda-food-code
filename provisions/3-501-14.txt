@@ -1,0 +1,19 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-501.14 - Cooling.
+[source PDF page 92; extracted with pypdf 6.19.0]
+
+3-501.14 Cooling.
+(A) Cooked time/temperature control for safety food shall be cooled:
+(1) Within 2 hours from 57ºC (135ºF) to 21ºC (70°F); P and
+(2) Within a total of 6 hours from 57ºC (135ºF) to 5ºC (41°F) or less. P
+(B) TIME/TEMPERATURE CONTROL FOR SAFETY FOOD shall be cooled within 4 hours
+to 5oC (41oF) or less if prepared from ingredients at ambient temperature, such
+as reconstituted FOODS and canned tuna. P
+(C) Except as specified under ¶ (D) of this section, a TIME/TEMPERATURE CONTROL
+FOR SAFETY FOOD received in compliance with LAWS allowing a temperature above
+5oC (41oF) during shipment from the supplier as specified in ¶ 3-202.11(B), shall
+be cooled within 4 hours to 5oC (41oF) or less. P
+(D) Raw EGGS shall be received as specified under ¶ 3-202.11(C) and
+immediately placed in refrigerated EQUIPMENT that maintains an ambient air
+temperature of 7oC (45oF) or less. P

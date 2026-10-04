@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-301.20 - Disposable Towels, Waste Receptacle.
+[source PDF page 154; extracted with pypdf 6.19.0]
+
+6-301.20 Disposable Towels, Waste Receptacle.
+A HANDWASHING SINK or group of adjacent HANDWASHING SINKS that is provided
+with disposable towels shall be provided with a waste receptacle as specified
+under ¶ 5-501.16(C).
+6-302 Toilets and Urinals

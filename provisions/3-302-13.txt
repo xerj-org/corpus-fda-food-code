@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-302.13 - Pasteurized Eggs, Substitute for Raw Eggs for Certain Recipes.
+[source PDF page 77; extracted with pypdf 6.19.0]
+
+3-302.13 Pasteurized Eggs, Substitute for Raw Eggs for Certain Recipes.
+Pasteurized EGGS or EGG PRODUCTS shall be substituted for raw EGGS in the
+preparation of FOODS such as Caesar salad, hollandaise or Béarnaise sauce,
+mayonnaise, meringue, eggnog, ice cream, and EGG-fortified BEVERAGES that are
+not: P
+(A) Cooked as specified under Subparagraphs 3-401.11(A)(1) or (2); P or
+(B) Included in ¶ 3-401.11(D). P

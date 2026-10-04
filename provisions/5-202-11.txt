@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-202.11 - Approved System and Cleanable Fixtures.
+[source PDF page 138; extracted with pypdf 6.19.0]
+
+5-202.11 Approved System and Cleanable Fixtures.
+(A) A PLUMBING SYSTEM shall be designed, constructed, and installed according to
+LAW. P
+(B) A plumbing fixture such as a handwashing sink, toilet, or urinal shall be easily
+cleanable.

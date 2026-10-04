@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-201.17 - Walls and Ceilings, Attachments.
+[source PDF page 151; extracted with pypdf 6.19.0]
+
+6-201.17 Walls and Ceilings, Attachments.
+(A) Except as specified in ¶ (B) of this section, attachments to walls and ceilings
+such as light fixtures, mechanical room ventilation system components, vent
+covers, wall mounted fans, decorative items, and other attachments shall be
+EASILY CLEANABLE.
+(B) In a CONSUMER area, wall and ceiling surfaces and decorative items and
+attachments that are provided for ambiance need not meet this requirement if
+they are kept clean.

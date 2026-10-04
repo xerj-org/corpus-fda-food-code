@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-303.13 - Mobile Food Establishment Tank Inlet.
+[source PDF page 143; extracted with pypdf 6.19.0]
+
+5-303.13 Mobile Food Establishment Tank Inlet.
+A mobile FOOD ESTABLISHMENT'S water tank inlet shall be:
+(A) 19.1 mm (three-fourths inch) in inner diameter or less; and
+(B) Provided with a hose connection of a size or type that will prevent its
+use for any other service.
+5-304 Operation and Maintenance

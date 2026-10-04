@@ -1,0 +1,48 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-201.14 - Contents of a HACCP Plan.
+[source PDF page 169; extracted with pypdf 6.19.0]
+
+8-201.14 Contents of a HACCP Plan.
+For a food establishment that is required under § 8-201.13 to have a HACCP
+PLAN, the PERMIT applicant or PERMIT HOLDER shall submit to the REGULATORY
+AUTHORITY a properly prepared HACCP PLAN that includes:
+(A) General information such as the name of the PERMIT applicant or
+PERMIT HOLDER, the FOOD ESTABLISHMENT address, and contact information;
+(B) A categorization of the types of TIME/TEMPERATURE CONTROL FOR
+SAFETY FOODS that are to be controlled under the HACCP PLAN;Pf
+(C) A flow diagram or chart for each specific FOOD or category type that
+identifies:
+(1) Each step in the process; Pf and
+(2) The steps that are CRITICAL CONTROL POINTS; Pf
+(D) The ingredients, recipes or formulations, materials and equipment
+used in the preparation of each specific FOOD or category type and
+methods and procedural control measures that address the FOOD safety
+concerns involved; Pf
+(E) A CRITICAL CONTROL POINTS summary for each specific FOOD or
+category type that clearly identifies:
+(1) Each CRITICAL CONTROL POINT, Pf
+(2) The significant HAZARDS for each CRITICAL CONTROL POINT, Pf
+(3) The CRITICAL LIMITS for each CRITICAL CONTROL POINT, Pf
+(4) The method and frequency for monitoring and controlling each
+CRITICAL CONTROL POINT by the designated FOOD EMPLOYEE or the
+PERSON IN CHARGE, Pf
+(5) Action to be taken by the designated FOOD EMPLOYEE or PERSON
+IN CHARGE if the CRITICAL LIMITS for each CRITICAL CONTROL POINT are
+not met, Pf
+(6) The method and frequency for the PERSON IN CHARGE to routinely
+verify that the FOOD EMPLOYEE is following standard operating
+procedures and monitoring CRITICAL CONTROL POINTS, Pf and
+(7) Records to be maintained by the PERSON IN CHARGE to
+demonstrate that the HACCP PLAN is properly operated and
+managed; Pf
+(F) Supporting documents such as:
+(1) FOOD EMPLOYEE and supervisory training plan that addresses the
+FOOD safety issues of concern; Pf
+(2) Copies of blank records forms that are necessary to implement
+the HACCP PLAN; Pf
+(3) Additional scientific data or other information, as required by the
+REGULATORY AUTHORITY, supporting the determination that FOOD
+safety is not compromised by the proposal. Pf
+(G) Any other information required by the REGULATORY AUTHORITY.
+8-202 Confidentiality

@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-601.11 - Equipment, Food-Contact Surfaces, Nonfood-Contact Surfaces,
+[source PDF page 126; extracted with pypdf 6.19.0]
+
+4-601.11 Equipment, Food-Contact Surfaces, Nonfood-Contact Surfaces,
+and Utensils.
+(A) EQUIPMENT FOOD-CONTACT SURFACES and UTENSILS shall be clean to sight and
+touch. Pf
+(B) The FOOD-CONTACT SURFACES of cooking EQUIPMENT and pans shall be kept
+free of encrusted grease deposits and other soil accumulations.
+(C) NonFOOD-CONTACT SURFACES of EQUIPMENT shall be kept free of an
+accumulation of dust, dirt, FOOD residue, and other debris.
+4-602 Frequency

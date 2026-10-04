@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-206.11 - Restricted Use Pesticides, Criteria.
+[source PDF page 163; extracted with pypdf 6.19.0]
+
+7-206.11 Restricted Use Pesticides, Criteria.
+RESTRICTED USE PESTICIDES specified under ¶ 7-202.12(C) shall meet the
+requirements specified in 40 CFR 152 Subpart I - Classification of Pesticides. P

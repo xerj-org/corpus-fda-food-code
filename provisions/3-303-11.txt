@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-303.11 - Ice Used as Exterior Coolant, Prohibited as Ingredient.
+[source PDF page 77; extracted with pypdf 6.19.0]
+
+3-303.11 Ice Used as Exterior Coolant, Prohibited as Ingredient.
+After use as a medium for cooling the exterior surfaces of FOOD such as melons
+or FISH, PACKAGED FOODS such as canned BEVERAGES, or cooling coils and tubes
+of EQUIPMENT, ice may not be used as FOOD. P

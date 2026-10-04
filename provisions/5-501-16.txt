@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-501.16 - Storage Areas, Rooms, and Receptacles, Capacity and
+[source PDF page 146; extracted with pypdf 6.19.0]
+
+5-501.16 Storage Areas, Rooms, and Receptacles, Capacity and
+Availability.
+(A) An inside storage room and area and outside storage area and enclosure,
+and receptacles shall be of sufficient capacity to hold REFUSE, recyclables, and
+returnables that accumulate.
+(B) A receptacle shall be provided in each area of the FOOD ESTABLISHMENT or
+PREMISES where REFUSE is generated or commonly discarded, or where
+recyclables or returnables are placed.
+(C) If disposable towels are used at handwashing lavatories, a waste receptacle
+shall be located at each lavatory or group of adjacent lavatories.

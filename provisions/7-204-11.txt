@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-204.11 - Sanitizers, Criteria.
+[source PDF page 162; extracted with pypdf 6.19.0]
+
+7-204.11 Sanitizers, Criteria.
+Chemical SANITIZERS, including chemical sanitizing solutions generated on-site,
+and other chemical antimicrobials applied to FOOD-CONTACT SURFACEs shall:
+(A) Meet the requirements specified in 40 CFR 180.940 Tolerance
+exemptions for active and inert ingredients for use in antimicrobial
+formulations (Food-contact surface sanitizing solutions)P, or
+(B) Meet the requirements as specified in 40 CFR 180.2020 Pesticide
+Chemicals Not Requiring a Tolerance or Exemption from Tolerance-Non-
+food determinations.P

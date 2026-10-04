@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-803.12 - Mechanical Washing.
+[source PDF page 133; extracted with pypdf 6.19.0]
+
+4-803.12 Mechanical Washing.
+(A) Except as specified in ¶ (B) of this section, LINENS shall be mechanically
+washed.
+(B) In FOOD ESTABLISHMENTS in which only wiping cloths are laundered as
+specified in ¶ 4-301.15(B), the wiping cloths may be laundered in a mechanical
+washer, sink designated only for laundering wiping cloths, or a WAREWASHING or
+FOOD preparation sink that is cleaned as specified under § 4-501.14.

@@ -1,0 +1,811 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 1. Purpose and Definitions
+Provision 1-201.10 - Statement of Application and Listing of Terms.
+[source PDF page 22; extracted with pypdf 6.19.0]
+
+1-201.10 Statement of Application and Listing of Terms.
+(A) The following definitions shall apply in the interpretation and application of
+this Code.
+(B) Terms Defined. As used in this Code, each of the terms listed in
+¶1-201.10(B) shall have the meaning stated below.
+Accredited Program.
+(1) "Accredited program" means a food protection manager
+certification program that has been evaluated and listed by an
+accrediting agency as conforming to national standards for
+organizations that certify individuals.
+(2) "Accredited program" refers to the certification process and
+is a designation based upon an independent evaluation of factors
+such as the sponsor's mission; organizational structure; staff
+resources; revenue sources; policies; public information regarding
+program scope, eligibility requirements, re-certification, discipline
+and grievance procedures; and test development and
+administration.
+(3) "Accredited program" does not refer to training functions or
+educational programs.
+Additive.
+(1) "Food additive" has the meaning stated in the Federal Food,
+Drug, and Cosmetic Act, § 201(s) and 21 CFR 170.3(e)(1).
+(2) "Color additive" has the meaning stated in the Federal Food,
+Drug, and Cosmetic Act, § 201(t) and 21 CFR 70.3(f).
+"Adulterated" has the meaning stated in the Federal Food, Drug, and
+Cosmetic Act, § 402.
+"Approved" means acceptable to the REGULATORY AUTHORITY based on a
+determination of conformity with principles, practices, and generally
+recognized standards that protect public health.
+Asymptomatic.
+(1) "Asymptomatic" means without obvious symptoms; not
+showing or producing indications of a disease or other medical
+condition, such as an individual infected with a pathogen but not
+exhibiting or producing any signs or symptoms of vomiting,
+diarrhea, or jaundice.
+(2) "Asymptomatic" includes not showing symptoms because
+symptoms have resolved or subsided, or because symptoms never
+manifested.
+"aw" means water activity which is a measure of the free moisture in a
+FOOD, is the quotient of the water vapor pressure of the substance divided
+by the vapor pressure of pure water at the same temperature, and is
+indicated by the symbol AW.
+"Balut" means an embryo inside a fertile EGG that has been incubated for
+a period sufficient for the embryo to reach a specific stage of
+development after which it is removed from incubation before hatching.
+"Beverage" means a liquid for drinking, including water.
+"Bottled drinking water" means water that is SEALED in bottles,
+packages, or other containers and offered for sale for human
+consumption, including bottled mineral water.
+"Casing" means a tubular container for sausage products made of either
+natural or artificial (synthetic) material.
+"Certification number" means the unique identification number issued
+by the SHELLFISH CONTROL AUTHORITY to each dealer for each location.
+Each certification number shall consist to a one-to-five digit Arabic
+number preceded by the two letter State abbreviation and followed by a
+two-letter abbreviation for the type of activity or activities the dealer is
+qualified to perform in accordance with this provision of the National
+Shellfish Sanitation Program using the terms in the following tables:
+Table A. Certifications
+ACRONYM TERM
+SP Shucker Packer
+RP Repacker
+SS SHELLSTOCK
+Shipper
+RS Reshipper
+DP Depuration
+Table B. Permits
+ACRONYM TERM
+PHP Post-Harvest
+Processing
+AQ Aquaculture
+WS Wet Storage
+"CFR" means CODE OF FEDERAL REGULATIONS. Citations in this Code to
+the CFR refer sequentially to the Title, Part, and Section numbers, such as
+40 CFR 180.194 refers to Title 40, Part 180, Section 194.
+CIP.
+(1) "CIP" means cleaned in place by the circulation or flowing by
+mechanical means through a piping system of a detergent solution,
+water rinse, and SANITIZING solution onto or over EQUIPMENT
+surfaces that require cleaning, such as the method used, in part, to
+clean and SANITIZE a frozen dessert machine.
+(2) "CIP" does not include the cleaning of EQUIPMENT such as band
+saws, slicers, or mixers that are subjected to in-place manual
+cleaning without the use of a CIP system.
+"Commingle" means the act of combining different lots of shellfish.
+Comminuted.
+(1) "Comminuted" means reduced in size by methods including
+chopping, flaking, grinding, or mincing.
+(2) "Comminuted" includes FISH or MEAT products that are reduced
+in size and restructured or reformulated such as gefilte FISH, gyros,
+ground beef, and sausage; and a mixture of 2 or more types of MEAT
+that have been reduced in size and combined, such as sausages
+made from 2 or more MEATS.
+"Conditional employee" means a potential FOOD EMPLOYEE to whom a
+job offer is made, conditional on responses to subsequent medical
+questions or examinations designed to identify potential FOOD EMPLOYEES
+who may be suffering from a disease that can be transmitted through
+FOOD and done in compliance with Title 1 of the Americans with
+Disabilities Act of 1990.
+"Confirmed disease outbreak" means a foodborne disease outbreak in
+which laboratory analysis of appropriate specimens identifies a causative
+agent and epidemiological analysis implicates the food as the source of
+the illness.
+"Consumer" means a person who is a member of the public, takes
+possession of food, is not functioning in the capacity of an operator of a
+food establishment or food processing plant, and does not offer the food
+for resale.
+Core Item.
+(1) "Core item" means a provision in this Code that is not
+designated as a PRIORITY ITEM or a PRIORITY FOUNDATION ITEM.
+(2) "Core item" includes an item that usually relates to general
+sanitation, operational controls, sanitation standard operating
+procedures (SSOPs), facilities or structures, equipment design, or
+general maintenance.
+"Corrosion-resistant material" means a material that maintains
+acceptable surface cleanability characteristics under prolonged influence
+of the FOOD to be contacted, the normal use of cleaning compounds and
+SANITIZING solutions, and other conditions of the use environment.
+"Counter-mounted equipment" means EQUIPMENT that is not portable
+and is designed to be mounted off the floor on a table, counter, or shelf.
+"Critical control point" means a point or procedure in a specific FOOD
+system where loss of control may result in an unacceptable health RISK.
+"Critical limit" means the maximum or minimum value to which a
+physical, biological, or chemical parameter must be controlled at a
+CRITICAL CONTROL POINT to minimize the RISK that the identified FOOD safety
+HAZARD may occur.
+“Cut leafy greens” means fresh leafy greens whose leaves have been
+cut, shredded, sliced, chopped, or torn. The term “leafy greens” includes
+iceberg lettuce, romaine lettuce, leaf lettuce, butter lettuce, baby leaf
+lettuce (i.e., immature lettuce or leafy greens), escarole, endive, spring
+mix, spinach, cabbage, kale, arugula and chard. The term “leafy greens”
+does not include herbs such as cilantro or parsley.
+"Dealer" means a PERSON who is authorized by a SHELLFISH CONTROL
+AUTHORITY for the activities of SHELLSTOCK shipper, shucker-packer,
+repacker, reshipper, or depuration processor of MOLLUSCAN SHELLFISH
+according to the provisions of the National Shellfish Sanitation Program.
+"Disclosure" means a written statement that clearly identifies the animal-
+derived FOODS which are, or can be ordered, raw, undercooked, or without
+otherwise being processed to eliminate pathogens, or items that contain
+an ingredient that is raw, undercooked, or without otherwise being
+processed to eliminate pathogens.
+Drinking Water.
+(1) "Drinking water" means water that meets criteria as specified
+in 40 CFR 141 National Primary Drinking Water Regulations.
+(2) "Drinking water" is traditionally known as "potable water."
+(3) "Drinking water" includes the term "water" except where the
+term used connotes that the water is not potable, such as "boiler
+water," "mop water," "rainwater," "wastewater," and "nondrinking"
+water.
+"Dry storage area" means a room or area designated for the storage of
+PACKAGED or containerized bulk FOOD that is not TIME/TEMPERATURE
+CONTROL FOR SAFETY FOOD and dry goods such as SINGLE-SERVICE items.
+Easily Cleanable.
+(1) "Easily cleanable" means a characteristic of a surface that:
+(a) Allows effective removal of soil by normal cleaning
+methods;
+(b) Is dependent on the material, design, construction, and
+installation of the surface; and
+(c) Varies with the likelihood of the surface's role in
+introducing pathogenic or toxigenic agents or other
+contaminants into FOOD based on the surface's APPROVED
+placement, purpose, and use.
+(2) "Easily cleanable" includes a tiered application of the criteria
+that qualify the surface as EASILY CLEANABLE as specified in
+Subparagraph (1) of this definition to different situations in which
+varying degrees of cleanability are required such as:
+(a) The appropriateness of stainless steel for a FOOD
+preparation surface as opposed to the lack of need for
+stainless steel to be used for floors or for tables used for
+CONSUMER dining; or
+(b) The need for a different degree of cleanability for a
+utilitarian attachment or accessory in the kitchen as opposed
+to a decorative attachment or accessory in the CONSUMER
+dining area.
+"Easily movable" means:
+(1) Portable; mounted on casters, gliders, or rollers; or provided with
+a mechanical means to safely tilt a unit of EQUIPMENT for cleaning;
+and
+(2) Having no utility connection, a utility connection that disconnects
+quickly, or a flexible utility connection line of sufficient length to
+allow the EQUIPMENT to be moved for cleaning of the EQUIPMENT and
+adjacent area.
+Egg.
+(1) "Egg" means the shell EGG of avian species such as chicken,
+duck, goose, guinea, quail, RATITES or turkey.
+(2) "Egg" does not include:
+(a) A balut;
+(b) The egg of reptile species such as alligator; or
+(c) An egg product.
+Egg Product.
+(1) "Egg Product" means all, or a portion of, the contents found
+inside EGGS separated from the shell and pasteurized in a FOOD
+PROCESSING PLANT, with or without added ingredients, intended for
+human consumption, such as dried, frozen or liquid eggs.
+(2) "Egg Product" does not include FOOD which contains EGGS only
+in a relatively small proportion such as cake mixes.
+"Employee" means the PERMIT HOLDER, PERSON IN CHARGE, FOOD
+EMPLOYEE, PERSON having supervisory or management duties, PERSON on
+the payroll, family member, volunteer, PERSON performing work under
+contractual agreement, or other PERSON working in a FOOD ESTABLISHMENT.
+"EPA" means the U.S. Environmental Protection Agency.
+Equipment.
+(1) "Equipment" means an article that is used in the operation of a
+FOOD ESTABLISHMENT such as a freezer, grinder, hood, ice maker,
+MEAT block, mixer, oven, reach-in refrigerator, scale, sink, slicer,
+stove, table, TEMPERATURE MEASURING DEVICE for ambient air,
+VENDING MACHINE, or WAREWASHING machine.
+(2) "Equipment" does not include apparatuses used for handling or
+storing large quantities of PACKAGED FOODS that are received from a
+supplier in a cased or overwrapped lot, such as hand trucks,
+forklifts, dollies, pallets, racks, and skids.
+"Exclude" means to prevent a PERSON from working as an EMPLOYEE in a
+FOOD ESTABLISHMENT or entering a FOOD ESTABLISHMENT as an EMPLOYEE.
+"FDA" means the U.S. Food and Drug Administration.
+Fish.
+(1) "Fish" means fresh or saltwater finfish, crustaceans and other
+forms of aquatic life (including alligator, frog, aquatic turtle, jellyfish,
+sea cucumber, and sea urchin and the roe of such animals) other
+than birds or mammals, and all mollusks, if such animal life is
+intended for human consumption.
+(2) "Fish" includes an edible human FOOD product derived in whole
+or in part from FISH, including FISH that have been processed in any
+manner.
+"Food" means a raw, cooked, or processed edible substance, ice,
+BEVERAGE, or ingredient used or intended for use or for sale in whole or in
+part for human consumption, or chewing gum.
+"Foodborne disease outbreak" means the occurrence of two or more
+cases of a similar illness resulting from the ingestion of a common FOOD.
+"Food-contact surface" means:
+(1) A surface of EQUIPMENT or a UTENSIL with which FOOD normally
+comes into contact; or
+(2) A surface of EQUIPMENT or a UTENSIL from which FOOD may drain,
+drip, or splash:
+(a) Into a FOOD, or
+(b) Onto a surface normally in contact with FOOD.
+"Food employee" means an individual working with unPACKAGED FOOD,
+FOOD EQUIPMENT or UTENSILS, or FOOD-CONTACT SURFACES.
+Food Establishment.
+(1) "Food establishment" means an operation that:
+(a) stores, prepares, packages, serves, vends FOOD directly
+to the CONSUMER, or otherwise provides FOOD for human
+consumption such as a restaurant; satellite or catered
+feeding location; catering operation if the operation provides
+FOOD directly to a CONSUMER or to a conveyance used to
+transport people; market; vending location; conveyance used
+to transport people; institution; or FOOD bank; and
+(b) relinquishes possession of FOOD to a CONSUMER directly,
+or indirectly through a delivery service such as home
+delivery of grocery orders or restaurant takeout orders, or
+delivery service that is provided by common carriers.
+(2) "Food establishment" includes:
+(a) An element of the operation such as a transportation
+vehicle or a central preparation facility that supplies a
+vending location or satellite feeding location unless the
+vending or feeding location is permitted by the REGULATORY
+AUTHORITY; and
+(b) An operation that is conducted in a mobile, stationary,
+temporary, or permanent facility or location; where
+consumption is on or off the PREMISES; and regardless of
+whether there is a charge for the FOOD.
+(3) "Food establishment" does not include:
+(a) An establishment that offers only prePACKAGED FOODS
+that are not TIME/TEMPERATURE CONTROL FOR SAFETY FOODS;
+(b) A produce stand that only offers whole, uncut fresh fruits
+and vegetables;
+(c) A FOOD PROCESSING PLANT; including those that are
+located on the PREMISES of a FOOD ESTABLISHMENT;
+(d) A kitchen in a private home if only FOOD that is not
+TIME/TEMPERATURE CONTROL FOR SAFETY FOOD, is prepared for
+sale or service at a function such as a religious or charitable
+organization’s bake sale if allowed by LAW and if the
+CONSUMER is informed by a clearly visible placard at the
+sales or service location that the FOOD is prepared in a
+kitchen that is not subject to regulation and inspection by the
+REGULATORY AUTHORITY;
+(e) An area where FOOD that is prepared as specified in
+Subparagraph (3)(d) of this definition is sold or offered for
+human consumption;
+(f) A kitchen in a private home, such as a small family day-
+care provider; or a bed-and-breakfast operation that
+prepares and offers FOOD to guests if the home is owner
+occupied, the number of available guest bedrooms does not
+exceed 6, breakfast is the only meal offered, the number of
+guests served does not exceed 18, and the CONSUMER is
+informed by statements contained in published
+advertisements, mailed brochures, and placards posted at
+the registration area that the FOOD is prepared in a kitchen
+that is not regulated and inspected by the REGULATORY
+AUTHORITY; or
+(g) A private home that receives catered or home-delivered
+FOOD.
+Food Processing Plant.
+(1) "Food processing plant" means a commercial operation that
+manufactures, packages, labels, or stores FOOD for human
+consumption, and provides FOOD for sale or distribution to other
+business entities such as FOOD PROCESSING PLANTS or FOOD
+ESTABLISHMENTS.
+(2) "Food processing plant" does not include a FOOD
+ESTABLISHMENT.
+Game Animal.
+(1) "Game animal" means an animal, the products of which are
+FOOD, that is not classified as livestock, sheep, swine, goat, horse,
+mule, or other equine in 9 CFR 301.2 Definitions, or as Poultry, or
+FISH.
+(2) "Game animal" includes mammals such as reindeer, elk, deer,
+antelope, water buffalo, bison, rabbit, squirrel, opossum, raccoon,
+nutria, or muskrat, and nonaquatic reptiles such as land snakes.
+(3) "Game animal" does not include ratites.
+"General use pesticide" means a pesticide that is not classified by EPA
+for restricted use as specified in 40 CFR 152.175 Pesticides classified for
+restricted use.
+"Grade A standards" means the requirements of the United States
+Public Health Service/FDA "Grade A Pasteurized Milk Ordinance" with
+which certain fluid and dry milk and milk products comply.
+"HACCP plan" means a written document that delineates the formal
+procedures for following the HAZARD Analysis and CRITICAL CONTROL POINT
+principles developed by The National Advisory Committee on
+Microbiological Criteria for Foods.
+Handwashing Sink.
+(1) "Handwashing sink" means a lavatory, a basin or vessel for
+washing, a wash basin, or a plumbing fixture especially placed for
+use in personal hygiene and designed for the washing of the hands.
+(2) "Handwashing sink" includes an automatic handwashing
+facility.
+"Hazard" means a biological, chemical, or physical property that may
+cause an unacceptable CONSUMER health RISK.
+"Health practitioner" means a physician licensed to practice medicine, or
+if allowed by LAW, a nurse practitioner, physician assistant, or similar
+medical professional.
+"Hermetically sealed container" means a container that is designed and
+intended to be secure against the entry of microorganisms and, in the
+case of low acid canned FOODS, to maintain the commercial sterility of its
+contents after processing.
+"Highly susceptible population" means PERSONS who are more likely
+than other people in the general population to experience foodborne
+disease because they are:
+(1) Immunocompromised; preschool age children, or older adults;
+and
+(2) Obtaining FOOD at a facility that provides services such as
+custodial care, health care, or assisted living, such as a child or
+adult day care center, kidney dialysis center, hospital or nursing
+home, or nutritional or socialization services such as a senior
+center.
+"Imminent health hazard" means a significant threat or danger to health
+that is considered to exist when there is evidence sufficient to show that a
+product, practice, circumstance, or event creates a situation that requires
+immediate correction or cessation of operation to prevent injury based on:
+(1) The number of potential injuries, and
+(2) The nature, severity, and duration of the anticipated injury.
+"Injected" means manipulating MEAT to which a solution has been
+introduced into its interior by processes that are referred to as "injecting,"
+“pump marinating,” or "stitch pumping”.
+“In-Shell Product” means non-living, processed shellfish with one or both
+shells present.
+“Intact Meat” means a cut of whole muscle(s) MEAT that has not
+undergone COMMINUTION, MECHANICAL TENDERIZATION, vacuum tumbling
+with solutions, reconstruction, cubing or pounding.
+Juice.
+(1) "Juice" means the aqueous liquid expressed or extracted from
+one or more fruits or vegetables, purées of the edible portions of
+one or more fruits or vegetables, or any concentrates of such liquid
+or purée.
+(2) "Juice" does not include, for purposes of HACCP, liquids,
+purées, or concentrates that are not used as BEVERAGES or
+ingredients of BEVERAGES.
+"Kitchenware" means FOOD preparation and storage UTENSILS.
+"Law" means applicable local, state, and federal statutes, regulations,
+and ordinances.
+"Linens" means fabric items such as cloth hampers, cloth napkins, table
+cloths, wiping cloths, and work garments including cloth gloves.
+Major Food Allergen.
+(1) "Major food allergen" means:
+(a) Milk, EGG, FISH (such as bass, flounder, cod, and
+including crustacean shellfish such as crab, lobster, or
+shrimp), tree nuts (such as almonds, pecans, or walnuts),
+wheat, peanuts, soybeans and sesame; or
+b) A FOOD ingredient that contains protein derived from a
+FOOD, as specified in Subparagraph (1)(a) of this definition.
+(2) "Major food allergen" does not include:
+(a) Any highly refined oil derived from a food specified in
+Subparagraph (1)(a) of this definition and any ingredient
+derived from such highly refined oil; or
+(b) Any ingredient that is exempt under the petition or
+notification process specified in the Food Allergen Labeling
+and Consumer Protection Act of 2004 (Public Law 108-282).
+"Meat" means the flesh of animals used as FOOD including the dressed
+flesh of cattle, swine, sheep, or goats and other edible animals, except
+FISH, POULTRY, and wild GAME ANIMALS as specified under Subparagraphs
+3-201.17(A)(3) and (4).
+"Mechanically Tenderized" means manipulating meat by piercing with a
+set of needles, pins, blades or any mechanical device, which breaks up
+muscle fiber and tough connective tissue, to increase tenderness. This
+includes INJECTION, scoring, and processes which may be referred to as
+“blade tenderizing,” “jaccarding,” “pinning,” or “needling”.
+"mg/L" means milligrams per liter, which is the metric equivalent of parts
+per million (ppm).
+"Molluscan shellfish" means any edible species of fresh or frozen
+oysters, clams, mussels, and scallops or edible portions thereof, except
+when the scallop product consists only of the shucked adductor muscle.
+MOLLUSCAN SHELLFISH includes SHELLSTOCK, SHUCKED SHELLFISH and IN-
+SHELL PRODUCTS.
+Non-Continuous Cooking.
+(1) "Non-continuous cooking" means the cooking of FOOD in a
+FOOD ESTABLISHMENT using a process in which the initial heating of
+the FOOD is intentionally halted so that it may be cooled and held for
+complete cooking at a later time prior to sale or service.
+(2) "Non-continuous cooking" does not include cooking
+procedures that only involve temporarily interrupting or slowing an
+otherwise continuous cooking process.
+Packaged.
+(1) "Packaged" means bottled, canned, cartoned, bagged, or
+wrapped, whether PACKAGED in a FOOD ESTABLISHMENT or a FOOD
+PROCESSING PLANT.
+(2) "Packaged" does not include wrapped or placed in a carry-out
+container to protect the food during service or delivery to the
+consumer, by a food employee, upon consumer request.
+"Permit" means the document issued by the REGULATORY AUTHORITY that
+authorizes a PERSON to operate a FOOD ESTABLISHMENT.
+"Permit holder" means the entity that:
+(1) Is legally responsible for the operation of the FOOD
+ESTABLISHMENT such as the owner, the owner's agent, or other
+PERSON; and
+(2) Possesses a valid PERMIT to operate a FOOD ESTABLISHMENT.
+"Person" means an association, a corporation, individual, partnership,
+other legal entity, government, or governmental subdivision or agency.
+"Person in charge" means the individual present at a FOOD
+ESTABLISHMENT who is responsible for the operation at the time of
+inspection.
+Personal Care Items.
+(1) "Personal care items" means items or substances that may be
+poisonous, toxic, or a source of contamination and are used to
+maintain or enhance a PERSON'S health, hygiene, or appearance.
+(2) "Personal care items" include items such as medicines; first
+aid supplies; and other items such as cosmetics, and toiletries such
+as toothpaste and mouthwash.
+"pH" means the symbol for the negative logarithm of the hydrogen ion
+concentration, which is a measure of the degree of acidity or alkalinity of a
+solution.
+Values between 0 and 7 indicate acidity and values between 7 and
+14 indicate alkalinity. The value for pure distilled water is 7, which is
+considered neutral.
+"Physical facilities" means the structure and interior surfaces of a FOOD
+ESTABLISHMENT including accessories such as soap and towel dispensers
+and attachments such as light fixtures and heating or air conditioning
+system vents.
+"Plumbing fixture" means a receptacle or device that:
+(1) Is permanently or temporarily connected to the water distribution
+system of the PREMISES and demands a supply of water from the
+system; or
+(2) Discharges used water, waste materials, or SEWAGE directly or
+indirectly to the drainage system of the PREMISES.
+"Plumbing system" means the water supply and distribution pipes;
+PLUMBING FIXTURES and traps; soil, waste, and vent pipes; sanitary and
+storm sewers and building drains, including their respective connections,
+devices, and appurtenances within the PREMISES; and water-treating
+EQUIPMENT.
+"Poisonous or toxic materials" means substances that are not intended
+for ingestion and are included in 5 categories:
+(1) Cleaners and SANITIZERS, which include cleaning and SANITIZING
+agents and agents such as caustics, acids, drying agents, polishes,
+and other chemicals;
+(2) Pesticides, except SANITIZERS, which include substances such as
+insecticides and rodenticides;
+(3) Substances necessary for the operation and maintenance of the
+establishment such as nonfood grade lubricants and PERSONAL CARE
+ITEMS that may be deleterious to health; and
+(4) Substances that are not necessary for the operation and
+maintenance of the establishment and are on the PREMISES for retail
+sale, such as petroleum products and paints.
+(5) RESTRICTED USE PESTICIDE means a pesticide product that
+contains the active ingredients specified in 40 CFR 152.175
+Pesticides classified for restricted use, and that is limited to use by
+or under the direct supervision of a certified applicator.
+"Poultry" means:
+(1) Any domesticated bird (chickens, turkeys, ducks, geese,
+guineas, ratites, or squabs), whether live or dead, as defined in 9
+CFR 381.1 Poultry Products Inspection Regulations Definitions,
+Poultry; and
+(2) Any migratory waterfowl or game bird, pheasant, partridge,
+quail, grouse, or pigeon, whether live or dead, as defined in 9 CFR
+362.1 Voluntary Poultry Inspection Regulations, Definitions.
+"Premises" means:
+(1) The PHYSICAL FACILITY, its contents, and the contiguous land or
+property under the control of the PERMIT HOLDER; or
+(2) The PHYSICAL FACILITY, its contents, and the land or property not
+described in Subparagraph (1) of this definition if its facilities and
+contents are under the control of the PERMIT HOLDER and may
+impact FOOD ESTABLISHMENT personnel, facilities, or operations, and
+a FOOD ESTABLISHMENT is only one component of a larger operation
+such as a health care facility, hotel, motel, school, recreational
+camp, or prison.
+"Primal cut" means a basic major cut into which carcasses and sides of
+MEAT are separated, such as a beef round, pork loin, lamb flank, or veal
+breast.
+Priority Item.
+(1) "Priority item" means a provision in this Code whose
+application contributes directly to the elimination, prevention or
+reduction to an acceptable level, hazards associated with foodborne
+illness or injury and there is no other provision that more directly
+controls the hazard.
+(2) "Priority item" includes items with a quantifiable measure to
+show control of hazards such as cooking, reheating, cooling,
+handwashing; and
+(3) "Priority item" is an item that is denoted in this Code with a
+superscript “P” (i.e., P).
+Priority Foundation Item.
+(1) "Priority foundation item" means a provision in this Code
+whose application supports, facilitates or enables one or more
+PRIORITY ITEMS.
+(2) "Priority foundation item" includes an item that requires the
+purposeful incorporation of specific actions, equipment or
+procedures by industry management to attain control of risk
+factors that contribute to foodborne illness or injury such as
+personnel training, infrastructure or necessary equipment,
+HACCP plans, documentation or record keeping, and labeling;
+and
+(3) "Priority foundation item" is an item that is denoted in this
+Code with a superscript “Pf” (i.e., Pf).
+"Public water system" has the meaning stated in 40 CFR 141 National
+Primary Drinking Water Regulations.
+"Ratite" means a flightless bird such as an emu, ostrich, or rhea.
+Ready-to-Eat Food.
+(1) "Ready-to-eat food" means FOOD that:
+(a) Is in a form that is edible without additional preparation to
+achieve FOOD safety, as specified under one of the following:
+¶ 3-401.11(A) or (B), § 3-401.12, or § 3-402.11, or as
+specified in ¶ 3-401.11(C); or
+(b) Is a raw or partially cooked animal FOOD and the
+consumer is advised as specified in Subparagraphs 3-
+401.11(D)(1) and (3); or
+(c) Is prepared in accordance with a variance that is granted
+as specified in Subparagraph 3-401.11(D) (4); and
+(d) May receive additional preparation for palatability or
+aesthetic, epicurean, gastronomic, or culinary purposes.
+(2) "Ready-to-eat food" includes:
+(a) Raw animal FOOD that is cooked as specified under § 3-
+401.11 or 3-401.12, or frozen as specified under § 3-402.11;
+(b) Raw fruits and vegetables that are washed as specified
+under § 3-302.15;
+(c) Plant FOODS that are cooked for hot holding, as specified
+under § 3-401.13;
+(d) All TIME/TEMPERATURE CONTROL FOR SAFETY FOOD that is
+cooked to the temperature and time required for the specific
+FOOD under Subpart 3-401 and cooled as specified under
+§ 3-501.14;
+(e) Plant FOOD for which further washing, cooking, or other
+processing is not required for FOOD safety, and from which
+rinds, peels, husks, or shells, if naturally present are
+removed;
+(f) Substances derived from plants such as spices,
+seasonings, and sugar;
+(g) A bakery item such as bread, cakes, pies, fillings, or icing
+for which further cooking is not required for FOOD safety;
+(h) The following products that are produced in accordance
+with USDA guidelines and that have received a lethality
+treatment for pathogens: dry, fermented sausages, such as
+dry salami or pepperoni; salt-cured MEAT and POULTRY
+products, such as prosciutto ham, country cured ham, and
+Parma ham; and dried MEAT and POULTRY products, such as
+jerky or beef sticks; and
+(i) FOODS manufactured as specified in 21 CFR Part 113,
+Thermally Processed Low-Acid Foods Packaged in
+Hermetically Sealed Containers.
+(3) "Ready-to-eat food" does not include:
+(a) Commercially pACKAGED FOOD that bears a
+manufacturer’s cooking instructions; and
+(b) FOOD for which the manufacturer has provided
+information that it has not been processed to control
+pathogens.
+Reduced Oxygen Packaging.
+(1) "Reduced oxygen packaging" means:
+(a) The reduction of the amount of oxygen in a PACKAGE by
+removing oxygen; displacing oxygen and replacing it with
+another gas or combination of gases; or otherwise
+controlling the oxygen content to a level below that normally
+found in the atmosphere (approximately 21% at sea level);
+and
+(b) A process as specified in Subparagraph (1)(a) of this
+definition that involves a FOOD for which the HAZARDS
+Clostridium botulinum or Listeria monocytogenes
+require control in the final PACKAGED form.
+(2) "Reduced oxygen packaging" includes:
+(a) Vacuum PACKAGING, in which air is removed from a
+PACKAGE of FOOD and the PACKAGE is HERMETICALLY SEALED
+so that a vacuum remains inside the PACKAGE;
+(b) Modified atmosphere PACKAGING, in which the
+atmosphere of a PACKAGE of FOOD is modified so that its
+composition is different from air but the atmosphere may
+change over time due to the permeability of the PACKAGING
+material or the respiration of the FOOD. Modified atmosphere
+PACKAGING includes reduction in the proportion of oxygen,
+total replacement of oxygen, or an increase in the proportion
+of other gases such as carbon dioxide or nitrogen;
+(c) Controlled atmosphere PACKAGING, in which the
+atmosphere of a PACKAGE of FOOD is modified so that until
+the PACKAGE is opened, its composition is different from air,
+and continuous control of that atmosphere is maintained,
+such as by using oxygen scavengers or a combination of
+total replacement of oxygen, nonrespiring FOOD, and
+impermeable PACKAGING material;
+(d) Cook chill PACKAGING, in which cooked FOOD is hot filled
+into impermeable bags that are then sealed or crimped
+closed. The bagged FOOD is rapidly chilled and refrigerated
+at temperatures that inhibit the growth of psychrotrophic
+pathogens; or
+(e) Sous vide PACKAGING, in which raw or partially cooked
+FOOD is vacuum packaged in an impermeable bag, cooked in
+the bag, rapidly chilled, and refrigerated at temperatures that
+inhibit the growth of psychrotrophic pathogens.
+"Refuse" means solid waste not carried by water through the SEWAGE
+system.
+"Regulatory authority" means the local, state, or federal enforcement
+body or authorized representative having jurisdiction over the FOOD
+ESTABLISHMENT.
+"Reminder" means a written statement concerning the health RISK of
+consuming animal FOODS raw, undercooked, or without otherwise being
+processed to eliminate pathogens.
+"Re-service" means the transfer of FOOD that is unused and returned by a
+CONSUMER after being served or sold and in the possession of the
+CONSUMER, to another PERSON.
+"Restrict" means to limit the activities of a FOOD EMPLOYEE so that there is
+no RISK of transmitting a disease that is transmissible through FOOD and
+the FOOD EMPLOYEE does not work with exposed FOOD, clean EQUIPMENT,
+UTENSILS, LINENS, or unwrapped SINGLE-SERVICE or SINGLE-USE ARTICLES.
+"Restricted egg" means any check, dirty EGG, incubator reject, inedible,
+leaker, or loss as defined in 9 CFR 590.
+"Restricted use pesticide" means a pesticide product that contains the
+active ingredients specified in 40 CFR 152.175 Pesticides classified for
+restricted use, and that is limited to use by or under the direct supervision
+of a certified applicator.
+"Risk" means the likelihood that an adverse health effect will occur within
+a population as a result of a HAZARD in a FOOD.
+"Safe material" means:
+(1) An article manufactured from or composed of materials that may
+not reasonably be expected to result, directly or indirectly, in their
+becoming a component or otherwise affecting the characteristics of
+any FOOD;
+(2) An additive that is used as specified in § 409 of the Federal
+Food, Drug, and Cosmetic Act; or
+(3) Other materials that are not ADDITIVES and that are used in
+conformity with applicable regulations of the Food and Drug
+Administration.
+"Sanitization" means the application of cumulative heat or chemicals on
+cleaned FOOD-CONTACT SURFACES that, when evaluated for efficacy, is
+sufficient to yield a reduction of 5 logs, which is equal to a 99.999%
+reduction, of representative disease microorganisms of public health
+importance.
+"Sealed" means free of cracks or other openings that allow the entry or
+passage of moisture.
+"Service animal" means an animal such as a guide dog, signal dog, or
+other animal individually trained to provide assistance to an individual with
+a disability.
+"Servicing area" means an operating base location to which a mobile
+FOOD ESTABLISHMENT or transportation vehicle returns regularly for such
+things as vehicle and equipment cleaning, discharging liquid or solid
+wastes, refilling water tanks and ice bins, and boarding FOOD.
+"Sewage" means liquid waste containing animal or vegetable matter in
+suspension or solution and may include liquids containing chemicals in
+solution.
+"Shellfish control authority" means a state, federal, foreign, tribal, or
+other government entity legally responsible for administering a program
+that includes certification of MOLLUSCAN SHELLFISH harvesters and DEALERs
+for interstate commerce.
+"Shellstock" means live MOLLUSCAN SHELLFISH in the shell.
+"Shiga toxin-producing Escherichia coli" (STEC) means any E. coli
+capable of producing Shiga toxins (also called verocytotoxins). STEC
+infections can be asymptomatic or may result in a spectrum of illness
+ranging from mild non-bloody diarrhea, to hemorrhagic colitis (i.e., bloody
+diarrhea), to hemolytic uremic syndrome (HUS - a type of kidney failure).
+Examples of serotypes of STEC include: E. coli O157:H7; E. coli
+O157:NM; E. coli O26:H11; E. coli O145:NM; E. coli O103:H2; and E. coli
+O111:NM. STEC are sometimes referred to as VTEC (verocytotoxigenic
+E. coli) or as EHEC (Enterohemorrhagic E. coli). EHEC are a subset of
+STEC which can cause hemorrhagic colitis or HUS.
+"Shucked shellfish" means MOLLUSCAN SHELLFISH that have both shells
+removed.
+"Single-service articles" means TABLEWARE, carry-out UTENSILS, and
+other items such as bags, containers, placemats, stirrers, straws,
+toothpicks, and wrappers that are designed and constructed for one time,
+one PERSON use after which they are intended for discard.
+Single-Use Articles.
+(1) "Single-use articles" means UTENSILS and bulk FOOD
+containers designed and constructed to be used once and
+discarded.
+(2) "Single-use articles" includes items such as wax paper,
+butcher paper, plastic wrap, formed aluminum FOOD containers,
+jars, plastic tubs or buckets, bread wrappers, pickle barrels, ketchup
+bottles, and number 10 cans which do not meet the materials,
+durability, strength, and cleanability specifications under
+§§ 4-101.11, 4-201.11, and 4-202.11 for multiuse UTENSILS.
+"Slacking" means the process of moderating the temperature of a FOOD
+such as allowing a FOOD to gradually increase from a temperature of -23oC
+(-10oF) to -4oC (25oF) in preparation for deep-fat frying or to facilitate even
+heat penetration during the cooking of previously block-frozen FOOD such
+as shrimp.
+"Smooth" means:
+(1) A FOOD-CONTACT SURFACE having a surface free of pits and
+inclusions with a cleanability equal to or exceeding that of (100 grit)
+number 3 stainless
+(2) A nonFOOD-CONTACT SURFACE of EQUIPMENT having a surface
+equal to that of commercial grade hot-rolled steel free of visible
+scale; and
+(3) A floor, wall, or ceiling having an even or level surface with no
+roughness or projections that render it difficult to clean.
+"Tableware" means eating, drinking, and serving UTENSILS for table use
+such as flatware including forks, knives, and spoons; hollowware including
+bowls, cups, serving dishes, and tumblers; and plates.
+"Temperature measuring device" means a thermometer, thermocouple,
+thermistor, or other device that indicates the temperature of FOOD, air, or
+water.
+"Temporary food establishment" means a FOOD ESTABLISHMENT that
+operates for a period of no more than 14 consecutive days in conjunction
+with a single event or celebration.
+Time/Temperature Control for Safety Food (formerly “potentially
+hazardous food” (PHF)).
+(1) "Time/temperature control for safety food" means a FOOD
+that requires time/temperature control for safety (TCS) to limit
+pathogenic microorganism growth or toxin formation.
+(2) "Time/temperature control for safety food" includes:
+(a) An animal FOOD that is raw or heat-treated; a plant FOOD
+that is heat-treated or consists of raw seed sprouts, cut
+melons, cut leafy greens, cut tomatoes or mixtures of cut
+tomatoes that are not modified in a way so that they are
+unable to support pathogenic microorganism growth or toxin
+formation, or garlic-in-oil mixtures that are not modified in a
+way so that they are unable to support pathogenic
+microorganism growth or toxin formation; and
+(b) Except as specified in Subparagraph (3)(d) of this
+definition, a food that because of the interaction of its aw
+and pH values is designat(b)ed as Product Assessment
+Required (PA) in Table A or B of this definition:
+Table A. Interaction of pH and AW for control of spores in FOOD heat-treated
+to destroy vegetative cells and subsequently PACKAGED
+AW VALUES PH: 4.6 OR LESS PH: > 4.6 - 5.6 PH: > 5.6
+≤0.92 Non-TCS food* non-TCS food non-TCS food
+> 0.92 - 0.95 non-TCS food non-TCS food PA**
+> 0.95 non-TCS food PA PA
+* TCS FOOD means TIME/TEMPERATURE CONTROL FOR SAFETY FOOD
+** PA means Product Assessment required
+Table B. Interaction of PH and AW for control of vegetative cells and spores
+in FOOD not heat-treated or heat-treated but not PACKAGED
+AW VALUES PH: < 4.2 PH: 4.2 - 4.6 PH: > 4.6 - 5.0 PH: > 5.0
+< 0.88 Non-TCS food* Non-TCS food non-TCS food non-TCS food
+0.88 – 0.90 Non-TCS food Non-TCS food non-TCS food PA**
+> 0.90 – 0.92 Non-TCS food Non-TCS food PA PA
+> 0.92 Non-TCS food PA PA PA
+* TCS FOOD means TIME/TEMPERATURE CONTROL FOR SAFETY FOOD
+** PA means Product Assessment required
+(3) "Time/temperature control for safety food" does not include:
+(a) An air-cooled hard-boiled egg with shell intact, or an egg
+with shell intact that is not hard-boiled, but has been
+pasteurized to destroy all viable salmonellae;
+(b) A FOOD in an unopened HERMETICALLY SEALED
+CONTAINTER that is commercially processed to achieve and
+maintain commercial sterility under conditions of non-
+refrigerated storage and distribution;
+(c) A FOOD that because of its PH or AW value, or interaction
+of AW and PH values, is designated as a non-TCS FOOD in
+Table A or B of this definition;
+(d) A FOOD that is designated as Product Assessment
+Required (PA) in Table A or B of this definition and has
+undergone a Product Assessment showing that the growth
+or toxin formation of pathogenic microorganisms that are
+reasonably likely to occur in that FOOD Is precluded due to:
+(i) Intrinsic factors including added or natural
+characteristics of the FOOD such as preservatives,
+antimicrobials, humectants, acidulants, or nutrients,
+(ii) Extrinsic factors including environmental or
+operational factors that affect the food such as
+packaging, modified atmosphere such as reduced
+oxygen packaging, shelf life and use, or temperature
+range of storage and use, or
+(iii) A combination of intrinsic and extrinsic factors; or
+(e) A FOOD that does not support the growth or toxin
+formation of pathogenic microorganisms in accordance
+with one of the Subparagraphs (3)(a) - (3)(d) of this
+definition even though the FOOD may contain a pathogenic
+microorganism or chemical or physical contaminant at a
+level sufficient to cause illness or injury.
+"Tobacco Product" has the meaning stated in the Federal Food, Drug
+and Cosmetic Act §201(rr) (21 U.S.C. 321(rr)).
+"USDA" means the U.S. Department of Agriculture.
+"Utensil" means a FOOD-CONTACT implement or container used in the
+storage, preparation, transportation, dispensing, sale, or service of FOOD,
+such as KITCHENWARE or TABLEWARE that is multiuse, SINGLE-SERVICE, or
+SINGLE-USE; gloves used in contact with FOOD; temperature sensing probes
+of FOOD TEMPERATURE MEASURING DEVICES; and probe-type price or
+identification tags used in contact with FOOD.
+"Variance" means a written document issued by the REGULATORY
+AUTHORITY that authorizes a modification or waiver of one or more
+requirements of this Code if, in the opinion of the REGULATORY AUTHORITY,
+a health HAZARD or nuisance will not result from the modification or waiver.
+"Vending machine" means a self-service device that, upon insertion of a
+coin, paper currency, token, card, or key, or by electronic transaction or
+optional manual operation, dispenses unit servings of FOOD in bulk or in
+PACKAGES without the necessity of replenishing the device between each
+vending operation.
+"Vending machine location" means the room, enclosure, space, or area
+where one or more VENDING MACHINES are installed and operated and
+includes the storage areas and areas on the PREMISES that are used to
+service and maintain the VENDING MACHINES.
+"Warewashing" means the cleaning and SANITIZING of UTENSILS and
+FOOD-CONTACT SURFACES of EQUIPMENT.
+"Whole-muscle, intact beef" means whole muscle beef that is not
+injected, mechanically tenderized, reconstructed, or scored and
+marinated, from which beef steaks may be cut.

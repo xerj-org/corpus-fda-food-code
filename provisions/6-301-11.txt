@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-301.11 - Handwashing Cleanser, Availability.
+[source PDF page 153; extracted with pypdf 6.19.0]
+
+6-301.11 Handwashing Cleanser, Availability.
+Each HANDWASHING SINK or group of 2 adjacent HANDWASHING SINKS shall be
+provided with a supply of hand cleaning liquid, powder, or bar soap.Pf

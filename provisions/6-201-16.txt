@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-201.16 - Wall and Ceiling Coverings and Coatings.
+[source PDF page 151; extracted with pypdf 6.19.0]
+
+6-201.16 Wall and Ceiling Coverings and Coatings.
+(A) Wall and ceiling covering materials shall be attached so that they are EASILY
+CLEANABLE.
+(B) Except in areas used only for dry storage, concrete, porous blocks, or bricks
+used for indoor wall construction shall be finished and SEALED to provide a
+SMOOTH, nonabsorbent, EASILY CLEANABLE surface.

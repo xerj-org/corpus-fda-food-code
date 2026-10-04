@@ -1,0 +1,22 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-202.11 - Temperature.
+[source PDF page 69; extracted with pypdf 6.19.0]
+
+3-202.11 Temperature.
+(A) Except as specified in ¶ (B) of this section, refrigerated, TIME/TEMPERATURE
+CONTROL FOR SAFETY FOOD shall be at a temperature of 5oC (41oF) or below when
+received. P
+(B) If a temperature other than 5°C (41°F) for a TIME/TEMPERATURE CONTROL FOR
+SAFETY FOOD is specified in LAW governing its distribution, such as LAWS
+governing milk and MOLLUSCAN SHELLFISH, the FOOD may be received at the
+specified temperature.
+(C) Raw EGGS shall be received in refrigerated equipment that maintains an
+ambient air temperature of 7oC (45oF) or less. P
+(D) TIME/TEMPERATURE CONTROL FOR SAFETY FOOD that is cooked to a temperature
+and for a time specified under §§ 3-401.11 - 3-401.13 and received hot shall be
+at a temperature of 57oC (135oF) or above. P
+(E) A FOOD that is labeled frozen and shipped frozen by a FOOD PROCESSING
+PLANT shall be received frozen. Pf
+(F) Upon receipt, TIME/TEMPERATURE CONTROL FOR SAFETY FOOD shall be free of
+evidence of previous temperature abuse. Pf

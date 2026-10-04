@@ -1,0 +1,1348 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Annex 5. Conducting Risk-Based Inspections
+[source PDF pages 536-570; extracted with pypdf 6.19.0]
+
+Annex 5 Conducting Risk-Based
+Inspections
+1. Purpose and Scope
+2. RISK-based Routine Inspections
+3. What Is Needed to Properly Conduct a Risk-Based Inspection?
+4. RISK-based Inspection Methodology
+5. Achieving On-Site and Long-Term Compliance
+6. Inspection Form and Scoring
+7. Closing Conference
+8. Summary
+1. Purpose and Scope
+This Annex provides regulatory program managers and front-line inspection staff with
+guidance on planning, scheduling, conducting, and evaluating risk-based inspections.
+The FDA’s Voluntary National Retail Food Regulatory Program Standards (Program
+Standards)
+(http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/ProgramStandards
+/default.htm ) provide additional recommendations to assist regulatory program
+managers in the planning and development of a risk-based inspection program.
+The primary focus of this Annex is to provide inspectors with methods for conducting
+risk-based inspections. Various strategies that can be used by regulatory professionals
+to assist operators in achieving active managerial control of foodborne illness risk
+factors are also included in this Annex.
+As presented in Annex 4, the Centers for Disease Control and Prevention (CDC) Surveillance
+Report for 1993-1997, “Surveillance for Foodborne Disease Outbreaks – United States”
+(http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4901a1.htm ) identifies the most frequently
+reported contributing factors to foodborne illness. Five of these broad categories of contributing
+factors directly relate to food safety concerns within retail and food service establishments and
+are collectively termed by the FDA as “foodborne illness risk factors.”
+These five broad categories are:
+• Food from Unsafe Sources
+• Inadequate Cooking
+• Improper Holding Temperatures
+• Contaminated Equipment
+• Poor Personal Hygiene.
+The FDA manual, Managing Food Safety: A Regulator’s Manual for Applying HACCP
+Principles to Risk-based Retail and Food Service Inspections and Evaluating Voluntary
+Food Safety Management Systems (FDA’s Regulator’s Manual)
+(http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006812.htm), provides
+additional information on conducting risk-based inspections. Annex 4 of the Food Code
+provides additional information on Hazard Analysis and Critical Control Point (HACCP)
+principles and the process approach to HACCP. It should be reviewed in conjunction
+with the material found in this Annex to better prepare for performing risk-based
+inspections.
+The "Retail Food Program Resource Guide," a CD-ROM containing pertinent FDA
+documents referenced in this Annex, is available for use by federal, state, local, and
+tribal regulatory agencies. It is produced by and available through FDA Regional Retail
+Food Specialists or the FDA Division of Federal-State Relations (HFC-150); U.S. Food
+and Drug Administration; 5600 Fishers Lane, Room 12-07; Rockville, Maryland 20857;
+PHONE (301) 827-6906; (FAX) (301) 443-2143.
+2. RISK-based Routine Inspections
+Inspections have been a part of food safety regulatory activities since the earliest days
+of public health. The term "routine inspection” has been used to describe periodic
+inspections conducted as part of an on-going regulatory scheme.
+Program managers should strive to have adequate staffing and resources to allow all
+inspectors ample time to thoroughly evaluate establishments and ask as many
+questions as needed to fully understand establishments’ operations. For most
+jurisdictions, however, inspectors continue to have limited time in which to complete
+inspections. This does not negate the need to thoroughly identify and assess the control
+of foodborne illness risk factors during each inspection.
+It is a false assumption that inspectors cannot conduct risk-based inspections in a
+limited timeframe. Even with limited time, inspectors can focus their inspections on
+assessing the degree of active managerial control an operator has over the foodborne
+illness risk factors. By focusing inspections on the control of foodborne illness risk
+factors, inspectors can be assured that they are making a great impact on reducing
+foodborne illness.
+As described in Annex 4, active managerial control means the purposeful incorporation
+of specific actions or procedures by industry management into the operation of their
+businesses to attain control over foodborne illness risk factors. It embodies a preventive
+rather than reactive approach to food safety through a continuous system of monitoring
+and verification.
+Developing and implementing food safety management systems to prevent, eliminate,
+or reduce the occurrence of foodborne illness risk factors is recommended to achieve
+active managerial control. Regulatory inspections and follow-up activities must be
+proactive by using an inspection process designed to evaluate the implementation of
+Food Code interventions and the degree of active managerial control that retail and
+foodservice operators have over foodborne illness risk factors. The five Food Code
+interventions below were new interventions introduced with the 1993 Food Code and
+they are just as important today as they were in 1993. They encompass a wide-range of
+control measures specifically designed to protect consumer health:
+• Demonstration of Knowledge
+• Implementation of Employee Health Policies
+• Hands as a Vehicle of Contamination
+• Time/Temperature Relationships
+• Consumer Advisory.
+When Food Code interventions are not being implemented or if behaviors, activities, or
+procedures likely to cause foodborne illness are observed, inspectors should verify that
+the operator takes immediate corrective action so that consumers do not become sick
+or injured. Observations made on the day of the inspection, as well as information
+gained about the behaviors, activities, and procedures that occur at other times, allow
+inspectors to assess the strengths and weaknesses of the food safety management
+system that is in place.
+An operator should be made aware of the inspectional findings both during, and at the
+conclusion of, the inspection and strategies for achieving compliance in the future
+should be discussed. Corrective actions taken during the inspection and repeat
+violations should be noted on the inspection report. Repeat violations should trigger
+further compliance and enforcement actions.
+The inspection process is also an opportunity to educate the operator on the public
+health reasons supporting the Code requirements. If operators are afforded the chance
+to ask questions about general food safety matters, they may clearly understand the
+public health significance of non-compliance.
+Lastly, if the operator demonstrates a history of violations related to foodborne illness
+risk factors, the inspection process can be used to assist the operator with implementing
+long-term control systems to prevent those risk factors from occurring in the future.
+3. What Is Needed to Properly Conduct a Risk-Based Inspection?
+A. Schedule Inspections Based on Risk
+Studies have shown that the types of food served, the food preparation processes
+used, the volume of food, and the population served all have a bearing on the
+occurrence of foodborne illness risk factors in retail and foodservice establishments.
+Standard 3 of the Program Standards requires that regulatory jurisdictions develop
+and use a process that groups food establishments into at least three categories
+based on potential and inherent food safety risks. In addition, Standard 3 requires
+that regulatory jurisdictions assign inspection frequency based on the risk categories
+to focus program resources on food operations with the greatest food safety risk.
+With limited resources, creating a variable inspection frequency for each category
+will allow inspection staff to effectively spend more time in high risk establishments
+that pose the greatest potential risk of causing foodborne illness.
+Table 1 of this Annex provides an example of risk categories and assignment of
+inspection frequency based on risk. In this example, the type of food served, food
+preparation processes conducted, and history of compliance related to foodborne
+illness risk factors are used as the basis of categorizing risk. Each jurisdiction is
+encouraged to develop risk categories tailored to their specific program needs and
+resources and to reassess the risk categories on an annual basis.
+Regardless of the risk category initially assigned to food establishments, regulatory
+jurisdictions sometimes consider whether the establishment has implemented a
+voluntary food safety management system like HACCP, to justify a decrease in
+inspection frequency. Likewise, the following factors are among many that regulatory
+jurisdictions sometimes use to justify an increase in inspection frequency:
+• History of non-compliance with provisions related to foodborne illness risk
+factors or critical items
+• Specialized processes conducted
+• Food preparation a day in advance of service
+• Large number of people served
+• History of foodborne illness and/or complaints
+• Highly susceptible population served.
+Annex 5, Table 1. Risk Categorization of Food Establishments
+RISK
+CATEGORY DESCRIPTION FREQUENCY
+#/YR
+1
+Examples include:
+• Most convenience store operations, hot dog
+carts, and coffee shops.
+• Establishments that serve or sell only pre-
+packaged, non- time/temperature control for
+safety (TCS) foods.
+• Establishments that prepare only non-TCS
+foods.
+• Establishments that heat only commercially
+processed, TCS foods for hot holding. No cooling
+of TCS foods.
+• Establishments that would otherwise be grouped
+in Category 2 but have shown through historical
+documentation to have achieved active
+managerial control of foodborne illness risk
+factors.
+1
+2
+Examples may include:
+• Retail food store operations, schools not serving
+a highly susceptible population, and quick
+service operations. Limited menu. Most products
+are prepared/cooked and served immediately.
+May involve hot and cold holding of TCS foods
+after preparation or cooking. Complex
+preparation of TCS foods requiring cooking,
+cooling, and reheating for hot holding is limited to
+only a few TCS foods.
+• Establishments that would otherwise be grouped
+in Category 3 but have shown through historical
+documentation to have achieved active
+managerial control of foodborne illness risk
+factors.
+• Newly permitted establishments that would
+otherwise be grouped in Category 1 until history
+of active managerial control of foodborne illness
+risk factors is achieved and documented.
+2
+RISK
+CATEGORY DESCRIPTION FREQUENCY
+#/YR
+3
+Examples include:
+• A full service restaurant with extensive menu and
+handling of raw ingredients. Complex preparation
+including cooking, cooling, and reheating for hot
+holding involves many TCS foods. Variety of
+processes require hot and cold holding of TCS
+food.
+• Establishments that would otherwise be grouped
+in Category 4 but have shown through historical
+documentation to have achieved active
+managerial control of foodborne illness risk
+factors.
+• Newly permitted establishments that would
+otherwise be grouped in Category 2 until history
+of active managerial control of foodborne illness
+risk factors is achieved and documented.
+3
+4
+Examples include:
+• Preschools, hospitals, nursing homes, and
+establishments conducting processing at retail.
+• Establishments serving a highly susceptible
+population or that conduct specialized
+processes, e.g., smoking and curing; reduced
+oxygen packaging for extended shelf-life.
+4
+B. Have the Proper Equipment
+In order to conduct risk-based inspections, each inspector must be provided with the
+proper equipment to assess the control of foodborne illness risk factors within food
+establishments. See Program Standard 8 at
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/ProgramStandar
+ds/default.htm for recommendations of equipment needed by inspectors. At a
+minimum, each inspector should be provided with the following essential equipment:
+• Thermocouple with the appropriate probes for the food being tested
+• Alcohol swabs or other suitable equipment for sanitizing probe thermometers
+• Chemical test kits for different chemical sanitizer types
+• Heat-sensitive tape or maximum registering thermometer
+• Flashlight
+• Head cover, such as baseball cap, hair net, or equivalent.
+Other equipment may be provided to inspectors on an “as needed” basis. While it is
+desirable for each inspector to have the following equipment, depending on the
+resources available to the agency, this equipment may be shared in a central office
+as appropriate:
+• Pressure gauge for determining in-line pressure of hot water at injection point
+of warewashing machine (5-30 psi)
+• Light meter
+• Measuring device for measuring distances
+• Time/temperature data logger
+• pH meter
+• Water activity meter
+• Camera
+• Computers with or without an electronic inspection system
+• Black light
+• Foodborne illness investigation kits
+• Sample collection kits
+• Cell phones
+C. Provide Adequate Training
+Standard 2 of the Program Standards explains that regulatory staff shall have the
+knowledge, skills, and ability to adequately perform their required duties. Inspectors
+need the proper training before they can be expected to conduct risk-based
+inspections. Training includes a combination of classroom training, in-field training,
+standardization, and continuing education. For specific training recommendations
+refer to Program Standard 2 at
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/ProgramStandar
+ds/default.htm and its accompanying Appendix B at the aforementioned website.
+1. Classroom Training
+The first phase of staff training should provide an orientation to the program with
+a review of program history, structure, and relationships to other food-related
+programs. Specific emphasis should be on the program's goals and objectives.
+The basic training curriculum should include the following components:
+• Prevailing statutes, regulations, or ordinances
+• Public health principles
+• Communication skills
+• Epidemiology
+• Microbiology
+• HACCP.
+FDA’s ORA-U
+(http://www.fda.gov/Training/ForStateLocalTribalRegulators/ucm121831.htm)
+provides basic curriculum components free of charge to regulators via the
+internet. This allows state, local, and tribal health departments to conserve their
+time and funding resources instead of developing their own training courses. It
+also allows inspectors to access training as needed. Distance learning allows
+government agencies and industries to cost-effectively disseminate the most
+current technical and regulatory information on an as-needed basis.
+2. Field Training and Experience
+The second phase of training should move the new inspector into the field with a
+training officer. On-site training should focus on specific inspection tasks such as
+interviewing, making observations, measuring conditions such as temperatures
+and sanitizer strength, assessing the control operators have over the foodborne
+illness risk factors, ensuring implementation of Food Code interventions, and
+completing the inspection form. If an electronic database is used by the agency,
+training in its use should be included in this phase.
+The evaluation of food safety management systems based on HACCP principles
+should be part of the field training experience. The trainee and the trainer should
+review establishment menus, operations, recipes, and standard operating
+procedures. Inspectors should be able to demonstrate proficiency in gathering
+information about the food preparation processes, including accurate charting of
+the food flows and determination of the Critical Control Points (CCPs) and critical
+limits in an operation. This part of the training should also include a familiarization
+with the compliance and enforcement protocol in place in the jurisdiction
+including recommendation of voluntary strategies to prevent risk factor
+occurrence.
+3. Standardization
+The third part of staff training should include standardization. This process
+improves uniformity in the application and interpretation of applicable regulations,
+inspection methodology, and report writing. The Program Standards recommend
+that staff conducting inspections undergo a standardization process similar to the
+one described in the FDA Procedures for Standardization and Certification of
+Retail Food Inspection/ Training Officers
+(https://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/Standardiz
+ation/default.htm). Standardization should be completed after the trainee
+completes classroom and field training.
+4. Continuing Education
+The training process for inspection staff should be continuous. The final phase of
+training should include a mechanism to ensure that learning is ongoing and staff
+is kept abreast of food safety issues and the latest science.
+D. Ensure Adequate Program Resources
+As indicated in Standard 8 of the Program Standards, regulatory agencies should
+have adequate funding, staff, and equipment necessary to support a risk-based
+retail food safety program designed to reduce the occurrence of foodborne illness
+risk factors. Program management should do everything they can to secure funding
+and resources to support regulatory food programs.
+Standard 8 of the Program Standards also states that the program budget should
+provide the necessary resources to develop and maintain a retail food safety
+program that has a staffing level of one full-time equivalent (FTE) devoted to food for
+every 280 - 320 inspections performed. Inspections, for purposes of this calculation,
+include routine inspections, re-inspections, complaint investigations, outbreak
+investigations, compliance follow-up inspections, risk assessment reviews, process
+reviews, variance process reviews, and other direct establishment contact time such
+as on-site training.
+4. Risk-based Inspection Methodology
+A. Focus the Inspection
+Conducting a risk-based inspection requires inspectors to focus their efforts on
+evaluating the degree of active managerial control that operators have over
+foodborne illness risk factors. In addition, it is essential that the implementation of
+Food Code interventions also be verified during each inspection. Inspectors need to
+spend the majority of their time observing the behaviors, practices, and procedures
+that are likely to lead to out-of-control foodborne illness risk factors and asking
+management and food employees questions to supplement actual observations.
+Retail and food service operators implement “control measures” to ensure food
+safety. Control measures are actions or activities that are used to prevent, eliminate,
+or reduce food safety hazards. Inspectors need to determine the control measures
+that should be implemented to prevent the occurrence of foodborne illness risk
+factors in each food preparation process. In order to determine the foodborne illness
+risk factors common to each operation, it is important for inspectors to understand
+that the food preparation processes and all the associated control measures initiated
+by a retail or food service operator represent a food safety management system. It
+will be necessary for inspectors to ask questions in order to gain information about
+the system already in place. Once the degree of active managerial control is
+determined, inspectors will be able to assist operators with strengthening their
+existing food safety management systems.
+B. Lead by Example
+Nonverbal communication is just as important as verbal communication in relaying
+important food safety principles to retail and food service operators. By setting the
+example during inspections, inspectors not only demonstrate competency, but they
+also relay important food safety information to the person in charge and food
+employees. The following are ways that inspectors set the example during
+inspections:
+• Washing their hands when entering the food preparation area at the
+beginning of the inspection and after engaging in any activities that might
+contaminate their hands
+• Not working when they are suffering from symptoms such as diarrhea, fever,
+vomiting, or jaundice or if they are diagnosed with a disease transmittable by
+food
+• Being careful not to touch ready-to-eat (RTE) food with their bare hands
+• Washing and sanitizing their thermocouple probe at the start of the inspection
+and between foods
+• Using a proper hair restraint and practicing good personal hygiene
+• Being careful not to contaminate clean and sanitized food contact-surfaces
+with unclean hands or their inspection equipment.
+C. Conduct Inspections at Variable Times
+Inspectors should enter the food establishment during hours of operation or at other
+reasonable times. Inspectors should show identification and provide the permit
+holder or person in charge with a verbal or written notice of the purpose of the
+inspection. Procedures outlined in the Food Code and in the jurisdiction’s
+procedures should be followed if access to conduct an inspection is denied. Refusal
+should be documented on the inspection report and an administrative or judicial
+inspection order obtained.
+In planning for inspections, inspectors should consider the importance of timing.
+Several operational steps at retail such as receiving, preparation, and cooling can be
+evaluated only during limited time periods. In order to properly evaluate critical
+processes that occur outside of the normal 8 a.m. to 5 p.m. working hours, an
+inspector should be allowed the flexibility to conduct inspections early in the
+morning, late in the evening, and even on weekends.
+D. Establish Inspection Priorities and Use Inspection Time Wisely
+With the limited time allotted for inspections, inspectors must develop clear priorities
+to make the most efficient use of their time in each food establishment. Although
+basic sanitation issues generally do not change during the course of an inspection,
+critical behaviors, practices, and procedures leading to foodborne illness risk factors
+may be only observable during limited time periods of the preparation or cooling
+process. For this reason, assessment of the active managerial control of foodborne
+illness risk factors should generally be performed before reviewing basic sanitation
+issues.
+To effectively set priorities, the following four activities should be completed early in
+the inspection:
+1. Establish an Open Dialogue with the Person in Charge
+2. Review Previous Inspection Reports
+3. Conduct a Menu/Food List Review
+4. Conduct a Quick Walk-through
+1. Establish an Open Dialogue with the Person in Charge
+The tone of the inspection is often set during the first few minutes of the
+inspection. A professional but personable approach is the balance which should
+be maintained. Genuine interest in the food establishment and the staff translates
+into good relations which may be helpful in conveying the goal of promoting
+public health. Having an open dialogue with the person in charge during all
+phases of the inspection gives inspectors an opportunity to learn important
+information about the existing food safety management system.
+It is important to know both the strengths and weaknesses of the existing food
+safety management system early in the inspection in order to focus the
+inspection on weak areas. Questions about practices and procedures related to
+foodborne illness risk factors and Food Code interventions such as the
+establishment’s employee health policy and consumer advisory notice should be
+asked during all phases of the inspection. It is important to ask enough questions
+to fully understand the system being utilized in the food establishment. This is
+especially true when evaluating whether the employees are adhering to the
+established no bare hand contact and handwashing policies. Asking the person
+in charge questions about important activities such as receiving, cooling, and
+preparation is also important in relaying the importance of out-of-control
+foodborne illness risk factors.
+The person in charge should be encouraged to accompany inspectors during the
+inspection. This may ultimately save time since violations can be pointed out and
+corrected as they are observed. In addition, the importance of violations related
+to foodborne illness risk factors and Food Code interventions is more apparent if
+they are pointed out during the inspection rather than waiting until the end.
+Violations should be marked on the inspection form even if immediate corrective
+actions are taken. Corrective actions taken should also be recorded on the
+inspection form. Inspectors can also use this time to share knowledge about
+critical processes. By communicating the public health rationale behind the
+regulations, inspectors will leave the person in charge with a clear understanding
+for why active managerial control of foodborne illness risk factors must be a top
+priority in the day-to-day operation of the business.
+Early in the inspection, inspectors should inquire about activities that are
+presently occurring. Processes that occur over time like cooling and reheating
+also need to be assessed over time; thus, inspectors should ask in the beginning
+of the inspection if any foods are currently being cooled or reheated.
+It is important for inspectors to allow the operator a chance to discuss issues
+related to food safety. One-way communication in which inspectors do all the
+talking is not conducive to a risk-based philosophy. An effective risk-based
+inspection is dependent on inspectors’ ability to maintain two-way communication
+in order to properly assess behaviors, processes, and procedures that occur in
+the food establishment.
+2. Review Previous Inspection Reports
+In order to detect trends of out-of-control foodborne illness risk factors, it is
+important for inspectors to review past inspection reports before conducting an
+inspection. This can be done in the office or on-site in the food establishment.
+This activity is especially important in jurisdictions where inspectors rotate from
+one inspection to the next. If the same foodborne illness risk factor is out-of-
+control during more than one inspection, it is strongly recommended that the
+operator develop an intervention strategy to prevent its recurrence. Intervention
+strategies are discussed later in this Annex.
+Knowledge of what has been corrected from the last inspection also gives
+inspectors an opportunity to provide positive feedback to the operator and allows
+inspectors to track corrected violations in accordance with their jurisdiction’s
+policies and procedures.
+3. Conduct a Menu/Food List Review
+Menus, including all written and verbal lists of foods prepared and offered in a
+food establishment, can be reviewed in a fairly simple manner. The review can
+either be done simultaneously with a quick walk-through of the operation or at the
+beginning of the inspection as a discussion with management. The menu/food list
+also does not need to be reviewed during every inspection. If a review was done
+during a recent inspection, inspectors should inquire about new items, seasonal
+items, substitutions, or changes in preparation since the last menu review was
+conducted.
+A review of the menu/food list allows inspectors to begin to group food items into
+one of three broad process categories (discussed in Annex 4 of the Food Code
+and later in this Annex). Mentally grouping products by process assists
+inspectors in focusing the inspection on the control measures critical to each
+process.
+Conducting a review of the menu/food list also allows inspectors to establish
+inspection priorities by identifying:
+• High-risk foods or high-risk food preparation processes
+• Operational steps requiring further inquiry such as receiving, preparation,
+cooking, and cooling.
+By identifying high-risk foods or high-risk food preparation processes, inspectors
+can focus the inspection on those foods or processes that are more likely to
+cause foodborne illness if uncontrolled. The menu/food list review might be the
+only time inspectors are made aware of specialized processes such as
+formulating a food so that it is not time/temperature control for safety food (TCS)
+or high-risk seasonal menu items such as “raw oysters on the half shell.” Foods
+such as shellstock and certain fish for raw consumption require documentation
+that should be reviewed during the inspection. If Caesar salad or hollandaise
+sauce is served, further inquiry is needed regarding the preparation of these
+items since they are sometimes prepared with raw or undercooked eggs.
+Several operational steps like receiving, preparation, cooking, and cooling may
+not be inspected as vigorously in retail and food service inspections due, in part,
+to the hours of the day in which these steps occur. If a food establishment is
+inspected in the afternoon hours, for example, receiving and food preparation
+might have already occurred. In order to evaluate the establishment’s active
+managerial control of foodborne illness risk factors, it is imperative that
+inspectors ask enough questions to obtain information about the operational
+steps that they cannot directly observe during the current inspection.
+4. Conduct a Quick Walk-through
+As inspectors discuss the menu or food list and establishes open communication
+with the person in charge, it is suggested that they conduct a quick walk-through
+of the food establishment to observe what is going on at that time. Conducting a
+quick walk-through is especially important to observe several activities that might
+otherwise go unnoticed or unobserved until later in the inspection, including:
+• Receiving
+• Food preparation and handling
+• Cooking
+• Cooling
+• Reheating
+Speaking directly to the food service employees preparing the food is also an
+excellent way to assess the effectiveness of the establishment’s food safety
+training and standard operating procedures for critical processes such as cooling.
+Noting that receiving or food preparation is occurring at the beginning of the
+inspection allows inspectors an opportunity to take advantage of viewing “real-
+life” production processes and will help inspectors to obtain a clear picture of the
+establishment's true practices. Receiving and food preparation only occur during
+limited times, so inspectors may want to stop and observe these operational
+steps while they are happening.
+Early in the inspection, temperatures of time/temperature control for safety foods
+(TCS) should be taken. For example, if inspecting in the morning, inspectors
+should check the temperatures of last night’s stored leftovers. If inspecting in the
+afternoon, inspectors should check the temperatures of foods prepared that
+morning that are now cooling. Also, inspectors should ask whether any foods are
+currently being cooked or reheated.
+E. Determine Process Flows
+Many retail and food service establishments have implemented effective food safety
+management systems by establishing controls for the food preparation methods and
+processes common to their operation. Control of food preparation processes rather
+than individual food items is often called the “process approach” to HACCP. The
+process approach using the principles of HACCP can best be described as dividing
+the many food items in an operation into food preparation processes then analyzing
+the foodborne illness risk factors associated with each process. By placing
+managerial controls on specific operational steps in the flow of food, foodborne
+illness can be prevented.
+As presented in Annex 4 of the Food Code, most food items produced in a retail or
+food service establishment can be categorized into one of three preparation
+processes based on the number of times the food passes through the temperature
+danger zone between 41o F and 135o F. In conducting risk-based inspections, it is
+necessary for an inspector to be knowledgeable regarding how food is prepared in
+the operation. Knowing how products are prepared in an establishment allows
+inspectors to focus their inspections on the critical procedures and steps in the
+preparation of those products.
+F. Determine Foodborne Illness Risk Factors In Process Flows
+Annex 4 of the Food Code details the essential control measures specific to each
+food preparation process, in addition to essential facility-wide control measures.
+Inspectors should generally focus their inspections on verifying that operators have
+implemented control measures to control for foodborne illness risk factors common
+to the processes conducted in each operation. There may be other foodborne illness
+risk factors unique to specific operations; thus, inspectors should independently
+evaluate each operation and food preparation process conducted.
+G. Assess Active Managerial Control of Foodborne Illness Risk Factors and
+Implementation of Food Code Interventions
+Although some food establishments have formal HACCP plans, many do not. Even
+without a HACCP system, every food establishment needs to have active
+managerial control of foodborne illness risk factors. This may be achieved through
+several means, such as training programs, manager oversight, or standard operating
+procedures. For example, some food establishments incorporate control measures
+into individual recipes, production schedules, or employee job descriptions to
+achieve active managerial control.
+While a person in charge may require the maintenance of in-house written records
+by employees to ensure that monitoring is being performed using the correct method
+and at the proper frequency, foodborne illness risk factors may be managed without
+the use of formal record keeping. Monitoring, whether through direct observations or
+by taking appropriate measurements, is by far the most important step in ensuring
+food safety. If an operator is effectively monitoring all critical activities in the food
+establishment and taking corrective actions when needed, safe food will result. With
+a few exceptions, maintaining formal records at retail is not required; therefore,
+records may not be in place for use during the inspection. As a result, it will be
+necessary to use direct observations and interviewing to determine whether a food
+establishment is adequately monitoring foodborne illness risk factors in their existing
+food safety management system.
+This section provides a comprehensive discussion of how to assess the active
+managerial control of each of the foodborne illness risk factors and the
+implementation of each of the Food Code interventions. Assessment of active
+managerial control involves more than determining compliance with Food Code
+provisions. In assessing whether the operator has active managerial control,
+inspectors should observe whether the operator has established the appropriate
+control measures and critical limits and whether appropriate monitoring and
+corrective action procedures are in place and followed. In addition, inspectors should
+assess whether managers and employees are knowledgeable of food safety
+principles and critical practices and procedures necessary to prevent foodborne
+illness. If during the inspection inspectors observes that control measures are not
+being implemented appropriately to control risk factor occurrence, immediate
+corrective action must be taken.
+1. Demonstration of Knowledge
+It is the responsibility of the person in charge to ensure compliance with the
+Code. Knowledge and application of Food Code provisions are vital to preventing
+foodborne illness and injury. Data collected by FDA suggest that having a
+certified food manager on-site has a positive effect on the occurrence of certain
+foodborne illness risk factors in the industry.
+In order to assess whether the person in charge demonstrates knowledge,
+inspectors should verify that the person in charge has one or more of the
+following:
+• A valid food protection manager certificate
+• No priority item violations during the current inspection
+• Correct responses to food safety related questions as presented in
+¶ 2-102.11(C) of the Food Code.
+2. Assessing Safe Sources and Receiving Temperatures
+The time and day of the inspection is important when assessing whether foods
+are received from safe sources and in sound condition. Foods may be received
+in the food establishment on set days. Inspectors should ask questions to
+ascertain the day or days that deliveries are received and also the receiving
+procedures in place by the food establishment. Inspections can be scheduled at
+times when it is known that products will be received by the food establishment. If
+food is being delivered during the inspection, inspectors should:
+• Verify internal product temperatures
+• Examine package integrity upon delivery
+• Look for signs of temperature abuse (e.g., large ice crystals in the
+packages of frozen products)
+• Examine delivery truck and products for potential for cross-contamination
+• Observe the food establishment’s behaviors and practices as they relate
+to the establishment’s control of contamination and holding and cooling
+temperatures of received products
+• Review receiving logs and other documents, product labels, and food
+products to ensure that foods are received from regulated food processing
+plants (no foods prepared at home) and at the proper temperature.
+When evaluating approved sources for shellfish, such as clams, oysters, and
+mussels, inspectors should ask whether shellfish are served at any time during
+the year. If so, inspectors should review the tags or labels to verify that the
+supplier of the shellfish is certified and on the most current Interstate Certified
+Shellfish Shippers List found at
+(http://www.fda.gov/Food/GuidanceRegulation/FederalStateFoodPrograms/ucm2
+006753.htm ). Inspectors should note whether all required information is provided
+on the tags or label (harvester’s certification number, harvest waters and date,
+type and quantity of shellfish and similar information for each dealer that handles
+the shellfish after the harvester). Shellstock tags should also be retained for 90
+days in chronological order.
+With regard to fish, inspectors should verify that fish are commercially caught and
+harvested and received from reputable vendors. If fish are being delivered during
+the inspection or if they were received just before inspectors’ arrival,
+temperatures should be taken, especially if there are finfish such as tuna, mahi-
+mahi, bluefish, mackerel, and snapper. These fish are subject to scombrotoxin
+formation if time/temperature abused. Inspectors should verify freshness by
+conducting an organoleptic inspection of the gills, eyes, and bodies of the fish.
+Inspector should verify that fish, except for certain species of tuna, intended for
+raw or undercooked consumption have been frozen for the required time and
+temperature parameters to destroy parasites by either reviewing freezing records
+or verifying that a letter of guarantee from the purveyor is kept on file. If freezing
+is conducted on-site, inspectors should verify that the freezing records are
+maintained for at least 90 days beyond the date of sale or service.
+With regard to the service of game or wild mushrooms, inspectors should ask if
+these products are served at any time during the year. If so, inspectors should
+verify that they are from an approved source by reviewing invoices.
+With regard to juice and milk products, inspectors should verify that fluid milk and
+milk products are pasteurized and received at the proper temperature. For
+packaged juice, inspectors should verify that the juice was pasteurized or
+otherwise treated to achieve a 5-log reduction of the most resistant
+microorganism.
+During the inspection, inspectors should inquire as to the source of foods that
+have been removed from their original containers. If at any time during the
+inspection there is any doubt as to the source of certain products, inspectors
+should ask for invoices or receipts to demonstrate their source. Certain products,
+such as flat breads, waffles, pies, and cakes may require special cooking
+equipment to prepare. If suitable equipment is not on-site to prepare such
+products and the products are not stored in original containers, then inspectors
+should inquire as to the source of these products.
+Food from unapproved, unsafe, or otherwise unverifiable sources should be
+discarded or put on hold or under embargo until appropriate documentation is
+provided. In addition, inspectors should ensure that management and employees
+are aware of the risk of serving or selling food from unapproved sources. Fish
+that are intended to be consumed raw or undercooked and for which no freezing
+certification or equipment is found on-site, can be used in menu items that will be
+fully cooked. If cooking is not an option due to the menu items served, the fish
+should be discarded.
+3. Assessing Contaminated Equipment and Potential for Cross-
+Contamination
+This risk factor involves the proper storage and use of food products and
+equipment to prevent cross-contamination. The cleaning, sanitization, and
+storage of food-contact surfaces of equipment and utensils in a manner to
+prevent transmission of foodborne pathogens or contamination is also included in
+this risk factor.
+As inspectors walk through the food establishment, they should examine food
+storage areas for proper storage, separation, segregation, and protection from
+contamination. Inspectors should look to see that raw animal foods and ready-to-
+eat foods are separated during receiving, storage, and preparation. For example,
+cooked shrimp should not be returned to the same container that previously held
+uncooked product. Cutting boards should be washed, rinsed, and sanitized
+between trimming uncooked chicken and cooked steak.
+In addition, raw animal foods should be separated by cooking temperatures such
+that foods requiring a higher cooking temperature, like chicken, should be stored
+below or away from foods requiring a lower temperature, like pork and beef. If
+TCS foods are not being cooled, they should be covered or packaged while in
+cold storage.
+Following the flow of food as it is prepared in the food establishment may alert
+inspectors to opportunities for cross-contamination. When contamination has
+occurred between raw and ready-to-eat food, inspectors should assess whether
+the food can be reconditioned. In some cases, depending on the affected food, it
+may be possible to reheat the food to eliminate any hazards. If the food cannot
+be reconditioned, then the food should be discarded.
+Inspectors should verify that exposed food such as chips, bread, and dipping
+sauces are not re-served to the consumer. Consumer self-service operations are
+addressed in the Code with regard to the types of food offered for consumer self-
+service, the protection of food on display, and the required monitoring by
+employees of such operations.
+A visual check of the food-contact surfaces of equipment and utensils should be
+made to verify that the utensils are maintained clean and sanitized using the
+approved manner and frequency. Utensils that are observed to have debris,
+grease, or other visible contamination should be rewashed and resanitized.
+Observations should be made to determine whether practices are in place to
+eliminate the potential for contamination of utensils, equipment, and single-
+service items by environmental contaminants, employees, and consumers. When
+clean equipment and utensils are stored where they are subject to environmental
+contamination such as near handwashing sinks or prep sinks, inspectors should
+have the operator rearrange the equipment in a manner to prevent cross-
+contamination. Depending on the circumstances, the operator may need to
+rewash and resanitize the equipment.
+Inspectors should observe handwashing operations. If handwashing sinks and
+fixtures are located where splash may contaminate food contact surfaces or food,
+then splash guards should be installed or food-contact surfaces should be
+relocated to prevent cross-contamination.
+Inspectors should pay particular attention to prep sinks, especially those that are
+currently in use at the time of the inspection. Built-up grime is a visible sign that
+the sink is not being washed, rinsed, and sanitized appropriately before use. If
+there are designated vegetable or meat sinks, inspectors should verify that the
+placement of sinks and food preparation areas do not facilitate opportunities for
+cross-contamination from one to the other.
+With regard to the cleaning and sanitization of food-contact surfaces, inspectors
+should verify the compliance of any warewashing operations by ensuring that
+cleaning and sanitizing procedures for all food-contact surfaces conform to the
+requirements in the Food Code. Questions should be asked to assess how
+utensils and cookware are washed, rinsed, and sanitized in the food
+establishment. When assessing the warewashing procedure and equipment,
+inspectors should pay particular attention to cooking and baking equipment that
+is too large to fit in the dishmachine or sinks. It is a good idea to have the person
+responsible for dishwashing demonstrate the procedure that is followed in the
+food establishment by setting up the sinks and watching the dishwashing
+procedure.
+4. Assessing Cooking Temperatures
+Food cooking temperatures and times should be verified by inspectors during
+each inspection. Every effort should be made to assess the cooking
+temperatures of a variety of products served in the food establishment.
+To assess cooking, inspections must occur at times when food is being cooked.
+It is also important to conduct inspections during busy times, such as lunch and
+dinner, as there may be a tendency for the operator to rush the cooking of foods
+during these times.
+Critical limits for cooking TCS foods in the Food Code include specifications that
+all parts of the food be heated to a certain temperature. For large roasts,
+temperature measurement should take into account post-cooking heat rise which
+allows the temperature to reach equilibrium throughout the food. The critical limit
+of time at the terminal temperature must also be measured during inspections.
+For example, a roast beef cooked at 54°C (130°F) is required to be held at this
+temperature for 112 minutes to ensure destruction of pathogens. Cooking times
+and temperatures should be noted on the inspection report.
+The correct temperature measuring device and technique are essential in
+accurately determining the temperatures of TCS foods. The geometric center or
+thickest part of a product are the points of measurement of product temperature
+particularly when measuring critical limits for cooking.
+Inspectors should take internal temperatures of products using a thermocouple or
+thermistor with a probe suitable for the product thickness. A thin diameter probe
+should be used for temperature measurements of hamburger patties and fish
+filets.
+Alternately, although less desirable, an inspector may use a suitable, calibrated
+bimetal stem thermometer for checking cooking temperatures of thick foods.
+Infrared thermometers are inappropriate for measuring internal cooking
+temperatures.
+In order to better assess cooking during all phases of the inspection, inspectors
+could enlist the help of cooperative food employees to notify them of foods that
+have finished cooking. This allows inspectors to continue with the inspection in
+other areas of the operation yet continue to verify that proper cooking
+temperatures are being met.
+Food establishments should routinely monitor cooking temperatures. Inspections
+should verify that monitoring is occurring by involving the person in charge in
+these activities during the regulatory inspection. The presence of required
+thermometers and their proper use should be assessed.
+Comparisons should be made between inspectors’ calibrated temperature
+measuring device and those used by the food establishment. Notation of
+deviations should be made on the inspection report. Inspectors should ask food
+establishment personnel to demonstrate proper calibration of their temperature
+measuring devices.
+If required cooking temperatures are not met, inspectors should have the
+operator continue cooking the food until the proper temperature is reached.
+Additionally, inspectors should explain the public health significance of
+inadequate cooking to management and food employees.
+5. Assessing Holding Time and Temperatures and Date Marking
+Hot and cold holding temperatures, as well as cooling time and temperatures, of
+TCS foods should be thoroughly checked with a thermocouple, thermistor, or
+other appropriate temperature measuring device during each inspection. This
+includes the temperature of TCS food during transport, e.g., hot holding carts
+being used to transport food to patient rooms in a hospital, satellite kitchens, or
+off-site catering events. As a rule, every effort should be made to assess every
+hot and cold holding unit in the food establishment during a risk-based
+inspection.
+Use of an infrared thermometer for verifying holding temperatures is not
+consistent with Food Code requirements since verifying only the surface
+temperature of the food may not alert inspectors to problems that exist under the
+food’s surface. Such problems could stem from improper cooling, in the case of
+cold-held foods, or improper reheating, in the case of hot-held foods. In addition,
+inspectors should not stir a food before taking its temperature since it is important
+to know the temperature of the food before it is agitated.
+The geometric center of a product is usually the point of measurement of product
+temperature particularly when measuring the critical limit for cold holding.
+The hot holding critical limit may need additional measurements taken at points
+farthest from the heat source, e.g., near the product surface for food held on a
+steam table. Temperatures monitored between packages of food, such as
+cartons of milk or packages of meat, may indicate the need for further
+examination. However, the temperature of a TCS food itself, rather than the
+temperature between packages, is necessary for regulatory citations. In large
+holding units and on steam tables, it is necessary to take the temperatures of
+foods in various locations to ensure that the equipment is working properly. If
+deviations are noted in the product temperatures, it is important to take extra
+steps to find out whether the problem is the result of equipment failure or whether
+a breakdown in a process such as cooling or reheating is the reason for the
+problem.
+Corrective actions for foods found in violation should be required based on the
+jurisdiction’s regulatory food code. If foods are to be discarded, forms such as
+those used for stop sale or embargo may need to be completed and signed by
+the person in charge in accordance with the jurisdiction’s regulatory food code. In
+order to properly evaluate the degree of time and temperature abuse and the
+proper disposition of the affected food, several issues must be considered.
+Answers to these questions, in combination with observations made during the
+inspection, should provide inspectors with enough information to make the
+appropriate recommendation for on-site correction:
+• Are there any written procedures in place for using time alone as a public
+health control and, if so, are they being followed properly?
+• What are the ingredients of the food and how was it made?
+• Is it likely that the food contains Clostridium perfringens, Clostridium
+botulinum, or Bacillus cereus as hazards?
+• Has there been an opportunity for post-cook contamination with raw
+animal foods or contaminated equipment?
+• If there has been an opportunity for post-cook contamination, can the
+hazards of concern be eliminated by reheating?
+• Are the food employees practicing good personal hygiene including
+frequent and effective handwashing?
+• Was the food reheated or cooked to the proper temperature before being
+allowed out of temperature control?
+• What is the current temperature of the food when taken with a probe
+thermometer?
+• How long has the food been out of temperature control (ask both the
+manager and food employees)? Are the answers of the food employees
+and the manager consistent with one another?
+• Is it likely that food has cooled to its current temperature after being out of
+temperature control for the alleged time?
+• Will the food be saved as leftovers?
+• How long before the food will be served?
+• Given what is known about the food, the food’s temperature, the handling
+of the food, and the alleged time out of temperature, is it reasonably likely
+that the food already contains hazards that cannot be destroyed by
+reheating?
+Even if food can be reconditioned by reheating, steps should be taken by the
+person in charge to ensure compliance in the future. Examples include repairing
+malfunctioning or inoperative equipment or implementing a risk control plan
+(RCP) to modify preparation procedures or to institute a procedure for monitoring
+holding temperatures of food.
+If using time only or time-temperature combinations in lieu of temperature for
+controlling the growth and toxin-formation of pathogenic bacteria, strict controls
+must be in place and followed. Inspectors should verify that the written
+procedures are on-site and followed in accordance with the Food Code.
+Date marking is the mechanism by which active managerial control of time-
+temperature combinations can prevent the growth of Listeria monocytogenes in
+TCS, ready-to-eat foods during cold storage. With exceptions, all ready-to-eat,
+TCS foods prepared on-site and held for more than 24 hours should be date
+marked to indicate the day or date by which the foods need to be served or
+discarded. Inspectors should ask questions to ascertain whether the system in
+place to control for L. monocytogenes meets the intent of the Food Code. Food
+that should be date marked and is not should be discarded.
+6. Assessing Reheating for Hot Holding
+In order to assess a food establishment’s control of reheating for hot holding, the
+time of day that the inspection occurs is a key factor. Every effort should be
+made to schedule an inspection during pre-opening preparation. If inspections
+are conducted during pre-opening preparation or other preparation periods,
+inspectors should ask questions regarding the history of hot-held foods. Foods in
+compliance for minimum hot holding temperatures may have in fact been
+improperly reheated before being placed into hot holding units or steam tables.
+If items are found “reheating” on the steam table, further inquiry is needed to
+assess whether the equipment in question is capable of reheating the food to the
+proper temperature within the maximum time limit. Corrective action for foods
+found out of compliance for reheating for hot holding would depend on how long
+the food had been out of temperature and other factors. In most cases, however,
+the food may be rapidly reheated and hot held.
+7. Assessing Cooling
+Improper cooling remains a major contributor to bacterial foodborne illness.
+Cooling temperatures and times need to be closely evaluated during every
+inspection. In order to assess whether a food establishment has control over
+cooling, the time of day that the inspection occurs is critical. Early morning
+inspections allow an opportunity to verify that leftovers from the night before were
+cooled properly or cooled using a proper cooling method. Alternatively, afternoon
+inspections may allow an inspector to verify cooling of products that may have
+been prepared that morning.
+Because many food establishments prepare bulk products only on certain days
+of the week, it is essential that inspectors become as familiar as possible with
+each operation and schedule their inspections accordingly.
+Due to the time parameters involved in cooling, inspectors should always inquire
+at the beginning of the inspection whether there are any products currently being
+cooled. This allows inspectors an opportunity to take initial temperatures of the
+products and still have time to re-check temperatures later in the inspection in
+order to verify that critical limits are being met.
+Problems with cooling can often be discovered through inquiry alone. Even when
+no cooling is taking place, inspectors should ask the food employees and
+managers questions about the cooling procedures in place.
+When examining cold holding units, bulk containers and buckets, tightly packed
+pans, shrouded rolling racks, or closed rolling cabinets should warrant further
+temperature and time investigation. Bulk containers and buckets should be
+opened since they are commonly reused for food storage and cooling.
+The geometric center of a product is often chosen as the point of measurement
+of product temperature particularly when measuring the critical limits for cooling.
+For foods that are being cooled, temperature profiles throughout the product may
+show proper temperatures at outer edges and hot spots at the core of the
+product. Inspectors can verify cooling by first taking a temperature measurement
+in the geometric center of the product, then at various points around the
+perimeter of the product. Warmer temperatures in the center of the product, in
+combination with cooler temperatures around the perimeter, indicate that a
+product is cooling. Additional questions should be asked to ascertain the cooling
+time parameters of the food in question. Information gained from food employees
+and management, in combination with temperature measurements taken, should
+form the basis for assessing compliance of cooling during an inspection.
+The following guidance may be used for determining the appropriate corrective
+action for improper cooling. Cooked hot food may be reheated to 165 ºF for 15
+seconds and the cooling process started again using a different cooling method if
+the food is:
+• Above 70 ºF and two hours or less into the cooling process; and
+• Above 41 ºF and six hours or less into the cooling process.
+Cooked hot food should be discarded immediately if the food is:
+• Above 70 ºF and more than two hours into the cooling process; or
+• Above 41 ºF and more than six hours into the cooling process.
+A different, more accelerated, cooling method may be used for prepared ready-
+to-eat foods if the food is above 41 ºF and less than four hours into the cooling
+process; however, such foods should be discarded if the food is above 41 ºF and
+more than four hours into the cooling process.
+8. Assessing Personal Hygiene, Hands As a Vehicle of Contamination, and
+Proper Implementation of Employee Health Policies
+Special attention should be given to the potential for hands as a vehicle of
+contamination. An effective management system for prevention of hand
+contamination involves three elements:
+• Employee health policy
+• Proper handwashing
+• No bare hand contact with ready-to-eat foods.
+There are a wide range of communicable diseases and infections that can be
+transmitted by an infected food employee. Proper management of the risks
+associated with ill food employees begins with employing healthy people and
+implementing a policy that excludes or restricts ill employees as specified in
+Chapter 2 of the Food Code. Employees must be aware of the symptoms,
+illnesses, or conditions that must be reported to the person in charge. In addition,
+the person in charge must be knowledgeable regarding the appropriate action to
+take should certain symptoms, illnesses, or conditions be reported.
+With regard to the employee health policy, inspectors should ask a series of
+open-ended questions to ascertain whether the employee health policy in place
+complies with the Food Code. The following are example questions that may be
+asked:
+• What kind of policy do you have in place for handling sick employees?
+• Is there a written policy? (Note: a written policy is not required in the Food
+Code, but having a written policy may give an indication of the formality of
+the policy being discussed.)
+• Describe how managers and food employees are made knowledgeable
+about their duties and responsibilities under the employee health policy.
+• Are food employees asked if they are experiencing certain symptoms or
+illnesses upon conditional offer of employment? If so, what symptoms or
+illnesses are food employees asked about? Is there a written record of this
+inquiry?
+• What are food employees instructed to do when they are sick?
+• What conditions or symptoms are reported?
+• What may some indicators be of someone who is working while ill?
+• When are employees restricted from working with exposed food or food-
+contact surfaces? When are they excluded from working in the food
+establishment?
+• For employees that are sick and cannot come to work, what policy is in
+place for allowing them to return and for notifying the regulatory authority?
+Special attention should be given to the potential for hands as a vehicle of
+contamination. Ensuring that hands are washed using the proper procedure and
+at the appropriate times must be a top priority during every inspection. Data show
+that viruses can be tenacious even in the presence of good handwashing.
+Inspectors should observe employee use of utensils and gloves during the
+preparation and service of ready-to-eat foods and ingredients, such as salads
+and sandwiches.
+If ready-to-eat food is touched with bare hands, inspectors will need to address
+several questions in order to make the appropriate on-site correction
+recommendation. The answers to the following questions should provide enough
+information to determine the likelihood of occurrence of hazards transmitted by
+bare hands and should be the basis for making a recommendation for on-site
+correction:
+• Does the facility have an employee health policy to identify, restrict, and
+exclude ill employees?
+• Did the employees working with the food in question effectively wash their
+hands and are handwashing facilities adequate?
+• Is there an approved, alternate procedure to no bare hand contact in place
+and was it followed before the bare hand contact?
+• Has there been an opportunity for the employee’s hands to become
+contaminated?
+Inspectors should examine the location of handwashing sinks in relation to where
+food is being prepared. Many jurisdictions use a basic distance measurement as
+a guideline when considering the location and number of handwashing sinks
+required in a food establishment during the plan review process. While this
+information can be used to assist with the review process, it should not be used
+as the sole basis for determining whether there are an adequate number of
+handwashing sinks or whether the handwashing sinks are conveniently located.
+Special emphasis should be placed on spacing in and around fixed equipment,
+the expected staffing, and the flow of food throughout a food establishment. For
+instance, a kitchen may be 30 feet in length and 12 feet wide. Although the size
+of the kitchen may dictate only one handwashing sink using a basic distance
+measurement, if a prep table the length of the line is placed between the line and
+the handwashing sink, the handwashing sink may not be conveniently located.
+Likewise, one handwashing sink located at the end of cook line is useless to
+employees working at the other end if there is limited space for employees to go
+around one another during busy periods.
+9. Assessing Compliance with Approved Procedures
+When conducting certain specialized processes, variances and HACCP plans
+are required by the Code. This is because such processes carry a considerable
+risk if not conducted under strict controls. For food establishments conducting
+specialized processes, each inspection should involve a review of the written
+variance, if applicable, and the implementation of the HACCP plan to ensure that
+food safety hazards are being consistently controlled.
+10. Assessing Special Requirements Related to Highly Susceptible
+Populations (HSP)
+Food establishments that serve highly susceptible populations (HSP) must
+adhere to additional requirements as specified under Part 3-8 of the Code. Every
+effort should be made to inspect such facilities during preparation, service, or
+other applicable times to assess these additional requirements as well as those
+in other sections of the Food Code.
+Because those persons who are very young, elderly, or who live in a facility that
+provides custodial care are extremely vulnerable to foodborne illness because of
+age or health status, it is important that risk factors be controlled on-site in a
+timely manner. Inspections of HSP facilities should be conducted by inspectors
+knowledgeable in the control of foodborne illness risk factors who take extra care
+to assure that the most vulnerable segment of the population are not at risk.
+11. Assessing Labeling, Storage, and Use of Poisonous and Toxic
+Chemicals
+During ech inspection, the proper labeling, storage, and use of poisonous and
+toxic chemicals should be verified. Containers of poisonous or toxic materials
+and personal care items shall bear a legible manufacturer's label. Working
+containers used for storing poisonous or toxic materials such as cleaners and
+sanitizers taken from bulk supplies should be clearly and individually identified
+with the common name of the material. Only chemicals that are necessary to the
+operation and maintenance of a food establishment, such as for the cleaning and
+sanitizing of equipment and utensils and the control of insects and rodents,
+should be in the food establishment. Medicines necessary for the health of
+employees may be allowed in a food establishment, but they should be labeled
+and stored to prevent contamination of food and food-contact surfaces.
+Inspectors should verify that solutions containing poisonous and toxic chemicals,
+like mop water, are discarded in an appropriate service sink to prevent
+contamination of food and food-contact surfaces. In addition, inspectors should
+check delivery trucks to verify that food is protected from chemical contamination
+during shipment. Any food that has been cross-contaminated with poisonous or
+toxic chemicals should be discarded or rejected immediately.
+12. Assessing Compliance with Consumer Advisory
+Inspectors should ascertain whether animal foods such as beef, eggs, fish, lamb,
+milk, pork, poultry, or shellfish are served or sold raw, undercooked, or without
+otherwise being processed to eliminate pathogens, either in ready-to-eat form or
+as an ingredient in another ready-to-eat food. Inspectors should review the menu
+or food list to verify that a consumer advisory with a disclosure and reminder is
+present as specified under § 3-603.11 of the Food Code.
+In addition to reviewing the menu or food list, inspectors should ask whether raw
+or undercooked foods are served or sold routinely or seasonally. It is useful to
+know foods that are often served in this manner such as oysters-on-the half shell,
+hollandaise sauce, béarnaise sauce, eggnog, salad dressings, hamburgers to
+order, or sunny-side-up eggs.
+H. Evaluating Basic Sanitation and Facilities (Good Retail Practices)
+An important part of a risk-based, routine inspection is to review how the food
+establishment actively monitors the active managerial control of foodborne illness
+risk factors and interventions; however, overall sanitation should not be
+overlooked. Systems to control basic operational and sanitation conditions within
+a food establishment, referred to as Good Retail Practices (GRPs), are the
+foundation of a successful food safety management system. GRPs found to be
+out-of-compliance may give rise to conditions that may lead to foodborne illness,
+e.g., sewage backing up in the kitchen. Just as monitoring is required by the food
+establishment to ensure that foodborne illness risk factors are controlled and
+interventions are in place, monitoring of basic sanitation conditions in the food
+establishment allows the operator an excellent opportunity to detect weaknesses
+and initiate actions for improvement. Basic operational and sanitation programs
+must be in place to:
+• Protect products from contamination by biological, chemical, and physical
+food safety hazards
+• Control bacterial growth that can result from temperature abuse during
+storage
+• Maintain equipment, especially equipment used to maintain product
+temperatures.
+Examples of concerns addressed by the basic operation and sanitation programs
+mentioned above include the following:
+• Pest control
+• Food protection (CORE ITEM)
+• Equipment maintenance
+• Water
+• Plumbing
+• Toilet facilities
+• Sewage
+• Garbage and refuse disposal
+• Physical facilities.
+5. Achieving On-Site and Long-Term Compliance
+A. Developing an Effective Compliance and Enforcement Protocol
+Compliance and enforcement are essential elements of a regulatory program and
+encompass all voluntary and regulatory enforcement actions taken to achieve
+compliance with regulations. Standards 3 and 6 of the Program Standards explain
+the need of regulatory jurisdictions to establish a compliance and enforcement
+protocol that results in credible follow-up for each violation noted during an
+inspection, especially violations related to foodborne illness risk factors and Food
+Code interventions. Lack of follow-up on the part of the regulatory agency signals to
+the operator that the priority item and priority foundation item violations noted were
+not important.
+The resolution of out-of-compliance foodborne illness risk factors and Food Code
+interventions must be documented in each food establishment record. The desired
+outcome of Standard 6 is an effective compliance and enforcement program that is
+implemented consistently to achieve compliance with regulatory requirements.
+Compliance and enforcement options may vary depending on state and local law. It
+is essential that regulatory jurisdictions develop a written compliance and
+enforcement protocol that details the order in which both voluntary corrections may
+be taken on the part of the operator and involuntary enforcement actions are to be
+taken on the part of the regulatory authority. Involuntary enforcement actions
+include, but are not limited to, such activities as warning letters, re-inspections,
+citations, administrative fines, permit suspensions, and hearings.
+Food establishment with a history of noncompliance at a level predetermined by the
+jurisdiction or with the number of foodborne illness risk factors and interventions
+violated warranting a regulatory action, signals the need either a strong regulatory
+response or an alternate approach to compliance to protect public health, e.g., active
+managerial control, behavioral change.
+Voluntary corrections taken on the part of the operator include, but are not limited to,
+such activities as on-site corrections at the time of inspection, voluntary destruction,
+risk control plans, and remedial training. Obtaining voluntary corrections by the
+operator can be very effective in achieving long-term compliance. Voluntary
+corrections by the operator are referred to in FDA’s Regulator’s Manual as
+“intervention strategies.” Intervention strategies can be divided into two groups:
+• Those designed to achieve immediate on-site correction
+• Those designed to achieve long-term compliance.
+Successful intervention strategies for out-of-control foodborne illness risk factors can
+be tailored to each operation’s resources and needs. This will require inspectors to
+work with the operator to identify weaknesses in the existing food safety
+management system and consulting with the operator to strengthen any weak areas
+noted.
+B. On-site Correction
+On-site corrections are intended to achieve immediate corrective action of out-of-
+control foodborne illness risk factors posing an immediate, serious danger to the
+consumer during the inspection. Usually these violations are "operational" rather
+than structural and can be addressed by management at the time of the inspection.
+It is essential to consumer protection and to regulatory credibility for on-site
+correction to be obtained for any out-of-control foodborne illness risk factors
+before completing the inspection and leaving the food establishment.
+Obtaining on-site correction conveys the seriousness of the violation to
+management. Failure to require on-site correction when an out-of-control risk factor
+has been identified implies that the risk factor has little importance to food safety.
+When recommending on-site correction, effective communication regarding out-of-
+control foodborne illness risk factors is essential and can be accomplished best by:
+• Discussing food safety concerns in words that can be easily understood by
+the person in charge and employees
+• Conveying the seriousness of the out-of-control foodborne illness risk factors
+in terms of increased risk of illness or injury.
+During the discussion of inspection findings with the person in charge, inspectors
+should keep the discussion focused on correction of violations that present an
+immediate danger to the consumer. Discussion of less serious code violations
+should be deferred until out-of-control foodborne illness risk factors are discussed
+and on-site correction is obtained.
+In most cases, selecting the most appropriate on-site correction when out-of-control
+foodborne illness risk factors are observed will be straightforward; however, in
+instances such as improper cooling, the appropriate corrective action may be more
+complicated. Since determining on-site correction depends on a number of factors,
+an inspector may need to conduct a hazard analysis of the food in order to
+determine the appropriate course of action to take.
+C. Intervention Strategies for Achieving Long-term Compliance
+While on-site correction of out-of-control foodborne illness risk factors is essential to
+consumer protection, achieving long-term compliance and behavior change is
+equally important. Overcoming several misconceptions about long-term compliance
+will help in achieving a desirable change of behavior. For example, in jurisdictions
+using a 44-item inspection report in which only observed violations are marked, it is
+often taken for granted that if there are no violations marked, the foodborne illness
+risk factors are being controlled. This is not necessarily true since the observation of
+code violations is subject to many variables such as the time of day, day of the
+week, or duration of the inspection. An inspection system that records only observed
+violations rather than the actual status of all foodborne illness risk factors, such as
+whether the risk factor was in compliance, not observed, or not applicable to the
+operation, may be unable to detect some foodborne illness risk factors that are
+continually or cyclically out of control.
+Another misconception is that training alone will result in foodborne illness risk
+factors being controlled. While training may help, there is no guarantee that
+knowledge acquired will equate to knowledge applied in the workplace. In order for
+knowledge to translate into changed behavior, it must be reinforced and the behavior
+must be repeated for a period of time sufficient for the behavior to become an
+ingrained pattern. Another assumption is that regulatory enforcement actions such
+as citations or administrative hearings or on-site corrections alone will automatically
+result in future management control. Unfortunately, there is no assurance that any of
+these actions will result in the long-term control of foodborne illness risk factors.
+Long-term compliance may best be achieved through voluntary actions by the
+operator. If an operator supports the concept that a food safety management system
+is needed, there is a better chance that long-term compliance will be achieved. The
+following are ways operators can better ensure long-term active managerial control
+of foodborne illness risk factors.
+1. Change Equipment and Layout
+Critical limits are difficult to achieve when equipment does not work properly.
+Proper calibration of equipment is vital to achieving food safety. When calibration
+is unsuccessful or is not feasible, equipment should be replaced. In addition to
+equipment malfunctioning, poor equipment layout can present opportunities for
+cross contamination and must be considered. For example:
+• Hamburgers with uniform thickness and weight are not all reaching a safe
+cooking temperature in a given time. Upon examination, it is determined
+that the grill is distributing heat unevenly. A new element is installed to
+correct the problem.
+• Splash from a nearby handwashing sink is seen on a prep table. A splash
+guard is installed to prevent cross contamination from the handwashing
+sink to the prep table.
+2. Establish Buyer Specifications
+Written specifications for the goods and services purchased by a food
+establishment prevent many problems. For example:
+• Fish posing a parasite hazard and intended for raw consumption have not
+been frozen for the specified time and temperature and no freezing
+equipment is on-site at the food establishment. Buyer specifications are
+established to place the responsibility for freezing the fish on the supplier.
+• Lobster tails, hamburgers, or other products cooked with a set time
+parameter on a conveyor are not reaching the proper temperature in the
+specified time because they are larger than the size for which the
+conveyor is calibrated. Buyer specifications are established to restrict the
+size of products received from the supplier.
+3. Develop and Implement Recipe/Process Instructions
+Simple control measures integrated into recipes and processes can improve
+management control over foodborne illness risk factors. For example:
+• Process instructions that specify using color-coded cutting boards for
+separating raw animal foods from ready-to-eat products are developed to
+control the potential for cross contamination.
+• Pasteurized eggs are substituted in recipes that call for raw or
+undercooked eggs to reduce the risk of foodborne illness.
+• Commercially precooked chicken is used in recipes calling for cooked
+chicken such as chicken salad to reduce the risk of contaminating food-
+contact surfaces and ready-to-eat food with raw chicken.
+• Pasta is chilled in an ice bath immediately after cooking and before
+apportioning into single servings. This is specified in the procedures for
+cooking spaghetti.
+4. Establish First-In-First-Out (FIFO) Procedures
+Product rotation is important for both quality and safety reasons. “First-In-First-
+Out” (FIFO) means that the first batch of product prepared and placed in storage
+should be the first one sold or used. Date marking foods as required by the Food
+Code facilitates the use of a FIFO procedure in refrigerated, ready-to-eat, TCS
+foods. The FIFO concept limits the potential for pathogen growth, encourages
+product rotation, and documents compliance with time/temperature requirements.
+5. Develop and Implement Standard Operating Procedures (SOPs)
+Following standardized, written procedures for performing various tasks ensures
+that quality, efficiency, and safety criteria are met each time the task is
+performed. Although every operation is unique, the following list contains some
+common management areas that can be controlled with SOPs:
+• Personnel (disease control, cleanliness, training)
+• Facility maintenance
+• Sanitary conditions (general cleaning schedule, chemical storage, pest
+control, sanitization of food-contact surfaces)
+• Sanitary facilities (approved water supply and testing, if applicable,
+scheduled in-house inspection of plumbing, sewage disposal,
+handwashing and toilet facilities, trash removal)
+• Equipment and utensil maintenance.
+SOPs can also be developed to detail procedures for controlling foodborne
+illness risk factors:
+• Procedures are implemented for measuring temperatures at a given
+frequency and for taking appropriate corrective actions to prevent hazards
+associated inadequate cooking.
+• Adequate handwashing is achieved by following written procedures that
+dictate frequency, proper technique, and monitoring.
+6. Develop and Implement Risk Control Plans (RCPs)
+An RCP is a concisely written management plan developed by the retail or food
+service operator with input from inspectors that describes a management system
+for controlling specific out-of-control foodborne illness risk factors. An RCP is
+intended to be a voluntary strategy that inspectors and the person in charge
+jointly develop to promote long-term compliance for specific out-of-control
+foodborne illness risk factors. For example, if food is improperly cooled in the
+establishment, a system of monitoring and record keeping outlined in an RCP
+can ensure that new procedures are established to adequately cool the food in
+the future. An RCP should require that the basic control systems in the plan be
+implemented for a designated period of time (e.g., 60 – 90 days) and allow
+inspector oversight. The longer the plan is implemented, the more likely it is that
+the new controls will become "habits" that continue to be used in the food
+establishment after inspector oversight ends.
+An RCP should stress simple control measures that can be integrated into the
+daily routine. It should be brief, no more than one page for each risk factor, and
+address the following points in very specific terms:
+• What is the risk factor to be controlled?
+• How is the risk factor controlled?
+• Who is responsible for the control?
+• What monitoring and record keeping is required?
+• Who is responsible for monitoring and completing records?
+• What corrective actions should be taken when deviations are noted?
+• How long is the plan to continue?
+• How are the results of the RCP communicated to inspectors?
+By implementing an RCP, the retail or food service operator will have the
+opportunity to determine the appropriate corrective action for the identified
+problem and design an implementation strategy to best suit the establishment
+and operation. Since the RCP is tailored to meet the needs of the food
+establishment, the operator takes complete ownership of the plan and is
+ultimately responsible for its development and implementation. The role of
+inspectors are to consult with the operator by suggesting ways that the risk
+factor(s) might be controlled.
+By creating an RCP, the operator realizes that a problem exists in the
+established food safety management system and commits to a specific correction
+plan rather than merely acknowledging a single violation. Follow up by telephone
+or in person indicates to the operator that inspectors are interested in seeing the
+plan succeed. This also gives inspectors an opportunity to answer any questions
+and offer feedback to the operator to make the RCP more useful. An example of
+an RCP, along with a blank template that can be used by regulatory jurisdictions,
+is found in FDA’s Regulator’s Manual:
+http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006812.htm
+7. Develop and Implement Comprehensive Voluntary Food Safety
+Management Systems based on HACCP Principles
+The Food Code only requires HACCP plans for a few specialized processes;
+however, the development of voluntary HACCP plans is always encouraged.
+FDA Operator’s Manual, "Managing Food Safety: A Manual for the Voluntary Use
+of HACCP Principles for Operators of Food Service and Retail Establishments" is
+written to aid food establishment managers in the development of food safety
+management systems based on HACCP principles. A retail or food service
+operator, in consultation with an appropriate regulatory authority or other food
+safety professional, can use this document to establish an effective food safety
+management system to control for all foodborne illness risk factors. This
+document is available from FDA through the following website:
+http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006811.htm
+6. Inspection Form and Scoring
+A. The Inspection Form
+The inspection form is the official document utilized by a regulatory agency for
+documentation of compliance of the food establishment with regulatory
+requirements. The goal of the inspection form is to clearly, concisely, and fairly
+present the compliance status of the food establishment and to convey compliance
+information to the permit holder or person in charge at the conclusion of the
+inspection.
+The inspection report should be kept in the food establishment's files for subsequent
+compliance actions and review before the next inspection. Individual inspection
+reports are to be made available for public review in accordance with Freedom of
+Information criteria.
+Annex 7 of the Food Code provides an inspection form that may be completed for
+routine, follow-up, and compliance inspections. This inspection form meets
+requirements established in Standards 3 and 6 of the Program Standards.
+B. Debiting Methodology
+If a violation exists during an inspection, it should always be marked on the
+inspection report, even if corrected on site. Violations existing at the time of the
+inspection probably would have persisted if it were not for the inspection. Slight
+violations, such as one dirty utensil among hundreds of clean utensils, does not
+indicate that the food establishment is significantly deviating from the Code
+requirements; therefore, discretion in marking is required.
+It is very important to investigate the root causes of violations and mark them
+appropriately. Without taking this extra step, inspectors will merely point out
+violations and will not identify weaknesses in the management system in place. If
+long-term control of the behaviors or practices leading to the violations is expected,
+inspectors must identify the causes.
+C. Scoring
+Regulatory agencies may use scoring methods to rate food establishments.
+Depending on the system used, establishment scoring may provide an indication of
+how well a food establishment is complying with the food safety rules of the
+regulatory agency.
+Some agencies use a system of compliance tools as provided in Chapter 8 and
+Annex 1 of the Food Code to protect public health. The inspection score may serve
+as the basis for triggering follow-up inspections or other forms of regulatory
+sanctions when they fall too far from the accepted levels. In addition, scoring may
+provide a mechanism for consumers to make informed choices regarding where they
+want to eat.
+Use of scoring systems also has negative consequences. For example, it is possible
+for a food establishment to receive a high numerical or letter score while exhibiting
+some very serious deficiencies. In recognition of this drawback, some jurisdictions
+forego scoring systems in favor of demerits or debit systems without assigning a
+final score. This focuses attention on the items needing correction. Compliance and
+enforcement decisions can still be based on the increasing levels of identified
+deficiencies. Whatever method or system of establishment rating is used, policies
+regarding follow-up and enforcement actions should be established in writing, linked
+to the rating system, and administered consistently.
+7. Closing Conference
+The closing conference should include a detailed discussion of the food establishment's
+plans for correcting violations found during the inspection. The evidence collected or
+observed during the inspection and the alternatives available for compliance should be
+emphasized. On-site corrections made during the inspection should be acknowledged
+on the inspection report and in the closing conference.
+The compliance plan should address changes in procedures that will prevent the
+recurrence of noted violations. The food establishment's compliance plans should be
+formally documented on the inspection report form. Follow-up letters may be necessary
+to elicit fulfillment of these agreements. It is important to stress to the operator that long-
+term correction of violations related to foodborne illness risk factors and Food Code
+interventions is far more important than corrections of core items.
+8. Summary
+Although a retail and food service operator has the responsibility for establishing a food
+safety management system for controlling foodborne illness risk factors, inspectors
+have a vital, multi-faceted role in consumer protection. It is essential that inspectors are
+provided with the proper training, equipment, time, and resources to adequately perform
+their jobs.
+The primary role of inspectors is to ensure that the operator has effective control of
+foodborne illness risk factors. Once inspectors have established a dialogue with the
+person in charge and employees, conducted a menu/food list review, and established a
+dialogue with the person in charge, inspectors will have enough information to mentally
+place menu items into one of the three process flows. The inspection can then focus on
+assessing the operator’s active managerial control of foodborne illness risk factors
+associated with each process.
+Once out-of-control foodborne illness risk factors are identified, the role of inspectors
+shifts to assisting the operator with strengthening the existing food safety management
+system through intervention strategies designed to achieve immediate and long-term
+compliance. With inspector’s assistance, a retail and food service operator can achieve
+long-term behavioral change resulting in a reduction in risk factor occurrence and an
+increase in public health protection.

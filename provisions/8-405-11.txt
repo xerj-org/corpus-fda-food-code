@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-405.11 - Timely Correction.
+[source PDF page 179; extracted with pypdf 6.19.0]
+
+8-405.11 Timely Correction.
+(A) Except as specified in ¶ (B) of this section, a PERMIT HOLDER shall at the time
+of inspection correct a violation of a PRIORITY ITEM or PRIORITY FOUNDATION ITEM of
+this Code and implement corrective actions for a HACCP PLAN provision that is
+not in compliance with its CRITICAL LIMIT. Pf
+(B) Considering the nature of the potential hazard involved and the complexity of
+the corrective action needed, the regulatory authority may agree to or specify a
+longer time frame, not to exceed:
+(1) 72 hours after the inspection, for the permit holder to correct violations
+of a priority item; or
+(2) 10 calendar days after the inspection, for the permit holder to correct
+violations of a priority foundation item or HACCP plan deviations.

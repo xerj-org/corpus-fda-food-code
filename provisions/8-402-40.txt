@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-402.40 - Inspection Order to Gain Access.
+[source PDF page 177; extracted with pypdf 6.19.0]
+
+8-402.40 Inspection Order to Gain Access.
+If denied access to a FOOD ESTABLISHMENT for an authorized purpose and after
+complying with § 8-402.20, the REGULATORY AUTHORITY may issue, or apply for
+the issuance of, an inspection order to gain access as provided in LAW.
+8-403 Report of Findings

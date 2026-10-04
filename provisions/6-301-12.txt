@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-301.12 - Hand Drying Provision.
+[source PDF page 154; extracted with pypdf 6.19.0]
+
+6-301.12 Hand Drying Provision.
+Each HANDWASHING SINK or group of adjacent HANDWASHING SINKS shall be
+provided with:
+(A) Individual, disposable towels; Pf
+(B) A continuous towel system that supplies the user with a clean towel; Pf
+or
+(C) A heated-air hand drying device; Pf or
+(D) A hand drying device that employs an air-knife system that delivers
+high velocity, pressurized air at ambient temperatures. Pf

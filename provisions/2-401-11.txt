@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-401.11 - Eating, Drinking, or Using TOBACCO PRODUCTS.
+[source PDF page 64; extracted with pypdf 6.19.0]
+
+2-401.11 Eating, Drinking, or Using TOBACCO PRODUCTS.
+(A) Except as specified in ¶ (B) of this section, an EMPLOYEE shall eat, drink, or
+use any form of TOBACCO PRODUCTS only in designated areas where the
+contamination of exposed FOOD; clean EQUIPMENT, UTENSILS, and LINENS;
+unwrapped SINGLE-SERVICE and SINGLE-USE ARTICLES; or other items needing
+protection can not result.
+(B) A FOOD EMPLOYEE may drink from a closed BEVERAGE container if the
+container is handled to prevent contamination of:
+(1) The EMPLOYEE'S hands;
+(2) The container; and
+(3) Exposed FOOD; clean EQUIPMENT, UTENSILS, and LINENS; and
+unwrapped SINGLE-SERVICE and SINGLE-USE ARTICLES.

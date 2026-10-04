@@ -1,0 +1,22 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-205.14 - Water Reservoir of Fogging Devices, Cleaning.
+[source PDF page 141; extracted with pypdf 6.19.0]
+
+5-205.14 Water Reservoir of Fogging Devices, Cleaning.
+(A) A reservoir that is used to supply water to a device such as a produce fogger
+shall be:
+(1) Maintained in accordance with manufacturer's specifications; P and
+(2) Cleaned in accordance with manufacturer's specifications or according
+to the procedures specified under ¶ (B) of this section, whichever is more
+stringent. P
+(B) Cleaning procedures shall include at least the following steps and shall be
+conducted at least once a week:
+(1) Draining and complete disassembly of the water and aerosol contact
+parts; P
+(2) Brush-cleaning the reservoir, aerosol tubing, and discharge nozzles
+with a suitable detergent solution; P
+(3) Flushing the complete system with water to remove the detergent
+solution and particulate accumulation; P and
+(4) Rinsing by immersing, spraying, or swabbing the reservoir, aerosol
+tubing, and discharge nozzles with at least 50 MG/L hypochlorite solution. P

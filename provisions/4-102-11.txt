@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-102.11 - Characteristics.
+[source PDF page 109; extracted with pypdf 6.19.0]
+
+4-102.11 Characteristics.
+Materials that are used to make SINGLE-SERVICE and SINGLE-USE ARTICLES:
+(A) May not:
+(1) Allow the migration of deleterious substances, P or
+(2) Impart colors, odors, or tastes to FOOD; and
+(B) Shall be:
+(1) Safe, P and
+(2) Clean.
+4-2 Design and Construction
+4-201 Durability and Strength

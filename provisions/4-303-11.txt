@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-303.11 - Cleaning Agents and Sanitizers, Availability
+[source PDF page 120; extracted with pypdf 6.19.0]
+
+4-303.11 Cleaning Agents and Sanitizers, Availability
+(A) Cleaning agents that are used to clean EQUIPMENT and UTENSILS as specified
+under Part 4-6, shall be provided and available for use during all hours of
+operation. Pf
+(B) Except for those that are generated on-site at the time of use, chemical
+SANITIZERS that are used to sanitize EQUIPMENT and UTENSILS as specified under
+Part 4-7, shall be provided and available for use during all hours of operation. Pf
+4-4 Location and Installation
+4-401 Location

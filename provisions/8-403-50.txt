@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-403.50 - Public Information.
+[source PDF page 178; extracted with pypdf 6.19.0]
+
+8-403.50 Public Information.
+Except as specified in § 8-202.10, the REGULATORY AUTHORITY shall treat the
+inspection report as a public document and shall make it available for disclosure
+to a PERSON who requests it as provided in LAW.
+8-404 Imminent Health Hazard

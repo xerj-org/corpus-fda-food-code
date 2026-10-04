@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-403.20 - Specifying Time Frame for Corrections.
+[source PDF page 177; extracted with pypdf 6.19.0]
+
+8-403.20 Specifying Time Frame for Corrections.
+The REGULATORY AUTHORITY shall specify on the inspection report form the time
+frame for correction of the violations as specified under §§ 8-404.11, 8-405.11,
+and 8-406.11.

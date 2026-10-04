@@ -1,0 +1,23 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-101.17 - Wood, Use Limitation.
+[source PDF page 108; extracted with pypdf 6.19.0]
+
+4-101.17 Wood, Use Limitation.
+(A) Except as specified in ¶¶ (B), (C), and (D) of this section, wood and wood
+wicker may not be used as a FOOD-CONTACT SURFACE.
+(B) Hard maple or an equivalently hard, close-grained wood may be used for:
+(1) Cutting boards; cutting blocks; bakers' tables; and UTENSILS such as
+rolling pins, doughnut dowels, salad bowls, and chopsticks; and
+(2) Wooden paddles used in confectionery operations for pressure
+scraping kettles when manually preparing confections at a temperature of
+110oC (230oF) or above.
+(C) Whole, uncut, raw fruits and vegetables, and nuts in the shell may be kept in
+the wood shipping containers in which they were received, until the fruits,
+vegetables, or nuts are used.
+(D) If the nature of the FOOD requires removal of rinds, peels, husks, or shells
+before consumption, the whole, uncut, raw FOOD may be kept in:
+(1) Untreated wood containers; or
+(2) Treated wood containers if the containers are treated with a
+preservative that meets the requirements specified in 21 CFR 178.3800
+Preservatives for wood.

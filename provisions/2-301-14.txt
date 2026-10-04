@@ -1,0 +1,26 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-301.14 - When to Wash.
+[source PDF page 62; extracted with pypdf 6.19.0]
+
+2-301.14 When to Wash.
+FOOD EMPLOYEES shall clean their hands and exposed portions of their arms as
+specified under § 2-301.12 immediately before engaging in FOOD preparation
+including working with exposed FOOD, clean EQUIPMENT and UTENSILS, and
+unwrapped SINGLE-SERVICE and SINGLE-USE ARTICLESP and:
+(A) After touching bare human body parts other than clean hands and
+clean, exposed portions of arms; P
+(B) After using the toilet room; P
+(C) After caring for or handling SERVICE ANIMALS or aquatic animals as
+specified in ¶ 2-403.11(B); P
+(D) Except as specified in ¶ 2-401.11(B), after coughing, sneezing, using a
+handkerchief or disposable tissue, using TOBACCO PRODUCTS, eating, or
+drinking; P
+(E) After handling soiled EQUIPMENT or UTENSILS; P
+(F) During FOOD preparation, as often as necessary to remove soil and
+contamination and to prevent cross contamination when changing tasks; P
+(G) When switching between working with raw FOOD and working with
+READY-TO-EAT FOOD; P
+(H) Before donning gloves to initiate a task that involves working with
+FOOD; P and
+(I) After engaging in other activities that contaminate the hands.P

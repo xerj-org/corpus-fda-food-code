@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-103.10 - Modifications and Waivers.
+[source PDF page 167; extracted with pypdf 6.19.0]
+
+8-103.10 Modifications and Waivers.
+The REGULATORY AUTHORITY may grant a VARIANCE by modifying or waiving the
+requirements of this Code if in the opinion of the REGULATORY AUTHORITY a health
+HAZARD or nuisance will not result from the VARIANCE. If a VARIANCE is granted, the
+REGULATORY AUTHORITY shall retain the information specified under § 8-103.11 in
+its records for the FOOD ESTABLISHMENT.

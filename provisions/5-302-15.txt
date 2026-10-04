@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-302.15 - Inlet and Outlet, Sloped to Drain.
+[source PDF page 142; extracted with pypdf 6.19.0]
+
+5-302.15 Inlet and Outlet, Sloped to Drain.
+(A) A water tank and its inlet and outlet shall be sloped to drain.
+(B) A water tank inlet shall be positioned so that it is protected from contaminants
+such as waste discharge, road dust, oil, or grease.

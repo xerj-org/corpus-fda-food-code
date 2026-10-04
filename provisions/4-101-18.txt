@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-101.18 - Nonstick Coatings, Use Limitation.
+[source PDF page 109; extracted with pypdf 6.19.0]
+
+4-101.18 Nonstick Coatings, Use Limitation.
+Multiuse KITCHENWARE such as frying pans, griddles, sauce pans, cookie sheets,
+and waffle bakers that have a perfluorocarbon resin coating shall be used with
+nonscoring or nonscratching UTENSILS and cleaning aids.

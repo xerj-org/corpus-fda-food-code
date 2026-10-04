@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-307.11 - Miscellaneous Sources of Contamination.
+[source PDF page 83; extracted with pypdf 6.19.0]
+
+3-307.11 Miscellaneous Sources of Contamination.
+FOOD shall be protected from contamination that may result from a factor or
+source not specified under Subparts 3-301 - 3-306.
+3-4 Destruction of Organisms of Public Health Concern
+3-401 Cooking

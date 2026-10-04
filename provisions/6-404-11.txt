@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-404.11 - Segregation and Location.
+[source PDF page 156; extracted with pypdf 6.19.0]
+
+6-404.11 Segregation and Location.
+Products that are held by the PERMIT HOLDER for credit, redemption, or return to
+the distributor, such as damaged, spoiled, or recalled products, shall be
+segregated and held in designated areas that are separated from FOOD,
+EQUIPMENT, UTENSILS, LINENS, and SINGLE-SERVICE and SINGLE-USE ARTICLES.Pf
+6-405 Refuse, Recyclables, and Returnables

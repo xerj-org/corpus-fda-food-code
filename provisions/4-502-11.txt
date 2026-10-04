@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-502.11 - Good Repair and Calibration.
+[source PDF page 126; extracted with pypdf 6.19.0]
+
+4-502.11 Good Repair and Calibration.
+(A) UTENSILS shall be maintained in a state of repair or condition that complies
+with the requirements specified under Parts 4-1 and 4-2 or shall be discarded.
+(B) FOOD TEMPERATURE MEASURING DEVICES shall be calibrated in accordance with
+manufacturer's specifications as necessary to ensure their accuracy. Pf
+(C) Ambient air temperature, water pressure, and water TEMPERATURE MEASURING
+DEVICES shall be maintained in good repair and be accurate within the intended
+range of use.

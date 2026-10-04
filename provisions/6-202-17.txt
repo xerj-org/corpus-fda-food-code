@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-202.17 - Outdoor Food Vending Areas, Overhead Protection.
+[source PDF page 153; extracted with pypdf 6.19.0]
+
+6-202.17 Outdoor Food Vending Areas, Overhead Protection.
+Except for machines that vend canned BEVERAGES, if located outside, a machine
+used to vend FOOD shall be provided with overhead protection.

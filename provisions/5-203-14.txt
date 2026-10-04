@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-203.14 - Backflow Prevention Device, When Required.
+[source PDF page 139; extracted with pypdf 6.19.0]
+
+5-203.14 Backflow Prevention Device, When Required.
+A PLUMBING SYSTEM shall be installed to preclude backflow of a solid, liquid, or
+gas contaminant into the water supply system at each point of use at the FOOD
+ESTABLISHMENT, including on a hose bibb if a hose is attached or on a hose bibb if
+a hose is not attached and backflow prevention is required by LAW, by:
+(A) Providing an air gap as specified under § 5-202.13 P; or
+(B) Installing an APPROVED backflow prevention device as specified under
+§ 5-202.14. P

@@ -1,0 +1,30 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-101.11 - Characteristics.
+[source PDF page 107; extracted with pypdf 6.19.0]
+
+[chapter opening] Chapter 4 Equipment,
+[chapter opening] Utensils, and Linens
+[chapter opening] Parts:
+[chapter opening] 4-1 Materials for Construction and Repair
+[chapter opening] 4-2 Design and Construction
+[chapter opening] 4-3 Numbers and Capacities
+[chapter opening] 4-4 Location and Installation
+[chapter opening] 4-5 Maintenance and Operation
+[chapter opening] 4-6 Cleaning of Equipment and Utensils
+[chapter opening] 4-7 Sanitization of Equipment and Utensils
+[chapter opening] 4-8 Laundering
+[chapter opening] 4-9 Protection of Clean Items
+[chapter opening] 4-1 Materials for Construction and Repair
+[chapter opening] 4-101 Multiuse
+
+4-101.11 Characteristics.
+Materials that are used in the construction of UTENSILS and FOOD-CONTACT
+SURFACES of EQUIPMENT may not allow the migration of deleterious substances or
+impart colors, odors, or tastes to FOOD and under normal use conditions shall be: P
+(A) Safe; P
+(B) Durable, CORROSION-RESISTANT, and nonabsorbent;
+(C) Sufficient in weight and thickness to withstand repeated WAREWASHING;
+(D) Finished to have a SMOOTH, EASILY CLEANABLE surface; and
+(E) Resistant to pitting, chipping, crazing, scratching, scoring, distortion,
+and decomposition.

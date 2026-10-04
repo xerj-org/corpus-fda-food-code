@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-201.11 - Approved.
+[source PDF page 138; extracted with pypdf 6.19.0]
+
+5-201.11 Approved.
+(A) A PLUMBING SYSTEM and hoses conveying water shall be constructed and
+repaired with APPROVED materials according to LAW. P
+(B) A water filter shall be made of SAFE MATERIALS. P
+5-202 Design, Construction, and Installation

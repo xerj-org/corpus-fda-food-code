@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-101.13 - Bottled Drinking Water.
+[source PDF page 136; extracted with pypdf 6.19.0]
+
+5-101.13 Bottled Drinking Water.
+BOTTLED DRINKING WATER used or sold in a FOOD ESTABLISHMENT shall be obtained
+from APPROVED sources in accordance with 21 CFR 129 - Processing and
+Bottling of Bottled DRINKING WATER. P
+5-102 Quality

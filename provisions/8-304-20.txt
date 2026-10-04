@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-304.20 - Permits Not Transferable.
+[source PDF page 174; extracted with pypdf 6.19.0]
+
+8-304.20 Permits Not Transferable.
+A PERMIT may not be transferred from one PERSON to another PERSON, from one
+FOOD ESTABLISHMENT to another, or from one type of operation to another if the
+FOOD operation changes from the type of operation specified in the application as
+specified under ¶ 8-302.14(C) and the change in operation is not APPROVED.
+8-4 Inspection and Correction of Violations
+8-401 Frequency

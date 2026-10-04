@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-304.14 - Tank, Pump, and Hoses, Dedication.
+[source PDF page 143; extracted with pypdf 6.19.0]
+
+5-304.14 Tank, Pump, and Hoses, Dedication.
+(A) Except as specified in ¶ (B) of this section, a water tank, pump, and hoses
+used for conveying DRINKING WATER shall be used for no other purpose. P
+(B) Water tanks, pumps, and hoses APPROVED for liquid FOODS may be used for
+conveying DRINKING WATER if they are cleaned and SANITIZED before they are used
+to convey water.
+5-4 Sewage, Other Liquid Waste, and Rainwater
+5-401 Mobile Holding Tank

@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-207.11 - Restriction and Storage.
+[source PDF page 164; extracted with pypdf 6.19.0]
+
+7-207.11 Restriction and Storage.
+(A) Except for medicines that are stored or displayed for retail sale, only those
+medicines that are necessary for the health of EMPLOYEES shall be allowed in a
+FOOD ESTABLISHMENT. Pf
+(B) Medicines that are in a FOOD ESTABLISHMENT for the EMPLOYEES' use shall be
+labeled as specified under § 7-101.11 and located to prevent the contamination
+of FOOD, EQUIPMENT, UTENSILS, LINENS, and SINGLE-SERVICE and SINGLE-USE
+ARTICLES.P

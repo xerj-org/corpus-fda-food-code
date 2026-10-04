@@ -1,0 +1,20 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-701.11 - Discarding or Reconditioning Unsafe, Adulterated, or
+[source PDF page 104; extracted with pypdf 6.19.0]
+
+3-701.11 Discarding or Reconditioning Unsafe, Adulterated, or
+Contaminated Food.
+(A) A FOOD that is unsafe, ADULTERATED, or not honestly presented as specified
+under § 3-101.11 shall be discarded or reconditioned according to an APPROVED
+procedure. P
+(B) FOOD that is not from an APPROVED source as specified under §§ 3-201.11 -
+.17 shall be discarded. P
+(C) READY-TO-EAT FOOD that may have been contaminated by an EMPLOYEE who
+has been RESTRICTED or EXCLUDED as specified under § 2-201.12 shall be
+discarded. P
+(D) FOOD that is contaminated by FOOD EMPLOYEES, CONSUMERS, or other
+PERSONS through contact with their hands, bodily discharges, such as nasal or
+oral discharges, or other means shall be discarded. P
+3-8 Special Requirements for Highly Susceptible Populations
+3-801 Additional Safeguards

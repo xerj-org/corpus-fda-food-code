@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.17 - Absorbent Materials on Floors, Use Limitation.
+[source PDF page 157; extracted with pypdf 6.19.0]
+
+6-501.17 Absorbent Materials on Floors, Use Limitation.
+Except as specified in ¶ 6-501.13(B), sawdust, wood shavings, granular salt,
+baked clay, diatomaceous earth, or similar materials may not be used on floors.

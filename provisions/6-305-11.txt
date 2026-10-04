@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-305.11 - Designation.
+[source PDF page 155; extracted with pypdf 6.19.0]
+
+6-305.11 Designation.
+(A) Dressing rooms or dressing areas shall be designated if EMPLOYEES routinely
+change their clothes in the establishment.
+(B) Lockers or other suitable facilities shall be provided for the orderly storage of
+EMPLOYEES' clothing and other possessions.
+6-306 Service Sinks

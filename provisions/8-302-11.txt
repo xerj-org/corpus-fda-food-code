@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-302.11 - Submission 30 Calendar Days Before Proposed Opening.
+[source PDF page 170; extracted with pypdf 6.19.0]
+
+8-302.11 Submission 30 Calendar Days Before Proposed Opening.
+An applicant shall submit an application for a PERMIT at least 30 calendar days
+before the date planned for opening a FOOD ESTABLISHMENT or the expiration date
+of the current PERMIT for an existing facility.

@@ -1,0 +1,16 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-401.15 - Manufacturer Cooking Instructions.
+[source PDF page 88; extracted with pypdf 6.19.0]
+
+3-401.15 Manufacturer Cooking Instructions.
+(A) Commercially PACKAGED FOOD that bears a manufacturer’s cooking
+instructions shall be cooked according to those instructions before use in READY-
+TO-EAT FOODS or offered in unPACKAGED form for human consumption, unless the
+manufacturer’s instructions specify that the FOOD may be consumed without
+cooking. P
+(B) FOOD for which the manufacturer has provided information that it has not
+been processed to control pathogens, when used in READY-TO-EAT FOODS or
+offered for human consumption, shall be cooked according to a time and
+temperature appropriate for the FOOD. P
+3-402 Freezing

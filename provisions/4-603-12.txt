@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-603.12 - Precleaning.
+[source PDF page 129; extracted with pypdf 6.19.0]
+
+4-603.12 Precleaning.
+(A) FOOD debris on EQUIPMENT and UTENSILS shall be scraped over a waste
+disposal unit or garbage receptacle or shall be removed in a WAREWASHING
+machine with a prewash cycle.
+(B) If necessary for effective cleaning, UTENSILS and EQUIPMENT shall be
+preflushed, presoaked, or scrubbed with abrasives.

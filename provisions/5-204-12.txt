@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-204.12 - Backflow Prevention Device, Location.
+[source PDF page 140; extracted with pypdf 6.19.0]
+
+5-204.12 Backflow Prevention Device, Location.
+A backflow prevention device shall be located so that it may be serviced and
+maintained.

@@ -1,0 +1,8 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-302.13 - "V" Type Threads, Use Limitation.
+[source PDF page 142; extracted with pypdf 6.19.0]
+
+5-302.13 "V" Type Threads, Use Limitation.
+A fitting with "V" type threads on a water tank inlet or outlet shall be allowed only
+when a hose is permanently attached.

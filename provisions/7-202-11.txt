@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-202.11 - Restriction.
+[source PDF page 161; extracted with pypdf 6.19.0]
+
+7-202.11 Restriction.
+(A) Only those POISONOUS OR TOXIC MATERIALS that are required for the operation
+and maintenance of a FOOD ESTABLISHMENT, such as for the cleaning and
+SANITIZING of EQUIPMENT and UTENSILS and the control of insects and rodents,
+shall be allowed in a FOOD ESTABLISHMENT. Pf
+(B) Paragraph (A) of this section does not apply to PACKAGED POISONOUS OR TOXIC
+MATERIALS that are for retail sale.

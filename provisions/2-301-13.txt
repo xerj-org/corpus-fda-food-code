@@ -1,0 +1,7 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-301.13 - Special Handwash Procedures.
+[source PDF page 61; extracted with pypdf 6.19.0]
+
+2-301.13 Special Handwash Procedures.
+Reserved.

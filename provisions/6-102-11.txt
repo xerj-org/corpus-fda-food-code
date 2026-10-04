@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-102.11 - Surface Characteristics.
+[source PDF page 149; extracted with pypdf 6.19.0]
+
+6-102.11 Surface Characteristics.
+(A) The outdoor walking and driving areas shall be surfaced with concrete,
+asphalt, or gravel or other materials that have been effectively treated to
+minimize dust, facilitate maintenance, and prevent muddy conditions.
+(B) Exterior surfaces of buildings and mobile FOOD ESTABLISHMENTS shall be of
+weather-resistant materials and shall comply with LAW.
+(C) Outdoor storage areas for REFUSE, recyclables, or returnables shall be of
+materials specified under §§ 5-501.11 and 5-501.12.
+6-2 Design, Construction, and Installation
+6-201 Cleanability

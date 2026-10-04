@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 2. Management and Personnel
+Provision 2-304.11 - Clean Condition.
+[source PDF page 64; extracted with pypdf 6.19.0]
+
+2-304.11 Clean Condition.
+Food employees shall wear clean outer clothing to prevent contamination of
+food, equipment, utensils, linens, and single-service and single-use articles.
+2-4 Hygienic Practices
+2-401 Food Contamination Prevention

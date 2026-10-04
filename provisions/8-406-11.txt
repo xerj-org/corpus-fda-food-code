@@ -1,0 +1,15 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-406.11 - Time Frame for Correction.
+[source PDF page 180; extracted with pypdf 6.19.0]
+
+8-406.11 Time Frame for Correction.
+(A) Except as specified in ¶ (B) of this section, the PERMIT HOLDER shall correct
+CORE ITEMS by a date and time agreed to or specified by the REGULATORY
+AUTHORITY but no later than 90 calendar days after the inspection.
+(B) The regulatory authority may approve a compliance schedule that extends
+beyond the time limits specified under ¶ (A) of this section if a written schedule of
+compliance is submitted by the permit holder and no health hazard exists or will
+result from allowing an extended schedule for compliance.
+8-5 Prevention of Foodborne Disease Transmission By Employees
+8-501 Investigation and Control

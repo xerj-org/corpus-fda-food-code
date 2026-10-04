@@ -1,0 +1,16 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-102.10 - Preventing Health Hazards, Provision for Conditions Not
+[source PDF page 166; extracted with pypdf 6.19.0]
+
+8-102.10 Preventing Health Hazards, Provision for Conditions Not
+Addressed.
+(A) If necessary to protect against public health HAZARDS or nuisances, the
+REGULATORY AUTHORITY may impose specific requirements in addition to the
+requirements contained in this Code that are authorized by LAW.
+(B) The REGULATORY AUTHORITY shall document the conditions that necessitate
+the imposition of additional requirements and the underlying public health
+rationale. The documentation shall be provided to the PERMIT applicant or PERMIT
+HOLDER and a copy shall be maintained in the REGULATORY AUTHORITY’S file for
+the FOOD ESTABLISHMENT.
+8-103 Variances

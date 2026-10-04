@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-501.14 - Cleaning Ventilation Systems, Nuisance and Discharge
+[source PDF page 157; extracted with pypdf 6.19.0]
+
+6-501.14 Cleaning Ventilation Systems, Nuisance and Discharge
+Prohibition.
+(A) Intake and exhaust air ducts shall be cleaned and filters changed so they are
+not a source of contamination by dust, dirt, and other materials.
+(B) If vented to the outside, ventilation systems may not create a public health
+HAZARD or nuisance or unLAWful discharge.

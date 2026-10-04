@@ -1,0 +1,10 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 6. Physical Facilities
+Provision 6-301.13 - Handwashing Aids and Devices, Use Restrictions.
+[source PDF page 154; extracted with pypdf 6.19.0]
+
+6-301.13 Handwashing Aids and Devices, Use Restrictions.
+A sink used for FOOD preparation or UTENSIL washing, or a service sink or curbed
+cleaning facility used for the disposal of mop water or similar wastes, may not be
+provided with the handwashing aids and devices required for a HANDWASHING
+SINK as specified under §§ 6-301.11 and 6-301.12 and ¶ 5-501.16(C).

@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-302.13 - Qualifications and Responsibilities of Applicants.
+[source PDF page 171; extracted with pypdf 6.19.0]
+
+8-302.13 Qualifications and Responsibilities of Applicants.
+To qualify for a PERMIT, an applicant shall:
+(A) Be an owner of the FOOD ESTABLISHMENT or an officer of the legal
+ownership;
+(B) Comply with the requirements of this Code;
+(C) As specified under § 8-402.11, agree to allow access to the FOOD
+ESTABLISHMENT and to provide required information; and
+(D) Pay the applicable PERMIT fees at the time the application is submitted.

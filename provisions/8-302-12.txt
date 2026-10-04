@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-302.12 - Form of Submission.
+[source PDF page 171; extracted with pypdf 6.19.0]
+
+8-302.12 Form of Submission.
+A PERSON desiring to operate a FOOD ESTABLISHMENT shall submit to the
+REGULATORY AUTHORITY a written application for a PERMIT on a form provided by
+the REGULATORY AUTHORITY.

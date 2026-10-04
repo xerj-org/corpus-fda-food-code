@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-301.11 - Approved.
+[source PDF page 141; extracted with pypdf 6.19.0]
+
+5-301.11 Approved.
+Materials that are used in the construction of a mobile water tank, mobile FOOD
+ESTABLISHMENT water tank, and appurtenances shall be:
+(A) Safe; P
+(B) Durable, CORROSION-RESISTANT, and nonabsorbent; and
+(C) Finished to have a SMOOTH, EASILY CLEANABLE surface.
+5-302 Design and Construction

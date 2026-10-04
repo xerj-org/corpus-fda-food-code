@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-702.11 - Before Use After Cleaning.
+[source PDF page 131; extracted with pypdf 6.19.0]
+
+4-702.11 Before Use After Cleaning.
+UTENSILS and FOOD-CONTACT SURFACES of EQUIPMENT shall be SANITIZED before
+use after cleaning. P
+4-703 Methods

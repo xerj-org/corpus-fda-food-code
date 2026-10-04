@@ -1,0 +1,1475 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Annex 4. Management of Food Safety Practices - Achieving Active Managerial Control
+[source PDF pages 498-535; extracted with pypdf 6.19.0]
+
+of Foodborne Illness Risk Factors
+Annex 4 Management of Food
+Safety Practices – Achieving
+Active Managerial Control of
+Foodborne Illness Risk Factors
+1. Active Managerial Control
+2. Introduction to HACCP
+3. The HACCP Principles
+4. The Process Approach – A Practical Application of HACCP at Retail to
+Achieve Active Managerial Control
+5. FDA Retail HACCP Manuals
+6. Advantages of Using the Principles of HACCP
+7. Summary
+8. Acknowledgments
+9. Resources and References
+1. Active Managerial Control
+A. What is the common goal of operators and regulators of retail food and food
+service establishments and what is presently being done to achieve this goal?
+The common goal of operators and regulators of retail and food service establishments
+is to produce safe, quality food for consumers. Since the onset of regulatory oversight of
+retail and food service operations, regulatory inspections have emphasized the
+recognition and correction of food safety violations that exist at the time of the
+inspection. Recurring violations have traditionally been handled through re-inspections
+or enforcement activities such as fines, suspension of permits, or closures. Operators of
+retail and food service establishments routinely respond to inspection findings by
+correcting violations, but often do not implement proactive systems of control to prevent
+violations from recurring. While this type of inspection and enforcement system has
+done a great deal to improve basic sanitation and to upgrade facilities in the United
+States, it emphasizes reactive rather than preventive measures to food safety.
+Additional measures must be taken on the part of operators and regulators to better
+prevent or reduce foodborne illness. Annex 5 of the Food Code provides additional
+information on conducting risk-based inspections. It should be reviewed in conjunction
+with the material found in this Annex to better understand the role of the regulator in
+facilitating active managerial control by the operator.
+of Foodborne Illness Risk Factors
+B. Who has the ultimate responsibility for providing safe food to the consumer?
+The responsibility of providing safe food to the consumer is shared by many people in
+every stage in the production of food, including consumers, themselves. Since most
+consumers receive their food from retail and food service establishments, a significant
+share of the responsibility for providing safe food to the consumer rests with these
+facilities. Working together with their regulatory authorities, operators of retail and food
+service establishments can make the greatest impact on food safety.
+C. How can foodborne illness be reduced?
+The Centers for Disease Control and Prevention (CDC) Surveillance Report for 1993-
+1997, “Surveillance for Foodborne-Disease Outbreaks – United States,” identifies the
+most significant contributing factors to foodborne illness. Five of these broad categories
+of contributing factors directly relate to food safety concerns within retail and food
+service establishments and are collectively termed by the FDA as “foodborne illness risk
+factors.” These five broad categories are:
+• Food from Unsafe Sources
+• Inadequate Cooking
+• Improper Holding Temperatures
+• Contaminated Equipment
+• Poor Personal Hygiene
+In 1998, FDA initiated a project designed to determine the incidence of foodborne
+illness risk factors in retail and food service establishments. Inspections focusing on the
+occurrence of foodborne illness risk factors were conducted in establishments
+throughout the United States. The results of this project are published in the 2000
+Report of the FDA Retail Food Program Database of Foodborne Illness Risk Factors,
+commonly referred to as the “FDA Baseline Report.” The Baseline Report is available at
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnessriskfac
+torreduction/default.htm.
+The data collection project was repeated in 2003 and the results are published in the
+FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected
+Institutional Foodservice, Restaurant, and Retail Food Store Facility Types (2004). This
+second report is available from FDA through the following website:
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnessriskfac
+torreduction/default.htm.
+The data collection was repeated again in 2008 and published in a 2009 report This was
+followed by a Trend Analysis Report covering 1998-2008 that was published in October
+2010. The CDC Surveillance Report and the results from the FDA Risk Factor Studies
+support the concept that operators of retail and food service establishments must be
+proactive and implement food safety management systems that will prevent, eliminate,
+or reduce the occurrence of foodborne illness risk factors. By reducing the occurrence
+of foodborne illness risk factors, foodborne illness can also be reduced.
+of Foodborne Illness Risk Factors
+D. How can the occurrence of foodborne illness risk factors be reduced?
+To effectively reduce the occurrence of foodborne illness risk factors, operators of retail
+and food service establishments must focus their efforts on achieving active managerial
+control. The term “active managerial control” is used to describe industry’s responsibility
+for developing and implementing food safety management systems to prevent,
+eliminate, or reduce the occurrence of foodborne illness risk factors.
+Active managerial control means the purposeful incorporation of specific actions or
+procedures by industry management into the operation of their business to attain control
+over foodborne illness risk factors. It embodies a preventive rather than reactive
+approach to food safety through a continuous system of monitoring and verification.
+There are many tools that can be used by industry to provide active managerial control
+of foodborne illness risk factors. Regulatory inspections and follow-up activities must
+also be proactive by using an inspection process designed to assess the degree of
+active managerial control that retail and food service operators have over the foodborne
+illness risk factors. In addition, regulators must assist operators in developing and
+implementing voluntary strategies to strengthen existing industry systems to prevent the
+occurrence of foodborne illness risk factors. Elements of an effective food safety
+management system may include the following:
+• Certified food protection managers who have shown a proficiency in required
+information by passing a test that is part of an accredited program
+• Standard operating procedures (SOPs) for performing critical operational
+steps in a food preparation process, such as cooling
+• Recipe cards that contain the specific steps for preparing a food item and the
+food safety critical limits, such as final cooking temperatures, that need to be
+monitored and verified
+• Purchase specifications
+• Equipment and facility design and maintenance
+• Monitoring procedures
+• Record keeping
+• Employee health policy for restricting or excluding ill employees
+• Manager and employee training
+• On-going quality control and assurance
+• Specific goal-oriented plans, like Risk Control Plans (RCPs), that outline
+procedures for controlling foodborne illness risk factors
+A food safety management system based on Hazard Analysis and Critical Control Point
+(HACCP) principles contains many of these elements and provides a comprehensive
+framework by which an operator can effectively control the occurrence of foodborne
+illness risk factors.
+of Foodborne Illness Risk Factors
+2. Introduction to HACCP
+A. What is HACCP and how can it be used by operators and regulators of retail
+food and food service establishments?
+Hazard Analysis and Critical Control Point (HACCP) is a systematic approach to
+identifying, evaluating, and controlling food safety hazards. Food safety hazards are
+biological, chemical, or physical agents that are reasonably likely to cause illness or
+injury in the absence of their control. Because a HACCP program is designed to ensure
+that hazards are prevented, eliminated, or reduced to an acceptable level before a food
+reaches the consumer, it embodies the preventive nature of “active managerial control.”
+Active managerial control through the use of HACCP principles is achieved by
+identifying the food safety hazards attributed to products, determining the necessary
+steps that will control the identified hazards, and implementing on-going practices or
+procedures that will ensure safe food.
+Like many other quality assurance programs, HACCP provides a common-sense
+approach to identifying and controlling problems that are likely to exist in an operation.
+Consequently, many food safety management systems at the retail level already
+incorporate some, if not all, of the principles of HACCP. Combined with good basic
+sanitation, a solid employee training program, and other prerequisite programs, a food
+safety management system based on HACCP principles will prevent, eliminate, or
+reduce the occurrence of foodborne illness risk factors that lead to out-of-control
+hazards.
+HACCP represents an important tool in food protection that small independent
+businesses as well as national companies can use to achieve active managerial control
+of risk factors. The Food Code requires a comprehensive HACCP plan when conducting
+certain specialized processes at retail such as when a variance is granted or when a
+reduced oxygen packaging method is used. However, in general, the implementation of
+HACCP at the retail level is voluntary. FDA endorses the voluntary implementation of
+food safety management systems based on HACCP principles as an effective means
+for controlling the occurrence of foodborne illness risk factors that result in out-of-control
+hazards.
+While the operator is responsible for developing and implementing a system of controls
+to prevent foodborne illness risk factors, the role of the regulator is to assess whether
+the system the operator has in place is achieving control of foodborne illness risk
+factors. Using HACCP principles during inspections will enhance the effectiveness of
+routine inspections by incorporating a risk-based approach. This helps inspectors focus
+their inspection on evaluating the effectiveness of food safety management systems
+implemented by industry to control foodborne illness risk factors.
+The principles of HACCP are also an integral part of the draft FDA’s Recommended
+Voluntary National Retail Food Regulatory Program Standards. For regulatory program
+managers, the use of risk-based inspection methodology based on HACCP principles is
+a viable and practical option for evaluating the degree of active managerial control
+of Foodborne Illness Risk Factors
+operators have over the foodborne illness risk factors. The complete set of Program
+Standards is available from FDA through the following website:
+http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/ProgramStandards/
+default.htm.
+B. What are the Seven HACCP Principles?
+In November 1992, the National Advisory Committee on Microbiological Criteria for
+Foods (NACMCF) defined seven widely accepted HACCP principles that explained the
+HACCP process in great detail. In 1997, NACMCF reconvened to review the 1992
+document and compare it to current HACCP guidance prepared by the CODEX
+Committee on Food Hygiene. Based on this review, NACMCF again endorsed HACCP
+and defined HACCP as a systematic approach to the identification, evaluation, and
+control of food safety. Based on a solid foundation of prerequisite programs to control
+basic operational and sanitation conditions, the following seven basic principles are
+used to accomplish this objective:
+• Principle 1: Conduct a hazard analysis
+• Principle 2: Determine the critical control points (CCPs)
+• Principle 3: Establish critical limits
+• Principle 4: Establish monitoring procedures
+• Principle 5: Establish corrective actions
+• Principle 6: Establish verification procedures
+• Principle 7: Establish record-keeping and documentation procedures
+This Annex will provide a brief overview of each of the seven principles of HACCP. A
+more comprehensive discussion of these principles is available from FDA by accessing
+the NACMCF guidance document on the FDA Web Page at:
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformati
+on/Juice/ucm072557.htm. Following the overview, a practical scheme for applying and
+implementing the HACCP principles in retail and food service establishments is
+presented.
+C. What are Prerequisite Programs?
+In order for a HACCP system to be effective, a strong foundation of procedures that
+address the basic operational and sanitation conditions within an operation must first be
+developed and implemented. These procedures are collectively termed “prerequisite
+programs.” When prerequisite programs are in place, more attention can be given to
+controlling hazards associated with the food and its preparation. Prerequisite programs
+may include such things as:
+• Vendor certification programs
+• Training programs
+• Allergen management
+• Buyer specifications
+• Recipe/process instructions
+of Foodborne Illness Risk Factors
+• First-In-First-Out (FIFO) procedures
+• Other Standard Operating Procedures (SOPs)
+• Basic prerequisite programs should be in place to:
+• Protect products from contamination by biological, chemical, and physical food
+safety hazards
+• Control bacterial growth that can result from temperature abuse
+• Maintain equipment.
+Additional information about prerequisite programs and the types of activities usually
+included in them can be found in the FDA’s Retail HACCP manuals discussed later in
+this Annex or by accessing the NACMCF guidance document on the FDA Web Page.
+3. The HACCP Principles
+A. Principle #1: Conduct a Hazard Analysis
+What is a food safety hazard?
+A hazard is a biological, chemical, or physical property that may cause a food to be
+unsafe for human consumption.
+What are biological hazards?
+Biological hazards include bacterial, viral, and parasitic microorganisms. See Table
+1 in this Annex for a listing of selected biological hazards. Bacterial pathogens
+comprise the majority of confirmed foodborne disease outbreaks and cases.
+Although cooking destroys the vegetative cells of foodborne bacteria to acceptable
+levels, spores of spore-forming bacteria such as Bacillus cereus, Clostridium
+botulinum, and Clostridium perfringens survive cooking and may germinate and
+grow if food is not properly cooled or held after cooking. The toxins produced by the
+vegetative cells of Bacillus cereus, Clostridium botulinum, and Staphylococcus
+aureus may not be destroyed to safe levels by reheating. Post-cook recontamination
+with vegetative cells of bacteria such as Salmonellae and Campylobacter jejuni is
+also a major concern for operators of retail and food service establishments.
+Viruses such as norovirus, hepatitis A, and rotavirus are directly related to
+contamination from human feces. Recent outbreaks have also shown that these
+viruses may be transmitted via droplets in the air. In limited cases, foodborne viruses
+may occur in raw commodities contaminated by human feces (e.g., shellfish
+harvested from unapproved, polluted waters). In most cases, however,
+contamination of food by viruses is the result of cross-contamination by ill food
+employees or unclean equipment and utensils. Unlike bacteria, a virus cannot
+multiply outside of a living cell. Cooking as a control for viruses may be ineffective
+because many foodborne viruses seem to exhibit heat resistance exceeding cooking
+temperature requirements, under laboratory conditions. Obtaining food from
+approved sources, practicing no bare hand contact with ready-to-eat food as well as
+of Foodborne Illness Risk Factors
+proper handwashing, and implementing an employee health policy to restrict or
+exclude ill employees are important control measures for viruses.
+Parasites are most often animal host-specific, but can include humans in their life
+cycles. Parasitic infections are commonly associated with undercooking meat
+products or cross-contamination of ready-to-eat food with raw animal foods,
+untreated water, or contaminated equipment or utensils. Like viruses, parasites do
+not grow in food, so control is focused on destroying the parasites and/or preventing
+their introduction. Adequate cooking destroys parasites. In addition, parasites in fish
+to be consumed raw or undercooked can also be destroyed by effective freezing
+techniques. Parasitic contamination by ill employees can be prevented by proper
+handwashing, no bare hand contact with ready-to-eat food, and implementation of
+an employee health policy to restrict or exclude ill employees.
+Annex 4, Tables 1a – 1c. Selected Biological Hazards Found at Retail, Associated
+Foods, and Control Measures
+Annex 4, Table 1a. Selected Bacterial Hazards Found at Retail,
+Associated Foods, and Control Measures
+HAZARD ASSOCIATED FOODS CONTROL MEASURES
+Bacillus cereus
+(intoxication caused by heat
+stable, preformed emetic
+toxin and infection by heat
+labile, diarrheal toxin)
+Meat, poultry, starchy foods
+(rice, potatoes), puddings,
+soups, cooked vegetables
+Cooking, cooling, cold
+holding, hot holding
+Campylobacter jejuni Poultry, raw milk Cooking, handwashing,
+prevention of cross-
+contamination
+of Foodborne Illness Risk Factors
+HAZARD ASSOCIATED FOODS CONTROL MEASURES
+Clostridium botulinum
+Vacuum-packed foods,
+reduced oxygen packaged
+foods, under-processed
+canned foods, garlic-in-oil
+mixtures, time/temperature
+abused baked
+potatoes/sautéed onions
+Thermal processing (time +
+pressure), cooling, cold
+holding, hot holding,
+acidification and drying, etc.
+Clostridium perfringens Cooked meat and poultry,
+Cooked meat and poultry
+products including
+casseroles, gravies
+Cooling, cold holding,
+reheating, hot holding
+E. coli O157:H7 (other
+shiga toxin-producing E.
+coli)
+Raw ground beef, raw
+seed sprouts, raw milk,
+unpasteurized juice, foods
+contaminated by infected
+food workers via fecal-oral
+route
+Cooking, no bare hand
+contact with RTE foods,
+employee health policy,
+handwashing, prevention
+of cross-contamination,
+pasteurization or treatment
+of juice
+Hazard Associated Foods Control Measures
+Listeria monocytogenes Raw meat and poultry,
+fresh soft cheese, paté,
+smoked seafood, deli
+meats, deli salads
+Cooking, date marking,
+cold holding,
+handwashing, prevention
+of cross-contamination
+Salmonella spp. Meat and poultry, seafood,
+eggs, raw seed sprouts,
+raw vegetables, raw milk,
+unpasteurized juice
+Cooking, use of
+pasteurized eggs,
+employee health policy, no
+bare hand contact with
+RTE foods, handwashing,
+pasteurization or treatment
+of juice
+of Foodborne Illness Risk Factors
+Hazard Associated Foods Control Measures
+Shigella spp. Raw vegetables and
+herbs, other foods
+contaminated by infected
+workers via fecal-oral route
+Cooking, no bare hand
+contact with RTE foods,
+employee health policy,
+handwashing
+Staphylococcus aureus
+(preformed heat stable
+toxin)
+RTE TCS foods touched
+by bare hands after
+cooking and further
+time/temperature abused
+Cooling, cold holding, hot
+holding, no bare hand
+contact with RTE food,
+handwashing
+Vibrio spp. Seafood, shellfish Cooking, approved source,
+prevention of cross-
+contamination, cold
+holding
+RTE = ready-to-eat TCS = time/temperature control for safety food
+Annex 4, Table 1b. Selected Parasitic Hazards Found at Retail,
+Associated Foods, and Control Measures
+HAZARD ASSOCIATED FOODS CONTROL MEASURES
+Anisakis simplex Various fish (cod, haddock,
+fluke, pacific salmon, herring,
+flounder, monkfish)
+Cooking, freezing
+Taenia spp. Beef and pork Cooking
+Trichinella spiralis Pork, bear, and seal meat Cooking
+RTE = ready-to-eat TCS = time/temperature control for safety food
+of Foodborne Illness Risk Factors
+Annex 4, Table 1c. Selected Viral Hazards Found at Retail,
+Associated Foods, and Control Measures
+HAZARD ASSOCIATED FOODS CONTROL MEASURES
+Hepatitis A and E Shellfish, any food contaminated
+by infected worker via fecal-oral
+route
+Approved source, no bare
+hand contact with RTE food,
+minimizing bare hand
+contact with foods not RTE,
+employee health policy,
+handwashing
+Other Viruses
+(Rotavirus, Norovirus,
+Reovirus)
+Any food contaminated by
+infected worker via fecal-oral
+route
+No bare hand contact with
+RTE food, minimizing
+bare hand contact with
+foods not RTE, employee
+health policy,
+handwashing
+RTE = ready-to-eat TCS = time/temperature control for safety food
+What are Chemical Hazards?
+Chemical hazards may be naturally occurring or may be added during the
+processing of food. High levels of toxic chemicals may cause acute cases of
+foodborne illness, while chronic illness may result from low levels.
+The Code of Federal Regulations (http://www.access.gpo.gov/nara/cfr/cfr-table-
+search.html), Title 21 Food and Drugs, provides guidance on naturally occurring
+poisonous or deleterious substances, e.g., 21 CFR Parts 109 Unavoidable
+Contaminants in Food for Human Consumption and Food Packaging Material, and
+184 Direct Food Substances Affirmed as Generally Recognized as Safe. The CFR
+also provide allowable limits for many of the chemicals added during processing,
+e.g., 21 CFR Part 172 Food Additives Permitted for Direct Addition to Food For
+Human Consumption.
+FDA’s Compliance Policy Guidelines also provide information on naturally occurring
+chemicals
+(http://www.fda.gov/ICECI/ComplianceManuals/CompliancePolicyGuidanceManual/d
+efault.htm ). See Chapter 5 – Foods, Colors and Cosmetics. Examples include
+sections:
+• 540.600 Fish, Shellfish, Crustaceans, and Other Aquatic Animals – Fresh,
+Frozen or Processed – Methyl Mercury
+• 555.400 Foods – Adulteration with Aflatoxin
+• 570.200 Aflatoxin in Brazil Nuts, .375 Peanuts and Peanut Products, and .500
+Pistachio Nuts
+of Foodborne Illness Risk Factors
+Table 2 of this Annex provides additional examples of chemical hazards, both
+naturally occurring and added.
+Food Allergens As Food Safety Hazards
+Recent studies indicate that over 11 million Americans suffer from one or more food
+allergies. A food allergy is caused by a naturally-occurring protein in a food or a food
+ingredient, which is referred to as an “allergen.” For unknown reasons, certain
+individuals produce immunoglobulin E (IgE) antibodies specifically directed to food
+allergens. When these sensitive individuals ingest sufficient concentrations of foods
+containing these allergens, the allergenic proteins interact with IgE antibodies and
+elicit an abnormal immune response. A food allergic response is commonly
+characterized by hives or other itchy rashes, nausea, abdominal pain, vomiting
+and/or diarrhea, wheezing, shortness of breath, and swelling of various parts of the
+body. In severe cases, anaphylactic shock and death may result.
+Many foods, with or without identifiable allergens, have been reported to cause food
+allergies. However, FDA believes there is scientific consensus that the following
+foods can cause a serious allergic reaction in sensitive individuals; these foods
+account for 90% or more of all food allergies:
+• Milk
+• Egg
+• Fish (such as bass, flounder, or cod)
+• Crustacean shellfish (such as crab, lobster, or shrimp)
+• Tree nuts (such as almonds, pecans, or walnuts)
+• Wheat
+• Peanuts
+• Soybeans
+• Sesame
+Consumers with food allergies rely heavily on information contained on food labels
+to avoid food allergens. Each year, FDA receives reports from consumers who have
+experienced an adverse reaction following exposure to a food allergen. Frequently,
+these reactions occur either because product labeling does not inform the consumer
+of the presence of the allergenic ingredient in the food or because of the cross-
+contact of a food with an allergenic substance not intended as an ingredient of the
+food during processing and preparation.
+In August 2004, the Food Allergen Labeling and Consumer Protection Act (Public
+Law 108-282, Title II) was enacted, which defines the term “major food allergen.”
+The following requirements are included in the new law:
+• For foods labeled on or after January 1, 2006, food manufacturers must
+identify in plain language on the label of the food any major food allergen
+used as an ingredient in the food, including a coloring, flavoring, or incidental
+additive.
+of Foodborne Illness Risk Factors
+• FDA is to conduct inspections to ensure that food facilities comply with
+practices to reduce or eliminate cross-contact of a food with any major food
+allergens that are not intentional ingredients of the food.
+• Within 18 months of the date of enactment of the new law (i.e., by February 2,
+2006), FDA must submit a report to Congress that analyzes the results of its
+food inspection findings and addresses a number of specific issues related to
+the production, labeling, and recall of foods that contain an undeclared major
+food allergen.
+• Within 2 years of the date of enactment of the new law (i.e., by August 2,
+2006), FDA must issue a proposed rule, and within 4 years of the date of
+enactment of the new law (i.e., by August 2, 2008), FDA must issue a final
+rule to define and permit the use of the term “gluten-free” on food labeling.
+• FDA is to work in cooperation with the Conference for Food Protection (CFP)
+to pursue revision of the Food Code to provide guidelines for preparing
+allergen-free foods in food establishments.
+In April 2021, the Food Allergy Safety, Treatment, Education, and Research Act of
+2021 (FASTER Act) amended section 201(qq) of the FD&C Act to add sesame to
+the definition of “major food allergen.” This amendment applies to “any food that is
+introduced or delivered for introduction into interstate commerce on or after January
+1, 2023 (Public Law 117-11). The definition of “major food allergen” adopted for use
+in the Food Code (see paragraph 1-201.10(B)) is consistent with the amendment to
+the FD&C Act in the new law. The following requirements are included in the new
+law:
+• For any foods that are introduced or delivered for introduction into interstate
+commerce on or after January 1, 2023, food manufacturers must additionally
+identify in plain language on the label of the food any major food allergen used as
+an ingredient in the food, including a coloring, flavoring, or incidental additive.
+• Within 18 months of the date of enactment of the new law, FDA must submit a
+report to the Committee of Health, Education, Labor, and Pensions of the Senate
+and the Committee on Energy and Commerce of the House of Representatives a
+report that describes ongoing Federal activities and specific recommendations
+and strategies to expand, enhance, or improve ongoing Federal activities.
+of Foodborne Illness Risk Factors
+Annex 4, Tables 2a-b. Common Chemical Hazards at Retail, Along with Their
+Associated Foods and Control Measures
+Annex 4, Table 2a. Naturally Occurring Chemical Hazards at Retail,
+Along with Their Associated Foods and Control Measures
+Naturally Occurring
+Chemical Hazards Associated Foods Control Measures
+Allergens Foods containing or
+contacted by:
+• Milk
+• Egg
+• Fish
+• Crustacean shellfish
+• Tree nuts
+• Wheat
+• Peanuts
+• Soybeans
+• Sesame
+Use a rigorous sanitation
+regime to prevent cross contact
+between allergenic and non-
+allergenic ingredients.
+Ciguatoxin Reef fin fish from extreme
+SE US, Hawaii, and
+tropical areas; barracuda,
+jacks, king mackerel,
+large groupers, and
+snappers
+Ensure fin fish have not been
+caught:
+• Purchase fish from approved
+sources.
+• Fish should not be harvested
+from an area that is subject to
+an adverse advisory.
+Mycotoxins:
+1. Aflatoxin
+Corn and corn products,
+peanuts and peanut
+products, cottonseed,
+milk, and tree nuts such
+as Brazil nuts, pecans,
+pistachio nuts, and
+walnuts. Other grains and
+nuts are susceptible but
+less prone to
+contamination.
+Check condition at receiving;
+do not use moldy or
+decomposed food.
+of Foodborne Illness Risk Factors
+Naturally Occurring
+Chemical Hazards Associated Foods Control Measures
+Mycotoxins:
+2. Patulin
+Apple juice products Buyer Specification: obtain
+verification from supplier or
+avoid the use of rotten apples
+in juice manufacturing
+Phtyohaemmagglutinin Raw red kidney beans
+(Undercooked beans may
+be more toxic than raw
+beans)
+1. Soak in water for at least 5
+hours.
+2. Pour away the water.
+3. Boil briskly in fresh water,
+with occasional stirring, for
+at least 10 minutes.
+Pyrrolizidine alkaloids Plants food containing
+these alkaloids. Most
+commonly found in
+members of the
+Borginaceae,
+Compositae, and
+Leguminosae families.
+Do consume of food or not
+medicinals contaminated with
+these alkaloids.
+Scombrotoxin Primarily associated with
+tuna fish, mahi-mahi, blue
+fish, anchovies bonito,
+mackerel; Also found in
+cheese
+Check temperatures at
+receiving; store at proper cold
+holding temperatures; buyer
+specifications: obtain
+verification from supplier that
+product has not been
+temperature abused prior to
+arrival in facility.
+Shellfish toxins:
+1. Paralytic shellfish
+poisoning (PSP)
+Molluscan shellfish from
+NE and NW coastal
+regions; mackerel,
+viscera of lobsters and
+Dungeness, tanner, and
+red rock crabs
+Ensure molluscan shellfish are:
+• From an approved source; and
+Properly tagged and labeled
+of Foodborne Illness Risk Factors
+Naturally Occurring
+Chemical Hazards Associated Foods Control Measures
+Shellfish toxins:
+2. Diarrhetic shellfish
+poisoning (DSP)
+Molluscan shellfish in
+Japan, western Europe,
+Chile, NZ, eastern
+Canada
+Ensure molluscan shellfish are:
+• From an approved source; and
+• Properly tagged and labeled
+Shellfish toxins:
+3. Neurotoxin
+shellfish poisoning
+(NSP)
+Molluscan shellfish from
+Gulf of Mexico
+Ensure molluscan shellfish are:
+• From an approved source; and
+• Properly tagged and labeled
+Shellfish toxins:
+4. Amnesic shellfish
+poisoning (ASP)
+Molluscan shellfish from
+NE and NW coasts of
+NA; viscera of
+Dungeness, tanner, red
+rock crabs and
+anchovies.
+Ensure molluscan shellfish are:
+• From an approved source; and
+• Properly tagged and labeled
+Tetrodotoxin Puffer fish (Fugu;
+Blowfish)
+Do not consume these fish.
+Toxic mushroom
+species
+Numerous varieties of
+wild mushrooms
+Do not eat unknown varieties
+or mushrooms from
+unapproved source.
+of Foodborne Illness Risk Factors
+Annex 4, Table 2b. Added Chemical Hazards at Retail, Along with Their
+Associated Foods and Control Measures
+Added Chemical
+Hazards Associated Foods Control Measures
+Chemicals used in retail
+establishments (e.g.,
+lubricants, cleaners,
+sanitizers, cleaning
+compounds, and paints
+Any food could become
+contaminated
+• Address through SOPs for
+proper labeling, storage,
+handling, and use of
+chemicals.
+• Retain Material Safety Data
+Sheets (MSDS) for all
+chemicals.
+Environmental
+contaminants:
+Pesticides, fungicides,
+fertilizers, insecticides,
+antibiotics, growth
+hormones
+Any food may become
+contaminated.
+• Follow label instructions for
+use of environmental
+chemicals.
+• Soil or water analysis may
+be used to verify safety.
+Nitrites/nitrates
+Niacin
+• Cured meats, fish, any
+food exposed to
+accidental
+contamination, spinach.
+• Meat and other foods
+to which sodium
+nicotinate is added
+• Do not use more than the
+prescribed amount of curing
+compound according to
+labeling instructions.
+• Sodium nicotinate (niacin) is
+not currently approved for
+use in meat or poultry with
+or without nitrates or
+nitrates.
+PCBs Fish Comply with fish advisories.
+Preservatives and Food
+Additives:
+Sulfiting agents
+(sulfur dioxide,
+sodium and
+potassium bisulfite,
+sodium and
+potassium
+metabisulfite)
+• Fresh fruits and
+Vegetables
+• Shrimp
+• Lobster
+• Wine
+• Sulfiting agents added to a
+product in a processing
+plant must be declared on
+labeling.
+• Do not use on raw produce
+in food establishments.
+of Foodborne Illness Risk Factors
+Added Chemical
+Hazards Associated Foods Control Measures
+Prohibited substances
+(21 CFR 189)
+• Numerous substances
+are prohibited from use
+in human food.
+• No substance may be
+used in human food
+unless it meets all
+applicable
+requirements of the
+FD&C Act.
+Do not use chemical
+substances that are not
+approved for use in human
+food.
+Toxic elements/
+compounds:
+1. Copper
+High acid foods and
+beverages
+• Do not store high acid foods
+in copper utensils.
+• Use backflow prevention
+device on beverage vending
+machines.
+Toxic elements/
+compounds:
+2. Lead
+High acid food and
+beverages
+Do not use vessels containing
+lead.
+Toxic elements/
+compounds:
+3. Mercury
+• Fish exposed to
+organic mercury: shark,
+tilefish, king mackerel
+and swordfish.
+• Grains treated with
+mercury based
+fungicides.
+• Pregnant women/women of
+childbearing age/nursing
+mothers, and young children
+should not eat shark,
+swordfish, king mackerel or
+tilefish because they contain
+high levels of mercury.
+• Do not use mercury
+containing fungicides on
+grains or animals.
+5. What are Physical Hazards?
+Illness and injury can result from foreign objects in food. These physical hazards can
+result from contamination or poor procedures at many points in the food chain from
+harvest to consumer, including those within the food establishment. As establishments
+develop their food safety management systems, Annex 4, Table 3 can be used to aid in
+the identification of sources of potential physical hazards to the food being prepared,
+served, or sold. Annex 4, Table 3 provides some examples of common physical
+hazards.
+of Foodborne Illness Risk Factors
+Annex 4, Table 3. Main Materials of Concern as Physical Hazards
+and Common Sourcesa, b
+Material Injury Potential Sources
+Glass fixtures Cuts, bleeding; may
+require surgery to find or
+remove
+Bottles, jars, lights,
+utensils, gauge covers
+Wood Cuts, infection, choking;
+may require surgery to
+remove
+Fields, pallets, boxes,
+buildings
+Stones, metal fragments Choking, broken teeth
+Cuts, infection; may
+require surgery to remove
+Fields, buildings,
+machinery, wire,
+employees
+Insulation Choking; long-term if
+asbestos
+Building materials
+Bone Choking, trauma Fields, improper plant
+processing
+Plastic Choking, cuts, infection;
+may require surgery to
+remove
+Fields, plant packaging
+materials, pallets,
+employees
+Personal effects Choking, cuts, broken
+teeth; may require
+surgery to remove
+Employees
+a Adapted from Corlett (1991).
+b Used with permission, "HACCP Principles and Applications", Pierson and Corlett, Eds.
+1992. Chapman & Hall, New York, NY.
+6. What is the purpose of the hazard analysis principle?
+The purpose of hazard analysis is to develop a list of food safety hazards that are
+reasonably likely to cause illness or injury if not effectively controlled.
+7. How is the hazard analysis conducted?
+The process of conducting a hazard analysis involves two stages:
+1. Hazard Identification
+2. Hazard Evaluation
+of Foodborne Illness Risk Factors
+Hazard identification can be thought of as a brain storming session. This stage
+focuses on identifying the food safety hazards that might be present in the food
+given the food preparation process used, the handling of the food, the facility, and
+general characteristics of the food itself. During this stage, a review is made of the
+ingredients used in the product, the activities conducted at each step in the process,
+the equipment used, the final product, and its method of storage and distribution, as
+well as the intended use and consumers of the product.
+Based on this review, a list of potential biological, chemical, or physical hazards is
+made at each stage in the food preparation process.
+In stage two, the hazard evaluation, each potential hazard is evaluated based on the
+severity of the potential hazard and its likely occurrence. The purpose of this stage is
+to determine which of the potential hazards listed in stage one of the hazard analysis
+warrant control in the HACCP plan. Severity is the seriousness of the consequences
+of exposure to the hazard. Considerations made when determining the severity of a
+hazard include understanding the impact of the medical condition caused by the
+illness, as well as the magnitude and duration of the illness or injury. Consideration
+of the likely occurrence is usually based upon a combination of experience,
+epidemiological data, and information in the technical literature. Hazards that are not
+reasonably likely to occur are not considered in a HACCP plan. During the
+evaluation of each potential hazard, the food, its method of preparation,
+transportation, storage, and persons likely to consume the product should be
+considered to determine how each of these factors may influence the likely
+occurrence and severity of the hazard being controlled.
+Upon completion of the hazard analysis, a list of significant hazards that must be
+considered in the HACCP plan is made, along with any measure(s) that can be used
+to control the hazards. These measures, called control measures, are actions or
+activities that can be used to prevent, eliminate, or reduce a hazard. Some control
+measures are not essential to food safety, while others are. Control measures
+essential to food safety like proper cooking, cooling, and refrigeration of ready-to-
+eat, time/temperature control for safety foods are usually applied at critical control
+points (CCPs) in the HACCP plan (discussed later). The term control measure is
+used because not all hazards can be prevented, but virtually all can be controlled.
+More than one control measure may be required for a specific hazard. Likewise,
+more than one hazard may be addressed by a specific control measure (e.g., proper
+cooking).
+B. Principle #2: Determine Critical Control Points (CCPs)
+What is the Critical Control Point (CCP)?
+A critical control point (CCP) means a point or procedure in a specific food system
+where loss of control may result in an unacceptable health risk. Control can be
+applied at this point and is essential to prevent or eliminate a food safety hazard or
+reduce it to an acceptable level. Each CCP will have one or more control measures
+of Foodborne Illness Risk Factors
+to assure that the identified hazards are prevented, eliminated, or reduced to
+acceptable levels. Common examples of CCPs include cooking, cooling, hot holding,
+and cold holding of ready-to-eat time/temperature control for safety foods. Due to
+vegetative and spore- and toxin-forming bacteria that are associated with raw animal
+foods, it is apparent that the proper execution of control measures at each of these
+operational steps is essential to prevent or eliminate food safety hazards or reduce
+them to acceptable levels.
+Are quality issues considered when determining CCPs?
+CCPs are only used to address issues with product safety. Actions taken on the part
+of the establishment such as first-in first-out (FIFO) or refrigerating non-
+time/temperature control for safety foods are to ensure food quality rather than food
+safety and therefore should not be considered as CCPs unless they serve a dual-
+purpose of ensuring food safety.
+Are the CCPs the same for everyone?
+Different facilities preparing similar food items may identify different hazards and the
+CCPs. This can be due to differences in each facility's layout, equipment, selection
+of ingredients, and processes employed. In mandatory HACCP systems, there may
+be rigid regulatory requirements regarding what must be designated a CCP. In
+voluntary HACCP systems, hazard control may be accomplished at CCPs or through
+prerequisite programs. For instance, one facility may decide that it can best manage
+the hazards associated with cooling through a standardized procedure in its
+prerequisite programs rather than at a CCP in its HACCP plan. One tool that can be
+used to assist each facility in the identification of CCPs unique to its operation is a
+CCP decision tree.
+of Foodborne Illness Risk Factors
+Annex 4 – CCP Decision Tree 1
+*Decision tree adapted from NACMCF
+of Foodborne Illness Risk Factors
+C. Principle #3: Establish Critical Limits
+What is a critical limit and what is its purpose?
+A critical limit is a prescribed parameter (e.g., minimum and/or maximum value) that
+must be met to ensure that food safety hazards are controlled at each CCP. A
+critical limit is used to distinguish between safe and unsafe operating conditions at a
+CCP. Each control measure at a CCP has one or more associated critical limits.
+Critical limits may be based upon factors like temperature, time, moisture level,
+water activity (aw), or pH. They must be scientifically-based and measurable.
+What are examples of critical limits?
+Examples of critical limits are the time/temperature parameters for cooking chicken
+(165oF for <1 second (instantaneous)). In this case, the critical limit designates the
+minimum criteria required to eliminate food safety hazards or reduce them to an
+acceptable level. The critical limit for the acidification of sushi rice, a pH of <4.2, sets
+the maximum limit for pH necessary to control the growth of spore- and toxin-forming
+bacteria. Critical limits may be derived from regulatory standards such as the FDA
+Food Code, other applicable guidelines, performance standards, or experimental
+results.
+D. Principle #4: Establish Monitoring Procedures
+What is the purpose of monitoring?
+Monitoring is the act of observing and making measurements to help determine if
+critical limits are being met and maintained. It is used to determine whether the
+critical limits that have been established for each CCP are being met.
+What are examples of monitoring activities?
+Examples of monitoring activities include visual observations and measurements of
+time, temperature, pH, and water activity. If cooking chicken is determined to be a
+CCP in an operation, then monitoring the internal temperature of a select number of
+chicken pieces immediately following the cook step would be an example of a
+monitoring activity. Alternatively, the temperature of an oven or fryer and the time
+required to reach an internal temperature of 165 oF could also be monitored.
+How is monitoring conducted?
+Typically, monitoring activities fall under two broad categories:
+• Measurements
+• Observations
+Measurements usually involve time and temperature but also include other
+parameters such as pH. If an operation identifies the acidification of sushi rice as a
+of Foodborne Illness Risk Factors
+CCP and the critical limit as the final pH of the product being < 4.2, then the pH of
+the product would be measured to ensure that the critical limit is met.
+Observations involve visual inspections to monitor the presence or absence of a
+food safety activity. If date marking is identified as a CCP in a deli operation for
+controlling Listeria monocytogenes in ready-to-eat deli meats, then the monitoring
+activity could involve making visual inspections of the date marking system to
+monitor the sell, consume, or discard dates.
+How often is monitoring conducted?
+Monitoring can be performed on a continuous or intermittent basis. Continuous
+monitoring is always preferred when feasible as it provides the most complete
+information regarding the history of a product at a CCP. For example, the
+temperature and time for an institutional cook-chill operation can be recorded
+continuously on temperature recording charts.
+If intermittent monitoring is used, the frequency of monitoring should be conducted
+often enough to make sure that the critical limits are being met.
+Who conducts monitoring?
+Individuals directly associated with the operation (e.g., the person in charge of the
+establishment, chefs, and departmental supervisors) are often selected to monitor
+CCPs. They are usually in the best position to detect deviations and take corrective
+actions when necessary. These employees should be properly trained in the specific
+monitoring techniques and procedures used.
+E. Principle #5: Establish Corrective Actions
+What are corrective actions?
+Corrective actions are activities that are taken by a person whenever a critical limit is
+not met. Discarding food that may pose an unacceptable food safety risk to
+consumers
+is a corrective action. However, other corrective actions such as further cooking or
+reheating a product can be used provided food safety is not compromised. For
+example, a restaurant may be able to continue cooking hamburgers that have not
+reached an internal temperature of 155 oF for 17 seconds until the proper
+temperature is met. Clear instructions should be developed detailing who is
+responsible for performing the corrective actions, the procedures to be followed, and
+when.
+F. Principle #6: Establish Verification Procedures
+What is verification?
+of Foodborne Illness Risk Factors
+Verification includes those activities, other than monitoring, that determine the
+validity of the HACCP plan and show that the system is operating according to the
+plan. Validation is a component of verification which focuses on collecting and
+evaluating scientific and technical information to determine if the HACCP system,
+when properly implemented, will effectively control the hazards. Clear instructions
+should be developed detailing who is responsible for conducting verification, the
+frequency of verification, and the procedures used.
+What is the frequency of verification activities? What are some examples of
+verification activities?
+Verification activities are conducted frequently, such as daily, weekly, monthly, and
+include the following:
+• Observing the person doing the monitoring and determining whether
+monitoring is being done as planned
+• Reviewing the monitoring records to determine if they are completed
+accurately and consistently
+• Determining whether the records show that the frequency of monitoring stated
+in the plan is being followed
+• Ensuring that corrective action was taken when the person monitoring found
+and recorded that the critical limit was not met
+validating that the critical limits are achieving the desired results of controlling
+the identified hazard
+• Confirming that all equipment, including equipment used for monitoring, is
+operated, maintained, and calibrated properly.
+G. Principle #7: Establish Record Keeping Procedures
+Why are records important?
+Maintaining documentation of the activities in a food safety management system can
+be vital to its success. Records provide documentation that appropriate corrective
+actions were taken when critical limits were not met. In the event that an
+establishment is implicated in a foodborne illness, documentation of activities related
+to monitoring and corrective actions can provide proof that reasonable care was
+exercised in the operation of the establishment. Documenting activities provides a
+mechanism for verifying that the activities in the HACCP plan were properly
+completed. In many cases, records can serve a dual purpose of ensuring quality and
+food safety.
+What types of records are maintained as part of a food safety management
+system?
+There are at least five (5) types of records that could be maintained to support a
+food safety management system:
+of Foodborne Illness Risk Factors
+• Records documenting the activities related to the prerequisite programs
+• Monitoring records
+• Corrective action records
+• Verification and validation records
+• Calibration records
+4. The Process Approach – A Practical Application of HACCP at Retail to
+Achieve Active Managerial Control
+A. Why Focus on HACCP Principles at Retail and Food Service?
+FDA recognizes that there are important differences between using HACCP principles
+in a food safety management system developed for food manufacturing plants and
+applying these same principles in food safety management system developed for use in
+retail and food service establishments.
+Since the 1980’s, operators and regulators have been exploring the use of the HACCP
+principles in restaurants, grocery stores, institutional care facilities, and other retail food
+establishments. During this time, much has been learned about how these principles
+can be used in these varied operations, collectively referred to as retail food
+establishments. Most of this exploration has centered around the focal question of how
+to stay true to the NACMCF definitions of HACCP and still make the principles useful to
+an industry that encompasses the broadest range of conditions.
+Unlike industries such as canning, other food processing, and dairy plants, the retail
+industry is not easily defined by specific commodities or conditions. Consider the
+following characteristics that retail food establishments share that set them apart from
+most food processors:
+1. Employee and management turnover is exceptionally high in food
+establishments, especially for entry level positions. This means the many
+employees or managers have little experience and food safety training must be
+continuously provided.
+2. Many establishments are start-up businesses operating without benefit of a large
+corporate support structure and having a relatively low profit margin and perhaps
+less capital to work with than other segments of the food industry.
+3. There is an almost endless number of production techniques, products, menu
+items, and ingredients used which are not easily adapted to a simple,
+standardized approach. Changes occur frequently and little preparation time is
+available.
+FDA fully recognizes the diversity of retail and food service establishments and their
+varying in-house resources to implement HACCP. That recognition is combined with an
+understanding that the success of such implementation is dependent upon establishing
+realistic and useful food safety strategies that are customized to the operation.
+of Foodborne Illness Risk Factors
+B. What is the Process Approach?
+When conducting the hazard analysis, food manufacturers usually use food
+commodities as an organizational tool and follow the flow of each product. This is a very
+useful approach for producers or processors since they are usually handling one
+product at a time. By contrast, in retail and food service operations, foods of all types
+are worked together to produce the final product. This makes a different approach to the
+hazard analysis necessary. Conducting the hazard analysis by using the food
+preparation processes common to a specific operation is often more efficient and useful
+for retail and food service operators. This is called the "process approach" to HACCP.
+The process approach can best be described as dividing the many food flows in an
+establishment into broad categories based on activities or stages in the preparation of
+the food, then analyzing the hazards, and placing managerial controls on each
+grouping.
+C. What are the three food preparation processes most often used in retail and
+food service establishments and how are they determined?
+The flow of food in a retail or food service establishment is the path that food follows
+from receiving through service or sale to the consumer. Several activities or stages
+make up the flow of food and are called operational steps.
+Examples of operational steps include receiving, storing, preparing, cooking, cooling,
+reheating, holding, assembling, packaging, serving, and selling. The terminology used
+for operational steps may differ between food service and retail food store operations.
+Most food items produced in a retail or food service establishment can be categorized
+into one of three preparation processes based on the number of times the food passes
+through the temperature danger zone between 41°F and 135°F:
+• Process 1: Food Preparation with No Cook Step
+Example flow: Receive → Store → Prepare → Hold → Serve
+Other food flows are included in this process, but there is no cook step to destroy
+pathogens.
+• Process 2: Preparation for Same Day Service
+Example flow: Receive → Store → Prepare → Cook → Hold → Serve
+Other food flows are included in this process, but there is only one trip through
+the temperature danger zone.
+• Process 3: Complex Food Preparation
+Example flow: Receive → Store → Prepare → Cook → Cool → Reheat →
+Hot Hold → Serve
+of Foodborne Illness Risk Factors
+Other food flows are included in this process, but there are always two or more
+complete trips through the temperature danger zone.
+A summary of the three food preparation processes in terms of number of times through
+the temperature danger zone can be depicted in a Danger Zone diagram. Although
+foods produced using process 1 may enter the danger zone, they do not pass all the
+way through it. Foods that go through the danger zone only once are classified as Same
+Day Service, while foods that go through more than once are classified as Complex
+food preparation.
+The three food preparation processes conducted in retail and food service
+establishments are not intended to be all-inclusive. For instance, quick service facilities
+may have “cook and serve” processes specific to their operation. These processes are
+likely to be different from the “Same Day Service” preparation processes in full service
+restaurants since many of their foods are generally cooked and hot held before service.
+In addition, in retail food stores, operational steps such as packaging and assembly may
+be included in all of the food preparation processes before the product is sold to the
+consumer. It is also very common for a retail or food service operator to use multiple
+food preparation processes to create a single menu item.
+D. How is a hazard analysis conducted in process HACCP?
+In the process approach to HACCP, conducting a hazard analysis on individual food
+items is time and labor intensive and is generally unnecessary. Identifying and
+0
+Complete Trips Through the Danger Zone
+No Cook Same Day Complex
+41°F
+135°F
+1 1
+2
+3
+of Foodborne Illness Risk Factors
+controlling the hazards in each food preparation process achieves the same control of
+risk factors as preparing a HACCP plan for each individual product.
+Example: An establishment has dozens of food items (including baked chicken and
+baked meatloaf) in the “Preparation for Same Day Service” category. Each of the food
+items may have unique hazards, but regardless of the individual hazards, control via
+proper cooking and holding will generally ensure the safety of all of the foods in this
+category. An illustration of this concept follows:
+• Even though they have unique hazards, baked chicken and meatloaf are items
+frequently grouped in the “Same Day Service” category (Process 2).
+• Salmonella spp. and Campylobacter, as well as spore-formers, such as Bacillus
+cereus and Clostridium perfringens, are significant biological hazards in chicken.
+• Significant biological hazards in meatloaf include Salmonella spp., E. coli
+O157:H7, Bacillus cereus, and Clostridium perfringens.
+• Despite their different hazards, the control measure used to kill pathogens in both
+these products is cooking to the proper temperature.
+• Additionally, if the products are held after cooking, then proper hot holding or
+time control is also required to prevent the outgrowth of spore-formers that are
+not destroyed by cooking.
+As with product-specific HACCP, critical limits for cooking remain specific to each food
+item in the process. In the scenario described above, the cooking step for chicken
+requires a final internal temperature of 165°F to control the pathogen load for
+Salmonella spp. Meatloaf, on the other hand, is a ground beef product and requires a
+final internal temperature of 155°F for 17 seconds to control the pathogen load for both
+Salmonella spp. and E. coli O157:H7. Some operational steps such as refrigerated
+storage or hot holding have critical limits that apply to all foods.
+Annex 4, Table 4 further illustrates this concept. Note that the only unique control
+measure applies to the critical limit of the cooking step for each of the products. Other
+food safety hazards and control measures may exist that are not depicted here.
+of Foodborne Illness Risk Factors
+Annex 4, Table 4: Examples of Hazards and Control Measures for Same Day
+Service Items
+Baked Meatloaf (Process 2: Preparation for Same Day Service)
+Example Biological
+Hazards Example Control Measures
+Salmonella spp. Refrigeration at 41oF or below
+E. coli O157:H7 Cooking at 155oF for 17 seconds
+Clostridium perfringens Hot Holding at 135oF or above OR Time Control
+Bacillus cereus Hot Holding at 135oF or above OR Time Control
+Various fecal-oral route
+pathogens
+Good personal hygiene (No bare hand contact with
+ready-to-eat food, proper handwashing,
+exclusion/restriction of ill employees)
+Baked Chicken (Process 2: Preparation for Same Day Service)
+Example Biological
+Hazards Example Control Measures
+Salmonella spp. Refrigeration at 41oF or below
+Campylobacter Cooking at 165oF or above
+Clostridium perfringens Hot Holding at 135oF or above OR Time Control
+Bacillus cereus Hot Holding at 135oF or above OR Time Control
+Various fecal-oral route
+pathogens
+Good personal hygiene (No bare hand contact with
+ready-to-eat food, proper handwashing,
+exclusion/restriction of ill employees)
+of Foodborne Illness Risk Factors
+E. How is the process approach helpful to industry in determining the measures
+that must be implemented to actively manage the foodborne illness risk
+factors that result in out-of-control hazards?
+Even though variations in foods and in the three food preparation process flows used to
+prepare them are common, the control measures will generally be the same based on
+the number of times the food goes through the temperature danger zone. Several of the
+most common control measures associated with each food preparation process are
+discussed in this Annex. Retail or food service establishments should use these simple
+control measures as the core of their food safety management systems; however, there
+may be other risk factors unique to an operation or process that are not listed here.
+Each operation should be evaluated independently.
+In developing a voluntary food safety management system, active managerial control of
+risk factors common to each process can be achieved by implementing control
+measures at certain operational steps designated as critical control points (CCPs) or by
+implementing prerequisite programs. This is explained in more detail in the Operator’s
+Manual discussed in Part 5 of this Annex.
+F. Facility-wide Considerations
+In order to have active managerial control over personal hygiene and cross-
+contamination, certain control measures must be implemented in all phases of the
+operation. All of the following control measures should be implemented regardless of
+the food preparation process used:
+• No bare hand contact with ready-to-eat foods (or use of a pre-approved,
+alternative procedure) to help prevent the transfer of viruses, bacteria, or
+parasites from hands to food
+• Proper handwashing to help prevent the transfer of viruses, bacteria, or
+parasites from hands to food
+• Restriction or exclusion of ill employees to help prevent the transfer of
+viruses, bacteria, or parasites from hands to food
+• Prevention of cross-contamination of ready-to-eat food or clean and sanitized
+food-contact surfaces with soiled cutting boards, utensils, aprons, etc., or raw
+animal foods.
+G. Food Preparation Process 1 – Food Preparation with No Cook Step
+Example Flow: RECEIVE → STORE → PREPARE → HOLD → SERVE
+Several food flows are represented by this particular process. Many of these food flows
+are common to both retail food stores and food service facilities, while others only apply
+to retail operations. Raw, ready-to-eat food like sashimi, raw oysters, and salads are
+grouped in this category. Components of these foods are received raw and will not be
+cooked before consumption.
+of Foodborne Illness Risk Factors
+Foods cooked at the processing level but that undergo no further cooking at the retail
+level before being consumed are also represented in this category. Examples of these
+kinds of foods are deli meats, cheeses, and other pasteurized dairy products (such as
+yogurt). In addition, foods that are received and sold raw but are to be cooked by the
+consumer after purchase, e.g., hamburger meat, chicken, and steaks, are also included
+in this category.
+All the foods in this category lack a cook step while at the retail or food service facility;
+thus, there are no complete trips through the danger zone. Purchase specifications can
+be required by the retail or food service establishment to ensure that foods are received
+as safe as possible. Without a kill step to destroy pathogens, preventing further
+contamination by ensuring that employees follow good hygienic practices is an
+important control measure.
+Cross-contamination must be prevented by properly storing ready-to-eat food away
+from raw animal foods and soiled equipment and utensils. Foodborne illness may result
+from ready-to-eat food being held at unsafe temperatures for long periods of time due to
+the outgrowth of bacteria.
+In addition to the facility-wide considerations, a food safety management system
+involving this food preparation process should focus on ensuring active managerial
+control over the following:
+• Cold holding or using time alone to control bacterial growth and toxin
+productionn
+• Food source (e.g., shellfish due to concerns with viruses, natural toxins, and
+Vibrio and for certain marine finfish intended for raw consumption due to
+concerns with ciguatera toxin)
+• Receiving temperatures (e.g., certain species of marine finfish due to concerns
+with scombrotoxin)
+• Date marking of ready-to-eat TCS food held for more than 24 hours to control
+the growth of psychrophiles such as Listeria monocytogenes
+• Freezing certain species of fish intended for raw consumption due to parasite
+concerns
+• Cooling from ambient temperature to prevent the outgrowth of spore-forming or
+toxin-forming bacteria.
+of Foodborne Illness Risk Factors
+H. Food Preparation Process 2 – Preparation for Same Day Service
+Example Flow: RECEIVE → STORE → PREPARE → COOK → HOLD → SERVE
+In this food preparation process, food passes through the danger zone only once in the
+retail or food service facility before it is served or sold to the consumer. Food is usually
+cooked and held hot until served, e.g., fried chicken, but can also be cooked and served
+immediately. In addition to the facility-wide considerations, a food safety management
+system involving this food preparation process should focus on ensuring active
+managerial control over the following:
+• Cooking to destroy bacteria and parasites
+• Hot holding or using time alone to prevent the outgrowth of spore-forming
+bacteria.
+Approved food source, proper receiving temperatures, and proper cold holding before
+cooking would also be important if dealing with certain marine finfish due to concerns
+with ciguatera toxin and scombrotoxin.
+I. Food Preparation Process 3 – Complex Food Preparation
+Example Flow: RECEIVE → STORE → PREPARE → COOK → COOL → REHEAT →
+HOT HOLD → SERVE
+Foods prepared in large volumes or in advance for next day service usually follow an
+extended process flow. These foods pass through the temperature danger zone more
+than one time; thus, the potential for the growth of spore-forming or toxigenic bacteria is
+greater in this process. Failure to adequately control food product temperatures is one
+of the most frequently encountered risk factors contributing to foodborne illness. Food
+handlers should minimize the time foods are at unsafe temperatures.
+In addition to the facility-wide considerations, a food safety management system
+involving this food preparation process should focus on ensuring active managerial
+control over the following:
+• Cooking to destroy bacteria and parasites
+• Cooling to prevent the outgrowth of spore-forming or toxin-forming bacteria
+• Hot and cold holding or using time alone to control bacterial growth and toxin
+formation
+• Date marking of ready-to-eat TCS food held for more than 24 hours to control
+the growth of psychrophiles such as Listeria monocytogenes
+• Reheating for hot holding, if applicable.
+Approved food source, proper receiving temperatures, and proper cold holding before
+cooking would also be important if dealing with certain marine finfish due to concerns
+with ciguatera toxin and scombrotoxin.
+of Foodborne Illness Risk Factors
+5. FDA Retail HACCP Manuals
+A. What guidance has been developed by FDA to assist operators of retail and
+food service establishments in achieving active managerial control of
+foodborne illness risk factors?
+FDA, in partnership with Federal, State, and local regulators, industry, academia, and
+consumers, has written a guidance document entitled, “Managing Food Safety: A
+Manual for the Voluntary Use of HACCP Principles for Operators of Food Service and
+Retail Establishments.” Commonly referred to as the “Operator’s Manual,” this
+document is designed to assist operators with developing or enhancing food safety
+management systems based on the process approach to HACCP. The manual presents
+a step-by-step procedure for writing and voluntarily implementing a food safety
+management system based on the principles of HACCP. The desired outcome is an
+operator who employs a preventive rather than a reactive strategy to food safety.
+The Operator’s Manual embodies FDA’s current thinking on the application of HACCP
+principles at retail. It advocates the voluntary use of HACCP principles using the
+process approach as a practical and effective means of reducing the occurrence of
+foodborne illness risk factors leading to out-of-control hazards. The Operator’s Manual
+is strictly for the voluntary implementation of HACCP principles at retail and should not
+be used to develop HACCP plans that are required through Federal, State, or local
+regulations, ordinances, or laws. The document can be found on the FDA Web Page at
+http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006811.htm.
+B. What guidance has been developed by FDA to assist regulators of retail and
+food service establishments in assessing industry’s active managerial control
+of foodborne illness risk factors?
+FDA has written a document for regulators of retail and food service establishments
+entitled, “Managing Food Safety: A Regulator’s Manual for Applying HACCP Principles
+to Risk-Based Retail and Food Service Inspections and Evaluating Voluntary Food
+Safety Management Systems.” Commonly referred to as the “Regulator’s Manual,” this
+document was written to provide a risk-based inspectional "roadmap" for evaluating the
+degree of active managerial control an operator has over foodborne illness risk factors.
+In addition, the manual advocates the use of voluntary intervention strategies, including
+the development of food safety management systems or risk control plans to bring
+about a long-term behavior change that will result in a reduction in the occurrence of
+risk factors. In cases where an operator may want their inspector to provide them with
+feedback on their voluntarily-implemented food safety management system, the manual
+provides regulators with information on how to validate and verify an existing system.
+The document can be found on the FDA Web Page at:
+http://www.fda.gov/Food/GuidanceRegulation/HACCP/ucm2006812.htm.
+Annex 5 of the Food Code outlines the basis for conducting successful risk-based
+inspections and is provided to assist industry in achieving active managerial control of
+of Foodborne Illness Risk Factors
+foodborne illness risk factors as outlined in the draft Recommended National Retail
+Food Regulatory Program Standards and the Regulator’s Manual.
+6. Advantages of Using the Principles of HACCP
+A. What advantages does using HACCP principles offer operators of retail and
+food service establishments?
+Rather than relying solely on periodic feedback from inspections by regulatory agencies,
+an establishment operator who implements a food safety management system based
+on HACCP principles emphasizes continuous problem solving and prevention.
+Additionally, HACCP enhances and encourages communication between industry and
+regulators.
+A food safety management system based on HACCP principles offers many other
+advantages to industry. One advantage is that such a system may provide a method for
+achieving active managerial control of multiple risk factors associated with an entire
+operation. Other advantages include:
+• Reduction in product loss
+• Increase in product quality
+• Better inventory control
+• Consistency in product preparation
+• Increase in profit
+• Increased employee awareness and participation in food safety.
+B. What advantages does using HACCP principles offer regulators of retail and
+food service establishments?
+Traditional inspections are relatively resource-intensive, inefficient, and reactive rather
+than preventive in nature. Using traditional inspection techniques allows for a
+satisfactory “snapshot” assessment of the requirements of the code at the time of the
+inspection. Unfortunately, unless an inspector asks questions and inquires about the
+activities and procedures being utilized by the establishment even at times when the
+inspector is not there, there is no way to know if an operator is achieving active
+managerial control.
+With the limited time often available for conducting inspections, regulators must focus
+their attention on those areas that clearly have the greatest impact on food safety –
+foodborne illness risk factors. By knowing that there are only a few control measures
+that are essential to food safety and focusing on these during the inspection, an
+inspector can assess the operator’s active managerial control of the foodborne illness
+risk factors.
+Regulators can provide invaluable feedback to an operator through their routine
+inspections. This is especially useful when utilizing a risk-based approach. By
+incorporating HACCP principles into routine inspections, an inspector can provide an
+of Foodborne Illness Risk Factors
+operator with the constructive input needed to establish the control system necessary to
+bring the foodborne illness risk factors back under continuous control.
+7. Summary
+In order to make a positive impact on foodborne illness, retail and food service
+operators must achieve active managerial control of the risk factors contributing to
+foodborne illness. Combined with basic sanitation, employee training, and other
+prerequisite programs, the principles of HACCP provide an effective system for
+achieving this objective.
+The goal in applying HACCP principles in retail and food service is to have the operator
+take purposeful actions to ensure safe food. The process approach simplifies HACCP
+principles for use in retail and food service. This practical and effective method of
+hazard control embodies the concept of active managerial control by providing an on-
+going system of simple control measures that will reduce the occurrence of risk factors
+that lead to out-of-control hazards.
+The role of retail and food service regulatory professionals is to conduct risk-based
+inspections using HACCP principles to assess the degree of control industry has over
+the foodborne illness risk factors. Regulators can assist industry in achieving active
+managerial control of risk factors by using a risk-based inspection approach to identify
+strengths and weaknesses and suggesting possible solutions and improvements.
+8. Acknowledgments
+Much of this Annex is adapted from the National Advisory Committee on Microbiological
+Criteria for Foods, Hazard Analysis and Critical Control Point Principles and Guidelines,
+adopted August 14, 1997.
+The physical hazards table (Table 3) was provided courtesy of “Overview of Biological,
+Chemical, and Physical Hazards” in “HACCP Principles and Applications,” Merle
+Pierson and Donald A. Corlett, Jr. (Eds.), 1992. p. 8-28. Chapman and Hall, New York.
+Based on a recommendation from the Retail HACCP Committee of the Conference for
+Food Protection, the two HACCP Manuals have been endorsed by the Conference.
+9. Resources and References
+A. Articles
+1. Bryan, Frank “Hazard Analyses of Street Foods and Considerations for Food
+Safety.” Dairy, Food and Environmental Sanitation, February 1995, pp. 64-69.
+2. Bryan, Frank “HACCP: Present Status and Future in Contribution to Food
+Safety.” Dairy, Food & Environmental Sanitation, November 1994, pp. 650-655.
+3. Bryan, Frank “Procedures for Local Health Agencies to Institute a Hazard
+Analysis Critical Control Point Program for Food Safety Assurance in Food
+of Foodborne Illness Risk Factors
+Service Operations.” Journal of Environmental Health, March/April 1985, pp. 241-
+245.
+4. Bryan, Frank “Hazard Analysis of Food Service Operation.” Food Technology,
+February 1981, pp. 78-87.
+5. Bryan, Frank “Hazard Analysis Critical Control Point Approach: Epidemiologic
+Rationale and Application to Food Service Operations.” Journal of Environmental
+Health, August 1981, pp. 7-14.
+6. Bryan, Frank “Factors that Contribute to Outbreaks of Foodborne Disease.”
+Journal of Food Protection, October 1978, pp. 816-827.
+7. Briley and Klaus “Using Risk Assessment as a Method of Determining Inspection
+Frequency.” Dairy and Food Sanitation, December 1985, pp. 468-474.
+8. Centers for Disease Control and Prevention. Surveillance for Foodborne Disease
+Outbreaks – United States, 1993-1997. Morbidity Mortality Weekly Report, #49
+(SS01), USPHS, March 17, 2000, pp. 1-51.
+9. Mead, P.S., Slutsker, L., Dietz, V., McCraig, L.F., Bresee, J.S., Shapiro, C.,
+Griffin, P.M., Tauxe, R.V. “Food-related Illness and Death in the United States.”
+Emerg. Infect. Dis. Vol. 5, No. 5, 1999. Found at:
+http://www.cdc.gov/ncidod/EID/vol5no5/mead.htm.
+10. National Advisory Committee on Microbiological Criteria for Food (NACMCF).
+1997 Hazard Analysis and Critical Control Point System, USDA - FSIS
+Information Office, 1997.
+11. National Advisory Committee on Microbiological Criteria for Food (NACMCF).
+1992 Hazard Analysis and Critical Control Point System, Int. J. Food
+Microbiology, 16:1-23.
+12. National Food Processors Assoc. “HACCP Implementation: A Generic Model for
+Chilled Foods.” Journal of Food Protection, December, 1993, pp. 1077-1084.
+13. President’s Council on Food Safety. The Food Safety Strategic Plan, 2001. Ch.
+2: Vision, Goals, Objectives, and Action items.
+14. Silliker, John, Ph.D. “Microbiological Testing and HACCP Programs.” Dairy, Food
+and Environmental Sanitation, October 1995, pp. 606-610.
+15. Stier, R.F., and Blumenthal, M.M., Ph.D. “Will HACCP be Carrot or Stick.” Dairy,
+Food and Environmental Sanitation, October 1995, pp. 616 - 620.
+16. Tisler, J.M. “The Food and Drug Administration’s Perspective on HACCP,” Food
+Technology, June 1991, pp. 125-127.
+17. Tompkin, R.B. “The Use of HACCP in the Production of Meat and Poultry
+Products.” Journal of Food Protection, September 1990, pp. 795-803.
+18. Weingold, S.E., et al. “Use of Foodborne Disease Data for HACCP Risk
+Assessment.” Journal of Food Protection, September 1994, pp. 820-830.
+of Foodborne Illness Risk Factors
+B. Books
+1. Corlett, D.A. and Pierson, M.D. HACCP, Principles & Applications, ed., Chapman
+and Hall, New York, 1992.
+2. Diseases Transmitted by Foods, 2nd ed., Centers for Disease Control, USPHS,
+1982.
+3. Fellows, P.J. Food Processing Technology, Principles and Practice, Ellis
+Horwood, New York, 1990.
+4. Fennema, O.R. Food Chemistry, 2nd ed., Marcel Dekker, Inc., New York, 1985.
+5. Foodborne Diseases, ed. D.O. Cliver, Academic Press, San Diego, California,
+1990.
+6. HACCP Reference Book, National Restaurant Assoc., The Educational
+Foundation, Chicago, 1994.
+7. Heymann, David L. MD, (Ed.), 2004. Control of
+8. Communicable Diseases Manual, 18th Ed.,
+9. American Public Health Association, Washington D.C.
+10. Jay, J.M. Modern Food Microbiology, 4th ed., Van Nostrand Reinhold, New York,
+1992.
+11. Potter, N.N., J.H. Hotchkiss, 1999. Food Science, 5th ed., Kluwer Academic
+Publishers, Secaucus, NJ.
+12. Stevenson, K.E., D.T. Bernard, 1999. HACCP: A Systematic Approach to Food
+Safety, 3rd ed., Food Processors Institute, Washington, DC, 1999.
+C. FDA Publications
+1. Regulations, 21 CFR, Part 123 Fish and Fishery Products.
+2. The latest edition of The Fish and Fishery Products Hazards and Controls
+Guidance is available electronically at:
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInf
+ormation/Seafood/ucm2018426.htm. Single copies may be obtained as long as
+supplies last from FDA district offices and from:
+U.S. Food and Drug Administration
+Office of Seafood
+5001 Campus Drive
+College Park, MD 20740-3835
+3. Food and Drug Administration/U.S. Public Health Service, 2003. National
+Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, at:
+of Foodborne Illness Risk Factors
+http://www.fda.gov/Food/GuidanceRegulation/FederalStateFoodPrograms/ucm2
+006754.htm.
+4. Report of the FDA Retail Food Program Database of Foodborne Illness Risk
+Factors, 2000.The Baseline Report is available from FDA at:
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnes
+sriskfactorreduction/default.htm.
+5. FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected
+Institutional Foodservice, Restaurant, and Retail Food Store Facility Types
+(2004). This second report is available from FDA through the following website:
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnes
+sriskfactorreduction/default.htm
+6. FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected
+Institutional Foodservice, Restaurant, and Retail Food Store Facility Types
+(2009). This third report is available from FDA at:
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnes
+sriskfactorreduction/default.htm
+7. FDA Trend Analysis Report on the Occurrence of Foodborne Illness Risk Factors
+in Selected Institutional Foodservice, Restaurant, and Retail Food Store Facility
+Types (1998-2008) (October 2010). This trend report is available from FDA at:
+https://www.fda.gov/food/guidanceregulation/retailfoodprotection/foodborneillnes
+sriskfactorreduction/default.htm

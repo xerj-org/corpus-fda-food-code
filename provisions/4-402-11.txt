@@ -1,0 +1,19 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-402.11 - Fixed Equipment, Spacing or Sealing.
+[source PDF page 121; extracted with pypdf 6.19.0]
+
+4-402.11 Fixed Equipment, Spacing or Sealing.
+(A) EQUIPMENT that is fixed because it is not EASILY MOVABLE shall be installed so
+that it is:
+(1) Spaced to allow access for cleaning along the sides, behind, and
+above the EQUIPMENT;
+(2) Spaced from adjoining EQUIPMENT, walls, and ceilings a distance of not
+more than 1 millimeter or one thirty-second inch; or
+(3) SEALED to adjoining EQUIPMENT or walls, if the EQUIPMENT is exposed to
+spillage or seepage.
+(B) COUNTER-MOUNTED EQUIPMENT that is not EASILY MOVABLE shall be installed to
+allow cleaning of the EQUIPMENT and areas underneath and around the
+EQUIPMENT by being:
+(1) SEALED; or
+(2) Elevated on legs as specified under ¶ 4-402.12(D).

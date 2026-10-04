@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-401.12 - Microwave Cooking.
+[source PDF page 87; extracted with pypdf 6.19.0]
+
+3-401.12 Microwave Cooking.
+Raw animal FOODS cooked in a microwave oven shall be:
+(A) Rotated or stirred throughout or midway during cooking to compensate
+for uneven distribution of heat;
+(B) Covered to retain surface moisture;
+(C) Heated to a temperature of at least 74oC (165oF) in all parts of the
+FOOD;P and
+(D) Allowed to stand covered for 2 minutes after cooking to obtain
+temperature equilibrium.

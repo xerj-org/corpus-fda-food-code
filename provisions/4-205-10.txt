@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-205.10 - Food Equipment, Certification and Classification.
+[source PDF page 118; extracted with pypdf 6.19.0]
+
+4-205.10 Food Equipment, Certification and Classification.
+FOOD EQUIPMENT that is certified or classified for sanitation in conformance to a
+recognized American National Standard by an American National Standards
+Institute (ANSI)-accredited certification program is deemed to comply with Parts
+4-1 and 4-2 of this chapter.
+4-3 Numbers and Capacities
+4-301 Equipment

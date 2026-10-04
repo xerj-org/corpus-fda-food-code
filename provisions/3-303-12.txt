@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-303.12 - Storage or Display of Food in Contact with Water or Ice.
+[source PDF page 78; extracted with pypdf 6.19.0]
+
+3-303.12 Storage or Display of Food in Contact with Water or Ice.
+(A) PACKAGED FOOD may not be stored in direct contact with ice or water if the
+FOOD is subject to the entry of water because of the nature of its packaging,
+wrapping, or container or its positioning in the ice or water
+(B) Except as specified in ¶¶ (C) and (D) of this section, unPACKAGED FOOD may
+not be stored in direct contact with undrained ice.
+(C) Whole, raw fruits or vegetables; cut, raw vegetables such as celery or carrot
+sticks or cut potatoes; and tofu may be immersed in ice or water.
+(D) Raw poultry and raw FISH that are received immersed in ice in shipping
+containers may remain in that condition while in storage awaiting preparation,
+display, service, or sale.
+3-304 Preventing Contamination from Equipment, Utensils, and Linens

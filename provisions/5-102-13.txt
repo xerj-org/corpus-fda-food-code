@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-102.13 - Sampling.
+[source PDF page 137; extracted with pypdf 6.19.0]
+
+5-102.13 Sampling.
+Except when used as specified under § 5-102.12, water from a nonPUBLIC WATER
+SYSTEM shall be sampled and tested at least annually and as required by state
+water quality regulations. Pf

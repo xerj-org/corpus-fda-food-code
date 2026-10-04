@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 7. Poisonous or Toxic Materials
+Provision 7-208.11 - Storage.
+[source PDF page 164; extracted with pypdf 6.19.0]
+
+7-208.11 Storage.
+First aid supplies that are in a FOOD ESTABLISHMENT for the EMPLOYEES' use shall
+be:
+(A) Labeled as specified under § 7-101.11; Pf and
+(B) Stored in a kit or a container that is located to prevent the
+contamination of FOOD, EQUIPMENT, UTENSILS, and LINENS, and SINGLE-
+SERVICE and SINGLE-USE ARTICLES. P
+7-209 Other Personal Care Items

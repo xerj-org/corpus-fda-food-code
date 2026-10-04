@@ -1,0 +1,14 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-302.16 - Hose, Construction and Identification.
+[source PDF page 142; extracted with pypdf 6.19.0]
+
+5-302.16 Hose, Construction and Identification.
+A hose used for conveying DRINKING WATER from a water tank shall be:
+(A) Safe; P
+(B) Durable, CORROSION-RESISTANT, and nonabsorbent;
+(C) Resistant to pitting, chipping, crazing, scratching, scoring, distortion,
+and decomposition;
+(D) Finished with a SMOOTH interior surface; and
+(E) Clearly and durably identified as to its use if not permanently attached.
+5-303 Numbers and Capacities

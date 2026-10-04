@@ -1,0 +1,21 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-101.11 - Approved System.
+[source PDF page 136; extracted with pypdf 6.19.0]
+
+[chapter opening] Chapter 5 Water, Plumbing,
+[chapter opening] and Waste
+[chapter opening] Parts:
+[chapter opening] 5-1 Water
+[chapter opening] 5-2 Plumbing System
+[chapter opening] 5-3 Mobile Water Tank and Mobile FOOD Establishment Water Tank
+[chapter opening] 5-4 Sewage, Other Liquid Waste, and Rainwater
+[chapter opening] 5-5 Refuse, Recyclables, and Returnables
+[chapter opening] 5-1 Water
+[chapter opening] 5-101 Source
+
+5-101.11 Approved System.
+DRINKING WATER shall be obtained from an APPROVED source that is:
+(A) A public water system; P or
+(B) A nonPUBLIC WATER SYSTEM that is constructed, maintained, and
+operated according to LAW. P

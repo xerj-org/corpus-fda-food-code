@@ -1,0 +1,13 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 8. Compliance and Enforcement
+Provision 8-203.10 - Preoperational Inspections.
+[source PDF page 170; extracted with pypdf 6.19.0]
+
+8-203.10 Preoperational Inspections.
+The REGULATORY AUTHORITY shall conduct one or more preoperational inspections
+to verify that the FOOD ESTABLISHMENT is constructed and equipped in accordance
+with the APPROVED plans and APPROVED modifications of those plans, has
+established standard operating procedures as specified under ¶ 8-201.12(E), and
+is in compliance with LAW and this Code.
+8-3 Permit to Operate
+8-301 Requirement

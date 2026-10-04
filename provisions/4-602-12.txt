@@ -1,0 +1,12 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 4. Equipment, Utensils, and Linens
+Provision 4-602.12 - Cooking and Baking Equipment.
+[source PDF page 129; extracted with pypdf 6.19.0]
+
+4-602.12 Cooking and Baking Equipment.
+(A) The FOOD-CONTACT SURFACES of cooking and baking EQUIPMENT shall be
+cleaned at least every 24 hours. This section does not apply to hot oil cooking
+and filtering EQUIPMENT if it is cleaned as specified in Subparagraph
+4-602.11(D)(6).
+(B) The cavities and door seals of microwave ovens shall be cleaned at least
+every 24 hours by using the manufacturer's recommended cleaning procedure.

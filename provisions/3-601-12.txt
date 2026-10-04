@@ -1,0 +1,11 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 3. Food
+Provision 3-601.12 - Honestly Presented.
+[source PDF page 101; extracted with pypdf 6.19.0]
+
+3-601.12 Honestly Presented.
+(A) FOOD shall be offered for human consumption in a way that does not mislead
+or misinform the CONSUMER.
+(B) FOOD or COLOR ADDITIVES, colored overwraps, or lights may not be used to
+misrepresent the true appearance, color, or quality of a FOOD.
+3-602 Labeling

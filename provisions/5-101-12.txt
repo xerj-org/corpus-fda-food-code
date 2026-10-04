@@ -1,0 +1,9 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 5. Water, Plumbing, and Waste
+Provision 5-101.12 - System Flushing and Disinfection.
+[source PDF page 136; extracted with pypdf 6.19.0]
+
+5-101.12 System Flushing and Disinfection.
+A DRINKING WATER system shall be flushed and disinfected before being placed in
+service after construction, repair, or modification and after an emergency
+situation, such as a flood, that may introduce contaminants to the system. P

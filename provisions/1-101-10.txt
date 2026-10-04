@@ -1,0 +1,17 @@
+FDA Food Code 2022 - U.S. Department of Health and Human Services, Food and Drug Administration
+Chapter 1. Purpose and Definitions
+Provision 1-101.10 - Food Code.
+[source PDF page 22; extracted with pypdf 6.19.0]
+
+[chapter opening] Chapter 1 Purpose and
+[chapter opening] Definitions
+[chapter opening] Parts:
+[chapter opening] 1-1 Title, Intent, Scope
+[chapter opening] 1-2 Definitions
+[chapter opening] 1-1 Title, Intent, Scope
+[chapter opening] 1-101 Title
+
+1-101.10 Food Code.
+These provisions shall be known as the Food Code, hereinafter referred to as
+"this Code."
+1-102 Intent
